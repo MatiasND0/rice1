@@ -1,0 +1,318 @@
+2024-11-11 09:25:48.429 [info] Extension host with pid 4336 started
+2024-11-11 09:25:48.429 [info] Skipping acquiring lock for /home/hhouse/.config/Code/User/workspaceStorage/5e8d0827c1df622d419c540e3d0bae1c.
+2024-11-11 09:25:49.378 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-11 09:25:49.588 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-11-11 09:25:51.028 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-11 09:25:52.506 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-11 09:25:53.344 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-11 09:25:54.874 [info] Eager extensions activated
+2024-11-11 09:25:57.074 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 09:25:57.119 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 09:25:58.514 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-11 09:42:36.077 [info] ExtensionService#_doActivateExtension ms-vscode.remote-explorer, startup: false, activationEvent: 'onView:remoteTargets'
+2024-11-11 09:42:36.244 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh, startup: false, activationEvent: 'onCommand:remote-internal.getActiveSshRemote'
+2024-11-11 09:43:23.760 [error] Error: EACCES: permission denied, open '/etc/ssh/ssh_config' opensshremotes.addNewSshHost {"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"}
+2024-11-11 09:44:18.641 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-11 09:44:18.800 [error] Canceled: Canceled
+	at Dc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110189
+	at Array.forEach (<anonymous>)
+	at py.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110129)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) opensshremotes.addNewSshHost {"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"}
+2024-11-11 09:44:18.808 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at mh.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:961845)
+	at D.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:983333)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-11 09:44:18.809 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at mh.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:961845)
+	at D.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:983333)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-11 09:44:18.810 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:328633)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:329592
+	at mh.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1073936)
+	at D.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:983333)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-11 09:44:18.824 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at t.shutdown (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:570757)
+	at e.deactivate (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:842216)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11724)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-11 09:44:18.825 [info] Extension host with pid 4336 exiting with code 0
+2024-11-11 09:44:22.486 [info] Extension host with pid 5143 started
+2024-11-11 09:44:22.488 [info] [resolveAuthority(ssh-remote,1)][0ms] activating remote resolvers ssh-remote+10.10.203.9
+2024-11-11 09:44:22.489 [info] [resolveAuthority(ssh-remote,1)][1ms] activating resolver for ssh-remote+10.10.203.9...
+2024-11-11 09:44:22.582 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh, startup: false, activationEvent: 'onResolveRemoteAuthority:ssh-remote'
+2024-11-11 09:44:23.301 [info] [resolveAuthority(ssh-remote,1)][813ms] invoking final resolve()...
+2024-11-11 09:44:24.300 [info] [resolveAuthority(ssh-remote,1)][1812ms] waiting...
+2024-11-11 09:44:25.301 [info] [resolveAuthority(ssh-remote,1)][2813ms] waiting...
+2024-11-11 09:44:26.302 [info] [resolveAuthority(ssh-remote,1)][3814ms] waiting...
+2024-11-11 09:44:27.302 [info] [resolveAuthority(ssh-remote,1)][4814ms] waiting...
+2024-11-11 09:44:28.302 [info] [resolveAuthority(ssh-remote,1)][5814ms] waiting...
+2024-11-11 09:44:29.302 [info] [resolveAuthority(ssh-remote,1)][6814ms] waiting...
+2024-11-11 09:44:30.303 [info] [resolveAuthority(ssh-remote,1)][7815ms] waiting...
+2024-11-11 09:44:31.303 [info] [resolveAuthority(ssh-remote,1)][8815ms] waiting...
+2024-11-11 09:44:32.304 [info] [resolveAuthority(ssh-remote,1)][9815ms] waiting...
+2024-11-11 09:44:33.304 [info] [resolveAuthority(ssh-remote,1)][10816ms] waiting...
+2024-11-11 09:44:34.305 [info] [resolveAuthority(ssh-remote,1)][11817ms] waiting...
+2024-11-11 09:44:35.306 [info] [resolveAuthority(ssh-remote,1)][12818ms] waiting...
+2024-11-11 09:44:36.307 [info] [resolveAuthority(ssh-remote,1)][13819ms] waiting...
+2024-11-11 09:44:36.744 [info] [resolveAuthority(ssh-remote,1)][14256ms] setting tunnel factory...
+2024-11-11 09:44:36.750 [info] [resolveAuthority(ssh-remote,1)][14262ms] returned managed authority
+2024-11-11 09:44:44.609 [info] Eager extensions activated
+2024-11-11 09:44:45.287 [info] ExtensionService#_doActivateExtension ms-vscode.remote-explorer, startup: false, activationEvent: 'onCommand:remote-explorer.refresh'
+2024-11-11 09:44:49.476 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-11 09:44:49.531 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at t.shutdown (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:570757)
+	at e.deactivate (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:842216)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11724)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-11 09:44:49.536 [info] Extension host with pid 5143 exiting with code 0
+2024-11-11 09:44:52.985 [info] Extension host with pid 5224 started
+2024-11-11 09:44:52.985 [info] Skipping acquiring lock for /home/hhouse/.config/Code/User/workspaceStorage/131a4f532d5f4ec8056bd50c4531f5e5.
+2024-11-11 09:44:52.985 [info] $getCanonicalURI invoked for authority (ssh-remote)
+2024-11-11 09:44:53.046 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh, startup: false, activationEvent: 'onResolveRemoteAuthority:ssh-remote'
+2024-11-11 09:44:53.841 [info] [resolveAuthority(ssh-remote,1)][0ms] activating remote resolvers ssh-remote+10.10.203.9
+2024-11-11 09:44:53.841 [info] [resolveAuthority(ssh-remote,1)][0ms] activating resolver for ssh-remote+10.10.203.9...
+2024-11-11 09:44:53.842 [info] [resolveAuthority(ssh-remote,1)][1ms] invoking final resolve()...
+2024-11-11 09:44:54.842 [info] [resolveAuthority(ssh-remote,1)][1000ms] waiting...
+2024-11-11 09:44:55.843 [info] [resolveAuthority(ssh-remote,1)][2002ms] waiting...
+2024-11-11 09:44:56.843 [info] [resolveAuthority(ssh-remote,1)][3002ms] waiting...
+2024-11-11 09:44:57.844 [info] [resolveAuthority(ssh-remote,1)][4003ms] waiting...
+2024-11-11 09:44:58.845 [info] [resolveAuthority(ssh-remote,1)][5004ms] waiting...
+2024-11-11 09:44:59.846 [info] [resolveAuthority(ssh-remote,1)][6005ms] waiting...
+2024-11-11 09:45:00.847 [info] [resolveAuthority(ssh-remote,1)][7006ms] waiting...
+2024-11-11 09:45:01.847 [info] [resolveAuthority(ssh-remote,1)][8006ms] waiting...
+2024-11-11 09:45:02.847 [info] [resolveAuthority(ssh-remote,1)][9006ms] waiting...
+2024-11-11 09:45:03.848 [info] [resolveAuthority(ssh-remote,1)][10007ms] waiting...
+2024-11-11 09:45:04.848 [info] [resolveAuthority(ssh-remote,1)][11007ms] waiting...
+2024-11-11 09:45:05.849 [info] [resolveAuthority(ssh-remote,1)][12008ms] waiting...
+2024-11-11 09:45:06.850 [info] [resolveAuthority(ssh-remote,1)][13009ms] waiting...
+2024-11-11 09:45:07.849 [info] [resolveAuthority(ssh-remote,1)][14008ms] waiting...
+2024-11-11 09:45:08.114 [info] [resolveAuthority(ssh-remote,1)][14273ms] setting tunnel factory...
+2024-11-11 09:45:08.115 [info] [resolveAuthority(ssh-remote,1)][14274ms] returned managed authority
+2024-11-11 09:45:09.468 [info] Eager extensions activated
+2024-11-11 09:45:09.801 [info] ExtensionService#_doActivateExtension ms-vscode.remote-explorer, startup: false, activationEvent: 'onCommand:remote-internal.setActiveFolders'
+2024-11-11 09:45:12.161 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-11 10:05:27.873 [info] [resolveAuthority(ssh-remote,2)][0ms] activating remote resolvers ssh-remote+10.10.203.9
+2024-11-11 10:05:27.873 [info] [resolveAuthority(ssh-remote,2)][0ms] activating resolver for ssh-remote+10.10.203.9...
+2024-11-11 10:05:27.874 [info] [resolveAuthority(ssh-remote,2)][1ms] invoking final resolve()...
+2024-11-11 10:05:28.875 [info] [resolveAuthority(ssh-remote,2)][1002ms] waiting...
+2024-11-11 10:05:29.879 [info] [resolveAuthority(ssh-remote,2)][2006ms] waiting...
+2024-11-11 10:05:30.882 [info] [resolveAuthority(ssh-remote,2)][3009ms] waiting...
+2024-11-11 10:05:31.883 [info] [resolveAuthority(ssh-remote,2)][4010ms] waiting...
+2024-11-11 10:05:32.883 [info] [resolveAuthority(ssh-remote,2)][5010ms] waiting...
+2024-11-11 10:05:33.884 [info] [resolveAuthority(ssh-remote,2)][6011ms] waiting...
+2024-11-11 10:05:34.884 [info] [resolveAuthority(ssh-remote,2)][7011ms] waiting...
+2024-11-11 10:05:35.885 [info] [resolveAuthority(ssh-remote,2)][8012ms] waiting...
+2024-11-11 10:05:36.204 [info] [resolveAuthority(ssh-remote,2)][8331ms] setting tunnel factory...
+2024-11-11 10:05:36.205 [info] [resolveAuthority(ssh-remote,2)][8332ms] returned managed authority
+2024-11-11 10:05:39.415 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-11 10:05:39.436 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at t.shutdown (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:570757)
+	at e.deactivate (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:842216)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11724)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-11 10:05:39.436 [info] Extension host with pid 5224 exiting with code 0
+2024-11-11 10:05:42.883 [info] Extension host with pid 5796 started
+2024-11-11 10:05:42.883 [info] Skipping acquiring lock for /home/hhouse/.config/Code/User/workspaceStorage/131a4f532d5f4ec8056bd50c4531f5e5.
+2024-11-11 10:05:42.883 [info] $getCanonicalURI invoked for authority (ssh-remote)
+2024-11-11 10:05:42.952 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh, startup: false, activationEvent: 'onResolveRemoteAuthority:ssh-remote'
+2024-11-11 10:05:43.714 [info] [resolveAuthority(ssh-remote,1)][1ms] activating remote resolvers ssh-remote+10.10.203.9
+2024-11-11 10:05:43.714 [info] [resolveAuthority(ssh-remote,1)][1ms] activating resolver for ssh-remote+10.10.203.9...
+2024-11-11 10:05:43.714 [info] [resolveAuthority(ssh-remote,1)][1ms] invoking final resolve()...
+2024-11-11 10:05:44.715 [info] [resolveAuthority(ssh-remote,1)][1002ms] waiting...
+2024-11-11 10:05:45.716 [info] [resolveAuthority(ssh-remote,1)][2003ms] waiting...
+2024-11-11 10:05:46.716 [info] [resolveAuthority(ssh-remote,1)][3003ms] waiting...
+2024-11-11 10:05:47.716 [info] [resolveAuthority(ssh-remote,1)][4003ms] waiting...
+2024-11-11 10:05:48.716 [info] [resolveAuthority(ssh-remote,1)][5003ms] waiting...
+2024-11-11 10:05:49.717 [info] [resolveAuthority(ssh-remote,1)][6004ms] waiting...
+2024-11-11 10:05:50.717 [info] [resolveAuthority(ssh-remote,1)][7004ms] waiting...
+2024-11-11 10:05:51.390 [info] [resolveAuthority(ssh-remote,1)][7677ms] setting tunnel factory...
+2024-11-11 10:05:51.391 [info] [resolveAuthority(ssh-remote,1)][7678ms] returned managed authority
+2024-11-11 10:05:53.585 [info] Eager extensions activated
+2024-11-11 10:05:53.959 [info] ExtensionService#_doActivateExtension ms-vscode.remote-explorer, startup: false, activationEvent: 'onCommand:remote-internal.setActiveFolders'
+2024-11-11 10:05:58.255 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-11 10:30:58.199 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-11 10:30:58.226 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at t.shutdown (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:570757)
+	at e.deactivate (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:842216)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11724)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-11 10:30:58.227 [info] Extension host with pid 5796 exiting with code 0

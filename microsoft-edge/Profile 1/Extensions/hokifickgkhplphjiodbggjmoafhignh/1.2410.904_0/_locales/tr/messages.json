@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Hesap"
+   },
+   "AppDescription": {
+      "message": "Dil bilgisi, yazım ve stil denetleyen akıllı yazım yardımcınız Microsoft Düzenleyici ile güvenle yazın."
+   },
+   "AppLongDescription": {
+      "message": "Düzenleyici, web (1) genelinde dil bilgisi, yazım denetimi ve stil önerileriyle gelişmiş yazma yardımı sağlar, böylece açık, özlü gönderileri ve e-postaları güvenle yazabilirsiniz.\r\n\r\nAkıllı yazma yardımı ile bir profesyonel gibi yazın\r\nÜcretsiz dilbilgisi, gelişmiş dil bilgisi, yazım denetimi ve noktalama denetimi ile temel özellikleri düzenleyin. Premium ile netlik, özlük, üslup, söz dağarcığı ve daha fazlası gibi sorunlar için gelişmiş stil denetimiyle temel şeylerin ötesine geçin (365 aboneliği Microsoft gerektirir).\r\n\r\nGereksinimlerinize göre kişiselleştirin\r\nDüzenleyici artık Microsoft 365 uygulamalarınızda yerleşik olarak bulunan özel sözlüğe sözcükler ekleyebilir. Düzenleyici yazım önerisinde bulunduğunda \"Sözlüğe ekle\" seçeneğini arayın. Ayrıca, Ayarlar size yazma önerilerinde tercihlerinize ince ayar yapmanız için bir yol da sağlar.  Ayrıca Tümünü Yoksay'ı seçerek bir yazım düzeltmesinin tüm tekrarlarını atlamayı veya Yoksay'ı seçerek istenmeyen dil bilgisi önerilerini atlamayı da kolaylaştırdık.\r\n\r\nHerhangi bir yere yazın\r\nBu tarayıcı uzantısıyla LinkedIn, Gmail, Facebook ve diğer sık ​​kullanılanlar gibi sitelerde yazma yardımı alın.En çok yazdığınız Office uygulamalarında Düzenleyici'nin yardımını istiyorsanız, Web üzerinde Word veya Outlook'u açın ve belgelerinizi ve e-postalarınızı geliştirmek için öneriler alın.\r\n\r\nBirden çok dilde yardım alın\r\nÇok dilli yazım denetleme ile aynı anda üç dile kadar yazım ve dil bilgisi denetimi yapın. Düzenleyici 80'den fazla dilde yazım denetimi yapar ve 21 dilde dil bilgisi denetimi ve yazma stili iyileştirmeleri sağlar. Dil kullanılabilirliği hakkında daha fazla bilgiyi burada bulabilirsiniz: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nMicrosoft Edge için Düzenleyici’yi buradan edinin: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Microsoft Edge veya Chrome tarayıcılarında kullanılabilir ve bir Microsoft Hesabı gerektirir. Düzenleyici, çoğu web sitesinde yazmanız için yazım, dil bilgisi ve iyileştirme önerileri sunan bir Microsoft çevrimiçi hizmetine bağlanır.\r\n2. Tüm diller aynı iyileştirmelere sahip değildir.\r\n\r\nUygulamayı yükleyerek şu hüküm ve koşulları kabul etmiş olursunuz:\r\n\r\nLÜTFEN DİKKAT: Bu uzantıyı size lisanslayan tüzel kişiyi belirlemek ve destek bilgileri için Microsoft Hesabınıza veya Microsoft 365 aboneliğinize (\"uzantı\") ilişkin lisans koşullarınıza bakın. Microsoft Hesabı veya Microsoft 365 aboneliği için geçerli olan lisans koşulları, bu uzantıyı kullanımınız için geçerlidir.\r\n\r\nGizlilik İlkesi: http://aka.ms/privacy\r\nHizmet Koşulları: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Düzenleyici, web (1) genelinde dil bilgisi, yazım denetimi ve stil önerileriyle gelişmiş yazma yardımı sağlar, böylece açık, özlü gönderileri ve e-postaları güvenle yazabilirsiniz.\r\n\r\nAkıllı yazma yardımı ile bir profesyonel gibi yazın\r\nÜcretsiz dilbilgisi, gelişmiş dil bilgisi, yazım denetimi ve noktalama denetimi ile temel özellikleri düzenleyin. Premium ile netlik, özlük, üslup, söz dağarcığı ve daha fazlası gibi sorunlar için gelişmiş stil denetimiyle temel şeylerin ötesine geçin (365 aboneliği Microsoft gerektirir).\r\n\r\nGereksinimlerinize göre kişiselleştirin\r\nDüzenleyici artık Microsoft 365 uygulamalarınızda yerleşik olarak bulunan özel sözlüğe sözcükler ekleyebilir. Düzenleyici yazım önerisinde bulunduğunda \"Sözlüğe ekle\" seçeneğini arayın. Ayrıca, Ayarlar size yazma önerilerinde tercihlerinize ince ayar yapmanız için bir yol da sağlar.  Ayrıca Tümünü Yoksay'ı seçerek bir yazım düzeltmesinin tüm tekrarlarını atlamayı veya Yoksay'ı seçerek istenmeyen dil bilgisi önerilerini atlamayı da kolaylaştırdık.\r\n\r\nHerhangi bir yere yazın\r\nBu tarayıcı uzantısıyla LinkedIn, Gmail, Facebook ve diğer sık ​​kullanılanlar gibi sitelerde yazma yardımı alın.En çok yazdığınız Office uygulamalarında Düzenleyici'nin yardımını istiyorsanız, Web üzerinde Word veya Outlook'u açın ve belgelerinizi ve e-postalarınızı geliştirmek için öneriler alın.\r\n\r\nBirden çok dilde yardım alın\r\nÇok dilli yazım denetleme ile aynı anda üç dile kadar yazım ve dil bilgisi denetimi yapın. Düzenleyici 80'den fazla dilde yazım denetimi yapar ve 21 dilde dil bilgisi denetimi ve yazma stili iyileştirmeleri sağlar. Dil kullanılabilirliği hakkında daha fazla bilgiyi burada bulabilirsiniz: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nChrome için Düzenleyici’yi buradan edinin: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Microsoft Edge veya Chrome tarayıcılarında kullanılabilir ve bir Microsoft Hesabı gerektirir. Düzenleyici, çoğu web sitesinde yazmanız için yazım, dil bilgisi ve iyileştirme önerileri sunan bir Microsoft çevrimiçi hizmetine bağlanır.\r\n2. Tüm diller aynı iyileştirmelere sahip değildir.\r\n\r\nUygulamayı yükleyerek şu hüküm ve koşulları kabul etmiş olursunuz:\r\n\r\nLÜTFEN DİKKAT: Bu uzantıyı size lisanslayan tüzel kişiyi belirlemek ve destek bilgileri için Microsoft Hesabınıza veya Microsoft 365 aboneliğinize (\"uzantı\") ilişkin lisans koşullarınıza bakın. Microsoft Hesabı veya Microsoft 365 aboneliği için geçerli olan lisans koşulları, bu uzantıyı kullanımınız için geçerlidir.\r\n\r\nGizlilik İlkesi: http://aka.ms/privacy\r\nHizmet Koşulları: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Microsoft Düzenleyici: Yazım ve Dil Bilgisi Denetleyicisi"
+   },
+   "AppShortName": {
+      "message": "Düzenleyici"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Aç"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Google Dokümanlar’da Düzenleyici’yi (beta) deneyin"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Düzenleyici, Google Dokümanlar’da Beta aşamasındadır. Sorunla karşılaşırsanız lütfen bize bildirin."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Diğer düzenleme uzantıları ve Düzenleyici aynı anda çalışırken, sundukları öneriler örtüşebilir veya çakışabilir. En iyi Düzenleyici deneyimi için, tarayıcınızın uzantı ayarlarından diğer düzenleme uzantılarının kapatılmasını öneririz."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Düzenleme uzantıları arasında çakışma algılandı"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$ üzerinde Düzenleyici’yi kapat",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft Düzenleyici"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Copilot Ekle"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Copilot Yeniden Yaz"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Dil Bilgisi"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Düzenleyici şu anda $host$ sayfasında desteklenmiyor",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Düzenleyici şu anda $host$ üzerinde kapalı",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Düzenleyici kapalı."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "tr"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Düzenleyici $host$ ile birlikte gelir",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Yazım Denetleme Dili: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "tr"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Yazım Denetleme Dili"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Yazım Denetleme Dilleri"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Premium'a geçerek gelişmiş yazma fikirleri ve 1 TB depolama alanı edinin."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "İyileştirmeler"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "İyileştirmeler, yazınızı daha net, daha az sözcükten oluşan veya daha resmi hale getirmeye yardımcı olacak gelişmiş yazma önerileridir."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Yazım denetleme dillerini seçmek için Düzenleyici Ayarları'nı açın."
+   },
+   "EditorSettingsLabel": {
+      "message": "Diğer Düzenleyici ayarları"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Yazım Denetimi"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Eş Anlamlılar (Önizleme)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Yazarken eş anlamlıları alın: Kelimeye çift tıklayın veya (Alt+Aşağı Ok) tuşlarını seçip basın."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Yazarken eş anlamlıları alın: Kelimeye çift tıklayın veya Alt+Aşağı Ok tuşlarını seçip basın."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Yazarken eş anlamlıları alın: Kelimeye çift tıklayın veya Control+Option+Aşağı Ok tuşlarını seçip basın."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Yazarken eş anlamlıları alın: Kelimeye çift tıklayın veya (⌃ + ⌥ + ↓) karakterlerini seçip basın."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ ve $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "tr"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "tr"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$ sayfasında Düzenleyici’yi Etkinleştir",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Hesabı görüntüle"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Microsoft Düzenleyici Tarayıcı Uzantısı"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Microsoft Düzenleyici’nin premium sürümüne başarıyla yükselttiniz! Edindiğiniz artırılmış özellikleri keşfetmek için yazınızdaki mavi ve mor alt çizgilere tıklayın."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Tebrikler"
+   },
+   "SettingsLabel": {
+      "message": "Hesap ayarları"
+   },
+   "SignInLabel": {
+      "message": "Oturum açın veya kaydolun"
+   },
+   "SignOutLabel": {
+      "message": "Oturumu kapat"
+   },
+   "SignOutTooltip": {
+      "message": "Oturumu kapattığınızda tüm ayarlar varsayılan olarak sıfırlanır ve hariç tutulan siteler listeniz kaybolur."
+   },
+   "SupportPageLabel": {
+      "message": "Oturum açmayla ilgili yardım mı gerekiyor​?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Düzenleyici’yi Aç"
+   },
+   "addButtonLabel": {
+      "message": "Ekle"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Copilot ile oluşturun, seçenekleri görmek için alt+i’ye basın"
+   },
+   "aiInsertButtonText": {
+      "message": "Copilot ile içerik oluşturun"
+   },
+   "aiInsertResultDescription": {
+      "message": "İşte daha ilgi çekici hale getirmenin bir yolu"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Düzenleyici yazım denetimi dili olarak $1 dilini ekledi"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Yazım denetimi dillerini yönet"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Geri Al"
+   },
+   "backToPromptLabel": {
+      "message": "Geri"
+   },
+   "closeLabel": {
+      "message": "Kapat"
+   },
+   "contentErrorMessage": {
+      "message": "Microsoft Düzenleyici içerik oluşturulamadı. Lütfen farklı bir metin seçin veya birkaç dakika bekleyip yeniden deneyin."
+   },
+   "contentSuggestion": {
+      "message": "İçerik önerisi"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Düzeltme, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Dil bilgisi hatası, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Stil iyileştirmesi, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Yinelenen Sözcük, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Yazım hatası, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Yapay zeka tarafından oluşturulan içerik, yanlışlıklar veya hassas bilgiler içerebilir. Bilgileri doğruladığınızdan emin olun."
+   },
+   "copyButtonText": {
+      "message": "Kopyala"
+   },
+   "defaultWarningMessage": {
+      "message": "Copilot kullanmak için paragrafın sonuna gidin."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Aynı anda en fazla üç dil için yazım denetlemeyi açabilirsiniz."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "\"$1\" sözlüğe eklendi."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Menüde arama sonuçları kapatıldı"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Öneri eklendi. Menüde arama sonuçları kapatıldı"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Bayrak önerisine tıklandı. Menüde arama sonuçları görüntüleniyor"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Öneri tıklandı. Menüde arama sonuçları görüntüleniyor"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "\"$1\" simgesine basılarak Menüde arama sonuçları görüntülendi"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Denetim düğmesi ile birlikte aç"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Otomatik düzeltme seçenekleri için denetime basın."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Dosya önerileri"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Dosyalar, bileşenler, kişiler ve daha fazlası"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Ekle"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Yerel İş Algılama"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Adres Algılama"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Bu adrese bağlantı ekleyin"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Konum"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "İyileştirme"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Kişi önerileri"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Varlık Önerisi"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Bu varlığa bağlantı ekleyin"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Varlık"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Varlık önerisi"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Zaman Algılama"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Bu saate saat dilimleri ekle"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Saat"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "İyileştirme"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Diğer kişilerin açıklamaya, kişilere ve bu açıklamaya bağlı kaynaklara erişmesine yardımcı olmak için bu konuyu etiketleyin."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Viva Topics önerisi"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Viva Topics önerisi"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Görüntülenen titreşim önerisi: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "İptal"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Tarih Tanıma"
+   },
+   "ebx_Dismiss": {
+      "message": "Kapat"
+   },
+   "ebx_Done": {
+      "message": "Bitti"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Dosya arayın"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Kişileri ara"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Aramak için yazmaya başlayın"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Aramak için yazmaya başlayın 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Aramak için yazmaya başlayın"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Aramak için yazmaya başlayın"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Loop bileşenlerini arayın"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Aramak için yazmaya başlayın"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Aramak için yazmaya başlayın"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Aramak için yazmaya başlayın"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Konu arayın"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Kişiler / Tarih Tanıma"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Tarih ekleyin"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Tarih aralığı ekleyin"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Öneri: Tarih aralığı ekle"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Tarih ve saat ekle"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Öneri: Tarih ve saat ekleyin"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Öneri: Tarih ekle"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Öneri: Kişi ekle"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Saat ekleyin"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Zaman aralığı ekleyin"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Öneri: Zaman aralığı ekle"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Öneri: Zaman ekle"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Geri bildirim başarıyla gönderildi."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Google Dokümanlar’da Düzenleyici'yi (beta) denediğiniz için teşekkürler. Google Dokümanlar'da yapılan ve Düzenleyici'nin çalışmayı durdurmasına neden olan değişiklikleri uyumlaştırmak için güncelleştirmeler yapılıyor. Düzenleyici yeniden kullanıma hazır olduğunda size haber verilecektir."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Google Dokümanlar'da Düzenleyici kullanılamıyor"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "En iyi Düzenleyici deneyimi için Google Dokümanlar’ın yerleşik yazım ve dil bilgisi denetimini kapatmayı deneyin. (Araçlar menüsünde Yazım denetimi ve dil bilgisi seçeneğine giderek bu özellikleri kapatın)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Yalnızca Düzenleyici’nin yazım denetleme aracını kullanın"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Yazarken gelişmiş öneriler alın. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Yazma sırasında gelişmiş öneriler alın. En iyi Düzenleyici deneyimi için Google Dokümanlar'ın yerleşik yazım ve dil bilgisi denetimi kapatılır. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Google Dokümanlar’da Düzenleyici’yi (beta) deneyin"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Dil bilgisi önerisi yoksayıldı."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Bölüm Başlığı Algılama"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Geliştir"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Başlık 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Başlık 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Başlık 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Üst bilgi olarak değiştirmeyi düşünün"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Erişilebilirlik"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Erişilebilirlik: Bir üst bilgiyi değiştirmeyi düşünün"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Önerilen ekleme \"$1\". Eklemek için basın."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Geçerli {0} ayarlarınıza göre bu ayarları seçemedik."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Aynı anda üç dil için yazım ve dil bilgisi denetimi yapın. Düzenleyici Ayarlarında dillerinizi seçin"
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Düzenleyici ayarlarında dillerinizi düzenleyebilirsiniz."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Geçerli tarayıcı {0} göre {1}, {2} ayarları ve ayarları seçildi."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Düzenleyici ile çok dilli yazım denetleme"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Mevcut tarayıcı ayarlarınıza dayanarak {0} ve {1} dillerini seçtik."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Kişi Tanıma"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Önerilen ekleme \"$1\" başarıyla uygulandı."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Önerilen ekleme \"$1\". Eklemek için SEKME tuşuna basın."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Yazım denetleme dilleri"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Microsoft 365 aboneleri oturum açtıklarında gelişmiş yazma önerileri alır."
+   },
+   "ebx_RemoveItem": {
+      "message": "Sil"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Artık Düzenleyici’nin yazım denetimi sözlüğüne kendi sözcüklerinizi ekleyebilirsiniz. Düzenleyici bir yazın denetimi önerisinde bulunduğunda “Sözlüğe ekle” seçeneğini bulun."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Yazım denetimi sözlüğünüzü kişiselleştirin"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "Tamam"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Artık Düzenleyici, Microsoft 365 uygulamalarınızda yerleşik olarak bulunan özel sözlüğe sözcükler ekleyebilir. Düzenleyici yazım önerisinde bulunduğunda oturum açın ve \"Sözlüğe ekle\" ifadesini arayın."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Kişiselleştirilmiş yazım denetimi sözlüğü için oturum açın"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Critıque \"$1\", ayarlarda devre dışı bırakıldı."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Bu İnceleme ayarlarda devre dışı bırakıldı."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Çoğu web sitesinde yazılı öneriler almak için Microsoft hesabınızda ya da Office'te kullandığınız iş veya okul hesabında oturum açın."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Oturum açın veya kaydolun"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Çoğu web sitesinde yazma önerileri almak için oturum açın. Yazdığınız diller ve Düzenleyici’nin denetlemesini istediğiniz sorun türleri gibi ayarlarınızı kaydederiz."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Pek çok web sitesinde dil bilgisi ve iyileştirme önerilerinin yanı sıra, kişiselleştirilmiş yazım denetimi sözlüğünden yararlanın."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Kişiselleştirilmiş bir yazım denetimi sözlüğü için Microsoft hesabınızda veya Office için kullandığınız iş ya da okul hesabınızda oturum açın."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Düzenleyici henüz çalışmıyor"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Eğik çizgi menüsü kapatıldı"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Öneri eklendi. Eğik çizgi menüsü kapatıldı"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Bayrak önerisine tıklandı. Eğik çizgi menüsü görüntüleniyor"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Öneri tıklandı. Eğik çizgi menüsü görüntüleniyor"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "\"$1\" simge tuşuna basılarak Eğik çizgi menüsü görüntülendi"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Yazım önerisi yoksayıldı."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Sol tıklayarak veya Alt+Aşağı Ok tuşu ile açın"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Sol tıklama veya Ctrl+Alt+Aşağı Ok ile açın"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Sol tıklayarak veya Control+Option+Aşağı Ok tuşu ile açın"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Otomatik Düzelt"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+Aşağı Ok)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl+Alt+Aşağı Ok Tuşu)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Dil Bilgisi Düzeltmesi"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Yazım iyileştirmesi"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Yazım düzeltmesi"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Sol tıklama ile açın"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Viva Topics önerisi"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "\"$1\" önerisi başarıyla kabul edildi."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Görev Tanıma"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Görev oluştur"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Öneri: Görev oluştur"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Sekme"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Dokunma"
+   },
+   "ebx_TurnItOn": {
+      "message": "Aç"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Başka site ekle"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Başka site ekle"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Siteyi engellenen siteler listesine eklemeyi iptal edin."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Siteyi engellenen siteler listesine ekleyin"
+   },
+   "ebx_addButton": {
+      "message": "Ekle"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Dil bilgisi denetimi eklemek için"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Yazım denetleme dilleri listesine dil eklemeyi iptal et"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Yazım denetleme dilleri listesine dil ekle"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Başka bir dil ekle"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Sözlüğe Ekle"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Düzenleyici'nin yazınıza göre yeni yazım denetleme dillerini otomatik olarak algılamasına ve eklemesine izin verin."
+   },
+   "ebx_appDescription": {
+      "message": "Akıllı yazma yardımcınız olan Microsoft Düzenleyici ile güvenle yazı yazın."
+   },
+   "ebx_appLongDescription": {
+      "message": "Düzenleyici, web (1) genelinde dil bilgisi, yazım denetimi ve stil önerileriyle gelişmiş yazma yardımı sağlar. Böylece açık, özlü gönderileri ve e-postaları güvenle yazabilirsiniz.\r\n\r\nAkıllı yazma yardımı ile bir profesyonel gibi yazın\r\nÜcretsiz dilbilgisi, gelişmiş dil bilgisi, yazım denetimi ve noktalama denetimi ile temel özellikleri düzenleyin. Premium ile netlik, özlük, üslup, söz dağarcığı ve daha fazlası gibi sorunlar için gelişmiş stil denetimiyle temel şeylerin ötesine geçin (Microsoft 365 aboneliği gerektirir).\r\n\r\nGereksinimlerinize göre kişiselleştirin\r\nDüzenleyici artık Microsoft 365 uygulamalarınızda yerleşik olarak bulunan özel sözlüğe sözcükler ekleyebilir. Düzenleyici yazım önerisinde bulunduğunda \"Sözlüğe ekle\" seçeneğini arayın. Ayrıca, Ayarlar size yazma önerilerinde tercihlerinize ince ayar yapmanız için bir yol sağlar. Tümünü Yoksay'ı seçerek bir yazım düzeltmesinin tüm tekrarlarını atlamayı veya Yoksay'ı seçerek istenmeyen dil bilgisi önerilerini atlamayı da kolaylaştırdık.\r\n\r\nHerhangi bir yere yazın\r\nBu tarayıcı uzantısıyla LinkedIn, Gmail, Facebook ve diğer sık ​​kullanılanlar gibi sitelerde yazma yardımı alın. En çok yazdığınız Office uygulamalarında Düzenleyici'nin yardımını istiyorsanız web üzerinde Word veya Outlook'u açın ve belgelerinizi ve e-postalarınızı geliştirmek için öneriler alın.\r\n\r\nBirden çok dilde yardım alın\r\nÇok dilli yazım denetleme ile aynı anda üç dile kadar yazım ve dil bilgisi denetimi yapın. Düzenleyici 80'den fazla dilde yazım denetimi yapar ve 21 dilde dil bilgisi denetimi ve yazma stili iyileştirmeleri sağlar. Dil kullanılabilirliği hakkında daha fazla bilgiyi burada bulabilirsiniz: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nEdge için Düzenleyici'yi buradan edinin: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Microsoft Edge veya Chrome tarayıcılarında kullanılabilir ve bir Microsoft Hesabı gerektirir. Düzenleyici, çoğu web sitesinde yazmanız için yazım, dil bilgisi ve iyileştirme önerileri sunan bir Microsoft çevrimiçi hizmetine bağlanır.\r\n2. Tüm diller aynı iyileştirmelere sahip değildir.\r\n\r\nUygulamayı yükleyerek şu hüküm ve koşulları kabul etmiş olursunuz:\r\n\r\nLÜTFEN DİKKAT: Bu uzantıyı size lisanslayan tüzel kişiyi belirlemek ve destek bilgileri için Microsoft Hesabınıza veya Microsoft 365 aboneliğinize (\"uzantı\") ilişkin lisans koşullarınıza bakın. Microsoft Hesabı veya Microsoft 365 aboneliği için geçerli olan lisans koşulları, bu uzantıyı kullanımınızda geçerlidir.\r\n\r\nGizlilik İlkesi: http://aka.ms/privacy\r\nHizmet Koşulları: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Düzenleyici, web (1) genelinde dil bilgisi, yazım denetimi ve stil önerileriyle gelişmiş yazma yardımı sağlar. Böylece açık, özlü gönderileri ve e-postaları güvenle yazabilirsiniz.\r\n\r\nAkıllı yazma yardımı ile bir profesyonel gibi yazın\r\nÜcretsiz dilbilgisi, gelişmiş dil bilgisi, yazım denetimi ve noktalama denetimi ile temel özellikleri düzenleyin. Premium ile netlik, özlük, üslup, söz dağarcığı ve daha fazlası gibi sorunlar için gelişmiş stil denetimiyle temel şeylerin ötesine geçin (Microsoft 365 aboneliği gerektirir).\r\n\r\nGereksinimlerinize göre kişiselleştirin\r\nDüzenleyici artık Microsoft 365 uygulamalarınızda yerleşik olarak bulunan özel sözlüğe sözcükler ekleyebilir. Düzenleyici yazım önerisinde bulunduğunda \"Sözlüğe ekle\" seçeneğini arayın. Ayrıca, Ayarlar size yazma önerilerinde tercihlerinize ince ayar yapmanız için bir yol sağlar. Tümünü Yoksay'ı seçerek bir yazım düzeltmesinin tüm tekrarlarını atlamayı veya Yoksay'ı seçerek istenmeyen dil bilgisi önerilerini atlamayı da kolaylaştırdık.\r\n\r\nHerhangi bir yere yazın\r\nBu tarayıcı uzantısıyla LinkedIn, Gmail, Facebook ve diğer sık ​​kullanılanlar gibi sitelerde yazma yardımı alın. En çok yazdığınız Office uygulamalarında Düzenleyici'nin yardımını istiyorsanız web üzerinde Word veya Outlook'u açın ve belgelerinizi ve e-postalarınızı geliştirmek için öneriler alın.\r\n\r\nBirden çok dilde yardım alın\r\nÇok dilli yazım denetleme ile aynı anda üç dile kadar yazım ve dil bilgisi denetimi yapın. Düzenleyici 80'den fazla dilde yazım denetimi yapar ve 21 dilde dil bilgisi denetimi ve yazma stili iyileştirmeleri sağlar. Dil kullanılabilirliği hakkında daha fazla bilgiyi burada bulabilirsiniz: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nChrome için Düzenleyici'yi buradan edinin: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Microsoft Edge veya Chrome tarayıcılarında kullanılabilir ve bir Microsoft Hesabı gerektirir. Düzenleyici, çoğu web sitesinde yazmanız için yazım, dil bilgisi ve iyileştirme önerileri sunan bir Microsoft çevrimiçi hizmetine bağlanır.\r\n2. Tüm diller aynı iyileştirmelere sahip değildir.\r\n\r\nUygulamayı yükleyerek şu hüküm ve koşulları kabul etmiş olursunuz:\r\n\r\nLÜTFEN DİKKAT: Bu uzantıyı size lisanslayan tüzel kişiyi belirlemek ve destek bilgileri için Microsoft Hesabınıza veya Microsoft 2 aboneliğinize (\"uzantı\") ilişkin lisans koşullarınıza bakın. Microsoft Hesabı veya Microsoft 365 aboneliği için geçerli olan lisans koşulları, bu uzantıyı kullanımınızda geçerlidir.\r\n\r\nGizlilik İlkesi: http://aka.ms/privacy\r\nHizmet Koşulları: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Microsoft Düzenleyici: Yazım ve Dil Bilgisi Denetleyicisi"
+   },
+   "ebx_appShortName": {
+      "message": "Düzenleyici"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, şuna benzer: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, eş anlamlılar: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Şununla değiştir:"
+   },
+   "ebx_asInSynonyms": {
+      "message": "şuna benzer:"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "\"$1\", Otomatik Düzeltme geri alındı."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "\"$1\"e geri dön"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, otomatik olarak düzelti."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Otomatik düzeltme seçenekleri için denetime basın."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "\"{0}\" başarıyla eklendi"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Kaldır düğmesine erişmek için Sağ Ok tuşuna basın."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Liste boş."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "\"{0}\" başarıyla kaldırıldı"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft Düzenleyici"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft Düzenleyici logosu"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Bu bilgisayara gözat"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Tümünü Değiştir"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Düzenleyici ayarları..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Geliştirmeleri denetle"
+   },
+   "ebx_checkGrammar": {
+      "message": "Dil bilgisini denetle"
+   },
+   "ebx_checkSpelling": {
+      "message": "Yazımı denetle"
+   },
+   "ebx_close": {
+      "message": "Kapat"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Çok yakında"
+   },
+   "ebx_copilotInsert": {
+      "message": "Ekle"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Copilot Yeniden Yazma"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Yinelenen sözcüğü sil"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Bunu denetlemeyi durdur"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Bunu denetlemeyi durdurun. Düzenleyici, siz değiştirene kadar bu ayarı uygular."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Düzenleyici siz değiştirene kadar bu ayarı uygular"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "{0} konağında Düzenleyici’yi kapat"
+   },
+   "ebx_displayOptions": {
+      "message": "Görüntü seçenekleri"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Bu site zaten Engellenen siteler listesinde"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Düzenleyici bu $1 gelişmiş yazma fikirleri içeriyor."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Düzenleyici şu anda {0} sayfasında desteklenmiyor"
+   },
+   "ebx_editorCanvas": {
+      "message": "Düzenleyici açılır penceresi"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Kapalı"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Açık"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Düzenleyici açılır penceresini destekleyen alanlarda Düzenleyici düğmesini göster"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Microsoft Office Browser uzantısı artık en iyi yazınızı web'e taşımanıza yardımcı olacak akıllı yazma yardımcınız olan Microsoft Düzenleyici'yi içeriyor. Microsoft Düzenleyici, size yazım, dil bilgisi ve stil önerileri sunmak için çevrimiçi bir hizmete bağlanır."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft Düzenleyici (Önizleme) şimdi çalışıyor"
+   },
+   "ebx_editorFeature": {
+      "message": "Microsoft Düzenleyici"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Kapalı"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Düzenleyiciyi kapat"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Açık"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Düzenleyici özelliği"
+   },
+   "ebx_editorIsOff": {
+      "message": "Düzenleyici kapalı"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Düzenleyici şu anda {0} konağında kapalı"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Düzenleyici {0} ile birlikte gelir"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Diğer Düzenleyici ayarları"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Aramanızla eşleşen ileti yok"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "{0} konağında Düzenleyici’yi etkinleştir"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " ve "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ","
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Düzenleyici, bu ileti için gelişmiş yazı $1 fikirleri içeriyor."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Düzenleyici bu ileti için gelişmiş bir yazma fikri $1."
+   },
+   "ebx_excludedSites": {
+      "message": "Hariç olan siteler"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Bu öneriyi bildir"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Lütfen bu yanıtı neden seçtiğinizi bildirin."
+   },
+   "ebx_feedbackLink": {
+      "message": "geri bildirim"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Editor geliştirmemize yardımcı olmak için"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Çok olumsuz"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Son derece olumsuz"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Kısmen olumsuz"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Kısmen olumsuz"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Ne olumlu ne olumsuz"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Ne olumsuz ne olumlu"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Kısmen olumlu"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Kısmen olumlu"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Çok olumlu"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Son derece olumlu"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Genel olarak, Microsoft Düzenleyici'yi kullanma deneyiminizi nasıl tanımlardınız?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Genel olarak, Microsoft Düzenleyici'yi kullanarak yazımınızı geliştirmek üzere yazım denetimi, dil bilgisi, tahminler ve diğer önerileri alma deneyiminizi nasıl tanımlarsınız?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Düzenleyici hakkında Microsoft'a geri bildirim sağlayın"
+   },
+   "ebx_giveFeedback": {
+      "message": "Geri bildirim gönder"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Tüm Microsoft 365 uygulamalarında Düzenleyici'nin gelişmiş yazma fikirlerini, 1 TB OneDrive depolama alanını ve premium özellikleri edinin."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Tüm Microsoft 365 uygulamalarında Düzenleyici'nin gelişmiş yazma fikirlerini, 1 TB OneDrive depolama alanını ve premium özellikleri edinin."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Editor'nin gelişmiş yazma önerilerini deneyin."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Premium’a geçin"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "premium'a geçin"
+   },
+   "ebx_goToSettings": {
+      "message": "Düzenleyici ayarlarına gidin"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Daha fazla bilgi edinmek için Düzenleyici ayarlarına gidin"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Docs"
+   },
+   "ebx_grammar": {
+      "message": "Dil Bilgisi"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Eş anlamlıları gizle"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Tümünü yoksay"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Yoksay"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Düzenleyici’yi açın veya diğer seçenekler için sağ tıklayın"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Tüm önerileri Düzenleyici'de görüntüleyin veya daha fazla seçenek için sağ tıklayın"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Bu satırda bulunan \"$1\" yazım denetleme sorunları var"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Bu satırda \"$1\" yazım denetleme sorunu bulundu"
+   },
+   "ebx_languageAdded": {
+      "message": "\"{0}\" başarıyla eklendi"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" başarıyla listede bir pozisyon aşağı taşındı"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" başarıyla liste başına taşındı"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" başarıyla listede bir konum yukarı taşındı"
+   },
+   "ebx_languageRemoved": {
+      "message": "\"{0}\" başarıyla kaldırıldı"
+   },
+   "ebx_learnMore": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "ebx_manageLanguages": {
+      "message": "Dilleri yönetin..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Yazım denetimi dillerini yönet"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "{0} için daha fazla komut"
+   },
+   "ebx_moveDown": {
+      "message": "Aşağı taşı"
+   },
+   "ebx_moveToTop": {
+      "message": "En üste taşı"
+   },
+   "ebx_moveUp": {
+      "message": "Yukarı taşı"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Sonraki Öneri, $1 sorun kaldı"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Düzenleyici’yi Aç"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Düzenleyici Ayarları"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Bu yazım hatasını birkaç kez yaptığınızdan, Otomatik Düzeltme listenize \"$1\" ekledik."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "Bu önizlemede $1 gün kaldı. Sınırsız öneri için yükseltin:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "Bu önizlemede $1 gün kaldı. Sınırsız öneri için yükseltin:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Düzenleyici'nin gelişmiş yazma önerilerini alın."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "Bu önizlemede $1 öneri kaldı. Sınırsız öneri için yükseltin:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "Bu önizlemede $1 öneri kaldı. Sınırsız öneri için yükseltin:"
+   },
+   "ebx_preview": {
+      "message": "(Önizleme)"
+   },
+   "ebx_previewLabel": {
+      "message": "ÖNİZLEME"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Önceki Öneri, $1 sorun kaldı"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Ürünlerimizi iyileştirmemize yardımcı olmak için bu çevrimiçi hizmeti kullanırken isteğe bağlı tanılama verilerini otomatik olarak gönderin."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Tanılama verileri hakkında daha fazla bilgi edinin"
+   },
+   "ebx_privacyOptions": {
+      "message": "Gizlilik seçenekleri"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Yazım denetleme dili"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Diğer komutlar düğmesine erişmek için Sağ Ok tuşuna basın."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Yazım Denetleme Dili"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Aynı anda en fazla üç dil için yazım denetlemeyi açabilirsiniz."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Yazım denetleme dilini seçin"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Yazım denetleme dilleri"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Üç dile kadar seçin. Tercih ettiğiniz dil en üste gelir."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Yazım Denetleme Dilleri"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Düzenleyici’yi faydalı buluyor musunuz?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Size yalnızca iki soru soracağız"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Geri Bildirim Gönder"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Bunu duyduğumuza üzüldük. Lütfen Düzenleyici’yi nasıl geliştirebileceğimizi bize bildirin."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Hayır"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Hayır, teşekkürler"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Harika! Eklentiyi değerlendirmek ister misiniz?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Düzenleyici’yi kullanmaktan keyif alıyorsanız bu eklentiyi değerlendirmek ister misiniz?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Tabii"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Evet"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Microsoft Düzenleyici hakkında geri bildirim"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Görüşlerinizi öğrenmek isteriz"
+   },
+   "ebx_refinements": {
+      "message": "İyileştirmeler"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "İyileştirmeler, yazınızı daha net, daha az sözcükten oluşan veya daha resmi hale getirmeye yardımcı olacak gelişmiş yazma önerileridir."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Bu sözcük yineleniyor"
+   },
+   "ebx_settings": {
+      "message": "Ayarlar"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Diğer Düzenleyici ayarları"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Yazım denetleme dillerini seçmek için Düzenleyici Ayarları'nı açın."
+   },
+   "ebx_settingsLabel": {
+      "message": "Hesap ayarları"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Microsoft Düzenleyici ayarları"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Her bir dil için ayarlar"
+   },
+   "ebx_showBeta": {
+      "message": "$1 Beta sürümü"
+   },
+   "ebx_showSynonyms": {
+      "message": "Eş anlamlıları göster"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Yazım önerileri için eş anlamlıları göster"
+   },
+   "ebx_signInDescription": {
+      "message": "Çoğu web sitesinde dil bilgisi, kişiselleştirilmiş yazım denetimi sözlüğü ve iyileştirme önerileri almak için lütfen oturum açın."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Oturum açmayla ilgili yardım mı gerekiyor?"
+   },
+   "ebx_signInLabel": {
+      "message": "Oturum açın veya kaydolun"
+   },
+   "ebx_signInToAccess": {
+      "message": "Erişmek için oturum açın"
+   },
+   "ebx_signIntoEditor": {
+      "message": "Düzenleyici’de oturum açın"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Çoğu web sitesinde dil bilgisi ve iyileştirme önerileri almak için lütfen oturum açın."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Kişiselleştirilmiş yazım denetimi için"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Kişiselleştirilmiş bir yazım denetimi sözlüğü için lütfen oturum açın."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Çoğu web sitesinde dil bilgisi ve iyileştirme önerileri almak için lütfen oturum açın."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Çoğu web sitesinde dil bilgisi, kişiselleştirilmiş yazım denetimi sözlüğü ve iyileştirme önerileri almak için lütfen oturum açın."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Düzenleyici'de oturum açma"
+   },
+   "ebx_signOutLabel": {
+      "message": "Oturumu kapat"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Oturumu kapattığınızda tüm ayarlar varsayılan olarak sıfırlanır ve hariç tutulan siteler listeniz kaybolur."
+   },
+   "ebx_spelling": {
+      "message": "Yazım"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Bunun doğru olup olmadığını bir kez daha denetleyin"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Diğer eylemler"
+   },
+   "ebx_synonyms": {
+      "message": "Eş Anlamlılar"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Eş Anlamlılar kullanılamıyor]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Şunu yazarak eş anlamlıları alın: Bir sözcüğü çift tıklatın veya seçin ve basın (Alt+Aşağı Ok."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Yazarken eş anlamlıları alın: Kelimeye çift tıklayın veya (⌃ + ⌥ + ↓) karakterlerini seçip basın."
+   },
+   "ebx_toggleOff": {
+      "message": "Kapalı"
+   },
+   "ebx_toggleOn": {
+      "message": "Açık"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Evet, lütfen"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Artık yazınızın tonu konusunda size yardımcı olacak öneriler sunuyoruz. Göz atmak ister misiniz?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Kapat"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Şimdi değil"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Düzenleyici ayarlarında değişiklik yap"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Ton önerilerini hiçbir zaman gösterme"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Ton algılama şu anda devre dışı."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Ton algılama"
+   },
+   "ebx_toneLabel": {
+      "message": "Ton"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Diğer kişilerin açıklamaya, kişilere ve bu açıklamaya bağlı kaynaklara erişmesine yardımcı olmak için bu konuyu etiketleyin."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Viva Topics önerisi"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Düzenleyici'nin gelişmiş yazma önerilerini deneyin"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Şimdi deneyin"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Düzenleyiciyi kapat"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Düzenleyici, çoğu web sitesinde yazmanız için yazım denetimi, dil bilgisi ve stil önerileri sunan bir Microsoft çevrimiçi hizmetine bağlanır."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Düzenleyici’yi Aç"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Geri Al"
+   },
+   "ebx_undoButtonText": {
+      "message": "Geri Al"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Otomatik düzeltme seçenekleri"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Engellenen siteler"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Geçersiz URL. Lütfen URL 'yi şu biçimde girin: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "{1} satırında geçersiz URL \"{0}\""
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Aşağıda listelenen sitelerde Düzenleyici’yi kapattınız. Hassas içeriğe veya yavaş yükleme hızlarına sahip ek sitelerde düzenleyici otomatik olarak kapatılabilir."
+   },
+   "ebx_viewAccount": {
+      "message": "Hesabı görüntüle"
+   },
+   "editor": {
+      "message": "Düzenleyici"
+   },
+   "editorButtonText": {
+      "message": "Düzenleyici"
+   },
+   "emailWarningMessage": {
+      "message": "Copilot'u kullanmak için e-postanın sonuna gidin."
+   },
+   "emptyStateMessage": {
+      "message": "Yeniden yazmak için bir metin seçin"
+   },
+   "errorLabel": {
+      "message": "Hata"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "sözlüğünüz"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Özel karakteri, eğik çizgiyi (/) yazarak içeriğe bağlantı oluşturun."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "İçerik etiketleme"
+   },
+   "esdk_autocorrect": {
+      "message": "Otomatik Düzelt"
+   },
+   "esdk_cancelButton": {
+      "message": "İptal"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Ayarlar"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, değiştir, Kapa."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, değiştir, Aç."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Kategorinin durumunu dinlemek için Sekme tuşuna basın"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Kategoriyi genişletmek için Sağ Ok tuşuna basın."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Ayrıntılı ayarlar devre dışı."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Ayrıntılı ayarlara girmek için Sağ Ok tuşuna basın."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} Devre dışı"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Bu kategorideki tüm ayrıntılı ayarların işareti kaldırıldı."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Bu kategorideki tüm ayrıntılı ayarlar işaretlendi ve etkin."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "{0} için ayrıntılı ayarlar"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Kategori durumunu değiştirmek için Ara çubuğuna veya Enter tuşuna basın."
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Siz Düzenleyici bölmesini açmadıkça Düzenleyici bu soruna bayrak eklemeyecek"
+   },
+   "esdk_closeButton": {
+      "message": "Kapat"
+   },
+   "esdk_copilotInsert": {
+      "message": "Ekle"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot şu anda yalnızca İngilizce'yi destekler"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Yeniden yaz"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Düzeltmeler"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Ayarlara dönmek için sol ok tuşuna basın"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Ayrıntılı ayarlara girmek için sağ ok tuşuna basın"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Onay kutusunun değerini değiştirmek için kategori etkinleştirilmelidir"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Düzenleyicinin bu uygulamadaki metinlerde nasıl düzeltme yapacağını ve geliştirme önereceğini değiştirin"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Microsoft Düzenleyici Ayarları"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Otomatik Düzelt'i kullanmak için Yazım Denetimi’ni aç"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Geliştirmeler"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Düzenleyici Ayarları yüklenemedi"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Premium’a geçin"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Premium'a geçerek gelişmiş yazma fikirleri ve 1 TB depolama alanı elde edin"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Durumu dinlemek için Sekme tuşuna basın"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Satır İçi Düzenleme"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Yazım denetleme dili"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Ayarlar"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Düzenleyici, metnin bir dosyaya veya veriye başvuruda bulunduğunu algılar ve bir bağlantı oluşturmayı teklif eder."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Bağlantı önerileri"
+   },
+   "esdk_okButton": {
+      "message": "Tamam"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Yazım denetleme tercihlerini daralt."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Düzenleyici'nin neyi denetleyeceğini seçin."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Üç dile kadar seçin. Tercih ettiğiniz dil en üste gelir."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Dilleri Düzenle"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Yazım denetleme tercihlerini genişlet."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Yazım denetleme tercihleri"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Yazım Denetleme Dili Ayarları"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Yazım Denetleme Ayarları"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Dilleri düzenle"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Üç dile kadar seçin. Tercih ettiğiniz dil en üste gelir."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Yazım denetleme ayarları"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Yazım denetleme dili ayarları"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "İyileştirmeler"
+   },
+   "esdk_resetToDefault": {
+      "message": "Varsayılana sıfırla"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Düzenleyici’nin gelişmiş yazma önerilerini deneyin."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Ayrıntıları indir"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Tüm diller aynı yazma kılavuzuna sahip değil. Seçili dil bilgisi ve iyileştirme ayarlarıyla ilgili ayrıntıları görüntülemek için bu belgeyi indirin."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Tüm diller aynı yazma kılavuzuna sahip değil. Tüm Düzenleyici dilleri için kullanılabilen dil bilgisi ve iyileştirme ayarları hakkında daha fazla bilgi edinmek için bu bağlantıyı izleyin."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Tüm diller aynı yazma kılavuzuna sahip değil. {Learn more} dil bilgisi ve iyileştirme ayarları hakkında daha fazla bilgi edinin."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Yazım denetimi seçeneklerinde yapılan değişiklikler tüm etkinleştirilmiş diller için geçerlidir"
+   },
+   "esdk_synonyms": {
+      "message": "Eş Anlamlılar (Önizleme)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Düzenleyici, siz yazarken eklenecek sonraki sözcüklerin yanı sıra dosyaları veya diğer nesneleri de tahmin eder."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Metin tahminleri"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Daha hızlı yazmanıza yardımcı olmak için, Düzenleyici sonraki sözcüklerinizi öngörür ve siz yazarken sözcük ve ifadeler önerir."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Öğrenme ipucu"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Örnekler"
+   },
+   "explanationTableAfter": {
+      "message": "Düşünün:"
+   },
+   "explanationTableBefore": {
+      "message": "Bunun yerine:"
+   },
+   "explanationTableSeparator": {
+      "message": "veya"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Eyfel Kulesi’ni ziyaret ettiğiniz seyahatiniz hakkında bir gönderi yazın"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Copilot'u kullanmak için gönderinin sonuna gidin."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Sonraki Sayfa"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "İPUÇLARI $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Önceki Sayfa"
+   },
+   "generalErrorMessage": {
+      "message": "Microsoft Düzenleyici bir sorunla karşılaştı ve içerik oluşturamadı."
+   },
+   "generateButtonLabel": {
+      "message": "Oluştur"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Geri Bildirim Gönder"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Toplantı isteği e-postası yazın"
+   },
+   "inputName": {
+      "message": "Düzenleyici'nin ne yazmasını istediğinizi açıklayın..."
+   },
+   "inputPlaceholder": {
+      "message": "Ne yazmak istediğinizi açıklayın"
+   },
+   "languageErrorMessage": {
+      "message": "Seçtiğiniz dil için yeniden yazmalar henüz kullanılamıyor."
+   },
+   "limitErrorMessage": {
+      "message": "Yeniden yazma için lütfen 100'den az sözcük seçin."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "İçerik oluşturma ipuçları"
+   },
+   "loadingLabel": {
+      "message": "Bir saniye, size bir şeyler hazırlanıyor..."
+   },
+   "loadingText": {
+      "message": "Yükleniyor: "
+   },
+   "modalDescribeBy": {
+      "message": "Seçili metni yazmanın diğer yollarını üretme"
+   },
+   "moreButtonLabel": {
+      "message": "Diğer seçenekler"
+   },
+   "moreButtonText": {
+      "message": "Diğer"
+   },
+   "moreOptionsLabel": {
+      "message": "Diğer Seçenekler"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "başka bir yazım denetimi dili ekleme"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Yazım denetimi dili ekleyin."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "İlgili yazma önerileri almak için,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Düzenleyiciye başka bir dil ekleyin"
+   },
+   "nextSuggestion": {
+      "message": "Sonraki öneri"
+   },
+   "nudgeTextForEmails": {
+      "message": "E-postaları bulmak için $1 yazın"
+   },
+   "nudgeTextForFile": {
+      "message": "Dosyaları ve daha fazlasını bulmak için $1 yazın"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Toplantıları bulmak için $1 yazın"
+   },
+   "nudgeTextForPeople": {
+      "message": "Kişileri bulmak için $1 yazın"
+   },
+   "prevSuggestion": {
+      "message": "Önceki öneri"
+   },
+   "preview": {
+      "message": "ÖNİZLEME"
+   },
+   "previewText": {
+      "message": "ÖNİZLEME"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Yeni satırda bu özelliği kullanmak için CTRL + ALT + I’ya basın."
+   },
+   "promptSuggestButtonText": {
+      "message": "Yazmaya devam edin "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+Sağ ok"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Özgün cümleyi sesli oku"
+   },
+   "regenerateLabel": {
+      "message": "Yeniden oluşturma"
+   },
+   "replaceLabel": {
+      "message": "Değiştir"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Rapor Tarafından Oluşturulan İçerik"
+   },
+   "reportOutput": {
+      "message": "Çıktıyı bildir"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Yapay zeka tarafından oluşturulan içerik, yanlışlıklar veya hassas bilgiler içerebilir. Bilgileri doğruladığınızdan emin olun."
+   },
+   "retry": {
+      "message": "Yeniden dene"
+   },
+   "rewriteBrand": {
+      "message": "Yeniden yaz"
+   },
+   "rewriteWithCopilot": {
+      "message": "Yeniden yaz"
+   },
+   "sbx_signInDescription": {
+      "message": "Çoğu web sitesinde dil bilgisi, kişiselleştirilmiş yazım denetimi sözlüğü ve iyileştirme önerileri almak için lütfen oturum açın."
+   },
+   "shareFeedback": {
+      "message": "Geri Bildirimde Bulunun"
+   },
+   "showHeaderMessage": {
+      "message": "Bunu yazmanın diğer yollarını burada bulabilirsiniz"
+   },
+   "submitButtonTooltip": {
+      "message": "Oluştur (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Copilot kullanmak için paragrafın sonuna gidin."
+   },
+   "suggestionCountSeparator": {
+      "message": "/"
+   },
+   "suggestionHint": {
+      "message": "Kabul etmek için ENTER tuşuna basın"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Yeniden deneyin"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Yeniden oluştur"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Motive edici bir tweet yazın"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Copilot'u kullanmak için tweet’in sonuna gidin."
+   }
+}

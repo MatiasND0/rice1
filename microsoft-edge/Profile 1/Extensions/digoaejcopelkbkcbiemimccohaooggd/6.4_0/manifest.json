@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": {
+         "38": "images/refresh-off-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Easy Auto Refresh"
+   },
+   "background": {
+      "service_worker": "scripts/background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/keypress.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Auto-refresh and auto-reload pages after any number of seconds.",
+   "host_permissions": [ "http://*/", "https://*/" ],
+   "icons": {
+      "128": "images/easy-auto-refresh-128x128.png",
+      "48": "images/easy-auto-refresh-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9ciQphLGAnV/g3NY3627vr4kTyBcz/f4TJhZnxeIjQ65/UjGh5NuwDdA4PCweWm7GvagH04PPLyEFUx/xlrHM+YsfbCzh+3WWee9LU9VNVXDooV8U1qr4snlafyCwB4tZS9sYLoXPWcTfqEAkYCKSgHkkLMr/opWyhCotYQKdoo33k7hmd4sJ0vblVVyg3vGV5lz1HOLtA9RgIP4/kxrD9jAGJanSglT+XFFjrhiX4KjWeKf1Z/3Y1ce1iJvZE9aeW3jn7icdqBhwGF8MNJq0vms0lGtrQ2yFFLu5FsK3pjEUV/tD5PALmY0tKj1FmvIJAn9s4D0dBaXJQsrbWXsiwIDAQAB",
+   "manifest_version": 3,
+   "name": "Easy Auto Refresh",
+   "permissions": [ "tabs", "browsingData", "notifications", "storage", "scripting", "alarms" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "6.4"
+}

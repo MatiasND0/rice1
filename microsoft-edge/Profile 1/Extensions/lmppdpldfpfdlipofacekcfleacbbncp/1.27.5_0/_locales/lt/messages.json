@@ -1,0 +1,29 @@
+{
+   "contact": {
+      "message": "Susisiekite su mumis"
+   },
+   "enable": {
+      "message": "Įjungti"
+   },
+   "more": {
+      "message": "Plačiau"
+   },
+   "or": {
+      "message": "Arba"
+   },
+   "retry": {
+      "message": "Bandyti dar kartą"
+   },
+   "toggleExtension": {
+      "message": "Įjungti plėtinį"
+   },
+   "toggleMute": {
+      "message": "Išjungti/Įjungti garsą"
+   },
+   "useExperimentalAlgorithm": {
+      "message": "Naudoti eksperimentinį algoritmą"
+   },
+   "volume": {
+      "message": "Garsas"
+   }
+}

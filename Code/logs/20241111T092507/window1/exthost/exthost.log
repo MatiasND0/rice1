@@ -1,0 +1,11 @@
+2024-11-11 09:25:16.785 [info] Extension host with pid 4049 started
+2024-11-11 09:25:16.785 [info] Skipping acquiring lock for /home/hhouse/.config/Code/User/workspaceStorage/8dfcb7a1882dca8e315d884efb11ecf7.
+2024-11-11 09:25:18.104 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-11 09:25:18.838 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-11 09:25:18.875 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-11 09:25:19.487 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-11 09:25:20.106 [info] Eager extensions activated
+2024-11-11 09:25:20.330 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 09:25:20.336 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 09:25:26.730 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-11 09:25:26.791 [info] Extension host with pid 4049 exiting with code 0

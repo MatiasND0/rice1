@@ -1,0 +1,7 @@
+2024/11/09-02:15:11.340 5e2 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/09-02:15:11.340 5e2 Recovering log #11
+2024/11/09-02:15:11.340 5e2 Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/000011.log 
+2024/11/09-02:17:13.619 5e5 Level-0 table #17: started
+2024/11/09-02:17:13.636 5e5 Level-0 table #17: 1072 bytes OK
+2024/11/09-02:17:13.638 5e5 Delete type=0 #11
+2024/11/09-02:17:13.639 5e1 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

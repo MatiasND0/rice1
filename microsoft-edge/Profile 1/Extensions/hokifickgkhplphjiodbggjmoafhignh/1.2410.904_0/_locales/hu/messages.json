@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Fiók"
+   },
+   "AppDescription": {
+      "message": "Write with confidence with Microsoft Editor, your intelligent grammar, spelling, and style checking writing assistant."
+   },
+   "AppLongDescription": {
+      "message": "A Szerkesztő nyelvtani, helyesírási és stilisztikai javaslatokat magában foglaló speciális írási segítséget nyújt a weben (1), így Ön magabiztosan írhat világos, lényegre törő bejegyzéseket és e-maileket.\r\n\r\nProfiként írhat az intelligens írási segítséggel\r\nAz ingyenes nyelvtani, nyelvhelyességi, helyesírási és központozási ellenőrzéssel gondoskodhat az Ön által írt szövegek alapvető nyelvhelyességéről. A prémiumverzióval (Microsoft 365-előfizetés szükséges hozzá) bővebb stilisztikai javaslatokat és visszajelzést kaphat a szöveg egyértelműségéről, tömörségéről, hivatalos megfogalmazásáról, szókincséről és még sok másról.\r\n\r\nSzemélyre szabhatja az igényeinek megfelelően\r\nA Szerkesztő mostantól fel tud venni szavakat a Microsoft 365-alkalmazásokba beépített saját szótárba. Ehhez keresse a „Felvétel a szótárba” lehetőséget, amikor a Szerkesztő helyesírási javaslatot tesz. Ezenkívül a beállítások között finomhangolhatja az írási javaslatokra vonatkozó beállításait. Az egyes helyesírási javítások összes előfordulásának figyelmen kívül hagyását is megkönnyítettük. Ehhez válassza Az összes kihagyása lehetőséget, illetve a nem kívánt nyelvtani javaslatok figyelmen kívül hagyásához válassza a Kihagyás lehetőséget.\r\n\r\nÍrás bárhol\r\nEzzel a böngészőbővítménnyel írási segítséget kaphat a kedvenc webhelyein, többek között a LinkedIn, a Gmail, a Facebook és egyéb szolgáltatások felületén. Ha az Office-alkalmazásokban – ahol minden bizonnyal a legtöbbet ír – is igénybe szeretné venni a Szerkesztő segítségét, nyissa meg a Webes Wordöt vagy Outlookot, és javaslatokat kaphat a dokumentumok és e-mailek tökéletesítésére.\r\n\r\nSegítség több nyelven\r\nA többnyelvű nyelvi ellenőrzésnek köszönhetően egyszerre akár három nyelven is ellenőrizheti a helyesírást és a nyelvtant. A Szerkesztő több mint 80 nyelven tudja ellenőrizni a helyesírást, és 21 nyelvhez kínál nyelvhelyességi ellenőrzést és az írás stílusára vonatkozó javaslatokat. A nyelvek elérhetőségére vonatkozó további információkért lásd: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nItt szerezheti be az Edge-hez készült Szerkesztőt: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. A Microsoft Edge vagy a Chrome böngészőben érhető el, és Microsoft-fiók szükséges hozzá. A Szerkesztő egy online Microsoft-szolgáltatáshoz kapcsolódik, amely helyesírási, nyelvtani és finomítási javaslatokat kínál az íráshoz a legtöbb webhelyen.\r\n2. Az nyelvekhez tartozó finomításkészletek nem azonosak.\r\n\r\nAz alkalmazás telepítésével elfogadja a következő feltételeket és kikötéseket:\r\n\r\nMEGJEGYZÉS: A Microsoft-fiókjára, illetve a Microsoft 365-előfizetésére vonatkozó licencfeltételek között azonosíthatja a jelen bővítményt (a „bővítményt”) Önnek licencelő entitást, és ott találhat támogatási információt is. A bővítmény Ön általi használatára a Microsoft-fiókjához vagy a Microsoft 365-előfizetéséhez tartozó licencfeltételek vonatkoznak.\r\n\r\nAdatvédelmi szabályzat: http://aka.ms/privacy\r\nSzolgáltatási feltételek: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "A Szerkesztő nyelvtani, helyesírási és stilisztikai javaslatokat magában foglaló speciális írási segítséget nyújt a weben (1), így Ön magabiztosan írhat világos, lényegre törő bejegyzéseket és e-maileket.\r\n\r\nProfiként írhat az intelligens írási segítséggel\r\nAz ingyenes nyelvtani, nyelvhelyességi, helyesírási és központozási ellenőrzéssel gondoskodhat az Ön által írt szövegek alapvető nyelvhelyességéről. A prémiumverzióval (Microsoft 365-előfizetés szükséges hozzá) bővebb stilisztikai javaslatokat és visszajelzést kaphat a szöveg egyértelműségéről, tömörségéről, hivatalos megfogalmazásáról, szókincséről és még sok másról.\r\n\r\nSzemélyre szabhatja az igényeinek megfelelően\r\nA Szerkesztő mostantól fel tud venni szavakat a Microsoft 365-alkalmazásokba beépített saját szótárba. Ehhez keresse a „Felvétel a szótárba” lehetőséget, amikor a Szerkesztő helyesírási javaslatot tesz. Ezenkívül a beállítások között finomhangolhatja az írási javaslatokra vonatkozó beállításait. Az egyes helyesírási javítások összes előfordulásának figyelmen kívül hagyását is megkönnyítettük. Ehhez válassza Az összes kihagyása lehetőséget, illetve a nem kívánt nyelvtani javaslatok figyelmen kívül hagyásához válassza a Kihagyás lehetőséget.\r\n\r\nÍrás bárhol\r\nEzzel a böngészőbővítménnyel írási segítséget kaphat a kedvenc webhelyein, többek között a LinkedIn, a Gmail, a Facebook és egyéb szolgáltatások felületén. Ha az Office-alkalmazásokban – ahol minden bizonnyal a legtöbbet ír – is igénybe szeretné venni a Szerkesztő segítségét, nyissa meg a Webes Wordöt vagy Outlookot, és javaslatokat kaphat a dokumentumok és e-mailek tökéletesítésére.\r\n\r\nSegítség több nyelven\r\nA többnyelvű nyelvi ellenőrzésnek köszönhetően egyszerre akár három nyelven is ellenőrizheti a helyesírást és a nyelvtant. A Szerkesztő több mint 80 nyelven tudja ellenőrizni a helyesírást, és 21 nyelvhez kínál nyelvhelyességi ellenőrzést és az írás stílusára vonatkozó javaslatokat. A nyelvek elérhetőségére vonatkozó további információkért lásd: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nItt szerezheti be a Chrome-hoz készült Szerkesztőt: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. A Microsoft Edge vagy a Chrome böngészőben érhető el, és Microsoft-fiók szükséges hozzá. A Szerkesztő egy online Microsoft-szolgáltatáshoz kapcsolódik, amely helyesírási, nyelvtani és finomítási javaslatokat kínál az íráshoz a legtöbb webhelyen.\r\n2. Az nyelvekhez tartozó finomításkészletek nem azonosak.\r\n\r\nAz alkalmazás telepítésével elfogadja a következő feltételeket és kikötéseket:\r\n\r\nMEGJEGYZÉS: A Microsoft-fiókjára, illetve a Microsoft 365-előfizetésére vonatkozó licencfeltételek között azonosíthatja a jelen bővítményt (a „bővítményt”) Önnek licencelő entitást, és ott találhat támogatási információt is. A bővítmény Ön általi használatára a Microsoft-fiókjához vagy a Microsoft 365-előfizetéséhez tartozó licencfeltételek vonatkoznak.\r\n\r\nAdatvédelmi szabályzat: http://aka.ms/privacy\r\nSzolgáltatási feltételek: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Microsoft Szerkesztő: Helyesírás- és nyelvhelyesség-ellenőrző"
+   },
+   "AppShortName": {
+      "message": "Szerkesztő"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Bekapcsolás"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "A Szerkesztő (bétaverzió) kipróbálása a Google Docs-ban"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "A Szerkesztő bétaverzióként érhető el a Google Docs-ban. Ha problémát tapasztal, kérjük, tudassa velünk."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Ha egyéb szerkesztőbővítmények és a Szerkesztő program egyaránt fut, javaslataik átfedésben lehetnek vagy ütközhetnek. A legjobb Szerkesztő-használati élmény érdekében javasoljuk, hogy a böngésző bővítménybeállításaiban kapcsolja ki az egyéb szerkesztőbővítmények beállítást."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Szerkesztőbővítmények között ütközés észlelve"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Szerkesztő kikapcsolása itt: $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft Szerkesztő"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Copilot beszúrás"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Copilot átírás"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Nyelvhelyesség"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "A Szerkesztő egyelőre nem működik $host$-os oldalakon.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "A Szerkesztő jelenleg ki van kapcsolva itt: $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Ki van kapcsolva a Szerkesztő."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "hu"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "A(z) $host$ tartalmazza a Szerkesztőt.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Ellenőrzés nyelve: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "hu"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Ellenőrzés nyelve"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Ellenőrzési nyelvek"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "A prémium verzióra váltva bővített stilisztikai javaslatokat kaphat és 1 TB tárterületet vehet igénybe."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Finomítások"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "A finomítások olyan bővített stilisztikai javaslatok, amelyekkel érthetőbbé, tömörebbé és formálisabbá teheti írásait."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Nyissa meg a Szerkesztő beállításait az ellenőrzési nyelvek kiválasztásához."
+   },
+   "EditorSettingsLabel": {
+      "message": "A Szerkesztő további beállításai"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Helyesírás"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Szinonimák (előzetes verzió)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Szinonimák lekérése íráskor: kattintson duplán egy szóra, vagy válassza ki, majd nyomja le az (Alt+Lefelé nyíl) billentyűkombinációt."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Szinonimák lekérése íráskor: kattintson duplán egy szóra, vagy válassza ki, majd nyomja le az Alt+Lefelé nyíl billentyűkombinációt."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Szinonimák lekérése íráskor: kattintson duplán egy szóra, vagy válassza ki, majd nyomja le a Control+Option+Lefelé nyíl billentyűkombinációt."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Szinonimák lekérése íráskor: kattintson duplán egy szóra, vagy válassza ki, majd nyomja le a(z) (⌃ + ⌥ + ↓) billentyűkombinációt."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ és $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "hu"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "hu"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "A Szerkesztő engedélyezése $host$-os oldalakon",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Fiók megtekintése"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Microsoft Szerkesztő böngészőbővítmény"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Sikeresen frissített a Microsoft Szerkesztő prémium verziójára! A beírt szövegben megjelenő kék és lila aláhúzásokra kattintva felfedezheti a kibővített funkciókészletet."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Gratulálunk!"
+   },
+   "SettingsLabel": {
+      "message": "Fiókbeállítások"
+   },
+   "SignInLabel": {
+      "message": "Bejelentkezés vagy regisztráció"
+   },
+   "SignOutLabel": {
+      "message": "Kijelentkezés"
+   },
+   "SignOutTooltip": {
+      "message": "A kijelentkezéssel az összes beállítást visszaállítja az alapértelmezettre, és elveszíti a kizárt webhelyek listáját."
+   },
+   "SupportPageLabel": {
+      "message": "Segítséget szeretne a ​bejelentkezéshez?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "A Szerkesztő bekapcsolása"
+   },
+   "addButtonLabel": {
+      "message": "Hozzáadás"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Létrehozás a Copilottal, nyomja le a alt+i billentyűkombinációt a beállítások megjelenítéséhez"
+   },
+   "aiInsertButtonText": {
+      "message": "Tartalom létrehozása a Copilot használatával"
+   },
+   "aiInsertResultDescription": {
+      "message": "Íme egy módja annak, hogy még vonzóbbá tegye"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "A szerkesztő a következőt adta hozzá helyesírás-ellenőrzési nyelvként: $1"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Helyesírás-ellenőrzési nyelvek kezelése"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Visszavonás"
+   },
+   "backToPromptLabel": {
+      "message": "Vissza"
+   },
+   "closeLabel": {
+      "message": "Bezárás"
+   },
+   "contentErrorMessage": {
+      "message": "Microsoft Szerkesztő nem tudott tartalmat létrehozni. Válasszon másik szöveget, vagy várjon néhány percet, és próbálkozzon újra."
+   },
+   "contentSuggestion": {
+      "message": "Tartalomjavaslat"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Javítás, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Nyelvhelyességi hiba, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Stilisztikai finomítás, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Ismétlődő szó, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Helyesírási hiba, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "A mesterséges intelligencia által létrehozott tartalom pontatlan vagy bizalmas anyagokat tartalmazhat. Ellenőrizze az adatokat."
+   },
+   "copyButtonText": {
+      "message": "Másolás"
+   },
+   "defaultWarningMessage": {
+      "message": "A Copilot használatához ugorjon a bekezdés végére."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Egyszerre legfeljebb három nyelven kapcsolhatja be a nyelvi ellenőrzést."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "A(z) \"$1\" szöveget felvették a szótárba."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "A Kukac menü találatai elvetve"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Javaslat beszúrva. A Kukac menü találatai elvetve"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "A jelölőre vonatkozó javaslat elfogadva. A Kukac menü találatai megjelenítve"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Felkérés elfogadva. A Kukac menü találatai megjelenítve"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "A(z) „$1* szimbólum billentyűjének lenyomása megjelenítette a Kukac menü találatait"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Nyissa meg a control billentyűvel"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Az automatikus javítás beállításainak megjelenítéséhez nyomja le a control billentyűt."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Fájljavaslatok"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Fájlok, összetevők, személyek és egyebek"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Beszúrás"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Helyi üzlet észlelése"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Cím észlelése"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Hivatkozás hozzáadása ehhez a címhez"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Hely"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Továbbfejlesztés"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Személyi javaslatok"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Entitásjavaslat"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Hivatkozás hozzáadása ehhez az entitáshoz"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Entitás"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Entitásjavaslat"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Időészlelés"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Időzónák hozzáadása ehhez az időponthoz"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Idő"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Továbbfejlesztés"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Címkézze fel ezt a témakört, hogy mások is hozzáférhessenek a leíráshoz, a személyekhez és a hozzá kapcsolódó erőforrásokhoz."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Viva Topics javaslat"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Viva Topics javaslat"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Elmozdítási javaslat megjelenítve: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "Mégse"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Dátumfelismerés"
+   },
+   "ebx_Dismiss": {
+      "message": "Elvetés"
+   },
+   "ebx_Done": {
+      "message": "Kész"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Fájlok keresése"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Személyek keresése"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "A keresés indításához kezdjen el gépelni"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "A keresés indításához kezdjen el gépelni 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "A keresés indításához kezdjen el gépelni"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "A keresés indításához kezdjen el gépelni"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Loop összetevők keresése"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "A keresés indításához kezdjen el gépelni"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "A keresés indításához kezdjen el gépelni"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "A keresés indításához kezdjen el gépelni"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Témakörök keresése"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Személy-/dátumfelismerés"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Dátum beszúrása"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Dátumtartomány beszúrása"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Javaslat: Dátumtartomány beszúrása"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Dátum és idő beszúrása"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Javaslat: Dátum és idő beszúrása"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Javaslat: Dátum beszúrása"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Javaslat: Személy beszúrása"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Időpont beszúrása"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Időtartomány beszúrása"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Javaslat: Időtartomány beszúrása"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Javaslat: Idő beszúrása"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Sikeresen elküldte a visszajelzést."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Köszönjük, hogy kipróbálta a Szerkesztőt (bétaverzió) a Google Docs szolgáltatásban. Frissítéseket végzünk a Google Docs módosításaihoz való alkalmazkodás érdekében, amelyek miatt a Szerkesztő működése leállt. Értesítjük, ha a Szerkesztő újból készen áll a használatra."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "A Szerkesztő nem érhető el a Google Docs-ban"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "A legjobb szerkesztői élmény érdekében próbálja meg kikapcsolni a Google Docs beépített helyesírás- és nyelvhelyesség-ellenőrzését. (Az Eszközök menüben válassza a Helyesírás és nyelvhelyesség lehetőséget, és kapcsolja ki a beállításokat)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Csak a Szerkesztő nyelvi ellenőrzésének használata"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Speciális javaslatokat kaphat írás közben. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Speciális javaslatokat kaphat írás közben. A legjobb szerkesztői élmény érdekében a Google Docs beépített helyesírás- és nyelvhelyesség-ellenőrzése ki lesz kapcsolva. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "A Szerkesztő (bétaverzió) kipróbálása a Google Docs-ban"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "A nyelvhelyességi javaslatot figyelmen kívül hagyták."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Címsorészlelés"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Javítás"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Címsor 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Címsor 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Címsor 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Fontolja meg az élőfejre váltást"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Akadálymentesség"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Akadálymentesség: Fontolja meg az élőfejre váltást"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "„$1“ javasolt beszúrás. A beszúráshoz nyomja le a billentyűt."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "A jelenlegi böngészőbeállítások alapján választottuk ki a {0}."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Egyszerre három nyelven is ellenőrizheti a helyesírást és a nyelvhelyességet. A Szerkesztő beállításai között választhatja ki a kívánt nyelveket."
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "A nyelvek a Szerkesztő beállításaiban szerkeszthetők."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "A jelenlegi böngészőbeállításai alapján kiválasztottuk {0}, {1} és {2}."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Többnyelvű nyelvi ellenőrzés a Szerkesztővel"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "A jelenlegi böngészőbeállításai alapján kiválasztottuk {0} és {1}."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Személyfelismerés"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "A(z) \"$1\" javasolt beszúrás alkalmazása sikerült."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "\"$1\" javasolt beszúrás. A beszúráshoz nyomja le a TAB billentyűt."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Ellenőrzési nyelvek"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "A bejelentkezett Microsoft 365-előfizetők speciális írási javaslatokat kapnak."
+   },
+   "ebx_RemoveItem": {
+      "message": "Törlés"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Most már hozzáadhatja saját szavait a Szerkesztő helyesírási szótárához. Keressen rá a következőre: „Felvétel a szótárba” amikor a Szerkesztő helyesírási javaslatot tesz."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Helyesírási szótár személyre szabása"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "OK"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "A Szerkesztő mostantól fel tud venni szavakat a Microsoft 365-alkalmazásokba beépített saját szótárba. Jelentkezzen be, és keresse a „Felvétel a szótárba” lehetőséget, amikor a Szerkesztő helyesírási javaslatot tesz."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Bejelentkezés személyre szabott helyesírási szótár használatához"
+   },
+   "ebx_RuleIgnored": {
+      "message": "A (z) \"$1\" bírálat le van tiltva a beállításokban."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Ez a bírálat le van tiltva a beállításokban."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Ha a legtöbb webhelyen szeretne írási javaslatot kapni, jelentkezzen be a Microsoft-fiókjába, vagy az Office-hoz használt munkahelyi vagy iskolai fiókba."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Bejelentkezés vagy regisztráció"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Jelentkezzen be, hogy a legtöbb webhelyen írási javaslatokat kapjon. Elmentjük a beállításait, például a nyelveket, amelyeken ír, és azokat a problémákat, amelyeket a Szerkesztőnek ellenőriznie kell."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Élvezze a nyelvtani javaslatokat, személyre szabott helyesírási szótárt és finomítási javaslatokat láthasson a legtöbb webhelyen."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Ha személyre szabott helyesírási szótárt szeretne használni, jelentkezzen be a Microsoft-fiókjába, vagy az Office-hoz használt munkahelyi vagy iskolai fiókjába."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Még nem fut a Szerkesztő."
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Perjel menü bezárva"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Javaslat beszúrva. Perjel menü bezárva"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "A jelölésre vonatkozó javaslat elfogadva. Perjel menü megjelenítve"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Felkérés elfogadva. Perjel menü megjelenítve"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "A(z) „$1” szimbólum billentyűjének lenyomása megjelenítette a Perjel menüt"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "A helyesírási javaslatot figyelmen kívül hagyták."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Megnyitás a bal egérgombbal kattintva vagy az Alt+Le billentyűkombinációval"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Megnyitás a bal egérgombbal vagy a Ctrl+Alt+Le billentyűkombinációval"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Megnyitás a bal egérgombbal kattintva vagy a Control+Option+Le nyíl billentyűkombinációval"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Automatikus javítás"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+Le)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl+Alt+Lefelé nyíl)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Nyelvhelyességi hiba javítása"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Írás finomítása"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Helyesírási hiba javítása"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Megnyitás a bal gombbal kattintva"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Viva Topics javaslat"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "A(z) \"$1\" javaslat sikeresen elfogadva."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Feladatfelismerés"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Feladat létrehozása"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Javaslat: Feladat létrehozása"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Lapfül"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Koppintás"
+   },
+   "ebx_TurnItOn": {
+      "message": "Kapcsolja be"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Másik webhely hozzáadása"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Másik webhely hozzáadása"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "A webhely blokkoltwebhely-listához adásának megszakítása."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Webhely hozzáadása a blokkolt webhelyek listájához"
+   },
+   "ebx_addButton": {
+      "message": "Hozzáadás"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Nyelvhelyesség-ellenőrzés hozzáadása"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Az ellenőrzési nyelvekhez való nyelv hozzáadásának megszakítása"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Nyelv hozzáadása az ellenőrzési nyelvek listájához"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Másik nyelv hozzáadása"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Felvétel a szótárba"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Engedélyezheti a Szerkesztőnek, hogy automatikusan észlelje és hozzáadja az új nyelvi ellenőrző nyelveket az írása alapján."
+   },
+   "ebx_appDescription": {
+      "message": "Magabiztosan írhat a Microsoft Szerkesztővel, az intelligens írássegéddel"
+   },
+   "ebx_appLongDescription": {
+      "message": "A Szerkesztő nyelvtani, helyesírási és stilisztikai javaslatokat magában foglaló speciális írási segítséget nyújt a weben (1), így Ön magabiztosan írhat világos, lényegre törő bejegyzéseket és e-maileket.\r\n\r\nProfiként írhat az intelligens írási segítséggel\r\nAz ingyenes nyelvtani, nyelvhelyességi, helyesírási és központozási ellenőrzéssel gondoskodhat az Ön által írt szövegek alapvető nyelvhelyességéről. A prémiumverzióval (Microsoft 365-előfizetés szükséges hozzá) bővebb stilisztikai javaslatokat és visszajelzést kaphat a szöveg egyértelműségéről, tömörségéről, hivatalos megfogalmazásáról, szókincséről és még sok másról.\r\n\r\nSzemélyre szabhatja az igényeinek megfelelően\r\nA Szerkesztő mostantól fel tud venni szavakat a Microsoft 365-alkalmazásokba beépített saját szótárba. Ehhez keresse a „Felvétel a szótárba” lehetőséget, amikor a Szerkesztő helyesírási javaslatot tesz. Ezenkívül a beállítások között finomhangolhatja az írási javaslatokra vonatkozó beállításait. Az egyes helyesírási javítások összes előfordulásának figyelmen kívül hagyását is megkönnyítettük. Ehhez válassza Az összes kihagyása lehetőséget, illetve a nem kívánt nyelvtani javaslatok figyelmen kívül hagyásához válassza a Kihagyás lehetőséget.\r\n\r\nÍrás bárhol\r\nEzzel a böngészőbővítménnyel írási segítséget kaphat a kedvenc webhelyein, többek között a LinkedIn, a Gmail, a Facebook és egyéb szolgáltatások felületén. Ha az Office-alkalmazásokban – ahol minden bizonnyal a legtöbbet ír – is igénybe szeretné venni a Szerkesztő segítségét, nyissa meg a Webes Wordöt vagy Outlookot, és javaslatokat kaphat a dokumentumok és e-mailek tökéletesítésére.\r\n\r\nSegítség több nyelven\r\nA többnyelvű nyelvi ellenőrzésnek köszönhetően egyszerre akár három nyelven is ellenőrizheti a helyesírást és a nyelvtant. A Szerkesztő több mint 80 nyelven tudja ellenőrizni a helyesírást, és 21 nyelvhez kínál nyelvhelyességi ellenőrzést és az írás stílusára vonatkozó javaslatokat. A nyelvek elérhetőségére vonatkozó további információkért lásd: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nItt szerezheti be az Edge-hez készült Szerkesztőt: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. A Microsoft Edge vagy a Chrome böngészőben érhető el, és Microsoft-fiók szükséges hozzá. A Szerkesztő egy online Microsoft-szolgáltatáshoz kapcsolódik, amely helyesírási, nyelvtani és finomítási javaslatokat kínál az íráshoz a legtöbb webhelyen.\r\n2. Az nyelvekhez tartozó finomításkészletek nem azonosak.\r\n\r\nAz alkalmazás telepítésével elfogadja a következő feltételeket és kikötéseket:\r\n\r\nMEGJEGYZÉS: A Microsoft-fiókjára, illetve a Microsoft 365-előfizetésére vonatkozó licencfeltételek között azonosíthatja a jelen bővítményt (a „bővítményt”) Önnek licencelő entitást, és ott találhat támogatási információt is. A bővítmény Ön általi használatára a Microsoft-fiókjához vagy a Microsoft 365-előfizetéséhez tartozó licencfeltételek vonatkoznak.\r\n\r\nAdatvédelmi szabályzat: http://aka.ms/privacy\r\nSzolgáltatási feltételek: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "A Szerkesztő nyelvtani, helyesírási és stilisztikai javaslatokat magában foglaló speciális írási segítséget nyújt a weben (1), így Ön magabiztosan írhat világos, lényegre törő bejegyzéseket és e-maileket.\r\n\r\nProfiként írhat az intelligens írási segítséggel\r\nAz ingyenes nyelvtani, nyelvhelyességi, helyesírási és központozási ellenőrzéssel gondoskodhat az Ön által írt szövegek alapvető nyelvhelyességéről. A prémiumverzióval (Microsoft 365-előfizetés szükséges hozzá) bővebb stilisztikai javaslatokat és visszajelzést kaphat a szöveg egyértelműségéről, tömörségéről, hivatalos megfogalmazásáról, szókincséről és még sok másról.\r\n\r\nSzemélyre szabhatja az igényeinek megfelelően\r\nA Szerkesztő mostantól fel tud venni szavakat a Microsoft 365-alkalmazásokba beépített saját szótárba. Ehhez keresse a „Felvétel a szótárba” lehetőséget, amikor a Szerkesztő helyesírási javaslatot tesz. Ezenkívül a beállítások között finomhangolhatja az írási javaslatokra vonatkozó beállításait. Az egyes helyesírási javítások összes előfordulásának figyelmen kívül hagyását is megkönnyítettük. Ehhez válassza Az összes kihagyása lehetőséget, illetve a nem kívánt nyelvtani javaslatok figyelmen kívül hagyásához válassza a Kihagyás lehetőséget.\r\n\r\nÍrás bárhol\r\nEzzel a böngészőbővítménnyel írási segítséget kaphat a kedvenc webhelyein, többek között a LinkedIn, a Gmail, a Facebook és egyéb szolgáltatások felületén. Ha az Office-alkalmazásokban – ahol minden bizonnyal a legtöbbet ír – is igénybe szeretné venni a Szerkesztő segítségét, nyissa meg a Webes Wordöt vagy Outlookot, és javaslatokat kaphat a dokumentumok és e-mailek tökéletesítésére.\r\n\r\nSegítség több nyelven\r\nA többnyelvű nyelvi ellenőrzésnek köszönhetően egyszerre akár három nyelven is ellenőrizheti a helyesírást és a nyelvtant. A Szerkesztő több mint 80 nyelven tudja ellenőrizni a helyesírást, és 21 nyelvhez kínál nyelvhelyességi ellenőrzést és az írás stílusára vonatkozó javaslatokat. A nyelvek elérhetőségére vonatkozó további információkért lásd: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nItt szerezheti be a Chrome-hoz készült Szerkesztőt: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. A Microsoft Edge vagy a Chrome böngészőben érhető el, és Microsoft-fiók szükséges hozzá. A Szerkesztő egy online Microsoft-szolgáltatáshoz kapcsolódik, amely helyesírási, nyelvtani és finomítási javaslatokat kínál az íráshoz a legtöbb webhelyen.\r\n2. Az nyelvekhez tartozó finomításkészletek nem azonosak.\r\n\r\nAz alkalmazás telepítésével elfogadja a következő feltételeket és kikötéseket:\r\n\r\nMEGJEGYZÉS: A Microsoft-fiókjára, illetve a Microsoft 365-előfizetésére vonatkozó licencfeltételek között azonosíthatja a jelen bővítményt (a „bővítményt”) Önnek licencelő entitást, és ott találhat támogatási információt is. A bővítmény Ön általi használatára a Microsoft-fiókjához vagy a Microsoft 365-előfizetéséhez tartozó licencfeltételek vonatkoznak.\r\n\r\nAdatvédelmi szabályzat: http://aka.ms/privacy\r\nSzolgáltatási feltételek: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Microsoft Szerkesztő: Helyesírás- és nyelvhelyesség-ellenőrző"
+   },
+   "ebx_appShortName": {
+      "message": "Szerkesztő"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, ehhez hasonló: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, hasonló ehhez: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Csere erre"
+   },
+   "ebx_asInSynonyms": {
+      "message": "ehhez hasonló:"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "\"$1\", automatikus javítás visszavonva."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Visszaállítás erre: „$1“"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, automatikusan javítva."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Az automatikus javítás beállításainak megjelenítéséhez nyomja le a control billentyűt."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "„{0}“ sikeresen hozzáadva"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Az Eltávolítás gomb eléréséhez nyomja le a Jobbra billentyűt."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Ez a lista üres."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "„{0}“ sikeresen eltávolítva"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft Szerkesztő"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "A Microsoft Szerkesztő emblémája"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Tallózás ezen a számítógépen"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Az összes cseréje"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Szerkesztő beállításai..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Finomítások keresése"
+   },
+   "ebx_checkGrammar": {
+      "message": "Nyelvhelyesség ellenőrzése"
+   },
+   "ebx_checkSpelling": {
+      "message": "Helyesírás-ellenőrzés"
+   },
+   "ebx_close": {
+      "message": "Bezárás"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Hamarosan"
+   },
+   "ebx_copilotInsert": {
+      "message": "Beszúrás"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Copilot átírás"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Ismétlődő szó törlése"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Az ellenőrzés leállítása"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Ezentúl ezt nem ellenőrzi. A Szerkesztő mindaddig ezt a beállítást használja, amíg Ön nem módosítja."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "A szerkesztő addig alkalmazza ezt a beállítást, amíg Ön nem módosítja"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "A Szerkesztő kikapcsolása itt:{0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Megjelenítési beállítások"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Ez a webhely már szerepel a blokkolt webhelyek listáján."
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "A Szerkesztő $1 speciális írási ötletet kínál ehhez az üzenethez."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "A Szerkesztő egyelőre nem működik a következőn: {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Szerkesztő előugró ablaka"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Ki"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Be"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "A Szerkesztő gomb megjelenítése a Szerkesztő előugró ablakot támogató mezőkben"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "A Microsoft Office böngészőbővítménynek már az intelligens írássegédként működő Microsoft Szerkesztő is része, amellyel a legjobb tudása szerint írhat bármely webhelyen. A Microsoft Szerkesztő egy online szolgáltatáshoz csatlakozva helyesírási, nyelvhelyességi és stilisztikai javaslatokkal szolgál."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Elindítottuk a Microsoft Szerkesztő előzetes verzióját"
+   },
+   "ebx_editorFeature": {
+      "message": "Microsoft Szerkesztő"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Ki"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "A Szerkesztő kikapcsolása"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Be"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Szerkesztő funkció"
+   },
+   "ebx_editorIsOff": {
+      "message": "A Szerkesztő ki van kapcsolva"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "A Szerkesztő jelenleg ki van kapcsolva itt:{0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "A(z) {0} tartalmazza a Szerkesztőt"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "A Szerkesztő további beállításai"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Nincsenek a keresési feltételeknek megfelelő nyelvek"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "A Szerkesztő engedélyezése itt:{0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " és "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": "; "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "A Szerkesztő $1 speciális írási ötletet kínál ehhez az üzenethez."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "A Szerkesztő $1 speciális írási ötletet kínál ehhez az üzenethez."
+   },
+   "ebx_excludedSites": {
+      "message": "Kizárt webhelyek"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Javaslat jelentése"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Kérjük, árulja el, hogy miért így válaszolt."
+   },
+   "ebx_feedbackLink": {
+      "message": "visszajelzés"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Segíthet nekünk a Editor továbbfejlesztésében:"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Nagyon negatívak"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Nagyon negatív"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Kicsit negatív"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Kicsit negatív"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Semlegesek"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Semleges"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Kicsit pozitív"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Kicsit pozitív"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Nagyon pozitívak"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Nagyon pozitív"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Összességében hogyan értékelné a Microsoft Szerkesztő használata során szerzett tapasztalatait?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "A Microsoft Szerkesztő használatakor összességében hogy érzi magát, amikor helyesírási, nyelvtani, prediktív szövegbeviteli és egyéb javaslatokat kap a szövegének finomítására?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Visszajelzés küldése a Microsoftnak a szerkesztőről"
+   },
+   "ebx_giveFeedback": {
+      "message": "Visszajelzés küldése"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Hozzájuthat az Editor speciális szerkesztési ötleteihez, 1 TB OneDrive-tárterületet kap, ezenkívül az összes Microsoft 365-appban használhatja a prémium funkciókat."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Hozzájuthat az Editor speciális szerkesztési ötleteihez, 1 TB OneDrive-tárterületet kap, ezenkívül az összes Microsoft 365-appban használhatja a prémium funkciókat."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Próbálja ki a Editor speciális szerkesztési ötleteit."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Váltás a prémium verzióra"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "váltson a prémium verzióra"
+   },
+   "ebx_goToSettings": {
+      "message": "Ugrás a Szerkesztő beállításaira"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Ugrás a Szerkesztő beállításaihoz további információért"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Docs"
+   },
+   "ebx_grammar": {
+      "message": "Nyelvhelyesség"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Szinonimák elrejtése"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Az összes kihagyása"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Mellőzés"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Nyissa meg a Szerkesztőt, vagy kattintson a jobb gombbal a további lehetőségekért"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Tekintse meg az összes javaslatot a Szerkesztőben, vagy kattintson a jobb gombbal a további lehetőségekért"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Ez a sor \"$1\" ellenőrzési hibákat tartalmaz"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Ezen a sorban \"$1\" ellenőrző probléma található."
+   },
+   "ebx_languageAdded": {
+      "message": "„{0}“ sikeresen hozzáadva"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" egy pozícióval lejjebb helyezése a listán sikeresen megtörtént"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" a lista tetejére helyezése sikeresen megtörtént"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" egy pozícióval fentebb helyezése a listán sikeresen megtörtént"
+   },
+   "ebx_languageRemoved": {
+      "message": "„{0}“ sikeresen eltávolítva"
+   },
+   "ebx_learnMore": {
+      "message": "További információ"
+   },
+   "ebx_manageLanguages": {
+      "message": "Nyelvek kezelése..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Helyesírás-ellenőrzési nyelvek kezelése"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "További parancsok a(z) {0} nyelvhez"
+   },
+   "ebx_moveDown": {
+      "message": "Lejjebb"
+   },
+   "ebx_moveToTop": {
+      "message": "Lista élére helyezés"
+   },
+   "ebx_moveUp": {
+      "message": "Feljebb"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Következő javaslat, $1 van hátra"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Szerkesztő megnyitása"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Szerkesztő beállításai"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Mivel ezt az elírást több alkalommal végrehajtotta, felvettük a(z) \"$1\" kifejezést az automatikus javítási listára."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1 nap van hátra az előzetes verzióban. Frissítés korlátlan számú javaslatra:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "$1 nap van hátra az előzetes verzióban. Frissítés korlátlan számú javaslatra:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Speciális írási ötleteket kaphat a Szerkesztőtől."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1 javaslat maradt az előzetes verzióban. Frissítés korlátlan számú javaslatra:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1 javaslat maradt az előzetes verzióban. Frissítés korlátlan számú javaslatra:"
+   },
+   "ebx_preview": {
+      "message": "(Előzetes verzió)"
+   },
+   "ebx_previewLabel": {
+      "message": "ELŐZETES VERZIÓ"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Előző javaslat, $1 van hátra"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Az online szolgáltatás használata során automatikusan elküldheti az opcionális diagnosztikai adatokat, hogy ezzel segítsen nekünk a termékeink fejlesztésében."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "További információ a diagnosztikai adatokról"
+   },
+   "ebx_privacyOptions": {
+      "message": "Adatvédelmi beállítások"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Ellenőrzés nyelve"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "A Jobbra nyílbillentyűvel elérheti a További parancsok gombot."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Ellenőrzés nyelve"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Egyszerre legfeljebb három nyelven kapcsolhatja be a nyelvi ellenőrzést."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Válassza ki az ellenőrzés nyelvét"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Ellenőrzési nyelvek"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Jelöljön ki legfeljebb három nyelvet. Az Ön által preferált nyelv lesz felül."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Ellenőrzési nyelvek"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Hasznosnak találja a Szerkesztőt?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Mindössze két kérdést szeretnénk feltenni Önnek"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Visszajelzés küldése"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Ezt sajnálattal halljuk. Kérjük, tudassa velünk, hogyan tökéletesíthetnénk a Szerkesztőt."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Nem"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Köszönöm, nem"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Nagyszerű! Szeretné értékelni?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Ha még mindig élvezi a Szerkesztő használatát, szeretné értékelni a szolgáltatást?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Rendben"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Igen"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Visszajelzés a Microsoft Szerkesztőről"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Szívesen vennénk a visszajelzését"
+   },
+   "ebx_refinements": {
+      "message": "Finomítások"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "A finomítások olyan bővített stilisztikai javaslatok, amelyekkel érthetőbbé, tömörebbé és formálisabbá teheti írásait."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Ez a szó ismétlődik"
+   },
+   "ebx_settings": {
+      "message": "Beállítások"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "A Szerkesztő beállításainak megnyitása"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Nyissa meg a Szerkesztő beállításait az ellenőrzési nyelvek kiválasztásához."
+   },
+   "ebx_settingsLabel": {
+      "message": "Fiókbeállítások"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "A Microsoft Szerkesztő beállításai"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Beállítások nyelv szerint"
+   },
+   "ebx_showBeta": {
+      "message": "Bétaverzió: $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Szinonimák megjelenítése"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Szinonimák megjelenítése helyesírási javaslatokhoz"
+   },
+   "ebx_signInDescription": {
+      "message": "Jelentkezzen be, hogy nyelvtani javaslatokat, személyre szabott helyesírási szótárt és finomítási javaslatokat láthasson a legtöbb webhelyen."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Segítséget szeretne a bejelentkezéshez?"
+   },
+   "ebx_signInLabel": {
+      "message": "Bejelentkezés vagy regisztráció"
+   },
+   "ebx_signInToAccess": {
+      "message": "Bejelentkezés az eléréshez"
+   },
+   "ebx_signIntoEditor": {
+      "message": "jelentkezzen be a Szerkesztőbe"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "A nyelvtani és finomítási javaslatok bővítmény beszerzéséhez kérjük, jelentkezzen be."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Személyre szabott helyesírás-ellenőrzéshez"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "A személyre szabott helyesírási szótár használatához jelentkezzen be."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "A nyelvtani és finomítási javaslatok bővítmény beszerzéséhez kérjük, jelentkezzen be."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Jelentkezzen be, hogy nyelvtani javaslatokat, személyre szabott helyesírási szótárt és finomítási javaslatokat láthasson a legtöbb webhelyen."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Bejelentkezés a Szerkesztőbe"
+   },
+   "ebx_signOutLabel": {
+      "message": "Kijelentkezés"
+   },
+   "ebx_signOutTooltip": {
+      "message": "A kijelentkezéssel az összes beállítást visszaállítja az alapértelmezettre, és elveszíti a kizárt webhelyek listáját."
+   },
+   "ebx_spelling": {
+      "message": "Helyesírás"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Ellenőrizze, hogy helyesen írta-e"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "További műveletek"
+   },
+   "ebx_synonyms": {
+      "message": "Szinonimák"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonyms not available]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Szinonimák lekérése íráskor: kattintson duplán egy szóra, vagy válassza ki, majd nyomja le az (Alt+Lefelé nyíl) billentyűkombinációt."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Szinonimák lekérése íráskor: kattintson duplán egy szóra, vagy válassza ki, majd nyomja le a(z) (⌃ + ⌥ + ↓) billentyűkombinációt."
+   },
+   "ebx_toggleOff": {
+      "message": "Ki"
+   },
+   "ebx_toggleOn": {
+      "message": "Be"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Igen"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Most javaslatokkal segítjük az írás hangvételét. Meg szeretné tekinteni?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Elvetés"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Máskor"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Módosítás a Szerkesztő beállításaiban"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Soha ne jelenjenek meg hangnemjavaslatok"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "A hangnem azonosítása ki van kapcsolva."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Hangnem azonosítása"
+   },
+   "ebx_toneLabel": {
+      "message": "Hangszín"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Címkézze fel ezt a témakört, hogy mások is hozzáférhessenek a leíráshoz, a személyekhez és a hozzá kapcsolódó erőforrásokhoz."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Viva Topics javaslat"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Próbálja ki a Szerkesztő speciális szerkesztési ötleteit"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Kipróbálás most"
+   },
+   "ebx_turnOffEditor": {
+      "message": "A Szerkesztő kikapcsolása"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "A Szerkesztő a Microsoft azon online szolgáltatásához csatlakozik, amely helyesírási, nyelvhelyességi és stilisztikai javaslatokkal szolgál a webhelyek zömén."
+   },
+   "ebx_turnOnEditor": {
+      "message": "A Szerkesztő bekapcsolása"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Visszavonás"
+   },
+   "ebx_undoButtonText": {
+      "message": "Visszavonás"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Automatikus javítás beállításai"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Blokkolt webhelyek"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Érvénytelen URL. Adja meg az URL-címet a következő formátumban: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Érvénytelen \"{0}\" URL-cím a(z) {1}. sorban."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Kikapcsolta a Szerkesztő az alább felsorolt webhelyeken. Lehet, hogy az Office a bizalmas tartalmú vagy lassan betöltődő további webhelyeken is automatikusan kikapcsolja a Szerkesztő."
+   },
+   "ebx_viewAccount": {
+      "message": "Fiók megtekintése"
+   },
+   "editor": {
+      "message": "Szerkesztő"
+   },
+   "editorButtonText": {
+      "message": "Szerkesztő"
+   },
+   "emailWarningMessage": {
+      "message": "A Copilot használatához lépjen az e-mail végére."
+   },
+   "emptyStateMessage": {
+      "message": "Jelölje ki az átírandó szöveget"
+   },
+   "errorLabel": {
+      "message": "Hiba"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "saját szótár"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Tartalomhoz csatolás a speciális karakterrel, a perjel (/) beírásával."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Tartalom címkézése"
+   },
+   "esdk_autocorrect": {
+      "message": "Automatikus javítás"
+   },
+   "esdk_cancelButton": {
+      "message": "Mégse"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Beállítások"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, kapcsoló, Ki"
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, kapcsoló, Be"
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. A kategória állapotának meghallgatásához nyomja meg a Tab billentyűt"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "A kategória kibontásához használja a jobbra nyilat."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "A részletes beállítások le vannak tiltva."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "A jobbra mutató nyíllal részletes beállításokat adhat meg."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} letiltva"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Az ebben a kategóriában lévő összes részletes beállítás mostantól jelöletlen."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Az ebben a kategóriában lévő összes részletes beállítás mostantól be van jelölve."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "A(z) {0} kategória részletes beállításai"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "A szóköz vagy az Enter billentyűt lenyomva válthatja a kategória állapotát,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "A Szerkesztő csak akkor jelöli meg ezt a problémát, ha megnyitja a Szerkesztő ablaktáblát."
+   },
+   "esdk_closeButton": {
+      "message": "Bezárás"
+   },
+   "esdk_copilotInsert": {
+      "message": "Beszúrás"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "A Copilot jelenleg csak az angol nyelvet támogatja"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Átírás"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Javítások"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Balra mutató nyíl a beállításokhoz való visszatéréshez"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Jobb mutató nyíl a részletes beállítások eléréséhez"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "A jelölőnégyzet értékének módosításához engedélyezni kell a kategóriát"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Módosíthatja, hogy a Szerkesztő hogyan javítsa a szöveget, és hogyan javasoljon finomítások ebben az alkalmazásban."
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "A Microsoft Szerkesztő beállításai"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Helyesírás bekapcsolása az automatikus javítás használatához"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Bővítmények"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Nem sikerült betölteni a Szerkesztő beállításait."
+   },
+   "esdk_goPremiumButton": {
+      "message": "Váltás a prémium verzióra"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "A prémium verzióra váltva bővített stilisztikai javaslatokat kaphat és 1 TB tárterületet vehet igénybe"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Az állapot meghallgatásához nyomja meg a Tab billentyűt"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Szövegközti szerkesztés"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Ellenőrzés nyelve"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "A következő beállításai:"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "A Szerkesztő észleli, ha a szöveg egy fájlra vagy adatra hivatkozik, és felajánlja egy hivatkozás létrehozását."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Hivatkozási javaslatok"
+   },
+   "esdk_okButton": {
+      "message": "OK"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Nyelvi ellenőrzés beállításainak összecsukása."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Válassza ki, hogy a Szerkesztő mit ellenőrizzen."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Jelöljön ki legfeljebb három nyelvet. Az Ön által preferált nyelv lesz felül."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Nyelvek szerkesztése"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Nyelvi ellenőrzés beállításainak kibontása."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Nyelvi ellenőrzés beállításai"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Nyelvi ellenőrzés nyelvének beállításai"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Nyelvi ellenőrzés beállításai"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Nyelvek szerkesztése"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Jelöljön ki legfeljebb három nyelvet. Az Ön által preferált nyelv lesz felül."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Nyelvi ellenőrzés beállításai"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Nyelvi ellenőrzés beállításai"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Finomítások"
+   },
+   "esdk_resetToDefault": {
+      "message": "Alapértékek visszaállítása"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Próbálja ki a Szerkesztő speciális szerkesztési javaslatait."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Részletek letöltése"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Nem minden nyelv rendelkezik ugyanazzal az írási útmutatóval. Töltse le ezt a dokumentumot a kiválasztott nyelvhez elérhető nyelvtani és finomítási beállítások részleteinek megtekintéséhez."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "További információ"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Nem minden nyelv rendelkezik ugyanazzal az írási útmutatóval. Ezen a hivatkozáson többet tudhat meg az összes Szerkesztő-nyelvhez elérhető nyelvtani és finomítási beállításokról."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Nem minden nyelv rendelkezik ugyanazzal az írási útmutatóval. {További információ} az összes Szerkesztő-nyelvhez elérhető nyelvtani és finomítási beállításokról."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "A helyesírás-ellenőrzési beállítások módosításai az összes engedélyezett nyelvre vonatkoznak."
+   },
+   "esdk_synonyms": {
+      "message": "Szinonimák (előzetes verzió)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Gépeléskor Szerkesztő előre jelzi az elkövetkezendő szavakat - valamint a fájlokat vagy más objektumokat - beszúráshoz."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Prediktív szövegbevitel"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "A gyorsabb gépelés érdekében a szerkesztő előre felkínálja a következő szavakat, és beíráskor szavakat vagy kifejezéseket javasol."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Tanulási tipp"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Példák"
+   },
+   "explanationTableAfter": {
+      "message": "Vegyük a következőt:"
+   },
+   "explanationTableBefore": {
+      "message": "Ehelyett:"
+   },
+   "explanationTableSeparator": {
+      "message": "vagy"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Bejegyzés írása az Eiffel-toronyhoz tett utazásomról"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "A Copilot használatához ugorjon a bejegyzés végére."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Következő lap"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "$1/$2. TIPP"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Előző lap"
+   },
+   "generalErrorMessage": {
+      "message": "A Microsoft Szerkesztő problémába ütközött, és nem tudott tartalmat generálni."
+   },
+   "generateButtonLabel": {
+      "message": "Létrehozás"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Visszajelzés küldése"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Értekezlet-összehívási e-mail írása"
+   },
+   "inputName": {
+      "message": "Írja le, hogy mit írjon a Szerkesztő..."
+   },
+   "inputPlaceholder": {
+      "message": "Magyarázza el, mit szeretne írni"
+   },
+   "languageErrorMessage": {
+      "message": "Az átírások még nem érhetők el a kiválasztott nyelvhez."
+   },
+   "limitErrorMessage": {
+      "message": "Az átíráshoz jelöljön ki kevesebb mint 100 szót."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Tartalomkészítési tippek"
+   },
+   "loadingLabel": {
+      "message": "Egy pillanat, valamit kitalálunk Önnek..."
+   },
+   "loadingText": {
+      "message": "Betöltés: "
+   },
+   "modalDescribeBy": {
+      "message": "Egyéb módokat hoz létre a kiválasztott szöveg írására"
+   },
+   "moreButtonLabel": {
+      "message": "További beállítások"
+   },
+   "moreButtonText": {
+      "message": "Egyebek"
+   },
+   "moreOptionsLabel": {
+      "message": "További lehetőségek"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "másik helyesírás-ellenőrzési nyelv hozzáadása"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Helyesírás-ellenőrzési nyelv hozzáadása."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Ha releváns írási javaslatokat szeretne kapni,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Másik nyelv hozzáadása a szerkesztőhöz"
+   },
+   "nextSuggestion": {
+      "message": "Következő javaslat"
+   },
+   "nudgeTextForEmails": {
+      "message": "E-mailek kereséséhez írja be ezt: $1"
+   },
+   "nudgeTextForFile": {
+      "message": "Fájlok és egyebek kereséséhez írja be ezt: $1"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Értekezletek kereséséhez írja be ezt: $1"
+   },
+   "nudgeTextForPeople": {
+      "message": "Személyek kereséséhez írja be ezt: $1"
+   },
+   "prevSuggestion": {
+      "message": "Előző javaslat"
+   },
+   "preview": {
+      "message": "ELŐZETES VERZIÓ"
+   },
+   "previewText": {
+      "message": "ELŐZETES VERZIÓ"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "A CTRL + ALT + I billentyűkombinációt lenyomva bármikor használhatja ezt a funkciót, amikor új soron áll."
+   },
+   "promptSuggestButtonText": {
+      "message": "Csak folytassa az írást "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+Jobbra"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Eredeti mondat felolvasása"
+   },
+   "regenerateLabel": {
+      "message": "Újragenerálás"
+   },
+   "replaceLabel": {
+      "message": "Csere"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Jelentés által generált tartalom"
+   },
+   "reportOutput": {
+      "message": "Kimenet jelentése"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "A mesterséges intelligencia által létrehozott tartalom pontatlan vagy bizalmas anyagokat tartalmazhat. Ellenőrizze az adatokat."
+   },
+   "retry": {
+      "message": "Újrapróbálkozás"
+   },
+   "rewriteBrand": {
+      "message": "Átfogalmazás"
+   },
+   "rewriteWithCopilot": {
+      "message": "Átfogalmazás"
+   },
+   "sbx_signInDescription": {
+      "message": "Jelentkezzen be, hogy nyelvtani javaslatokat, személyre szabott helyesírási szótárt és finomítási javaslatokat láthasson a legtöbb webhelyen."
+   },
+   "shareFeedback": {
+      "message": "Visszajelzés megosztása"
+   },
+   "showHeaderMessage": {
+      "message": "Íme néhány más módszer ennek megírásra"
+   },
+   "submitButtonTooltip": {
+      "message": "Létrehozás (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "A Copilot használatához ugorjon a bekezdés végére."
+   },
+   "suggestionCountSeparator": {
+      "message": "–"
+   },
+   "suggestionHint": {
+      "message": "Nyomja meg az ENTER gombot az elfogadáshoz"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Próbálja újra"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Újbóli létrehozás"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Motivációs tweet írása"
+   },
+   "twitterWarningMessagePost": {
+      "message": "A Copilot használatához ugorjon a tweet végére."
+   }
+}

@@ -1,0 +1,1 @@
+importScripts("./config.js"),importScripts("./background.js");

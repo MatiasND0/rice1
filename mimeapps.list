@@ -1,0 +1,6 @@
+[Added Associations]
+text/markdown=code.desktop;
+text/plain=code.desktop;
+
+[Default Applications]
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_mnt_sd_opt_st_stm32cubeide_1.11.0_.desktop

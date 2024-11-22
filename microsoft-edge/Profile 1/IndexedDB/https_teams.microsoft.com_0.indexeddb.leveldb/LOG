@@ -1,0 +1,45 @@
+2024/11/15-19:09:58.951 540 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/15-19:09:58.951 540 Recovering log #142
+2024/11/15-19:09:58.952 540 Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000142.log 
+2024/11/15-19:09:59.493 541 Compacting 1@0 + 2@1 files
+2024/11/15-19:09:59.686 541 Generated table #146@0: 43329 keys, 2182899 bytes
+2024/11/15-19:09:59.701 541 Generated table #147@0: 671 keys, 274280 bytes
+2024/11/15-19:09:59.701 541 Compacted 1@0 + 2@1 files => 2457179 bytes
+2024/11/15-19:09:59.715 541 compacted to: files[ 0 2 3 0 0 0 0 ]
+2024/11/15-19:09:59.716 541 Delete type=2 #141
+2024/11/15-19:09:59.716 541 Delete type=2 #143
+2024/11/15-19:09:59.716 541 Delete type=2 #144
+2024/11/15-19:10:00.514 541 Compacting 1@1 + 2@2 files
+2024/11/15-19:10:00.620 541 Generated table #148@1: 5063 keys, 2149789 bytes
+2024/11/15-19:10:00.692 541 Generated table #149@1: 4950 keys, 1430116 bytes
+2024/11/15-19:10:00.692 541 Compacted 1@1 + 2@2 files => 3579905 bytes
+2024/11/15-19:10:00.696 541 compacted to: files[ 0 1 3 0 0 0 0 ]
+2024/11/15-19:10:00.696 541 Delete type=2 #101
+2024/11/15-19:10:00.697 541 Delete type=2 #147
+2024/11/15-19:10:00.698 541 Delete type=2 #120
+2024/11/15-19:10:03.097 540 Compacting 1@1 + 2@2 files
+2024/11/15-19:10:03.241 540 Generated table #150@1: 2891 keys, 2133170 bytes
+2024/11/15-19:10:03.368 540 Generated table #151@1: 6032 keys, 2153498 bytes
+2024/11/15-19:10:03.405 540 Generated table #152@1: 1293 keys, 469607 bytes
+2024/11/15-19:10:03.405 540 Compacted 1@1 + 2@2 files => 4756275 bytes
+2024/11/15-19:10:03.421 540 compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/11/15-19:10:03.422 540 Delete type=2 #78
+2024/11/15-19:10:03.422 540 Delete type=2 #148
+2024/11/15-19:10:03.422 540 Delete type=2 #146
+2024/11/15-23:27:44.256 541 Level-0 table #154: started
+2024/11/15-23:27:44.308 541 Level-0 table #154: 610152 bytes OK
+2024/11/15-23:27:44.311 541 Delete type=0 #142
+2024/11/15-23:27:44.311 541 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/15-23:27:44.311 541 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\xa1\x01\x1f\x03\x00\xe0g2*3yB\x00\x01 \x00@\x00f\x00l\x00u\x00i\x00d\x00x\x00/\x00l\x00o\x00o\x00p\x00-\x00p\x00a\x00g\x00e\x00-\x00c\x00o\x00n\x00t\x00a\x00i\x00n\x00e\x00r\x00_\x00P\x00r\x00o\x00d' @ 272555 : 1
+2024/11/15-23:27:44.311 541 Compacting 1@1 + 4@2 files
+2024/11/15-23:27:44.410 541 Generated table #155@1: 5124 keys, 2149690 bytes
+2024/11/15-23:27:44.513 541 Generated table #156@1: 5744 keys, 2154737 bytes
+2024/11/15-23:27:44.560 541 Generated table #157@1: 2825 keys, 883380 bytes
+2024/11/15-23:27:44.560 541 Compacted 1@1 + 4@2 files => 5187807 bytes
+2024/11/15-23:27:44.585 541 compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/11/15-23:27:44.586 541 Delete type=2 #151
+2024/11/15-23:27:44.586 541 Delete type=2 #152
+2024/11/15-23:27:44.586 541 Delete type=2 #149
+2024/11/15-23:27:44.586 541 Delete type=2 #150
+2024/11/15-23:27:44.587 541 Delete type=2 #154
+2024/11/15-23:27:44.590 541 Manual compaction at level-1 from '\x00\xa1\x01\x1f\x03\x00\xe0g2*3yB\x00\x01 \x00@\x00f\x00l\x00u\x00i\x00d\x00x\x00/\x00l\x00o\x00o\x00p\x00-\x00p\x00a\x00g\x00e\x00-\x00c\x00o\x00n\x00t\x00a\x00i\x00n\x00e\x00r\x00_\x00P\x00r\x00o\x00d' @ 272555 : 1 .. (end); will stop at (end)

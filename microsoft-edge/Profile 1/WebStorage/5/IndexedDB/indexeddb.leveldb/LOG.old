@@ -1,0 +1,6 @@
+2024/11/08-18:57:42.673 612 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/08-18:57:42.673 612 Recovering log #3
+2024/11/08-18:57:42.775 612 Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/WebStorage/5/IndexedDB/indexeddb.leveldb/000003.log 
+2024/11/08-18:57:45.137 614 Level-0 table #5: started
+2024/11/08-18:57:45.263 614 Level-0 table #5: 2253708 bytes OK
+2024/11/08-18:57:45.270 614 Delete type=0 #3

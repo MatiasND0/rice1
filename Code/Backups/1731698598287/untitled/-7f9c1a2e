@@ -1,0 +1,7 @@
+untitled:Untitled-1 {"typeId":""}
+catkin_make --pkg utils
+catkin_make
+echo 'export GAZEBO_MODEL_PATH="/home/hhouse/Documents/Simulator/src/models_pkg:$GAZEBO_MODEL_PATH"' > devel/setup.bash
+export 'ROS_PACKAGE_PATH="/home/hhouse/Documents/Simulator/src:$ROS_PACKAGE_PATH"'> devel/setup.bash
+source devel/setup.bash
+roslaunch sim_pkg map_with_all_objects.launch

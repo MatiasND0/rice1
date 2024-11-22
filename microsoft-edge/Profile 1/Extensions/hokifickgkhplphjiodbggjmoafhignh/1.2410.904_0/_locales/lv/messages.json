@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Konts"
+   },
+   "AppDescription": {
+      "message": "Write with confidence with Microsoft Editor, your intelligent grammar, spelling, and style checking writing assistant."
+   },
+   "AppLongDescription": {
+      "message": "Redaktors nodrošina uzlabot rakstīšanas atbalstu, sniedzot gramatikas, pareizrakstības un stila ieteikumus tīmeklī (1), ļaujot jums pārliecināti rakstīt skaidrus un kodolīgus ierakstus un e-pasta vēstules.\r\n\r\nRakstiet kā profesionālis ar viedo rakstīšanas atbalstu\r\nValodas pamatus bez kļūdām nodrošinās bezmaksas gramatikas, paplašinātās gramatikas, pareizrakstības un pieturzīmju pārbaudes funkcija. Sasniedziet vairāk ar paplašināto stila pārbaudi, lai novērstu problēmas ar skaidrību, kodolīgumu, formalitāti, vārdu krājumu un citas problēmas (nepieciešams Microsoft 365 abonements).\r\n\r\nPielāgojiet atbilstoši savām vajadzībām\r\nTagad Redaktorā var pievienot vārdus jūsu pielāgotajā vārdnīcā, kas ir iebūvēta jūsu Microsoft 365 programmās. Meklējiet opciju \"Pievienot vārdnīcai\", kad Redaktors piedāvās ieteikumu. Jūs varat pielāgot rakstības ieteikumus Iestatījumu sadaļā. Tāpat mēs atvieglojām visu pareizrakstības kļūdu labojumu izlaišanu ar pogu Ignorēt visu, kā arī ieviesām iespēju izlaist nevēlamus labojumu ieteikumus ar pogu Ignorēt.\r\n\r\nRakstiet jebkur\r\nSaņemiet rakstīšanas atbalstu tādās vietnēs kā LinkedIn, Gmail, Facebook un citās jūsu iecienītākajās vietnēs, izmantojot šo pārlūkprogrammas paplašinājumu. Ja vēlaties Redaktora palīdzību Office programmās, kurās rakstāt visvairāk, atveriet Word vai Outlook tīmekļa versiju un saņemiet ieteikumus jūsu dokumentu un e-pasta vēstuļu uzlabošanai.\r\n\r\nSaņemiet atbalstu vairākās valodās\r\nPārbaudiet pareizrakstību un gramatiku līdz pat trim valodām vienlaikus, izmantojot vairāku valodu pareizrakstības pārbaudi. Redaktors pārbauda pareizrakstību vairāk kā 80 valodās un nodrošina gramatikas un stila uzlabojumus 21 valodā. Informācija par jūsu valodas pieejamību ir pieejama šeit: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n Lejupielādējiet Redaktoru pārlūkprogrammai Microsoft Edge šeit: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Redaktors pieejams pārlūkprogrammām Microsoft Edge un Chrome, un tā darbībai nepieciešams Microsoft konts. Redaktors veido savienojumu ar Microsoft tiešsaistes pakalpojumu, kas nodrošina jūsu teksta pareizrakstības, gramatikas un uzlabojumu ieteikumus lielākajā daļā vietņu.\r\n2. Ne visām valodām ir pieejams vienāds uzlabojumu klāsts.\r\n\r\nInstalējot šo programmu, jūs piekrītat šiem noteikumiem un nosacījumiem:\r\n\r\nŅEMIET VĒRĀ: lasiet savu Microsoft konta vai Microsoft 365 abonementa licenci (paplašinājums), lai noteiktu organizāciju, kas jums licencē šo paplašinājumu, un uzzinātu par atbalstu. Šī paplašinājuma lietošanai tiek piemēroti Microsoft konta vai Microsoft 365 abonementa noteikumi.\r\n\r\nPrivātuma politika: http://aka.ms/privacy\r\nPakalpojuma sniegšanas noteikumi: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Redaktors nodrošina uzlabot rakstīšanas atbalstu, sniedzot gramatikas, pareizrakstības un stila ieteikumus tīmeklī (1), ļaujot jums pārliecināti rakstīt skaidrus un kodolīgus ierakstus un e-pasta vēstules.\r\n\r\nRakstiet kā profesionālis ar viedo rakstīšanas atbalstu\r\nValodas pamatus bez kļūdām nodrošinās bezmaksas gramatikas, paplašinātās gramatikas, pareizrakstības un pieturzīmju pārbaudes funkcija. Sasniedziet vairāk ar paplašināto stila pārbaudi, lai novērstu problēmas ar skaidrību, kodolīgumu, formalitāti, vārdu krājumu un citas problēmas (nepieciešams Microsoft 365 abonements).\r\n\r\nPielāgojiet atbilstoši savām vajadzībām\r\nTagad Redaktorā var pievienot vārdus jūsu pielāgotajā vārdnīcā, kas ir iebūvēta jūsu Microsoft 365 programmās. Meklējiet opciju \"Pievienot vārdnīcai\", kad Redaktors piedāvās ieteikumu. Jūs varat pielāgot rakstības ieteikumus Iestatījumu sadaļā. Tāpat mēs atvieglojām visu pareizrakstības kļūdu labojumu izlaišanu ar pogu Ignorēt visu, kā arī ieviesām iespēju izlaist nevēlamus labojumu ieteikumus ar pogu Ignorēt.\r\n\r\nRakstiet jebkur\r\nSaņemiet rakstīšanas atbalstu tādās vietnēs kā LinkedIn, Gmail, Facebook un citās jūsu iecienītākajās vietnēs, izmantojot šo pārlūkprogrammas paplašinājumu. Ja vēlaties Redaktora palīdzību Office programmās, kurās rakstāt visvairāk, atveriet Word vai Outlook tīmekļa versiju un saņemiet ieteikumus jūsu dokumentu un e-pasta vēstuļu uzlabošanai.\r\n\r\nSaņemiet atbalstu vairākās valodās\r\nPārbaudiet pareizrakstību un gramatiku līdz pat trim valodām vienlaikus, izmantojot vairāku valodu pareizrakstības pārbaudi. Redaktors pārbauda pareizrakstību vairāk kā 80 valodās un nodrošina gramatikas un stila uzlabojumus 21 valodā. Informācija par jūsu valodas pieejamību ir pieejama šeit: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n Lejupielādējiet Redaktoru pārlūkprogrammai Chrome šeit: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Redaktors pieejams pārlūkprogrammām Microsoft Edge un Chrome, un tā darbībai nepieciešams Microsoft konts. Redaktors veido savienojumu ar Microsoft tiešsaistes pakalpojumu, kas nodrošina jūsu teksta pareizrakstības, gramatikas un uzlabojumu ieteikumus lielākajā daļā vietņu.\r\n2. Ne visām valodām ir pieejams vienāds uzlabojumu klāsts.\r\n\r\nInstalējot šo programmu, jūs piekrītat šiem noteikumiem un nosacījumiem:\r\n\r\nŅEMIET VĒRĀ: lasiet savu Microsoft konta vai Microsoft 365 abonementa licenci (paplašinājums), lai noteiktu organizāciju, kas jums licencē šo paplašinājumu, un uzzinātu par atbalstu. Šī paplašinājuma lietošanai tiek piemēroti Microsoft konta vai Microsoft 365 abonementa noteikumi.\r\n\r\nPrivātuma politika: http://aka.ms/privacy\r\nPakalpojuma sniegšanas noteikumi: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Microsoft redaktors: pareizrakstības un gramatikas pārbaudītājs"
+   },
+   "AppShortName": {
+      "message": "Redaktors"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Ieslēgt to"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Izmēģiniet Redaktoru (beta versiju) pakalpojumā Google dokumenti"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Redaktors ir pieejams beta versijā pakalpojumā Google dokumenti. Ja rodas kāda problēma, lūdzu, informējiet mūs."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Ja darbojas gan citi rediģēšanas paplašinājumi, gan Redaktors, to ieteikumi var pārklāties vai konfliktēt. Lai iegūtu vislabāko Redaktora lietošanas pieredzi, iesakām pārlūkprogrammas paplašinājumu iestatījumos izslēgt citus rediģēšanas paplašinājumus."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Atrasts paplašinājumu rediģēšanas konflikts"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Izslēgt līdzekli Redaktors vietnē $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft redaktors"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Copilot ievietošana"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Copilot pārrakstīšana"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Gramatika"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Redaktors lapā $host$ pašlaik netiek atbalstīts",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Redaktors pašlaik ir izslēgts vietnē $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Redaktors ir izslēgts."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1 $",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "lv"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Redaktors ir iekļauts kopā ar $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Korektūras valoda: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "lv"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Koriģēšanas valoda"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Valodu korektūra"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Iegūstiet uzlabotas rakstīšanas idejas un 1 TB krātuvi, pārejot uz maksas abonementu."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Precizējumi"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Precizējumi ir uzlabotas rakstīšanas ieteikumi, kas palīdz padarīt rakstīto skaidrāku, mazāk izplūdušu vai formālāku."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Atveriet redaktora iestatījumus, lai atlasītu korektūras valodas."
+   },
+   "EditorSettingsLabel": {
+      "message": "Citi Redaktora iestatījumi"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Pareizrakstība"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Sinonīmi (priekšskatījums)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Iegūstiet sinonīmus rakstīšanas laikā: veiciet dubultklikšķi uz vārda vai atlasiet un nospiediet (Alt+lejupvērstā bultiņa)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Iegūstiet sinonīmus rakstīšanas laikā: veiciet dubultklikšķi uz vārda vai atlasiet un nospiediet taustiņu kombināciju Alt+lejupvērstā bultiņa."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Iegūstiet sinonīmus rakstīšanas laikā: veiciet dubultklikšķi uz vārda vai atlasiet un nospiediet taustiņu kombināciju Control+Option+lejupvērstā bultiņa."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Iegūstiet sinonīmus rakstīšanas laikā: veiciet dubultklikšķi uz vārda vai atlasiet un nospiediet (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ un $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1 $",
+            "example": "lv"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "lv"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Iespējot Redaktoru lapā $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Skatīt kontu"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Pārlūkprogrammas paplašinājums Microsoft redaktors"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Microsoft redaktors ir sekmīgi jaunināts uz maksas versiju! Izpētiet paplašināto funkciju kopu, rakstītajā tekstā noklikšķinot uz pasvītrojumiem zilā un violetās krāsā."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Apsveicam!"
+   },
+   "SettingsLabel": {
+      "message": "Konta iestatījumi"
+   },
+   "SignInLabel": {
+      "message": "Pierakstīties un reģistrēties"
+   },
+   "SignOutLabel": {
+      "message": "Izrakstīties"
+   },
+   "SignOutTooltip": {
+      "message": "Izrakstoties visi iestatījumi tiks atiestatīti uz noklusējumu un pazudīs jūsu izslēgto vietņu saraksts."
+   },
+   "SupportPageLabel": {
+      "message": "Vai palīdzēt pierakstītie​s?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Ieslēgt Redaktoru"
+   },
+   "addButtonLabel": {
+      "message": "Pievienot to"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Izveidojiet, izmantojot Copilot, nospiediet taustiņu alt+i, lai rādītu opcijas"
+   },
+   "aiInsertButtonText": {
+      "message": "Izveidot saturu, izmantojot Copilot"
+   },
+   "aiInsertResultDescription": {
+      "message": "Lūk, veids, kā padarīt to piesaistošāku"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Redaktors pievienoja $1 kā pareizrakstības pārbaudes valodu"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Pārvaldīt pareizrakstības pārbaudes valodas"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Atsaukt"
+   },
+   "backToPromptLabel": {
+      "message": "Atpakaļ"
+   },
+   "closeLabel": {
+      "message": "Aizvērt"
+   },
+   "contentErrorMessage": {
+      "message": "Microsoft redaktors nevarēja izveidot saturu. Lūdzu, atlasiet citu tekstu vai brīdi uzgaidiet un mēģiniet vēlreiz."
+   },
+   "contentSuggestion": {
+      "message": "Satura ieteikums"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Labojums, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Gramatikas kļūda, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Stila precizēšana, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Atkārtotais vārds, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Nepareizi uzrakstīts, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "AI ģenerētajā saturā var būt neprecizitātes vai sensitīvs materiāls. Noteikti verificējiet informāciju."
+   },
+   "copyButtonText": {
+      "message": "Kopēt"
+   },
+   "defaultWarningMessage": {
+      "message": "Lai izmantotu Copilot, dodieties uz rindkopas beigām."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Korektūru vienlaicīgi var ieslēgt tikai trīs valodās."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "\"$1\" tika pievienots vārdnīcai."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Noraidīti At izvēlnes meklēšanas rezultāti"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Ieteikums tika ievietots. Noraidīti At izvēlnes meklēšanas rezultāti"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Noklikšķināts uz karodziņa ieteikuma. Parādīti At izvēlnes meklēšanas rezultāti"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Noklikšķināts uz Pamudināt. Parādīti At izvēlnes meklēšanas rezultāti"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "\"$1\" simbola nospiešana ir parādījusi At izvēlnes meklēšanas rezultātus"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Atvērt ar pogu Control"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Nospiediet taustiņu Control, lai piekļūtu automātiskās koriģēšanas opcijām"
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Failu ieteikumi"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Faili, komponenti, personas un daudz kas cits"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Ievietot"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Vietēja uzņēmuma noteikšana"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Adreses noteikšana"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Pievienot saiti uz šo adresi"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Atrašanās vieta"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Uzlabojums"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Personu ieteikumi"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Entītijas ieteikums"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Pievienot saiti šai entītijai"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Entītija"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Entītijas ieteikums"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Laika noteikšana"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Pievienot laika joslas šim laikam"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Laiks"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Uzlabojums"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Atzīmējiet šo tēmu, lai palīdzētu citiem piekļūt aprakstam, personām un ar to saistītajiem resursiem."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Viva Topics ieteikums"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Viva Topics ieteikums"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Parādīts Pamudinājuma ieteikums: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "Atcelt"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Datuma atpazīšana"
+   },
+   "ebx_Dismiss": {
+      "message": "Nerādīt"
+   },
+   "ebx_Done": {
+      "message": "Gatavs"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Meklēt failus"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Meklēt personas"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Sāciet rakstīt, lai meklētu"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Sāciet rakstīt, lai meklētu 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Lai meklētu, sāciet rakstīt"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Lai meklētu, sāciet rakstīt"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Meklēt Loop komponentus"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Lai meklētu, sāciet rakstīt"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Lai meklētu, sāciet rakstīt"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Lai meklētu, sāciet rakstīt"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Meklēt tēmas"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Personas/datuma pazīšana"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Ievietot datumu"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Ievietot datumu diapazonu"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Ieteikums: ievietojiet datumu diapazonu"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Ievietojiet datumu un laiku"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Ieteikums: ievietojiet datumu un laiku"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Ieteikums: ievietojiet datumu"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Ieteikums: ievietojiet personu"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Ievietot laiku"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Ievietot laika diapazonu"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Ieteikums: ievietojiet laika diapazonu"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Ieteikums: ievietojiet laiku"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Atsauksmes tika sekmīgi iesniegtas."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Paldies, ka izmēģināt Redaktoru (beta versiju) pakalpojumā Google dokumenti. Veicam atjauninājumus, lai veiktu izmaiņas Google dokumentiem, kuru dēļ Redaktors vairs nedarbojas. Mēs jūs informēsim, kad Redaktors atkal būs gatavs lietošanai."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Redaktors pakalpojumā Google dokumenti nav pieejams"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Lai redaktors darbojas vislabāk, mēģiniet izslēgt Google Docs iebūvēto pareizrakstības un gramatikas pārbaudi. (Izvēlnē Rīki dodieties uz Pareizrakstība un gramatika un izslēdziet opcijas)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Izmantot tikai redaktora korektūras rīkus"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Iegūstiet papildu ieteikumus rakstīšanas laikā. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Iegūstiet papildu ieteikumus rakstīšanas laikā. Lai redaktors labākās lietošanas iespējas, Google Docs iebūvētā pareizrakstības un gramatikas pārbaude tiks izslēgta. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Izmēģiniet Redaktoru (beta versiju) pakalpojumā Google dokumenti"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Gramatikas ieteikums tika ignorēts."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Virsrakstu noteikšana"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Uzlabot"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Virsraksts 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Virsraksts 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Virsraksts 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Apsveriet iespēju mainīt galveni"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Pieejamība"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Pieejamība: apsveriet iespēju mainīt galvenes"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Ieteiktā ievietošana \"$1\". Nospiediet, lai ievietotu."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Mēs izvēlējāmies {0}, pamatojoties uz jūsu pašreizējiem pārlūka iestatījumiem."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Pārbaudiet pareizrakstību un gramatiku trīs valodām vienlaikus. Izvēlieties valodas Redaktora iestatījumos."
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Valodas var rediģēt Redaktora iestatījumos."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Atlasījām {0}, {1} un {2}, pamatojoties uz jūsu pašreizējiem pārlūkprogrammas iestatījumiem."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Daudzvalodu korektūra ar Redaktoru"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Mēs atlasījām {0} un {1} pamatojoties uz jūsu pašreizējiem pārlūkprogrammas iestatījumiem."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Personu atpazīšana"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Ieteiktā ievietošana \"$1\" tika sekmīgi lietota."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Ieteiktā ievietošana \"$1\". Lai ievietotu, nospiediet tabulēšanas taustiņu."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Korektūras valodas"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Microsoft 365 abonenti saņem papildu rakstīšanas ieteikumus, kad viņi ir pierakstījušies."
+   },
+   "ebx_RemoveItem": {
+      "message": "Dzēst"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Tagad Redaktora pareizrakstības vārdnīcai varat pievienot savus vārdus. Meklējiet “Pievienot vārdnīcai”, kad Redaktors sniedz pareizrakstības ieteikumu."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Personalizējiet savu pareizrakstības vārdnīcu"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "LABI"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Tagad Redaktors var pievienot vārdus pielāgotajai vārdnīcai, kas ir iebūvēta jūsu Microsoft 365 programmās. Kad Redaktors piedāvā pareizrakstības ieteikumu, pierakstieties un meklējiet opciju “Pievienot vārdnīcai”."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Pierakstieties, lai izmantotu personalizētu pareizrakstības vārdnīcu"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Recenzija \"$1\" ir atspējota iestatījumos."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Šī recenzija ir atspējota iestatījumos."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Lai saņemtu rakstīšanas ieteikumus lielākajā daļā tīmekļa vietņu, pierakstieties savā Microsoft kontā vai darba vai mācību kontā, ko izmantojat darbam ar Office."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Pierakstieties vai reģistrējieties"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Pierakstieties, lai saņemtu rakstīšanas ieteikumus lielākajā daļā tīmekļa vietņu. Mēs saglabāsim jūsu iestatījumus, piemēram, valodas, kurās rakstāt, un to, kādas problēmas Redaktoram jāpārbauda."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Izbaudiet gramatikas un precizēšanas ieteikumus lielākajā daļā tīmekļa vietņu, kā arī personalizētu pareizrakstības vārdnīcu."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Lai iegūtu personalizētu pareizrakstības vārdnīcu, pierakstieties savā Microsoft kontā vai darba vai mācību kontā, ko izmantojat darbam ar Office."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Redaktors vēl nedarbojas"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Noraidīta slīpsvītras izvēlne"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Ieteikums tika ievietots. Noraidīta slīpsvītras izvēlne"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Noklikšķināts uz karodziņa ieteikuma. Parādīta slīpsvītras izvēlne"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Noklikšķināts uz Pamudināt. Parādīta slīpsvītras izvēlne"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "\"$1\" simbola nospiešana ir parādījusi slīpsvītras izvēlni"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Pareizrakstības ieteikums tika ignorēts."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Atvērt ar kreiso klikšķi vai Alt+Down Arrow"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Atvērt ar kreiso klikšķi vai Ctrl+Alt+Down Arrow"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Atvērt ar kreiso klikšķi vai Vadība + Opcijas + lejupvērstā bultiņa"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Automātiskā koriģēšana"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+lejupvērstā bultiņa)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl+Alt+lejupvērstā bultiņa)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Gramatikas korekcija"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Rakstības precizēšana"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Pareizrakstības korekcija"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Atvērt ar peles kreisās pogas klikšķi"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Viva Topics ieteikums"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Ieteikums \"$1\" tika sekmīgi akceptēts."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Uzdevuma atpazīšana"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Izveidot uzdevumu"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Ieteikums: izveidojiet uzdevumu"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Tab"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Pieskāriens"
+   },
+   "ebx_TurnItOn": {
+      "message": "Ieslēgt to"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Pievienot citu vietni"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Pievienot citu vietni"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Atcelt vietnes pievienošanu bloķēto vietņu sarakstam."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Pievienot vietni bloķēto vietņu sarakstam"
+   },
+   "ebx_addButton": {
+      "message": "Pievienot"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Lai pievienotu gramatikas pārbaudi,"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Atcelt valodas pievienošanu koriģēšanas valodu sarakstam"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Pievienot valodu korektūras valodu sarakstam"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Pievienot citu valodu"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Pievienot vārdnīcai"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Atļaut redaktoram automātiski noteikt un pievienot jaunas korektūras valodas, pamatojoties uz jūsu rakstīto."
+   },
+   "ebx_appDescription": {
+      "message": "Rakstiet ar pārliecību, izmantojot Microsoft redaktoru: intelektisko rakstīšanas palīgu"
+   },
+   "ebx_appLongDescription": {
+      "message": "Redaktors nodrošina uzlabotu rakstīšanas palīdzību, sniedzot gramatikas, pareizrakstības un stila ieteikumus tīmeklī (1), lai jūs varētu pārliecināti rakstīt skaidrus un kodolīgus ierakstus un e-pasta vēstules.\r\n\r\nRakstiet kā profesionālis, izmantojot intelektisko rakstīšanas palīdzību\r\nRakstiet bez gramatikas kļūdām, lietojiet padziļinātas gramatikas zināšanas, kā arī pareizrakstības un pieturzīmju pārbaudes funkciju. Lietojiet ko vairāk nekā tikai pamatus, izmantojot paplašināto stila pārbaudi, lai novērstu problēmas ar skaidrību, kodolīgumu, formalitāti, vārdu krājumu un citas problēmas (nepieciešams Microsoft 365 abonements).\r\n\r\nPersonalizējiet atbilstoši savām vajadzībām\r\nTagad rīkā Redaktors var pievienot vārdus pielāgotajai vārdnīcai, kas ir iebūvēta jūsu Microsoft 365 programmās. Meklējiet opciju “Pievienot vārdnīcai”, kad Redaktors piedāvā pareizrakstības ieteikumu. Turklāt iestatījumos varat precizēt savas rakstīšanas ieteikumu preferences. Atvieglojām arī visu pareizrakstības labojumu izlaišanu, atlasot Ignorēt visu, kā arī nevajadzīgu gramatikas ieteikumu izlaišanu, atlasot Ignorēt.\r\n\r\nRakstiet jebkur\r\nIegūstiet rakstīšanas atbalstu tādās vietnēs kā LinkedIn, Gmail, Facebook un citās jūsu izlases vietnēs, izmantojot šo pārlūkprogrammas paplašinājumu. Ja vēlaties rīka Redaktors palīdzību Office programmās, kurās rakstāt visvairāk, atveriet Word vai Outlook tīmeklī un saņemiet ieteikumus jūsu dokumentu un e-pasta ziņojumu uzlabošanai.\r\n\r\nIegūstiet atbalstu vairākās valodās\r\nPārbaudiet pareizrakstību un gramatiku līdz pat trīs valodās vienlaikus, izmantojot vairāku valodu pareizrakstības pārbaudi. Redaktors pārbauda pareizrakstību vairāk nekā 80 valodās, kā arī nodrošina gramatikas pārbaudi un rakstīšanas stila uzlabošanas ieteikumus 21 valodā. Informācija par jūsu valodas pieejamību ir pieejama šeit: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nIegūstiet rīku Redaktors pārlūkprogrammai Edge šeit: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Redaktors pieejams pārlūkprogrammai Microsoft Edge un Chrome, un tā darbībai ir nepieciešams Microsoft konts. Redaktors veido savienojumu ar Microsoft tiešsaistes pakalpojumu, kas piedāvā jūsu rakstītā teksta pareizrakstības, gramatikas un uzlabojumu ieteikumus vairākumā vietņu.\r\n2. Visām valodām nav pieejams vienāds uzlabojumu klāsts.\r\n\r\nInstalējot programmu, jūs piekrītat šiem noteikumiem un nosacījumiem:\r\n\r\nŅEMIET VĒRĀ: skatiet atbilstošos sava Microsoft konta vai Microsoft 365 abonementa licences nosacījumus (tiek saukti par “paplašinājumu”), lai noteiktu entītiju, kas jums licencē šo paplašinājumu, un lai noskaidrotu atbalsta informāciju. Uz šī paplašinājuma lietošanu attiecas Microsoft konta vai Microsoft 365 abonementa licences nosacījumi.\r\n\r\nKonfidencialitātes politika: http://aka.ms/privacy\r\nTerms of Service: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Redaktors nodrošina uzlabotu rakstīšanas palīdzību, sniedzot gramatikas, pareizrakstības un stila ieteikumus tīmeklī (1), lai jūs varētu pārliecināti rakstīt skaidrus un kodolīgus ierakstus un e-pasta vēstules.\r\n\r\nRakstiet kā profesionālis, izmantojot intelektisko rakstīšanas palīdzību\r\nRakstiet bez gramatikas kļūdām, lietojiet padziļinātas gramatikas zināšanas, kā arī pareizrakstības un pieturzīmju pārbaudes funkciju. Lietojiet ko vairāk nekā tikai pamatus, izmantojot paplašināto stila pārbaudi, lai novērstu problēmas ar skaidrību, kodolīgumu, formalitāti, vārdu krājumu un citas problēmas (nepieciešams Microsoft 365 abonements).\r\n\r\nPersonalizējiet atbilstoši savām vajadzībām\r\nTagad rīkā Redaktors var pievienot vārdus pielāgotajai vārdnīcai, kas ir iebūvēta jūsu Microsoft 365 programmās. Meklējiet opciju “Pievienot vārdnīcai”, kad Redaktors piedāvā pareizrakstības ieteikumu. Turklāt iestatījumos varat precizēt savas rakstīšanas ieteikumu preferences. Atvieglojām arī visu pareizrakstības labojumu izlaišanu, atlasot Ignorēt visu, kā arī nevajadzīgu gramatikas ieteikumu izlaišanu, atlasot Ignorēt.\r\n\r\nRakstiet jebkur\r\nIegūstiet rakstīšanas atbalstu tādās vietnēs kā LinkedIn, Gmail, Facebook un citās jūsu izlases vietnēs, izmantojot šo pārlūkprogrammas paplašinājumu. Ja vēlaties rīka Redaktors palīdzību Office programmās, kurās rakstāt visvairāk, atveriet Word vai Outlook tīmeklī un saņemiet ieteikumus jūsu dokumentu un e-pasta ziņojumu uzlabošanai.\r\n\r\nIegūstiet atbalstu vairākās valodās\r\nPārbaudiet pareizrakstību un gramatiku līdz pat trīs valodās vienlaikus, izmantojot vairāku valodu pareizrakstības pārbaudi. Redaktors pārbauda pareizrakstību vairāk nekā 80 valodās, kā arī nodrošina gramatikas pārbaudi un rakstīšanas stila uzlabošanas ieteikumus 21 valodā. Informācija par jūsu valodas pieejamību ir pieejama šeit: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nIegūstiet rīku Redaktors pārlūkprogrammai Chrome šeit: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Redaktors pieejams pārlūkprogrammai Microsoft Edge un Chrome, un tā darbībai ir nepieciešams Microsoft konts. Redaktors veido savienojumu ar Microsoft tiešsaistes pakalpojumu, kas piedāvā jūsu rakstītā teksta pareizrakstības, gramatikas un uzlabojumu ieteikumus vairākumā vietņu.\r\n2. Visām valodām nav pieejams vienāds uzlabojumu klāsts.\r\n\r\nInstalējot programmu, jūs piekrītat šiem noteikumiem un nosacījumiem:\r\n\r\nŅEMIET VĒRĀ: skatiet atbilstošos sava Microsoft konta vai Microsoft 365 abonementa licences nosacījumus (tiek saukti par “paplašinājumu”), lai noteiktu entītiju, kas jums licencē šo paplašinājumu, un lai noskaidrotu atbalsta informāciju. Uz šī paplašinājuma lietošanu attiecas Microsoft konta vai Microsoft 365 abonementa licences nosacījumi.\r\n\r\nKonfidencialitātes politika: http://aka.ms/privacy\r\nTerms of Service: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Microsoft redaktors: pareizrakstības un gramatikas pārbaudītājs"
+   },
+   "ebx_appShortName": {
+      "message": "Redaktors"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, līdzīgs šiem: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, līdzīgs šiem: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Aizstāt ar"
+   },
+   "ebx_asInSynonyms": {
+      "message": "līdzīgi"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "“$1”, automātiskā koriģēšana atsaukta."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Atjaunot iepriekšējo “$1”"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, automātiski izlabots."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Nospiediet taustiņu Control, lai piekļūtu automātiskās koriģēšanas opcijām."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "\"{0}\" tika sekmīgi pievienota"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Lai piekļūtu pogai Noņemt, nospiediet labo bulttaustiņu."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Saraksts ir tukšs."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "\"{0}\" tika sekmīgi noņemta"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft redaktors"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft redaktors logotips"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Pārlūkot šo datoru"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Mainīt visus"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Redaktora iestatījumi..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Pārbaudīt, vai nav precizējumu"
+   },
+   "ebx_checkGrammar": {
+      "message": "Pārbaudīt gramatiku"
+   },
+   "ebx_checkSpelling": {
+      "message": "Pārbaudīt pareizrakstību"
+   },
+   "ebx_close": {
+      "message": "Aizvērt"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Drīzumā"
+   },
+   "ebx_copilotInsert": {
+      "message": "Ievietot"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Copilot pārrakstīšana"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Dzēst atkārtotu vārdu"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Pārtraukt pārbaudīt šo"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Pārtraukt pārbaudi. Redaktors lietos šo iestatījumu līdz brīdim, kad to mainīsiet."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Redaktors lietos šo iestatījumu, līdz brīdim, kad to mainīsiet"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Izslēgt Redaktoru vietnē {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Attēlojuma opcijas"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Šī vietne jau ir bloķēto vietņu sarakstā"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Redaktoram ir $1 papildu rakstīšanas idejas šim ziņojumam."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Redaktors pašlaik netiek atbalstīts lapā {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Redaktora uznirstošais logs"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Izslēgts"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Ieslēgts"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Rādīt Redaktora pogu laukos, kas atbalsta Redaktora uznirstošo logu"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Microsoft Office pārlūkprogrammas paplašinājums tagad ietver Microsoft redaktoru — jūsu intelektisko rakstīšanas palīgu, kas visā tīmeklī jums palīdzēs veidot labākus rakstu darbus. Microsoft redaktors veido savienojumu ar tiešsaistes pakalpojumu, lai piedāvātu pareizrakstības, gramatikas un stila ieteikumus."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Tagad darbojas Microsoft redaktors (priekšskatījums)"
+   },
+   "ebx_editorFeature": {
+      "message": "Microsoft redaktors"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Izslēgts"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Izslēgt Redaktoru"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Ieslēgts"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Līdzeklis Redaktors"
+   },
+   "ebx_editorIsOff": {
+      "message": "Redaktors ir izslēgts"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Redaktors pašlaik ir izslēgts vietnē {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Redaktors ir iekļauts kopā ar {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Citi Redaktora iestatījumi"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Neviena valoda neatbilst jūsu meklēšanas vaicājumam"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Iespējot Redaktoru vietnē {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " un "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Redaktors ir $1 papildu rakstīšanas idejas šim ziņojumam."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Redaktoram ir $1 papildu rakstīšanas ideja šim ziņojumam."
+   },
+   "ebx_excludedSites": {
+      "message": "Neiekļautās vietnes"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Ziņot par šo ieteikumu"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Lūdzu, norādiet, kādēļ izvēlējāties šo atbildi."
+   },
+   "ebx_feedbackLink": {
+      "message": "atsauksmes"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Palīdziet mums uzlabot Redaktoru, nodrošinot"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Ļoti negatīvi"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Īpaši negatīvi"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Diezgan negatīvi"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Diezgan negatīvi"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Ne pozitīvi, ne negatīvi"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Ne negatīvi, ne pozitīvi"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Diezgan pozitīvi"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Diezgan pozitīvi"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Ļoti pozitīvi"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Īpaši pozitīvi"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Kā jūs kopumā aprakstītu savu pieredzi, izmantojot Microsoft redaktoru?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Kā jūs kopumā jūtaties, izmantojot Microsoft redaktoru, lai iegūtu pareizrakstības, gramatikas, paredzēšanas un citus ieteikumus rakstītā precizēšanai?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Sniedziet atsauksmes korporācijai Microsoft par rīku Redaktors"
+   },
+   "ebx_giveFeedback": {
+      "message": "Sniegt atsauksmes"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Iegūstiet Redaktora uzlabotās rakstīšanas idejas, 1 TB vietas OneDrive krātuvē un maksas līdzekļus visās Microsoft 365 programmās."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Iegūstiet Redaktora uzlabotās rakstīšanas idejas, 1 TB vietas OneDrive krātuvē un maksas līdzekļus visās Microsoft 365 programmās."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Izmēģiniet rīka Redaktora uzlabotās rakstīšanas idejas."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Pāriet uz Premium"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "pārejiet uz maksas abonementu"
+   },
+   "ebx_goToSettings": {
+      "message": "Doties uz Redaktora iestatījumiem"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Lai uzzinātu vairāk, dodieties uz Redaktora iestatījumiem"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Docs"
+   },
+   "ebx_grammar": {
+      "message": "Gramatika"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Paslēpt sinonīmus"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ignorēt visu"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Ignorēt"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Atveriet redaktoru vai noklikšķiniet ar peles labo pogu, lai skatītu papildu opcijas"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Skatīt visus ieteikumus redaktorā vai noklikšķināt ar peles labo pogu, lai skatītu papildu opcijas"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Šajā rindiņā ir atrastas \"$1\" korektūras problēmas"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Šajā rindiņā ir atrasta \"$1\" korektūras problēma"
+   },
+   "ebx_languageAdded": {
+      "message": "\"{0}\" tika sekmīgi pievienota"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" pārvietots par vienu pozīciju sarakstā uz leju"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" tika sekmīgi pārvietota saraksta augšā"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" tika sekmīgi pārvietota par vienu pozīciju augstāk sarakstā"
+   },
+   "ebx_languageRemoved": {
+      "message": "\"{0}\" tika sekmīgi noņemta"
+   },
+   "ebx_learnMore": {
+      "message": "Papildinformācija"
+   },
+   "ebx_manageLanguages": {
+      "message": "Pārvaldīt valodas..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Pārvaldīt pareizrakstības pārbaudes valodas"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Citas komandas {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Pārvietot lejup"
+   },
+   "ebx_moveToTop": {
+      "message": "Pārvietot uz sākumu"
+   },
+   "ebx_moveUp": {
+      "message": "Pārvietot augšup"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Nākamais ieteikums, atlikušas $1"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Atvērt redaktoru"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Redaktora iestatījumi"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Tā kā šo pārrakstīšanās kļūdu esat veicis vairākas reizes, pievienojām \"$1\" automātiskās koriģēšanas sarakstam."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1 dienas ir atlikušas šajā priekšskatījumā. Jauniniet, lai saņemtu neierobežotus ieteikumus:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "Šajā priekšskatījumā ir atlikusi$1 diena. Jauniniet, lai saņemtu neierobežotus ieteikumus:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Iegūstiet Editor uzlabotās rakstīšanas idejas."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1 ieteikumi ir atlikuši šajā priekšskatījumā. Jauniniet, lai saņemtu neierobežotus ieteikumus:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1 ieteikums ir atlicis šajā priekšskatījumā. Jauniniet, lai saņemtu neierobežotus ieteikumus:"
+   },
+   "ebx_preview": {
+      "message": "(priekšskatījums)"
+   },
+   "ebx_previewLabel": {
+      "message": "PRIEKŠSKATĪJUMS"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Iepriekšējais ieteikums, atlikušas $1"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Automātiski nosūtiet neobligātus diagnostikas datus, kamēr izmantojat šo tiešsaistes pakalpojumu, lai palīdzētu mums uzlabot mūsu produktus."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Papildinformācija par diagnostikas datiem"
+   },
+   "ebx_privacyOptions": {
+      "message": "Privātuma opcijas"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Korektūras valoda"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Spied Labo bulttaustiņu, lai piekļūtu pogai Citas komandas."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Korektūras valoda"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Korektūru vienlaicīgi var ieslēgt tikai trīs valodās."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Atlasiet korektūras valodu"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Korektūras valodas"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Atlasiet līdz trim valodām. Jūsu izvēlētā valoda būs virspusē."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Valodu korektūra"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Vai jums šķiet, ka programma Redaktors ir noderīga?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Vēlamies uzdot tikai divus jautājumus"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Sniegt atsauksmes"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Žēl, ka tā ir. Lūdzu, pastāstiet mums, kā varam uzlabot redaktoru."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Nē"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Nē, paldies"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Lieliski, vai vēlaties to novērtēt?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Ja jums joprojām patīk izmantot redaktoru, vai vēlaties to novērtēt?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Labi"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Jā"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Atsauksmes par Microsoft redaktoru"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Labprāt uzzināsim jūsu atsauksmes"
+   },
+   "ebx_refinements": {
+      "message": "Precizējumi"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Precizējumi ir uzlaboti rakstīšanas ieteikumi, kas palīdz padarīt jūsu rakstīto skaidrāku, mazāk izplūdušu vai formālāku."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Šis vārds atkārtojas"
+   },
+   "ebx_settings": {
+      "message": "Iestatījumi"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Atvērt Redaktora iestatījumus"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Atveriet Redaktora iestatījumus, lai atlasītu korektūras valodas."
+   },
+   "ebx_settingsLabel": {
+      "message": "Konta iestatījumi"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Microsoft redaktora iestatījumi"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Iestatījumi katrai valodai"
+   },
+   "ebx_showBeta": {
+      "message": "Beta $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Rādīt sinonīmus"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Rādīt sinonīmus pareizrakstības ieteikumiem"
+   },
+   "ebx_signInDescription": {
+      "message": "Lai iegūtu gramatikas un uzlabošanas ieteikumus vairākumā tīmekļa vietņu, kā arī personalizētu pareizrakstības vārdnīcu, lūdzu, pierakstieties."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Vai ir nepieciešama palīdzība ar pierakstīšanos?"
+   },
+   "ebx_signInLabel": {
+      "message": "Pierakstieties vai reģistrējieties"
+   },
+   "ebx_signInToAccess": {
+      "message": "Pierakstieties, lai piekļūtu"
+   },
+   "ebx_signIntoEditor": {
+      "message": "pierakstīties Redaktorā"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Lai iegūtu gramatikas un uzlabošanas ieteikumus vairākumā tīmekļa vietņu, lūdzu, pierakstieties."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Personalizētai pareizrakstībai"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Lai izmantotu personalizētu pareizrakstības vārdnīcu, lūdzu, pierakstieties."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Lai iegūtu gramatikas un uzlabošanas ieteikumus vairākumā tīmekļa vietņu, lūdzu, pierakstieties."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Lai iegūtu gramatikas un uzlabošanas ieteikumus vairākumā tīmekļa vietņu, kā arī personalizētu pareizrakstības vārdnīcu, lūdzu, pierakstieties."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Pierakstieties rīkā Redaktors"
+   },
+   "ebx_signOutLabel": {
+      "message": "Izrakstīties"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Izrakstoties visi iestatījumi tiks atiestatīti uz noklusējumu un pazudīs jūsu izslēgto vietņu saraksts."
+   },
+   "ebx_spelling": {
+      "message": "Pareizrakstība"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Vēlreiz pārbaudiet, vai tas ir pareizi"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Citas darbības"
+   },
+   "ebx_synonyms": {
+      "message": "Sinonīmi"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonyms not available]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Rakstiet sinonīmus: veiciet dubultklikšķi uz vārda vai atlasiet un nospiediet (Alt+Lejupvērstā bultiņa)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Iegūstiet sinonīmus rakstīšanas laikā: veiciet dubultklikšķi uz vārda vai atlasiet un nospiediet (⌃ + ⌥ + ↓)."
+   },
+   "ebx_toggleOff": {
+      "message": "Izslēgts"
+   },
+   "ebx_toggleOn": {
+      "message": "Ieslēgts"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Jā, lūdzu!"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Tagad piedāvājam ieteikumus, lai palīdzētu ar jūsu rakstīšanas toni. Vai vēlaties to pārbaudīt?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Noraidīt"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Ne tagad"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Veikt izmaiņas redaktora iestatījumos"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Nekad nerādīt toņu ieteikumus"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Toņu noteikšana tagad ir atspējota."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Toņu noteikšana"
+   },
+   "ebx_toneLabel": {
+      "message": "Tonis"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Atzīmējiet šo tēmu, lai palīdzētu citiem piekļūt aprakstam, personām un ar to saistītajiem resursiem."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Viva Topics ieteikums"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Izmēģiniet rīka Redaktora uzlabotās rakstīšanas idejas."
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Izmēģināt tūlīt"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Izslēgt Redaktors"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Redaktors izveido savienojumu ar Microsoft tiešsaistes pakalpojumu, kas piedāvā pareizrakstības, gramatikas un stilu ieteikumus jūsu rakstīšanas daļā tīmekļa vietnēs."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Ieslēgt Redaktoru"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Atsaukt"
+   },
+   "ebx_undoButtonText": {
+      "message": "Atsaukt"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Automātiskās koriģēšanas opcijas"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Bloķētās vietnes"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Nederīgs URL. Lūdzu, norādiet vietrādi URL šādā formātā: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Nederīgs URL \"{0}\" rindiņā {1}."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Tālāk norādītajās vietnēs izslēdzāt Redaktoru. Redaktors var tikt automātiski izslēgts papildu vietnēs ar sensitīvu saturu vai lēnu ielādes ātrumu."
+   },
+   "ebx_viewAccount": {
+      "message": "Skatīt kontu"
+   },
+   "editor": {
+      "message": "Redaktors"
+   },
+   "editorButtonText": {
+      "message": "Redaktors"
+   },
+   "emailWarningMessage": {
+      "message": "Lai izmantotu Copilot, dodieties uz e-pasta ziņojuma beigām."
+   },
+   "emptyStateMessage": {
+      "message": "Atlasiet pārrakstāmo tekstu"
+   },
+   "errorLabel": {
+      "message": "Kļūda"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "jūsu vārdnīca"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Saite uz saturu, ierakstot speciālo rakstzīmi , uz priekšu vērsto slīpsvītru (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Notiek satura atzīmēšana"
+   },
+   "esdk_autocorrect": {
+      "message": "Automātiskā koriģēšana"
+   },
+   "esdk_cancelButton": {
+      "message": "Atcelt"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Iestatījumi"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, slēdzis, izslēgts."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, slēdzis, ieslēgts."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Lai noklausītos stāvokļa kategoriju, nospiediet tabulēšanas taustiņu"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Labā bultiņa kategorijas izvēršanai."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Detalizētie iestatījumi ir atspējoti."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Labā bultiņa detalizēto iestatījumu ievadīšanai."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} atspējots"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Atzīme noņemta visiem detalizētajiem iestatījumiem šajā kategorijā."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Visi detalizētie iestatījumi šajā kategorijā ir atzīmēti."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "Detalizēti iestatījumi {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Atstarpes taustiņš vai Enter taustiņš kategorijas stāvokļa pārslēgšanai,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Redaktors nevarēs atzīmēt ar karodziņu šo problēmu, ja netiks atvērta redaktora rūts"
+   },
+   "esdk_closeButton": {
+      "message": "Aizvērt"
+   },
+   "esdk_copilotInsert": {
+      "message": "Ievietot"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot pašlaik atbalsta tikai angļu valodu"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Pārrakstīt"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Korekcijas"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Kreisā bultiņa, lai atgrieztos pie iestatījumiem"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Nospiediet labo bultiņu, lai nonāktu pie detalizētiem iestatījumiem"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Lai mainītu izvēles rūtiņas vērtību, ir jāiespējo kategorija"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Mainīt veidu, kā redaktors koriģē un iesaka teksta precizējumus šajā lietojumprogrammā"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Microsoft redaktora iestatījumi"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Ieslēgt pareizrakstību, lai izmantotu automātisko koriģēšanu"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Uzlabojumi"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Neizdevās ielādēt redaktora iestatījumus"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Pāriet uz Premium"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Iegūstiet uzlabotas rakstīšanas idejas un 1 TB krātuvi, pārejot uz Premium versiju"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Lai noklausītos stāvokli, nospiediet tabulēšanas taustiņu"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Iekļautā rediģēšana"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Korektūras valoda"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Iestatījumi šim:"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Redaktors nosaka, vai tekstā ir atsauces uz failu vai datiem, un piedāvā izveidot saiti."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Saišu ieteikumi"
+   },
+   "esdk_okButton": {
+      "message": "Labi"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Sakļaut korektūras preferences."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Izvēlieties, ko pārbauda redaktors."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Atlasiet līdz trim valodām. Jūsu izvēlētā valoda būs virspusē."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Rediģēt valodas"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Izvērst korektūras preferences."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Korektūras preferences"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Korektūras valodas iestatījumi"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Korektūras iestatījumi"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Rediģēt valodas"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Atlasiet līdz trim valodām. Jūsu izvēlētā valoda būs virspusē."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Korektūras iestatījumi"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Korektūras valodas iestatījumi"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Precizējumi"
+   },
+   "esdk_resetToDefault": {
+      "message": "Atiestatīt noklusējuma vērtības"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Izmēģiniet Redaktora uzlabotās rakstīšanas ieteikumus."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Detalizēta informācija par lejupielādēm"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Ne visām valodām ir vienādi rakstīšanas norādījumi. Lejupielādējiet šo dokumentu, lai skatītu detalizētu informāciju par gramatikas un precizēšanas iestatījumiem, kas pieejami atlasītajai valodai."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Papildinformācija"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Ne visām valodām ir vienādi rakstīšanas norādījumi. Izmantojiet šo saiti, lai iegūtu papildinformāciju par gramatikas un precizēšanas iestatījumiem, kas pieejami visām redaktora valodām."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Ne visām valodām ir vienādi rakstīšanas norādījumi. {Learn more} par gramatikas un precizēšanas iestatījumiem, kas pieejami visām redaktora valodām."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Pareizrakstības opciju izmaiņas attiecas uz visām iespējotajām valodām"
+   },
+   "esdk_synonyms": {
+      "message": "Sinonīmi (priekšskatījums)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Redaktors paredz nākamos vārdus, kā arī failus vai citus objektus, ko ievietot rakstīšanas laikā."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Teksta paredzēšana"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Lai palīdzētu jums rakstīt ātrāk, Microsoft redaktors paredz jūsu nākamos vārdus un, jums rakstot tekstu, iesaka vārdus un frāzes."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Mācību padoms"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Piemēri"
+   },
+   "explanationTableAfter": {
+      "message": "Apsveriet:"
+   },
+   "explanationTableBefore": {
+      "message": "Tā vietā:"
+   },
+   "explanationTableSeparator": {
+      "message": "vai"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Uzrakstiet ziņu par manu ceļojumu uz Eifeļa torni"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Lai izmantotu Copilot, dodieties uz ziņas beigām."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Nākamā lapa"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "PADOMI $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Iepriekšējā lapa"
+   },
+   "generalErrorMessage": {
+      "message": "Microsoft redaktors radās problēma, un nevarēja ģenerēt saturu."
+   },
+   "generateButtonLabel": {
+      "message": "Ģenerēt"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Sniegt atsauksmes"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Rakstīt sapulces pieprasījuma e-pasta ziņojumu"
+   },
+   "inputName": {
+      "message": "Aprakstiet, ko vēlaties, lai Redaktors raksta..."
+   },
+   "inputPlaceholder": {
+      "message": "Aprakstiet, ko vēlaties rakstīt"
+   },
+   "languageErrorMessage": {
+      "message": "Pārrakstīšana atlasītajai valodai vēl nav pieejama."
+   },
+   "limitErrorMessage": {
+      "message": "Lai pārrakstītu, lūdzu, atlasiet mazāk par 100 vārdiem."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Satura izveides padomi"
+   },
+   "loadingLabel": {
+      "message": "Mirkli uzgaidiet, gatavojam jums kaut ko..."
+   },
+   "loadingText": {
+      "message": "Notiek ielāde:"
+   },
+   "modalDescribeBy": {
+      "message": "Ģenerē citus atlasītā teksta rakstīšanas veidus"
+   },
+   "moreButtonLabel": {
+      "message": "Citas opcijas"
+   },
+   "moreButtonText": {
+      "message": "Vēl"
+   },
+   "moreOptionsLabel": {
+      "message": "Papildu opcijas"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "pievienot citu pareizrakstības pārbaudes valodu"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Pievienot pareizrakstības pārbaudes valodu."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Lai saņemtu atbilstošus rakstīšanas ieteikumus,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Pievienot redaktoram citu valodu"
+   },
+   "nextSuggestion": {
+      "message": "Nākamais ieteikums"
+   },
+   "nudgeTextForEmails": {
+      "message": "Ierakstiet $1, lai atrastu e-pasta ziņojumus"
+   },
+   "nudgeTextForFile": {
+      "message": "Ierakstiet $1, lai atrastu failus un daudz ko citu"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Ierakstiet $1, lai atrastu sapulces"
+   },
+   "nudgeTextForPeople": {
+      "message": "Ierakstiet $1, lai atrastu personas"
+   },
+   "prevSuggestion": {
+      "message": "Iepriekšējais ieteikums"
+   },
+   "preview": {
+      "message": "PRIEKŠSKATĪJUMS"
+   },
+   "previewText": {
+      "message": "PRIEKŠSKATĪJUMS"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Nospiediet CTRL + ALT + I, lai izmantotu šo līdzekli ikreiz, kad esat jaunā rindiņā."
+   },
+   "promptSuggestButtonText": {
+      "message": "Turpiniet rakstīt "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+labā bultiņa"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Lasīt balsī sākotnējo teikumu"
+   },
+   "regenerateLabel": {
+      "message": "Ģenerēt atkārtoti"
+   },
+   "replaceLabel": {
+      "message": "Aizstāt"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Atskaites ģenerētais saturs"
+   },
+   "reportOutput": {
+      "message": "Atskaites izvade"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "AI ģenerētajā saturā var būt neprecizitātes vai sensitīvs materiāls. Noteikti verificējiet informāciju."
+   },
+   "retry": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "rewriteBrand": {
+      "message": "Pārrakstīt"
+   },
+   "rewriteWithCopilot": {
+      "message": "Pārrakstīt"
+   },
+   "sbx_signInDescription": {
+      "message": "Lai iegūtu gramatikas un precizēšanas ieteikumus vairākumā tīmekļa vietņu, kā arī personalizētu pareizrakstības vārdnīcu, lūdzu, pierakstieties."
+   },
+   "shareFeedback": {
+      "message": "Kopīgot atsauksmes"
+   },
+   "showHeaderMessage": {
+      "message": "Lūk, daži citi veidi, kā šo rakstīt"
+   },
+   "submitButtonTooltip": {
+      "message": "Ģenerēt (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Lai izmantotu Copilot, dodieties uz rindkopas beigām."
+   },
+   "suggestionCountSeparator": {
+      "message": "no"
+   },
+   "suggestionHint": {
+      "message": "ENTER, lai akceptētu"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Ģenerēt atkārtoti"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Rakstīt motivējošu Twitter sīkziņu"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Lai izmantotu Copilot, pārejiet uz Twitter sīkziņas beigām."
+   }
+}

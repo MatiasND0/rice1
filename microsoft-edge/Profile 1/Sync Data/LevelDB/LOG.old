@@ -1,0 +1,21 @@
+2024/11/15-19:03:51.134 540 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2024/11/15-19:03:51.210 540 Recovering log #26
+2024/11/15-19:03:51.265 540 Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/Sync Data/LevelDB/000026.log 
+2024/11/15-19:06:27.298 541 Level-0 table #30: started
+2024/11/15-19:06:27.413 541 Level-0 table #30: 83521 bytes OK
+2024/11/15-19:06:27.517 541 Delete type=0 #26
+2024/11/15-19:06:27.518 541 Compacting 4@0 + 1@1 files
+2024/11/15-19:06:27.548 541 Generated table #31@0: 199 keys, 16316 bytes
+2024/11/15-19:06:27.549 541 Compacted 4@0 + 1@1 files => 16316 bytes
+2024/11/15-19:06:27.563 541 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/15-19:06:27.563 541 Delete type=2 #24
+2024/11/15-19:06:27.563 541 Delete type=2 #21
+2024/11/15-19:06:27.563 541 Delete type=2 #18
+2024/11/15-19:06:27.563 541 Delete type=2 #30
+2024/11/15-19:06:27.563 541 Delete type=2 #27
+2024/11/15-19:44:26.465 542 Level-0 table #33: started
+2024/11/15-19:44:26.491 542 Level-0 table #33: 108040 bytes OK
+2024/11/15-19:44:26.497 542 Delete type=0 #29
+2024/11/15-22:18:53.863 541 Level-0 table #35: started
+2024/11/15-22:18:53.883 541 Level-0 table #35: 107097 bytes OK
+2024/11/15-22:18:53.896 541 Delete type=0 #32

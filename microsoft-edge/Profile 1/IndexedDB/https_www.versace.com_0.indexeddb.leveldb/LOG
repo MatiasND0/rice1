@@ -1,0 +1,6 @@
+2024/11/10-23:05:10.096 55e Creating DB /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_www.versace.com_0.indexeddb.leveldb since it was missing.
+2024/11/10-23:05:10.115 55e Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_www.versace.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/10-23:05:10.273 55d Level-0 table #5: started
+2024/11/10-23:05:10.286 55d Level-0 table #5: 3958 bytes OK
+2024/11/10-23:05:10.289 55d Delete type=0 #3
+2024/11/10-23:05:10.289 55d Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

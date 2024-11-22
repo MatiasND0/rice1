@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Paskyra"
+   },
+   "AppDescription": {
+      "message": "Rašykite užtikrintai naudodami „Microsoft“ redaktorių, jūsų intelektualiąją gramatikos, rašybos ir stiliaus tikrinimo asistentę."
+   },
+   "AppLongDescription": {
+      "message": "Redaktorius žiniatinklyje teikia išplėstinę rašymo pagalbą – pasiūlymus dėl gramatikos, rašybos ir stiliaus(1), todėl galite užtikrintai rašyti aiškius, glaustus įrašus ir el. laiškus.\r\n\r\nNaudodamiesi išmaniąja rašymo pagalba, rašykite kaip profesionalas \r\nSustiprinkite pagrindus naudodamiesi nemokama gramatikos, išplėstinės gramatikos, rašybos ir skyrybos tikrinimo funkcija. Neapsiribokite pagrindais – su „Premium“ versija naudokite išplėstinę stiliaus patikrą, skirtą išvengti aiškumo, glaustumo, formalumo, žodyno ir kitų problemų (būtina „Microsoft 365“ prenumerata).\r\n\r\nPritaikykite asmeniniams poreikiams\r\nDabar redaktorius gali įtraukti žodžius į pasirinktinį žodyną, integruotą jūsų „Microsoft 365“ programose. Redaktoriui pateikus rašybos pasiūlymą, ieškokite parinkties Įtraukti į žodyną. Be to, Parametrų dalyje galite tiksliai pritaikyti rašymo pasiūlymų nuostatas. Taip pat sudarėme galimybę lengvai praleisti visus rašybos taisymus pasirinkus Nepaisyti visko arba praleisti nepageidaujamus gramatikos pasiūlymus pasirinkus Nepaisyti.\r\n\r\nPagalba, kad ir kur rašote\r\nNaudodami šį naršyklės plėtinį, gaukite rašymo pagalbos tokiose svetainėse kaip „LinkedIn“, „Gmail“, „Facebook“ ir kituose parankiniuose. Jei norite redaktoriaus pagalbos „Office“ programose, kuriose rašote daugiausiai, atverkite „Word“ arba internetinę „Outlook“ ir gaukite pasiūlymų, kaip patobulinti dokumentus ir el. laiškus.\r\n\r\nGaukite pagalbos keliomis kalbomis\r\nNaudodami kelių kalbų rašybos tikrinimo funkciją vienu metu tikrinkite iki trijų kalbų rašybą bei gramatiką. Redaktorius tikrina daugiau nei 80 kalbų rašybą, taip pat tikrina šių kalbų gramatiką bei siūlo rašymo stiliaus patobulinimus 21 kalba. Daugiau informacijos apie pasiekiamas kalbas rasite čia: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n„Microsoft Edge“ skirtą redaktorių rasite čia: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Galima naudoti „Microsoft Edge“ arba „Chrome“ naršyklėse, reikalinga „Microsoft“ paskyra. Redaktorius prisijungia prie „Microsoft“ internetinės paslaugos, kuri daugelyje svetainių teikia rašybos, gramatikos ir teksto tobulinimo pasiūlymus.\r\n2. Patobulinimų rinkinys ne visoms kalboms yra toks pat.\r\n\r\nĮdiegdami programėlę sutinkate su šiomis sąlygomis:\r\n\r\nDĖMESIO! Jei taikoma, peržiūrėkite savo „Microsoft“ paskyros arba „Microsoft 365“ prenumeratos licencijos sąlygas („plėtinys“), kad nustatytumėte subjektą, kuris jums licencijuoja šį plėtinį, ir gautumėte palaikymo informacijos. Šio plėtinio naudojimui taikomos „Microsoft“ paskyros arba „Microsoft 365“ prenumeratos licencijos sąlygos. \r\n\r\nPrivatumo politika: http://aka.ms/privacy\r\nPaslaugų teikimo sąlygos: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Redaktorius žiniatinklyje teikia išplėstinę rašymo pagalbą – pasiūlymus dėl gramatikos, rašybos ir stiliaus(1), todėl galite užtikrintai rašyti aiškius, glaustus įrašus ir el. laiškus.\r\n\r\nNaudodamiesi išmaniąja rašymo pagalba, rašykite kaip profesionalas \r\nSustiprinkite pagrindus naudodamiesi nemokama gramatikos, išplėstinės gramatikos, rašybos ir skyrybos tikrinimo funkcija. Neapsiribokite pagrindais – su „Premium“ versija naudokite išplėstinę stiliaus patikrą, skirtą išvengti aiškumo, glaustumo, formalumo, žodyno ir kitų problemų (būtina „Microsoft 365“ prenumerata).\r\n\r\nPritaikykite asmeniniams poreikiams\r\nDabar redaktorius gali įtraukti žodžius į pasirinktinį žodyną, integruotą jūsų „Microsoft 365“ programose. Redaktoriui pateikus rašybos pasiūlymą, ieškokite parinkties Įtraukti į žodyną. Be to, Parametrų dalyje galite tiksliai pritaikyti rašymo pasiūlymų nuostatas. Taip pat sudarėme galimybę lengvai praleisti visus rašybos taisymus pasirinkus Nepaisyti visko arba praleisti nepageidaujamus gramatikos pasiūlymus pasirinkus Nepaisyti.\r\n\r\nPagalba, kad ir kur rašote\r\nNaudodami šį naršyklės plėtinį, gaukite rašymo pagalbos tokiose svetainėse kaip „LinkedIn“, „Gmail“, „Facebook“ ir kituose parankiniuose. Jei norite redaktoriaus pagalbos „Office“ programose, kuriose rašote daugiausiai, atverkite „Word“ arba internetinę „Outlook“ ir gaukite pasiūlymų, kaip patobulinti dokumentus ir el. laiškus.\r\n\r\nGaukite pagalbos keliomis kalbomis\r\nNaudodami kelių kalbų rašybos tikrinimo funkciją vienu metu tikrinkite iki trijų kalbų rašybą bei gramatiką. Redaktorius tikrina daugiau nei 80 kalbų rašybą, taip pat tikrina šių kalbų gramatiką bei siūlo rašymo stiliaus patobulinimus 21 kalba. Daugiau informacijos apie pasiekiamas kalbas rasite čia: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n„Chrome“ skirtą redaktorių rasite čia: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Galima naudoti „Microsoft Edge“ arba „Chrome“ naršyklėse, reikalinga „Microsoft“ paskyra. Redaktorius prisijungia prie „Microsoft“ internetinės paslaugos, kuri daugelyje svetainių teikia rašybos, gramatikos ir teksto tobulinimo pasiūlymus.\r\n2. Patobulinimų rinkinys ne visoms kalboms yra toks pat.\r\n\r\nĮdiegdami programėlę sutinkate su šiomis sąlygomis:\r\n\r\nDĖMESIO! Jei taikoma, peržiūrėkite savo „Microsoft“ paskyros arba „Microsoft 365“ prenumeratos licencijos sąlygas („plėtinys“), kad nustatytumėte subjektą, kuris jums licencijuoja šį plėtinį, ir gautumėte palaikymo informacijos. Šio plėtinio naudojimui taikomos „Microsoft“ paskyros arba „Microsoft 365“ prenumeratos licencijos sąlygos. \r\n\r\nPrivatumo politika: http://aka.ms/privacy\r\nPaslaugų teikimo sąlygos: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "„Microsoft“ redaktorius: rašybos ir gramatikos tikrintuvas"
+   },
+   "AppShortName": {
+      "message": "Redaktorius "
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Įjungti"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Išbandykite Redaktorių (beta versija) „Google Docs“"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "„Google Docs“ redaktorius yra beta versijos. Jei susidūrėte su problema, praneškite mums."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Kai kartu veikia kiti redagavimo plėtiniai ir Redaktorius, jų pasiūlymai gali dubliuotis arba konfliktuoti. Kad Redaktoriaus naudojimas atneštų geriausius rezultatus, rekomenduojame išjungti kitus redagavimo plėtinius naršyklės plėtinių nustatymuose."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Aptiktas konfliktas tarp redagavimo plėtinių"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Išjungti redaktorių $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "„Microsoft“ redaktorius"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "„Copilot“ įterpimas"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "„Copilot“ perrašymas"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Gramatika"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Redaktorius šiuo metu svetainėje $host$ nepalaikomas",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Redaktorius šiuo metu išjungtas $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Redaktorius išjungtas."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "lt"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Redaktorius yra įtrauktas į $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Tikrinimo kalba: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "lt"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Tikrinimo kalba"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Tikrinimo kalbos"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Gaukite pažangių rašymo idėjų ir 1 TB saugyklą pasirinkę „Premium“."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Patobulinimai"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Patobulinimai – tai išplėstiniai rašymo pasiūlymai, kurie padės jums rašyti aiškiau, naudoti mažiau nereikalingų žodžių ar pasirinkti oficialesnį stilių."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Atidarykite redaktoriaus parametrus, kad pasirinktumėte tikrinimo kalbas."
+   },
+   "EditorSettingsLabel": {
+      "message": "Daugiau Redaktoriaus parametrų"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Rašyba"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Sinonimai (peržiūra)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Rašydami gaukite sinonimų: dukart spustelėkite žodį arba pasirinkite ir paspauskite („Alt“ + Rodyklė žemyn)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Rašydami gaukite sinonimų: dukart spustelėkite žodį arba pasirinkite ir paspauskite „Alt“ + Rodyklė žemyn."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Rašydami gaukite sinonimų: dukart spustelėkite žodį arba pasirinkite ir paspauskite „Control“ + „Option“ + Rodyklė žemyn."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Rašydami gaukite sinonimų: dukart spustelėkite žodį arba pasirinkite ir paspauskite (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ ir $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "lt"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "lt"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Įjungti Redaktorių svetainėje $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Peržiūrėti paskyrą"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Naršyklės plėtinys „Microsoft“ redaktorius"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Sėkmingai atnaujinote versiją į „Microsoft“ redaktoriaus „Premium“ versiją! Susipinkite su išplėstinių funkcijų rinkiniu spustelėdami mėlynus ir violetinius pabraukimus rašomame tekste."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Sveikiname"
+   },
+   "SettingsLabel": {
+      "message": "Paskyros parametrai"
+   },
+   "SignInLabel": {
+      "message": "Prisijunkite arba užsiregistruokite"
+   },
+   "SignOutLabel": {
+      "message": "Atsijungti"
+   },
+   "SignOutTooltip": {
+      "message": "Atsijungus bus iš naujo nustatyti visi numatytieji parametrai ir prarastas išskirtų svetainių sąrašas."
+   },
+   "SupportPageLabel": {
+      "message": "Ar reikia pagalbos prisijungian​t?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Įjungti Redaktorių"
+   },
+   "addButtonLabel": {
+      "message": "Įtraukti"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Kurkite naudodami „Copilot“, spauskite alt+i, kad peržiūrėtumėte parinktis"
+   },
+   "aiInsertButtonText": {
+      "message": "Kurti turinį naudojant „Copilot“"
+   },
+   "aiInsertResultDescription": {
+      "message": "Štai būdas padaryti jį patrauklesniu"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Redaktorius įtraukė $1 kaip rašybos tikrinimo kalbą"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Valdyti rašybos tikrinimo kalbas"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Anuliuoti"
+   },
+   "backToPromptLabel": {
+      "message": "Atgal"
+   },
+   "closeLabel": {
+      "message": "Uždaryti"
+   },
+   "contentErrorMessage": {
+      "message": "„Microsoft“ redaktoriui nepavyko sukurti turinio. Pasirinkite kitą tekstą arba šiek tiek palaukite ir bandykite dar kartą."
+   },
+   "contentSuggestion": {
+      "message": "Turinio pasiūlymas"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Koregavimas, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Gramatikos klaida, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Stilių patikslinimas, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Pasikartojantis žodis, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Rašybos klaida, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Dirbtinio intelekto sugeneruotame turinyje gali būti netikslumų arba slaptos medžiagos. Būtinai patikrinkite informaciją."
+   },
+   "copyButtonText": {
+      "message": "Kopijuoti"
+   },
+   "defaultWarningMessage": {
+      "message": "Norėdami naudoti „Copilot“, eikite į pastraipos pabaigą."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Vienu metu galite įjungti ne daugiau kaip trijų kalbų tikrinimą."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "„$1“ buvo įtraukta į žodyną."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Meniu ieškos rezultatai atmesti"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Pasiūlymas įterptas. Meniu ieškos rezultatai atmesti"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Vėliavėlės pasiūlymas spustelėtas. Rodomi meniu ieškos rezultatai"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Raginimas spustelėtas. Rodomi meniu ieškos rezultatai"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "„$1“ simbolio klavišas rodo meniu ieškos rezultatus"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Atidarykite paspausdami klavišą CTRL"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Paspauskite klavišą CTRL, kad būtų pateiktos automatinės taisos parinktys"
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Failų pasiūlymai"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Failai, komponentai, žmonės ir kt."
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Įterpimas"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Vietinės įmonės aptikimas"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Adreso aptikimas"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Įtraukti saitą į šį adresą"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Vieta"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Patobulinimas"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Žmonių pasiūlymai"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Objekto pasiūlymas"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Įtraukti saitą į šį objektą"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Objektas"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Objekto pasiūlymas"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Laiko aptikimas"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Įtraukti laiko juostas į šį laiką"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Laikas"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Patobulinimas"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "„Viva Topics“"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Pažymėkite šią temą, kad padėtumėte kitiems pasiekti aprašą, žmones ir prie jo prijungtus išteklius."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "„Viva Topics“ pasiūlymas"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "„Viva Topics“ pasiūlymas"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Rodomas raginimo pasiūlymas: „$1“"
+   },
+   "ebx_Cancel": {
+      "message": "Atšaukti"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Datos atpažinimas"
+   },
+   "ebx_Dismiss": {
+      "message": "Atmesti"
+   },
+   "ebx_Done": {
+      "message": "Atlikta"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Ieškoti failų"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Ieškoti žmonių"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Norėdami ieškoti, pradėkite rašyti"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Norėdami ieškoti, pradėkite rašyti 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Norėdami ieškoti, pradėkite rašyti"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Norėdami ieškoti, pradėkite rašyti"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Ieškoti „Loop“ komponentų"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Norėdami ieškoti, pradėkite rašyti"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Norėdami ieškoti, pradėkite rašyti"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Norėdami ieškoti, pradėkite rašyti"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Ieškoti temų"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Žmonės / datos atpažinimas"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Įterpti datą"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Įterpti datos diapazoną"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Pasiūlymas: įterpti datos diapazoną"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Įterpti datą ir laiką"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Pasiūlymas: įterpti datą ir laiką"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Pasiūlymas: įterpti datą"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Pasiūlymas: įterpti asmenį"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Įterpti laiką"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Įterpti laiko intervalą"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Pasiūlymas: įterpti laiko intervalą"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Pasiūlymas: įterpti laiką"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Atsiliepimas sėkmingai pateiktas."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Dėkojame, kad išbandote Redaktorių (beta versiją) „Google Docs“. Atliekame naujinimus, kad pritaikytume „Google Docs“ pakeitimus, dėl kurių Redaktorius nustojo veikti. Pranešime, kai Redaktorius bus parengtas naudoti dar kartą."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "„Google Docs“ redaktorius nepasiekiamas"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Norėdami gauti geriausias redaktoriaus funkcijas, bandykite išjungti „Google Docs“ įtaisytąją rašybos ir gramatikos patikrą. (Meniu Įrankiai eikite į Rašyba ir gramatika, tada išjunkite parinktis)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Naudoti tik redaktoriaus tikrinimą"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Rašydami gaukite išplėstinių pasiūlymų. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Rašydami gaukite išplėstinių pasiūlymų. Kad teksto rengyklės funkcija veiktų geriau, „Google Docs“ įtaisytoji rašybos ir gramatikos tikrinimo funkcija bus išjungta. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Išbandykite Redaktorių (beta versija) „Google Docs“"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Gramatikos pasiūlymo nepaisoma."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Antraščių aptikimas"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Patobulinti"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "1 antraštė"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "2 antraštė"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "3 antraštė"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Apsvarstykite galimybę pakeisti į antraštę"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Pritaikymas neįgaliesiems"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Pritaikymas neįgaliesiems: galėtumėte pakeisti į antraštę"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Siūlomas įterpimas „$1“. Paspauskite, kad įterptumėte."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Pasirinkome {0} pagal jūsų dabartinius naršyklės parametrus."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Vienu metu tikrinkite trijų kalbų rašybą ir gramatiką. Kalbas pasirinkite Redaktoriaus parametruose"
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Kalbas galite redaguoti Redaktoriaus parametruose."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Pagal dabartinius naršyklės parametrus pasirinkome {0}, {1} ir {2}."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Kelių kalbų redagavimas naudojant „Microsoft“ redaktorių"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Pagal dabartinius naršyklės parametrus pasirinkome {0} ir {1}."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Žmonių atpažinimas"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Siūloma įterpimas „$1“ sėkmingai pritaikytas."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Siūlomas įterpimas „$1“. Norėdami įterpti, paspauskite TAB."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Tikrinimo kalbos"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Kai yra prisijungę, „Microsoft 365“ prenumeratoriai gauna išplėstinių rašymo pasiūlymų."
+   },
+   "ebx_RemoveItem": {
+      "message": "Naikinti"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Dabar galite įtraukti savo žodžius į Redaktoriaus rašybos žodyną. Kai redaktorius pateikia rašybos pasiūlymą, ieškokite \"Įtraukti į žodyną\"."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Rašybos žodyno pritaikymas asmeniniams poreikiams"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "Gerai"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Dabar Redaktorius galės įtraukti žodžius į vartotojo žodyną, integruotą į „Microsoft 365“ programas. Kai Redaktorius pateiks rašybos pasiūlymą, prisijunkite ir suraskite parinktį „Įtraukti į žodyną“."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Prisijunkite, jei norite naudoti asmeninį rašybos žodyną"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Kritika „$1“ yra išjungta parametruose."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Ši kritika yra išjungta parametruose."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Norėdami gauti rašymo pasiūlymų daugelyje svetainių, prisijunkite prie savo „Microsoft“ paskyros arba darbo ar mokymo įstaigos paskyros, kurią naudojate „Office“."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Prisijungti arba užsiregistruoti"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Prisijunkite, kad gautumėte rašymo pasiūlymų daugelyje svetainių. Išsaugosime jūsų parametrus, pvz., kalbas, kuriomis rašote, ir problemų, kurias norite, kad redaktorius patikrintų, rūšis."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Naudokite gramatikos ir stiliaus pasiūlymais daugelyje svetainių bei individualizuotu rašybos žodynu."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Norėdami gauti personalizuotą rašybos žodyną, prisijunkite prie „Microsoft“ paskyros arba darbo ar mokymo įstaigos paskyros, kurią naudojate „Office“."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Redaktorius dar nepaleistas"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Perbrauktas meniu atmestas"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Pasiūlymas įterptas. Perbrauktas meniu atmestas"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Vėliavėlės pasiūlymas spustelėtas. Rodomas perbrauktas meniu"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Raginimas spustelėtas. Rodomas perbrauktas meniu"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "„$1“ simbolio klavišo paspaudimas rodo perbrauktą meniu"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Rašybos pasiūlymo nepaisoma."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Atidarykite kairiojo pelės klavišo spustelėjimu arba paspaudę Alt + rodyklė žemyn"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Atidarykite kairiojo pelės klavišo spustelėjimu arba paspaudę Ctrl + Alt + rodyklę žemyn"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Atidarykite spustelėję kairįjį pelės mygtuką arba paspaudę „Control“ + „Option“ + Rodyklė žemyn"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Automatinė taisa"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt + rodyklė žemyn)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl + Alt + rodyklė žemyn)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Gramatikos taisymas"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Rašymo patikslinimai"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Rašybos taisymas"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Atidaryti kairiuoju pelės mygtuku"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "„Viva Topics“ pasiūlymas"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Pasiūlymas „$1“ buvo sėkmingai priimtas."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Užduočių atpažinimas"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Kurti užduotį"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Pasiūlymas: kurti užduotį"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Tab"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Bakstelėti"
+   },
+   "ebx_TurnItOn": {
+      "message": "Įjungti"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Įtraukti kitą svetainę"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Įtraukti kitą svetainę"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Atšaukti svetainės įtraukimą į užblokuotų svetainių sąrašą."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Įtraukti svetainę į užblokuotų svetainių sąrašą"
+   },
+   "ebx_addButton": {
+      "message": "Įtraukti"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Norėdami įtraukti gramatikos tikrinimą"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Atšaukite kalbos įtraukimą į tikrinimo kalbų sąrašą"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Įtraukite kalbą į tikrinimo kalbų sąrašą"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Įtraukti kitą kalbą"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Įtraukti į žodyną"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Leisti redaktoriui automatiškai aptikti ir įtraukti naujas tikrinimo kalbas pagal jūsų rašymą."
+   },
+   "ebx_appDescription": {
+      "message": "Rašykite užtikrintai naudodami „Microsoft“ redaktorių – savo intelektualųjį rašymo asistentą"
+   },
+   "ebx_appLongDescription": {
+      "message": "Redaktorius žiniatinklyje teikia išplėstinę rašymo pagalbą – pasiūlymus dėl gramatikos, rašybos ir stiliaus(1), todėl galite užtikrintai rašyti aiškius, glaustus įrašus ir el. laiškus.\r\n\r\nNaudodamiesi išmaniąja rašymo pagalba, rašykite kaip profesionalas\r\nSustiprinkite pagrindus naudodamiesi nemokama gramatikos, išplėstinės gramatikos, rašybos ir skyrybos tikrinimo funkcija. Neapsiribokite pagrindais – su „Premium“ versija naudokite išplėstinę stiliaus patikrą, skirtą išvengti aiškumo, glaustumo, formalumo, žodyno ir kitų problemų (būtina „Microsoft 365“ prenumerata).\r\n\r\nPritaikykite asmeniniams poreikiams\r\nDabar redaktorius gali įtraukti žodžius į pasirinktinį žodyną, integruotą jūsų „Microsoft 365“ programose. Redaktoriui pateikus rašybos pasiūlymą, ieškokite parinkties Įtraukti į žodyną. Be to, Parametrų dalyje galite tiksliai pritaikyti rašymo pasiūlymų nuostatas. Taip pat sudarėme galimybę lengvai praleisti visus rašybos taisymus pasirinkus Nepaisyti visko arba praleisti nepageidaujamus gramatikos pasiūlymus pasirinkus Nepaisyti.\r\n\r\nPagalba, kad ir kur rašote\r\nNaudodami šį naršyklės plėtinį, gaukite rašymo pagalbos tokiose svetainėse kaip „LinkedIn“, „Gmail“, „Facebook“ ir kituose parankiniuose. Jei norite redaktoriaus pagalbos „Office“ programose, kuriose rašote daugiausiai, atverkite „Word“ arba internetinę „Outlook“ ir gaukite pasiūlymų, kaip patobulinti dokumentus ir el. laiškus.\r\n\r\nGaukite pagalbos keliomis kalbomis\r\nNaudodami kelių kalbų rašybos tikrinimo funkciją vienu metu tikrinkite iki trijų kalbų rašybą bei gramatiką. Redaktorius tikrina daugiau nei 80 kalbų rašybą, taip pat tikrina šių kalbų gramatiką bei siūlo rašymo stiliaus patobulinimus 21 kalba. Daugiau informacijos apie pasiekiamas kalbas rasite čia: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n„Microsoft Edge“ skirtą redaktorių rasite čia: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Galima naudoti „Microsoft Edge“ arba „Chrome“ naršyklėse, reikalinga „Microsoft“ paskyra. Redaktorius prisijungia prie „Microsoft“ internetinės paslaugos, kuri daugelyje svetainių teikia rašybos, gramatikos ir teksto tobulinimo pasiūlymus.\r\n2. Patobulinimų rinkinys ne visoms kalboms yra toks pat.\r\n\r\nĮdiegdami programėlę sutinkate su šiomis sąlygomis:\r\n\r\nDĖMESIO! Jei taikoma, peržiūrėkite savo „Microsoft“ paskyros arba „Microsoft 365“ prenumeratos licencijos sąlygas („plėtinys“), kad nustatytumėte subjektą, kuris jums licencijuoja šį plėtinį, ir gautumėte palaikymo informacijos. Šio plėtinio naudojimui taikomos „Microsoft“ paskyros arba „Microsoft 365“ prenumeratos licencijos sąlygos.\r\n\r\nPrivatumo politika: http://aka.ms/privacy\r\nPaslaugų teikimo sąlygos: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Redaktorius žiniatinklyje teikia išplėstinę rašymo pagalbą – pasiūlymus dėl gramatikos, rašybos ir stiliaus(1), todėl galite užtikrintai rašyti aiškius, glaustus įrašus ir el. laiškus.\r\n\r\nNaudodamiesi išmaniąja rašymo pagalba, rašykite kaip profesionalas\r\nSustiprinkite pagrindus naudodamiesi nemokama gramatikos, išplėstinės gramatikos, rašybos ir skyrybos tikrinimo funkcija. Neapsiribokite pagrindais – su „Premium“ versija naudokite išplėstinę stiliaus patikrą, skirtą išvengti aiškumo, glaustumo, formalumo, žodyno ir kitų problemų (būtina „Microsoft 365“ prenumerata).\r\n\r\nPritaikykite asmeniniams poreikiams\r\nDabar redaktorius gali įtraukti žodžius į pasirinktinį žodyną, integruotą jūsų „Microsoft 365“ programose. Redaktoriui pateikus rašybos pasiūlymą, ieškokite parinkties Įtraukti į žodyną. Be to, Parametrų dalyje galite tiksliai pritaikyti rašymo pasiūlymų nuostatas. Taip pat sudarėme galimybę lengvai praleisti visus rašybos taisymus pasirinkus Nepaisyti visko arba praleisti nepageidaujamus gramatikos pasiūlymus pasirinkus Nepaisyti.\r\n\r\nPagalba, kad ir kur rašote\r\nNaudodami šį naršyklės plėtinį, gaukite rašymo pagalbos tokiose svetainėse kaip „LinkedIn“, „Gmail“, „Facebook“ ir kituose parankiniuose. Jei norite redaktoriaus pagalbos „Office“ programose, kuriose rašote daugiausiai, atverkite „Word“ arba internetinę „Outlook“ ir gaukite pasiūlymų, kaip patobulinti dokumentus ir el. laiškus.\r\n\r\nGaukite pagalbos keliomis kalbomis\r\nNaudodami kelių kalbų rašybos tikrinimo funkciją vienu metu tikrinkite iki trijų kalbų rašybą bei gramatiką. Redaktorius tikrina daugiau nei 80 kalbų rašybą, taip pat tikrina šių kalbų gramatiką bei siūlo rašymo stiliaus patobulinimus 21 kalba. Daugiau informacijos apie pasiekiamas kalbas rasite čia: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n„Chrome“ skirtą redaktorių rasite čia: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Galima naudoti „Microsoft Edge“ arba „Chrome“ naršyklėse, reikalinga „Microsoft“ paskyra. Redaktorius prisijungia prie „Microsoft“ internetinės paslaugos, kuri daugelyje svetainių teikia rašybos, gramatikos ir teksto tobulinimo pasiūlymus.\r\n2. Patobulinimų rinkinys ne visoms kalboms yra toks pat.\r\n\r\nĮdiegdami programėlę sutinkate su šiomis sąlygomis:\r\n\r\nDĖMESIO! Jei taikoma, peržiūrėkite savo „Microsoft“ paskyros arba „Microsoft 365“ prenumeratos licencijos sąlygas („plėtinys“), kad nustatytumėte subjektą, kuris jums licencijuoja šį plėtinį, ir gautumėte palaikymo informacijos. Šio plėtinio naudojimui taikomos „Microsoft“ paskyros arba „Microsoft 365“ prenumeratos licencijos sąlygos.\r\n\r\nPrivatumo politika: http://aka.ms/privacy\r\nPaslaugų teikimo sąlygos: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "„Microsoft“ redaktorius: rašybos ir gramatikos tikrintuvas"
+   },
+   "ebx_appShortName": {
+      "message": "Redaktorius"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, panašu į: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, panašu į: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Pakeisti"
+   },
+   "ebx_asInSynonyms": {
+      "message": "panašu į"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "„$1“, automatinė taisa anuliuota."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Grąžinti „$1“"
+   },
+   "ebx_autoCorrected": {
+      "message": "„$1“, automatiškai ištaisyta."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Paspauskite klavišą CTRL, kad būtų pateiktos automatinės taisos parinktys."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "„{0}“ sėkmingai įtraukta"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Paspauskite rodyklės dešinėn klavišą, kad pasiektumėte mygtuką Pašalinti."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Šis sąrašas tuščias."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "„{0}“ buvo sėkmingai pašalinta"
+   },
+   "ebx_brandText": {
+      "message": "„Microsoft“ redaktorius"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "„Microsoft“ redaktorius logotipas"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Naršyti šiame kompiuteryje"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Keisti viską"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Redaktoriaus parametrai..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Tikrinti, ar yra patobulinimų"
+   },
+   "ebx_checkGrammar": {
+      "message": "Tikrinti gramatiką"
+   },
+   "ebx_checkSpelling": {
+      "message": "Tikrinti rašybą"
+   },
+   "ebx_close": {
+      "message": "Uždaryti"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Jau greitai"
+   },
+   "ebx_copilotInsert": {
+      "message": "Įterpimas"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "„Copilot“ perrašymas"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Naikinti pasikartojantį žodį"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Daugiau netikrinti"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Daugiau netikrinti. Redaktorius taikys šį parametrą, kol jį pakeisite."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Redaktorius taikys šį parametrą, kol jį pakeisite."
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Išjungti redaktorių {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Rodymo parinktys"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Ši svetainė jau yra užblokuotų svetainių sąraše"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Redaktorius $1 išplėstines šio pranešimo rašymo idėjas."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Redaktorius {0} šiuo metu nepalaikomas"
+   },
+   "ebx_editorCanvas": {
+      "message": "Redaktoriaus iškylantysis langas"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Išjungta"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Įjungta"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Rodyti Redaktoriaus mygtuką laukuose, palaikančiuose Redaktoriaus iškylantįjį langą"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "„Microsoft Office“ naršyklės plėtinyje nuo šiol yra „Microsoft“ redaktorius, jūsų išmanioji rašymo pagalbinė priemonė, kuri padės jums geriau rašyti žiniatinklyje. „Microsoft“ redaktorius prisijungia prie internetinės tarnybos ir teikia jums rašybos, gramatikos bei stiliaus pasiūlymus."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "„Microsoft“ redaktorius (peržiūros versija) jau veikia"
+   },
+   "ebx_editorFeature": {
+      "message": "„Microsoft“ redaktorius"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Išjungta"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Išjungti Redaktorių"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Įjungta"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Redaktoriaus funkcija"
+   },
+   "ebx_editorIsOff": {
+      "message": "Redaktorius išjungtas"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Redaktorius šiuo metu išjungtas {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Redaktorius yra įtrauktas su {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Daugiau Redaktoriaus parametrų"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Nėra jūsų iešką atitinkančių kalbų"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Įjungti redaktorių {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " ir "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Redaktorius $1 Išplėstinė šio pranešimo rašymo idėjos."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Redaktorius $1 Išplėstinis šio pranešimo rašymas idėja."
+   },
+   "ebx_excludedSites": {
+      "message": "Neįtrauktos svetainės"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Pranešti apie šį pasiūlymą"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Praneškite mums, kodėl pasirinkote šį atsakymą."
+   },
+   "ebx_feedbackLink": {
+      "message": "atsiliepimai"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Padėkite mums tobulinti redaktorių pateikdami"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Labai neigiamas"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Itin neigiamas"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Šiek tiek neigiamas"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Šiek tiek neigiamas"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Nei teigiamas, nei neigiamas"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Nei neigiamas, nei teigiamas"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Šiek tiek teigiamas"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Šiek tiek teigiamas"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Labai teigiamas"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Itin teigiamas"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Bendrai, kaip apibūdintumėte savo „Microsoft“ redaktoriaus naudojimo patirtį"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Kaip jaučiatės naudodami „Microsoft“ redaktorių rašybos, gramatikos, numatymo ir kitiems rašymo tikslinimo pasiūlymams gauti?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Pateikite atsiliepimą „Microsoft“ apie Redaktorių"
+   },
+   "ebx_giveFeedback": {
+      "message": "Pateikti atsiliepimą"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Gaukite galimybę naudotis Redaktoriaus rašymo ir stiliaus rekomendacijomis, 1 TB „OneDrive“ saugykla ir „Premium“ funkcijomis visose „Microsoft 365“ programose."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Gaukite galimybę naudotis Redaktoriaus rašymo ir stiliaus rekomendacijomis, 1 TB „OneDrive“ saugykla ir „Premium“ funkcijomis visose „Microsoft 365“ programose."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Išbandykite išplėstines redaktoriaus rašymo ir stiliaus rekomendacijas."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Gauti „Premium“ versiją"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "įsigykite „Premium“ versiją"
+   },
+   "ebx_goToSettings": {
+      "message": "Eiti į Redaktoriaus parametrus"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Eikite į redaktoriaus parametrus, kad sužinotumėte daugiau"
+   },
+   "ebx_googleDocs": {
+      "message": "„Google“ dokumentai"
+   },
+   "ebx_grammar": {
+      "message": "Gramatika"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Slėpti sinonimus"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Nepaisyti visko"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Nepaisyti"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Atidarykite redaktorių arba spustelėkite dešiniuoju pelės mygtuku, jei reikia daugiau parinkčių"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Žr. visus pasiūlymus redaktoriuje arba spustelėkite dešiniuoju pelės mygtuku, jei reikia daugiau parinkčių"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Šioje eilutėje rasta \"$1\" tikrinimo problemų"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Šioje eilutėje rasta \"$1\" tikrinimo problema"
+   },
+   "ebx_languageAdded": {
+      "message": "„{0}“ sėkmingai įtraukta"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" sėkmingai perkelta viena vieta sąraše žemyn"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" sėkmingai perkeltas į sąrašo viršų"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" sėkmingai perkelta viena vieta sąraše aukštyn"
+   },
+   "ebx_languageRemoved": {
+      "message": "„{0}“ buvo sėkmingai pašalinta"
+   },
+   "ebx_learnMore": {
+      "message": "Sužinokite daugiau"
+   },
+   "ebx_manageLanguages": {
+      "message": "Valdyti kalbas..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Valdyti rašybos tikrinimo kalbas"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Daugiau komandų, skirtų {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Perkelti žemyn"
+   },
+   "ebx_moveToTop": {
+      "message": "Perkelti į viršų"
+   },
+   "ebx_moveUp": {
+      "message": "Perkelti aukštyn"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Kitas pasiūlymas, liko $1"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Atidaryti „Editor“"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Redaktoriaus parametrai"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Šią rašybos klaidą padarėte kelis kartus, todėl įtraukėme \"$1\" į jūsų automatinės taisos sąrašą."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "Šioje peržiūroje liko $1 d. Naujinti į neribotų pasiūlymų versiją:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "liko $1 diena šioje peržiūroje. Naujinti į neribotų pasiūlymų versiją:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Gaukite išplėstinių Redaktoriaus rašymo rekomendacijų."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "Šioje peržiūroje liko pasiūlymų: $1. Naujinti į neribotų pasiūlymų versiją:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "Šioje peržiūroje liko $1 pasiūlymas. Naujinti į neribotų pasiūlymų versiją:"
+   },
+   "ebx_preview": {
+      "message": "(Peržiūros versija)"
+   },
+   "ebx_previewLabel": {
+      "message": "PERŽIŪRA"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Ankstesnis pasiūlymas, liko $1"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Automatiškai siųsti pasirinktinius diagnostikos duomenis naudojantis šia internetine tarnyba, kad padėtumėte mums tobulinti savo produktus."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Sužinokite daugiau apie diagnostikos duomenis"
+   },
+   "ebx_privacyOptions": {
+      "message": "Privatumo parinktys"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Tikrinimo kalba"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Paspauskite rodyklės dešinėn klavišą, kad pasiektumėte mygtuką Daugiau komandų."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Tikrinimo kalba"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Vienu metu galite įjungti ne daugiau kaip trijų kalbų tikrinimą."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Pasirinkite tikrinimo kalbą"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Tikrinimo kalbos"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Pasirinkite ne daugiau kaip tris kalbas. Jūsų pageidaujama kalba bus rodoma viršuje."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Tikrinimo kalbos"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Ar Redaktorius jums naudingas?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Norime jums užduoti tik du klausimus"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Pateikti atsiliepimą"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Apgailestaujame. Praneškite mums, kaip galėtume patobulinti redaktorių."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Ne"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Ne, ačiū"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Puiku, ar norėtumėte ją įvertinti?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Jei jums vis dar patinka naudotis redaktoriumi, ar norėtumėte ją įvertinti?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Žinoma"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Taip"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Atsiliepimai apie „Microsoft“ redaktorių"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Džiaugsimės gavę jūsų atsiliepimą"
+   },
+   "ebx_refinements": {
+      "message": "Patobulinimai"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Patobulinimai yra išplėstiniai rašymo pasiūlymai, padedantys rašyti aiškiau, naudoti mažiau žodžių ar formaliau."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Šis žodis kartojasi"
+   },
+   "ebx_settings": {
+      "message": "Parametrai"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Teksto rengyklės parametrų atidarymas"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Atidarykite redaktoriaus parametrus, kad pasirinktumėte tikrinimo kalbas."
+   },
+   "ebx_settingsLabel": {
+      "message": "Paskyros parametrai"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "„Microsoft“ redaktoriaus parametrai"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Parametrai pagal kalbą"
+   },
+   "ebx_showBeta": {
+      "message": "Beta versija $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Rodyti sinonimus"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Pateikiant rašybos pasiūlymus rodyti sinonimus"
+   },
+   "ebx_signInDescription": {
+      "message": "Prisijunkite, jei norite gauti gramatikos ir stiliaus pasiūlymų daugumoje svetainių, o taip pat ir asmeninį rašybos žodyną."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Ar reikia pagalbos prisijungiant?"
+   },
+   "ebx_signInLabel": {
+      "message": "Prisijungti arba užsiregistruoti"
+   },
+   "ebx_signInToAccess": {
+      "message": "Prisijunkite, kad pasiektumėte"
+   },
+   "ebx_signIntoEditor": {
+      "message": "prisijungti prie redaktoriaus"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Jei norite gauti gramatikos ir stiliaus pasiūlymų daugumoje svetainių, prisijunkite."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Suasmenintai rašybai"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Norėdami naudoti personalizuotą rašybos žodyną, prisijunkite."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Jei norite gauti gramatikos ir stiliaus pasiūlymų daugumoje svetainių, prisijunkite."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Prisijunkite, jei norite gauti gramatikos ir stiliaus pasiūlymų daugumoje svetainių, o taip pat ir asmeninį rašybos žodyną."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Prisijungti prie redaktoriaus"
+   },
+   "ebx_signOutLabel": {
+      "message": "Atsijungti"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Atsijungus bus iš naujo nustatyti visi numatytieji parametrai ir prarastas išskirtų svetainių sąrašas."
+   },
+   "ebx_spelling": {
+      "message": "Rašyba"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Dar kartą patikrinkite, ar tai teisinga"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Daugiau veiksmų"
+   },
+   "ebx_synonyms": {
+      "message": "Sinonimai"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonyms not available]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Rašydami gaukite sinonimų: dukart spustelėkite žodį arba pasirinkite ir paspauskite („Alt“ + Rodyklė žemyn)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Rašydami gaukite sinonimus: dukart spustelėkite žodį arba pasirinkite ir paspauskite (⌃ + ⌥ + (*))."
+   },
+   "ebx_toggleOff": {
+      "message": "Išjungta"
+   },
+   "ebx_toggleOn": {
+      "message": "Įjungta"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Taip, prašau"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Dabar pateikiame pasiūlymų, kurie padės pagerinti jūsų rašymo toną. Ar norite peržiūrėti?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Atsisakyti"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Ne dabar"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Atlikite keitimus redaktoriaus parametruose"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Niekada nerodyti tono pasiūlymų"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Tono aptikimas dabar išjungtas."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Tono aptikimas"
+   },
+   "ebx_toneLabel": {
+      "message": "Tonas"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Pažymėkite šią temą, kad padėtumėte kitiems pasiekti aprašą, žmones ir prie jo prijungtus išteklius."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "„Viva Topics“ pasiūlymas"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Išbandykite išplėstines „Editor“ rašymo idėjas"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Išbandyti dabar"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Išjungti Redaktorių"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Redaktorius prisijungia prie „Microsoft“ internetinės tarnybos, kuri daugelyje svetainių pateikia jums rašybos, gramatikos ir stiliaus taisymo pasiūlymų."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Įjungti redaktorių"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Anuliuoti"
+   },
+   "ebx_undoButtonText": {
+      "message": "Anuliuoti"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Automatinės taisos parinktys"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Užblokuotos svetainės"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Neleistinas URL. Pateikite URL šiuo formatu: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Netinkamas URL „{0}“ {1} eilutėje."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Išjungėte toliau išvardytų svetainių rengyklę. Redaktorius gali būti automatiškai išjungta papildomų svetainių su slapto turinio arba lėto greičiai."
+   },
+   "ebx_viewAccount": {
+      "message": "Rodyti paskyrą"
+   },
+   "editor": {
+      "message": "Redaktorius"
+   },
+   "editorButtonText": {
+      "message": "Redaktorius"
+   },
+   "emailWarningMessage": {
+      "message": "Norėdami naudoti „Copilot“, eikite į el. laiško pabaigą."
+   },
+   "emptyStateMessage": {
+      "message": "Pažymėkite tekstą, kurį norite perrašyti"
+   },
+   "errorLabel": {
+      "message": "Klaida"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "jūsų žodynas"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Susiekite su turiniu įvesdami specialųjį simbolį, pasvirąjį brūkšnį (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Turinio žymėjimas"
+   },
+   "esdk_autocorrect": {
+      "message": "Automatinė taisa"
+   },
+   "esdk_cancelButton": {
+      "message": "Atšaukti"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Parametrai"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, jungiklis, Išjungta."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, jungiklis, Įjungta."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Paspauskite TAB, kad išgirstumėte kategorijos būseną"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Rodyklė dešinėn, kad galėtumėte išplėsti kategoriją."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Išsamūs parametrai išjungti."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Rodyklė dešinėn, kad galėtumėte įvesti išsamius parametrus."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} išjungta"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Dabar visi šios kategorijos išsamūs parametrai nepažymėti."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Dabar visi išsamūs šios kategorijos parametrai yra pažymėti."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "{0} išsamūs parametrai"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Tarpo arba „Enter“ klavišu perjunkite kategorijos būseną,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Redaktorius nepažymės šios problemos, jei Redaktoriaus sritis neatidaryta"
+   },
+   "esdk_closeButton": {
+      "message": "Uždaryti"
+   },
+   "esdk_copilotInsert": {
+      "message": "Įterpimas"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "„Copilot“ šiuo metu palaiko tik anglų kalbą"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Perrašyti"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "„Copilot“"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Taisymai"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Paspaudę rodyklę kairėn, grįšite į parametrus"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Paspaudę rodyklę dešinėn, pasieksite išsamius parametrus"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Norint pakeisti žymės langelio reikšmę, reikia įgalinti kategoriją"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Keiskite, kaip teksto rengyklė taiso ir siūlo teksto patobulinimus šioje taikomojoje programoje"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "„Microsoft“ redaktoriaus parametrai"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Įjungti rašybą, kad būtų naudojama automatinė taisa"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Patobulinimai"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Nepavyko įkelti redaktoriaus parametrų"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Gauti „Premium“"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Gaukite pažangių rašymo idėjų ir 1 TB saugyklos vietos, pasirinkę „Premium“"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Paspauskite TAB, kad išgirstumėte būseną"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Įdėtasis redagavimas"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Tikrinimo kalba"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Parametrai, skirti"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Teksto rengyklė aptinka, kada tekstas nurodo failą arba duomenis, ir siūlo sukurti saitą."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Susiejimo pasiūlymai"
+   },
+   "esdk_okButton": {
+      "message": "Gerai"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Sutraukti tikrinimo nuostatas."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Pasirinkite, ką teksto rengyklė tikrins."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Pasirinkite ne daugiau kaip tris kalbas. Jūsų pageidaujama kalba bus rodoma viršuje."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Redaguoti kalbas"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Išplėsti tikrinimo nuostatas."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Tikrinimo nuostatos"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Tikrinimo kalbos parametrai"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Tikrinimo parametrai"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Redaguoti kalbas"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Pasirinkite ne daugiau kaip tris kalbas. Jūsų pageidaujama kalba bus rodoma viršuje."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Tikrinimo parametrai"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Tikrinimo kalbos parametrai"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Patobulinimai"
+   },
+   "esdk_resetToDefault": {
+      "message": "Atstatyti numatytąjį"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Išbandykite išplėstinius Redaktoriaus rašymo pasiūlymus."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Atsisiųsti informaciją"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Ne visos kalbos turi tą pačią rašymo gaires. Atsisiųsti šį dokumentą, kad būtų galima peržiūrėti išsamią pasirinktos kalbos gramatikos ir tikslinimo parametrus."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Sužinokite daugiau"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Ne visoms kalboms taikomos tos pačios rašymo gairės. Naudokite šį saitą, kad sužinotumėte daugiau apie gramatikos ir tikslinimo parametrus, pasiekiamus visoms rengyklės kalboms."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Ne visoms kalboms taikomos tos pačios rašymo gairės. {Learn more} apie gramatikos ir tikslinimo parametrus, pasiekiamus visoms rengyklės kalboms."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Rašybos parinkčių pakeitimai taikomi visoms įgalintoms kalboms"
+   },
+   "esdk_synonyms": {
+      "message": "Sinonimai (peržiūra)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Teksto rengyklė numato tolesnius žodžius, taip pat failus ar kitus objektus, kuriuos reikia įterpti renkant tekstą."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Teksto numatymas"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Redaktorius numato tolesnius žodžius ir įvedant tekstą siūlo žodžius ar frazes, kad galėtumėte greičiau rašyti."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Mokymosi patarimas"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Pavyzdžiai"
+   },
+   "explanationTableAfter": {
+      "message": "Apsvarstykite:"
+   },
+   "explanationTableBefore": {
+      "message": "Vietoj:"
+   },
+   "explanationTableSeparator": {
+      "message": "arba"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Rašyti straipsnį apie mano kelionę į Eifelio bokštą"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Norėdami naudoti „Copilot“, eikite į straipsnio pabaigą."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Kitas puslapis"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "PATARIMAI $1 iš $2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Ankstesnis puslapis"
+   },
+   "generalErrorMessage": {
+      "message": "„Microsoft“ redaktorius susidūrė su problema ir negalėjo sugeneruoti turinio."
+   },
+   "generateButtonLabel": {
+      "message": "Generuoti"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Pateikti atsiliepimą"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Rašyti susitikimo užklausos el. laišką"
+   },
+   "inputName": {
+      "message": "Apibūdinkite, ką turi rašyti redaktorius..."
+   },
+   "inputPlaceholder": {
+      "message": "Apibūdinkite, ką norite rašyti"
+   },
+   "languageErrorMessage": {
+      "message": "Perrašyti dar negalima jūsų pasirinkta kalba."
+   },
+   "limitErrorMessage": {
+      "message": "Norėdami perrašyti, pasirinkite mažiau nei 100 žodžių."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Turinio kūrimo patarimai"
+   },
+   "loadingLabel": {
+      "message": "Truputį palaukite, šį tą jums ruošiame..."
+   },
+   "loadingText": {
+      "message": "Įkeliama: "
+   },
+   "modalDescribeBy": {
+      "message": "Generuoja kitus pažymėto teksto rašymo būdus"
+   },
+   "moreButtonLabel": {
+      "message": "Daugiau parinkčių"
+   },
+   "moreButtonText": {
+      "message": "Daugiau"
+   },
+   "moreOptionsLabel": {
+      "message": "Daugiau parinkčių"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "įtraukti kitą rašybos tikrinimo kalbą"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Įtraukti rašybos tikrinimo kalbą."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Norėdami gauti atitinkamų rašymo pasiūlymų,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Įtraukti kitą kalbą į redaktorių"
+   },
+   "nextSuggestion": {
+      "message": "Kitas pasiūlymas"
+   },
+   "nudgeTextForEmails": {
+      "message": "Įveskite $1, kad rastumėte el. laiškus"
+   },
+   "nudgeTextForFile": {
+      "message": "Įveskite $1, kad rastumėte failus ir kt."
+   },
+   "nudgeTextForMeetings": {
+      "message": "Įveskite $1, kad rastumėte susitikimus"
+   },
+   "nudgeTextForPeople": {
+      "message": "Įveskite $1, kad rastumėte žmones"
+   },
+   "prevSuggestion": {
+      "message": "Ankstesnis pasiūlymas"
+   },
+   "preview": {
+      "message": "PERŽIŪRA"
+   },
+   "previewText": {
+      "message": "PERŽIŪROS VERSIJA"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Paspauskite CTRL + ALT + I, jei norite naudoti šią funkciją kaskart, kai dirbate naujoje eilutėje."
+   },
+   "promptSuggestButtonText": {
+      "message": "Tiesiog rašykite toliau "
+   },
+   "promptSuggestShortcut": {
+      "message": "ALT + rodyklė dešinėn"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Skaityti garsiai pradinį sakinį"
+   },
+   "regenerateLabel": {
+      "message": "Generuoti pakartotinai"
+   },
+   "replaceLabel": {
+      "message": "Keisti"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Pranešti apie sugeneruotą turinį"
+   },
+   "reportOutput": {
+      "message": "Ataskaitos išvestis"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Dirbtinio intelekto sugeneruotame turinyje gali būti netikslumų arba slaptos medžiagos. Būtinai patikrinkite informaciją."
+   },
+   "retry": {
+      "message": "Kartoti"
+   },
+   "rewriteBrand": {
+      "message": "Perrašyti"
+   },
+   "rewriteWithCopilot": {
+      "message": "Perrašyti"
+   },
+   "sbx_signInDescription": {
+      "message": "Prisijunkite, jei norite gauti gramatikos ir stiliaus pasiūlymų daugumoje svetainių, o taip pat ir asmeninį rašybos žodyną."
+   },
+   "shareFeedback": {
+      "message": "Bendrinti atsiliepimą"
+   },
+   "showHeaderMessage": {
+      "message": "Štai keletas kitų būdų, kaip tai parašyti"
+   },
+   "submitButtonTooltip": {
+      "message": "Generuoti („Enter“)"
+   },
+   "substackWarningMessage": {
+      "message": "Norėdami naudoti „Copilot“, eikite į pastraipos pabaigą."
+   },
+   "suggestionCountSeparator": {
+      "message": "iš"
+   },
+   "suggestionHint": {
+      "message": "ENTER, kad priimtumėte"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Bandyti dar kartą"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Generuoti iš naujo"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Rašyti motyvacinę „Twitter“ žinutę"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Norėdami naudoti „Copilot“, eikite į „Twitter“ žinutės pabaigą."
+   }
+}

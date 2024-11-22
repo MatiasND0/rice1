@@ -1,0 +1,2 @@
+/*! For license information please see 22.js.LICENSE.txt */
+"use strict";(self.webpackChunkjump_cutter=self.webpackChunkjump_cutter||[]).push([[22],{4022:(u,e,t)=>{function r(u){throw new Error}t.d(e,{x:()=>r})}}]);

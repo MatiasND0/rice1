@@ -1,0 +1,36 @@
+2024-11-11 09:44:46.444 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 74.20ms
+ptyhostservice<->ptyhost: 1.45ms []
+2024-11-11 09:44:46.445 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 73.60ms
+ptyhostservice<->ptyhost: 1.51ms []
+2024-11-11 09:44:46.445 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 73.40ms
+ptyhostservice<->ptyhost: 1.17ms []
+2024-11-11 09:44:46.446 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 73.10ms
+ptyhostservice<->ptyhost: 0.93ms []
+2024-11-11 09:45:11.273 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 274.40ms
+ptyhostservice<->ptyhost: 97.38ms []
+2024-11-11 09:45:11.273 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 273.90ms
+ptyhostservice<->ptyhost: 96.81ms []
+2024-11-11 09:45:11.273 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 272.70ms
+ptyhostservice<->ptyhost: 96.44ms []
+2024-11-11 09:45:11.274 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 272.30ms
+ptyhostservice<->ptyhost: 96.09ms []
+2024-11-11 10:05:56.912 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 255.00ms
+ptyhostservice<->ptyhost: 15.41ms []
+2024-11-11 10:05:56.913 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 254.80ms
+ptyhostservice<->ptyhost: 14.68ms []
+2024-11-11 10:05:56.913 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 254.60ms
+ptyhostservice<->ptyhost: 14.25ms []
+2024-11-11 10:05:56.915 [info] Latency measurements for ssh-remote+10.10.203.9 backend
+window<->ptyhostservice<->ptyhost: 254.30ms
+ptyhostservice<->ptyhost: 13.68ms []

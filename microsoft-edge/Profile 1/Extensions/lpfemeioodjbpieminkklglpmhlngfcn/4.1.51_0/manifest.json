@@ -1,0 +1,70 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "background/bg.js",
+      "type": "module"
+   },
+   "commands": {
+      "toggle-web-access": {
+         "description": "__MSG_toggleWebAccess__",
+         "suggested_key": {
+            "default": "Alt+W"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "import_mainUI.js" ],
+      "matches": [ "https://chat.openai.com/*", "https://chatgpt.com/*", "https://claude.ai/*", "https://bard.google.com/*", "https://gemini.google.com/*" ]
+   }, {
+      "js": [ "import_authClient.js" ],
+      "matches": [ "https://app.maxai.me/*" ]
+   }, {
+      "js": [ "import_theSearchItem.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "js": [ "import_searchWithAI.js" ],
+      "matches": [ "https://www.google.com/*", "https://www.baidu.com/*", "https://cn.bing.com/*", "https://www.bing.com/*", "https://www.sogou.com/*", "https://duckduckgo.com/*", "https://search.yahoo.com/search*", "https://search.naver.com/*", "https://yandex.com/*", "https://wap.yandex.com/*", "https://search.brave.com/*", "https://www.reddit.com/*", "https://twitter.com/*", "https://www.youtube.com/*", "https://www.amazon.com/s/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "import_requesterInject.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "all_frames": true,
+      "js": [ "import_contentArkoseTokenIframe.js" ],
+      "match_about_blank": true,
+      "matches": [ "https://chatgpt.com/favicon.ico" ],
+      "run_at": "document_start"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_bing",
+         "path": "rules/bing.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "differential_fingerprint": "1.5c5b0abaceb6d4692a170841ca8e10dbcdb08a7d3d5ead4a88f3e6ac86772e61",
+   "host_permissions": [ "*://*/*", "\u003Call_urls>" ],
+   "icons": {
+      "128": "assets/icons/icon128.png",
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq+aUS/mNZ3R1yBj5V1RFXH9ydkgiYIlJSdWAYYQQrSU13E9WxrDYgtkT7Lvd/ALpBq1QUaQ7n/tJc30Ibc/23eJsOT+ZKn9Sueo38G6wM0vOiT6KraXtAWsmT+FNAaCpp0Jzhwjc7v3ROUEYTDMsBvJUoT3zTesrQLBo8QEiWmdfqovYU1K8S0PmgIitI9MfL/f6iQaC98BWnLpejxScOywuClZj4tcwWC+ai9zBgkVF5ZXKkuPP3I8VY1/58QPPedxm5ZMJpMv0oh+PfiALxQlRps8YzGGMJblW1ZM3msrp3jTLH5an4b9VeCvvboxzI84bJuBdZjv4DwMXInYt5QIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "pages/options/options.html"
+   },
+   "permissions": [ "storage", "declarativeNetRequestWithHostAccess" ],
+   "short_name": "__MSG_sn__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.1.51",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "contentScripts/*", "chunks/*.js", "i18n/locales/*", "assets/*", "pages/*" ]
+   } ]
+}

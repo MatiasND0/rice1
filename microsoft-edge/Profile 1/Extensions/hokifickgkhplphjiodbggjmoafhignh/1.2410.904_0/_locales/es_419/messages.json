@@ -1,0 +1,205 @@
+{
+   "AccountLabel": {
+      "message": "Cuenta"
+   },
+   "AppDescription": {
+      "message": "Escribe con confianza con Editor Microsoft, el asistente inteligente de gramática, ortografía y revisión de estilo."
+   },
+   "AppLongDescription": {
+      "message": "Mejora tu escritura en toda la web con Editor Microsoft (1), tu asistente gratuito para la redacción. Editor te acompaña y aconseja en distintos sitios en Internet, por lo que puedes escribir con confianza publicaciones claras y concisas en línea. Con esta extensión del navegador, obtienes: \r\n\r\nAsistencia de escritura inteligente: perfecciona los conceptos básicos con comprobaciones de ortografía, gramática y puntuación de forma gratuita. Obtén revisiones gramaticales y estilísticas avanzadas sobre claridad, concisión, formalidad, vocabulario y mucho más con premium (2). \r\n\r\nEn cualquier lugar donde escribas: recibe comentarios en sitios como LinkedIn, Facebook y muchos más de tus favoritos con esta extensión del navegador. Si quieres ayuda del Editor más allá de la web, abre Word y busca el icono del Editor para ver cómo puede ayudarte en todos los documentos, correos electrónicos y el resto de la web. \r\n\r\nDisponible en varios idiomas: recibe comentarios básicos en más de 20 idiomas (y revisión ortográfica específica en más de 80) para comunicarte con claridad, sin importar el idioma en el que escribas. \r\n\r\nDisponibilidad de idiomas (3):\r\n– Árabe\r\n– Checo\r\n– Danés\r\n– Neerlandés\r\n– Inglés\r\n– Finés\r\n– Francés\r\n– Alemán\r\n– Hebreo (aún no disponible en la aplicación de Word de escritorio)\r\n– Húngaro\r\n– Italiano\r\n– Japonés\r\n– Coreano\r\n– Noruego (Bokmål)\r\n– Polaco\r\n– Portugués (Brasil)\r\n– Portugués (Portugal)\r\n– Ruso\r\n– Español\r\n– Sueco\r\n– Turco\r\n\r\n(1) Disponible para navegadores Microsoft Edge o Google Chrome, requiere de una cuenta Microsoft. El Editor se conecta a un servicio en línea de Microsoft que ofrece sugerencias de ortografía, gramática y mejoras para escribir en la mayoría de los sitios web. \r\n (2) Se requiere una suscripción a Microsoft 365 para el acceso a las opciones premium del Editor. \r\n (3) Editor proporciona mejoras de estilo de escritura en los siguientes idiomas. No todos los idiomas tienen los mismos conjuntos de mejoras. \r\n\r\nAl instalar la aplicación, aceptas estos términos y condiciones: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nDirectiva de privacidad: http://aka.ms/privacy"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Escribe con confianza con Microsoft Editor, tu asistente de redacción con comprobaciones de gramática, ortografía y estilo. \r\n\r\nMejora tu escritura en toda la web con Microsoft Editor (1), tu asistente gratuito para la redacción. Editor te acompaña y aconseja en distintos sitios en Internet, por lo que puedes escribir con confianza publicaciones claras y concisas en línea. Con esta extensión del navegador, obtienes: \r\n\r\nAsistencia de escritura inteligente: perfecciona los conceptos básicos con comprobaciones de ortografía, gramática y puntuación de forma gratuita. Obtén revisiones gramaticales y estilísticas avanzadas sobre claridad, concisión, formalidad, vocabulario y mucho más con premium (2). \r\n\r\nEn cualquier lugar donde escribas: recibe comentarios en sitios como LinkedIn, Facebook y muchos más de tus favoritos con esta extensión del navegador. Si quieres ayuda del Editor más allá de la web, abre Word y busca el icono del Editor para ver cómo puede ayudarte en todos los documentos, correos electrónicos y el resto de la web. \r\n\r\nDisponible en varios idiomas: recibe comentarios básicos en más de 20 idiomas (y revisión ortográfica específica en más de 80) para comunicarte con claridad, sin importar el idioma en el que escribas. \r\n\r\nDisponibilidad de idiomas (3):\r\n– Árabe\r\n– Checo\r\n– Danés\r\n– Neerlandés\r\n– Inglés\r\n– Finés\r\n– Francés\r\n– Alemán\r\n– Hebreo (aún no disponible en la aplicación de Word de escritorio)\r\n– Húngaro\r\n– Italiano\r\n– Japonés\r\n– Coreano\r\n– Noruego (Bokmål)\r\n– Polaco\r\n– Portugués (Brasil)\r\n– Portugués (Portugal)\r\n– Ruso\r\n– Español\r\n– Sueco\r\n– Turco\r\n\r\n(1) Disponible para navegadores Microsoft Edge o Google Chrome, requiere una cuenta Microsoft. El Editor se conecta a un servicio en línea de Microsoft que ofrece sugerencias de ortografía, gramática y mejoras para escribir en la mayoría de los sitios web. \r\n (2) Se requiere de una suscripción a Microsoft 365 para el acceso a las opciones premium del Editor. \r\n (3) Editor proporciona mejoras de estilo de escritura en los siguientes idiomas. No todos los idiomas tienen los mismos conjuntos de mejoras. \r\n\r\nAl instalar la aplicación, aceptas estos términos y condiciones: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nDirectiva de privacidad: http://aka.ms/privacy"
+   },
+   "AppName": {
+      "message": "Editor Microsoft: corrector ortográfico y gramatical"
+   },
+   "AppShortName": {
+      "message": "Editor"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Activar"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Probar Editor (beta) en Google Docs"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Editor está en versión beta en Google Docs. Si tienes algún problema, háganoslo saber."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Cuando se ejecutan a la vez el Editor y otras extensiones de edición, las sugerencias pueden superponerse o entrar en conflicto. Para disfrutar de la mejor experiencia de uso del Editor, recomendamos desactivar otras extensiones de edición en la configuración de la extensión de tu navegador."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Se detectó un conflicto entre las extensiones de edición"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Desactivar Editor en $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Editor Microsoft"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Inserción de Copilot"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Reescritura de Copilot"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Gramática"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor no se admite actualmente en $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor está desactivado actualmente en $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor está desactivado."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "es-MX"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor está incluido en $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Idioma de corrección: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "es-MX"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Idioma de corrección"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Idiomas de corrección"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Obtendrás ideas de redacción avanzadas y un almacenamiento de 1 TB cuando empieces a usar Premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Mejoras"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Las mejoras son sugerencias de escritura avanzadas para que tu redacción resulte más clara, concisa o más formal."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Abre la configuración del editor para seleccionar los idiomas de corrección."
+   },
+   "EditorSettingsLabel": {
+      "message": "Más opciones de configuración de Editor"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Ortografía"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Sinónimos (versión preliminar)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Obtén sinónimos al escribir: haz doble clic en una palabra o selecciona y presiona (Alt+Flecha abajo)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Obtén sinónimos al escribir: haz doble clic en una palabra o selecciona y presiona Alt+Flecha abajo."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Obtén sinónimos al escribir: haz doble clic en una palabra o selecciona y presiona Control+Opción+Flecha abajo."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Obtén sinónimos al escribir: haz doble clic en una palabra o selecciona y presiona (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ y $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "es-MX"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "es-MX"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Habilitar Editor en $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Ver cuenta"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Extensión del navegador Editor Microsoft"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "¡Se ha actualizado correctamente a la versión premium de Editor Microsoft! Explora la característica ampliada al hacer clic en un subrayado de color púrpura y azul al escribir."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Felicitaciones"
+   },
+   "SettingsLabel": {
+      "message": "Configuración de la cuenta"
+   },
+   "SignInLabel": {
+      "message": "Iniciar sesión o registrarse"
+   },
+   "SignOutLabel": {
+      "message": "Cerrar sesión"
+   },
+   "SignOutTooltip": {
+      "message": "Al cerrar sesión se restablecerán todos los ajustes predeterminados y perderás la lista de sitios excluidos."
+   },
+   "SupportPageLabel": {
+      "message": "¿Necesitas ayuda para iniciar sesión​?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Activar Editor"
+   },
+   "sbx_signInDescription": {
+      "message": "Para obtener sugerencias de gramática y refinamiento en la mayoría de los sitios web, así como un diccionario ortográfico personalizado, inicia sesión."
+   }
+}

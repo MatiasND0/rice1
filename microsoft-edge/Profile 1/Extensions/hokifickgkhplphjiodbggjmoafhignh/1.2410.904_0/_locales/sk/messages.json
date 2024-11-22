@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Konto"
+   },
+   "AppDescription": {
+      "message": "Spoľahnite sa pri písaní na Microsoft Editor, vášho inteligentného asistenta na kontrolu gramatiky, pravopisu a štýlu."
+   },
+   "AppLongDescription": {
+      "message": "Editor poskytuje pokročilú pomoc pri písaní pomocou návrhov gramatiky, pravopisu a štýlu na webe(1), aby ste mohli s istotou písať jasné a stručné príspevky a e-maily.\r\n\r\nPíšte ako profesionál vďaka inteligentnej pomoci pri písaní\r\nZvládajte základy pomocou bezplatnej gramatiky, pokročilej gramatiky a kontroly pravopisu a interpunkcie. Získajte viac než základy vďaka pokročilej kontrole štýlu s možnosťami ako prehľadnosť, stručnosť, formálnosť, slovná zásoba a množstvo ďalšieho v prémiovej verzii (vyžaduje sa predplatné na Microsoft 365).\r\n\r\nPrispôsobte si ho podľa svojich potrieb\r\nEditor teraz dokáže pridávať slová do vlastného slovníka, ktorý je vstavaný vo vašich aplikáciách Microsoft 365. Keď Editor vytvorí návrh na kontrolu pravopisu, vyhľadajte položku Pridať do slovníka. Okrem toho vám nastavenia umožňujú podrobne nastaviť vaše predvoľby pri návrhoch písania. Uľahčili sme tiež ignorovanie všetkých výskytov opravy pravopisu výberom položky Ignorovať všetko alebo ignorovanie neželaných návrhov gramatiky výberom položky Ignorovať.\r\n\r\nPíšte kdekoľvek\r\nS týmto rozšírením prehliadača získate pomoc pri písaní na lokalitách ako LinkedIn, Gmail, Facebook a ďalších obľúbených lokalitách. Ak potrebujete pomoc Editora v aplikáciách balíka Office, v ktorých píšete najviac, otvorte Word alebo Outlook na webe a získavajte návrhy na vylepšovanie dokumentov a e-mailov.\r\n\r\nZískajte pomoc vo viacerých jazykoch\r\nKontrolujte pravopis a gramatiku až v troch jazykoch naraz s viacjazyčnou korektúrou. Editor kontroluje pravopis vo viac ako 80 jazykoch a poskytuje kontrolu gramatiky a vylepšenia štýlu písania v 21jazykoch. Ďalšie informácie o dostupnosti jazykov nájdete tu: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nEditor pre Edge získate tu: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. K dispozícii pre prehliadače Microsoft Edge alebo Chrome a vyžaduje sa konto Microsoft. Editor sa pripája k online službe Microsoft, ktorá ponúka kontrolu pravopisu a gramatiky a návrhy na vylepšenia písania na väčšine webových lokalít.\r\n2. Nie všetky jazyky majú rovnakú množinu návrhov na vylepšenie.\r\n\r\nInštaláciou aplikácie vyjadrujete súhlas s týmito podmienkami a požiadavkami:\r\n\r\nPOZNÁMKA: Ak chcete získať informácie o poskytovateľovi licencie na toto rozšírenie a o podpore, prečítajte si licenčné podmienky svojho konta Microsoft alebo predplatného na Microsoft 365. Na vaše používanie tohto rozšírenia sa vzťahujú licenčné podmienky vzťahujúce sa na konto Microsoft alebo predplatné na Microsoft 365.\r\n\r\nZásady ochrany osobných údajov: http://aka.ms/privacy\r\nPodmienky poskytovania služby: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Editor poskytuje pokročilú pomoc pri písaní pomocou návrhov gramatiky, pravopisu a štýlu na webe(1), aby ste mohli s istotou písať jasné a stručné príspevky a e-maily.\r\n\r\nPíšte ako profesionál vďaka inteligentnej pomoci pri písaní\r\nZvládajte základy pomocou bezplatnej gramatiky, pokročilej gramatiky a kontroly pravopisu a interpunkcie. Získajte viac než základy vďaka pokročilej kontrole štýlu s možnosťami ako prehľadnosť, stručnosť, formálnosť, slovná zásoba a množstvo ďalšieho v prémiovej verzii (vyžaduje sa predplatné na Microsoft 365).\r\n\r\nPrispôsobte si ho podľa svojich potrieb\r\nEditor teraz dokáže pridávať slová do vlastného slovníka, ktorý je vstavaný vo vašich aplikáciách Microsoft 365. Keď Editor vytvorí návrh na kontrolu pravopisu, vyhľadajte položku Pridať do slovníka. Okrem toho vám nastavenia umožňujú podrobne nastaviť vaše predvoľby pri návrhoch písania. Uľahčili sme tiež ignorovanie všetkých výskytov opravy pravopisu výberom položky Ignorovať všetko alebo ignorovanie neželaných návrhov gramatiky výberom položky Ignorovať.\r\n\r\nPíšte kdekoľvek\r\nS týmto rozšírením prehliadača získate pomoc pri písaní na lokalitách ako LinkedIn, Gmail, Facebook a ďalších obľúbených lokalitách. Ak potrebujete pomoc Editora v aplikáciách balíka Office, v ktorých píšete najviac, otvorte Word alebo Outlook na webe a získavajte návrhy na vylepšovanie dokumentov a e-mailov.\r\n\r\nZískajte pomoc vo viacerých jazykoch\r\nKontrolujte pravopis a gramatiku až v troch jazykoch naraz s viacjazyčnou korektúrou. Editor kontroluje pravopis vo viac ako 80 jazykoch a poskytuje kontrolu gramatiky a vylepšenia štýlu písania v 21jazykoch. Ďalšie informácie o dostupnosti jazykov nájdete tu: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nEditor pre Chrome získate tu: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. K dispozícii pre prehliadače Microsoft Edge alebo Chrome a vyžaduje sa konto Microsoft. Editor sa pripája k online službe Microsoft, ktorá ponúka kontrolu pravopisu a gramatiky a návrhy na vylepšenia písania na väčšine webových lokalít.\r\n2. Nie všetky jazyky majú rovnakú množinu návrhov na vylepšenie.\r\n\r\nInštaláciou aplikácie vyjadrujete súhlas s týmito podmienkami a požiadavkami:\r\n\r\nPOZNÁMKA: Ak chcete získať informácie o poskytovateľovi licencie na toto rozšírenie a o podpore, prečítajte si licenčné podmienky svojho konta Microsoft alebo predplatného na Microsoft 365. Na vaše používanie tohto rozšírenia sa vzťahujú licenčné podmienky vzťahujúce sa na konto Microsoft alebo predplatné na Microsoft 365.\r\n\r\nZásady ochrany osobných údajov: http://aka.ms/privacy\r\nPodmienky poskytovania služby: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Microsoft Editor: Kontrola pravopisu a gramatiky"
+   },
+   "AppShortName": {
+      "message": "Editor"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Zapnúť"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Vyskúšajte Editor (beta) v službe Google Docs"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Editor je v beta verzii v službe Google Docs. Ak sa vyskytol problém, dajte nám vedieť."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Keď sú spoločne s Editorom spustené aj iné rozšírenia na úpravu textu, ich návrhy sa môžu prekrývať alebo kolidovať. Aby Editor fungoval optimálne, odporúčame vypnúť ostatné rozšírenia na úpravu textu v nastaveniach rozšírení prehliadača."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Zistil sa konflikt medzi rozšíreniami na úpravu"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Vypnúť Editor na stránke $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft Editor"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Vložiť funkciu Copilot"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Prepis funkcie Copilot"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Gramatika"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Na lokalite $host$ sa Editor momentálne nepodporuje",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor je momentálne vypnutý na stránke $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor je vypnutý."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "sk"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor je súčasťou $host$t",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Jazyk korektúry: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "sk"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Jazyk korektúry"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Jazyky korektúry"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Prejdite na verziu Premium a získajte pokročilé návrhy na písanie a 1 TB ukladacieho priestoru."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Návrhy na vylepšenie"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Vylepšenia sú pokročilé návrhy pri písaní, ktoré vám pomôžu písať zreteľnejšie, menej obsažne alebo formálnejšie."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Ak chcete vybrať jazyky korektúry, otvorte nastavenia Editora."
+   },
+   "EditorSettingsLabel": {
+      "message": "Viac nastavení Editora"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Kontrola pravopisu"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Synonymá (Ukážka)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Pri písaní môžete načítať synonymá: dvakrát kliknite na slovo, alebo ho vyberte a stlačte kombináciu klávesov (Alt + šípka nadol)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Pri písaní môžete načítať synonymá: dvakrát kliknite na slovo, alebo ho vyberte a stlačte kombináciu klávesov Alt + šípka nadol."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Pri písaní môžete načítať synonymá: dvakrát kliknite na slovo, alebo ho vyberte a stlačte kombináciu klávesov Control + Option + šípka nadol."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Pri písaní môžete načítať synonymá: dvakrát kliknite na slovo, alebo ho vyberte a stlačte kombináciu klávesov (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ a $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "sk"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "sk"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Zapnúť Editor na lokalite $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Zobraziť konto"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Rozšírenie prehliadača Microsoft Editor"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Úspešne ste inovovali na prémiovú verziu Microsoft Editora. Preskúmajte rozšírenú množinu funkcií kliknutím na modrú a fialovú vlnovku zobrazenú pod napísaným textom."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Blahoželáme"
+   },
+   "SettingsLabel": {
+      "message": "Nastavenia konta"
+   },
+   "SignInLabel": {
+      "message": "Prihláste sa alebo sa zaregistrujte"
+   },
+   "SignOutLabel": {
+      "message": "Odhlásiť sa"
+   },
+   "SignOutTooltip": {
+      "message": "Odhlásením sa obnovia všetky nastavenia na predvolené hodnoty a stratíte zoznam vylúčených lokalít."
+   },
+   "SupportPageLabel": {
+      "message": "Potrebujete pomoc s prihlásením​?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Zapnúť Editor"
+   },
+   "addButtonLabel": {
+      "message": "Pridať"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Vytvoriť pomocou funkcie Copilot, stlačením kombinácie klávesov alt+i zobrazíte možnosti"
+   },
+   "aiInsertButtonText": {
+      "message": "Vytvorenie obsahu pomocou funkcie Copilot"
+   },
+   "aiInsertResultDescription": {
+      "message": "Tu je spôsob, ako to urobiť pútavejšie"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Editor pridal jazyk $1 ako jazyk kontroly pravopisu"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Spravovať jazyky kontroly pravopisu"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Zrušiť zmenu"
+   },
+   "backToPromptLabel": {
+      "message": "Späť"
+   },
+   "closeLabel": {
+      "message": "Zavrieť"
+   },
+   "contentErrorMessage": {
+      "message": "Microsoft Editor sa nepodarilo vytvoriť obsah. Vyberte iný text alebo chvíľu počkajte a skúste to znova."
+   },
+   "contentSuggestion": {
+      "message": "Návrh obsahu"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Oprava, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Gramatická chyba, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Vylepšenie štýlu, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Opakujúce sa slovo, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Preklep, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Obsah vygenerovaný umelou inteligenciou môže obsahovať nepresnosti alebo citlivý materiál. Nezabudnite si overiť informácie."
+   },
+   "copyButtonText": {
+      "message": "Kopírovať"
+   },
+   "defaultWarningMessage": {
+      "message": "Ak chcete použiť funkciu Copilot, prejdite na koniec odseku."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Korektúru môžete zapnúť maximálne pre tri jazyky naraz."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "Slovo $1 bolo pridané do slovníka."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Výsledky hľadania v ponuke boli zrušené"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Návrh bol vložený. Výsledky hľadania v ponuke boli zrušené."
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Kliknutie na návrh príznaku. Zobrazujú sa výsledky hľadania v ponuke."
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Kliknutie na štuchanec. Zobrazujú sa výsledky hľadania v ponuke."
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "Stlačenie klávesu so symbolom $1 zobrazilo výsledky hľadania v ponuke"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Otvoriť v programe pomocou tlačidla Control"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Stlačením klávesu Control zobrazíte možnosti automatických opráv"
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Návrhy súborov"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Súbory, súčasti, ľudia a ďalšie"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Vložiť"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Detekcia miestnych firiem"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Detekcia adries"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Pridať prepojenie na túto adresu"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Umiestnenie"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Vylepšenie"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Návrhy ľudí"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Návrh entity"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Pridať prepojenie na túto entitu"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Entita"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Návrh entity"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Zisťovanie času"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Pridať časové pásma k tomuto času"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Čas"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Vylepšenie"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Označte túto tému a pomôžte ostatným získať prístup k popisu, ľuďom a zdrojom, ktoré sú k nej pripojené."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Návrh Viva Topics"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Návrh Viva Topics"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Zobrazený návrh na pošťuchnutie: $1"
+   },
+   "ebx_Cancel": {
+      "message": "Zrušiť"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Rozpoznávanie dátumov"
+   },
+   "ebx_Dismiss": {
+      "message": "Zrušiť"
+   },
+   "ebx_Done": {
+      "message": "Hotovo"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Hľadať súbory"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Hľadať ľudí"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Na spustenie vyhľadávania začnite písať"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Na spustenie vyhľadávania začnite písať 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Na spustenie vyhľadávania začnite písať"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Na spustenie vyhľadávania začnite písať"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Hľadať súčasti Loop"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Na spustenie vyhľadávania začnite písať"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Na spustenie vyhľadávania začnite písať"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Na spustenie vyhľadávania začnite písať"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Hľadať témy"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Rozpoznávanie ľudí / dátumov"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Vložiť dátum"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Vložiť rozsah dátumov"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Návrh: Vložte rozsah dátumov"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Vložiť dátum a čas"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Návrh: Vložte dátum a čas"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Návrh: Vložte dátum"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Návrh: Vložte osobu"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Vložiť čas"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Vložiť časový rozsah"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Návrh: Vložte časový rozsah"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Návrh: Vložte čas"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Pripomienky sa úspešne odoslali."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Ďakujeme, že ste vyskúšali Editor (beta) v službe Google Docs. Vykonávame aktualizácie na prispôsobenie zmenám v službe Google Docs, ktoré spôsobili, že Editor prestal fungovať. Keď bude Editor znova pripravený na použitie, dáme vám vedieť."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Editor v Dokumentoch Google nie je k dispozícii"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Na dosiahnutie čo najlepších výsledkov s Editorom vypnite vstavanú kontrolu pravopisu a gramatiky v Dokumentoch Google. (V ponuke Nástroje prejdite na položku Pravopis a gramatika a vypnite tieto možnosti)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Použiť iba korektúru Editora"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Získajte rozšírené návrhy počas písania. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Získajte rozšírené návrhy priamo pri písaní. Aby sa zaistilo optimálne fungovanie funkcie Editor, dôjde k vypnutiu integrovanej kontroly pravopisu a gramatiky na lokalite Google Docs. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Vyskúšajte Editor (beta) v službe Google Docs"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Kontrola gramatiky sa ignorovala."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Detekcia nadpisov"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Vylepšiť"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Nadpis 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Nadpis 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Nadpis 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Zvážte zmenu hlavičky"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Prístupnosť"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Prístupnosť: zvážte zmenu hlavičky"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Navrhované vloženie: $1. Stlačením vložíte."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Vybrali sme {0} na základe aktuálnych nastavení prehliadača."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Skontrolujte pravopis a gramatiku pre tri jazyky naraz. Vyberte svoje jazyky v nastaveniach Editora."
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Svoje jazyky môžete upraviť v nastaveniach Editora."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Na základe aktuálnych nastavení prehliadača sme vybrali {0}, {1} a {2}."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Korektúra viacerých jazykov pomocou Editora"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Na základe aktuálnych nastavení prehliadača sme vybrali {0} a {1}."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Rozpoznávanie ľudí"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Navrhované vloženie $1 sa úspešne použilo."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Navrhované vloženie: $1. Vložte stlačením klávesu TAB."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Jazyky korektúry"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Predplatitelia služby Microsoft 365 získajú po prihlásení rozšírené návrhy na písanie."
+   },
+   "ebx_RemoveItem": {
+      "message": "Odstrániť"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Teraz môžete pridať vlastné slová do slovníka kontroly pravopisu v Editore. Keď Editor vytvorí návrh na kontrolu pravopisu, vyhľadajte položku Pridať do slovníka."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Prispôsobte si slovník kontroly pravopisu"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "OK"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Editor môže odteraz pridávať slová do vlastného slovníka, ktorý je vstavaný vo vašich aplikáciách Microsoft 365. Prihláste sa a keď Editor zobrazí návrh pravopisu, vyhľadajte možnosť Pridať do slovníka."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Prihláste sa a získajte prispôsobený pravopisný slovník"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Hodnoteniami \"$1\" bolo v nastavení zakázané."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Toto hodnotenie bolo zakázané v nastaveniach."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Ak chcete získavať návrhy na písanie na väčšine webových lokalít, prihláste sa so svojím kontom Microsoft alebo pracovným či školským kontom, ktoré používate s balíkom Office."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Prihláste sa alebo sa zaregistrujte"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Prihláste sa a získajte návrhy na písanie na väčšine webových lokalít. Uložíme vaše nastavenia, ako sú napríklad jazyky, v ktorých píšete, a typy problémov, ktoré má editor kontrolovať."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Užite si návrhy gramatiky a vylepšení na väčšine webových lokalít, ako aj prispôsobený slovník kontroly pravopisu."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Ak chcete získať prispôsobený pravopisný slovník, prihláste sa so svojím kontom Microsoft alebo pracovným či školským kontom, ktoré používate s balíkom Office."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Editor ešte nie je spustený"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Ponuka lomky bola zrušená"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Návrh bol vložený. Ponuka lomky bola zrušená."
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Kliknutie na návrh príznaku. Zobrazila sa ponuka lomky."
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Kliknutie na štuchanec. Zobrazuje sa ponuka lomky."
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "Stlačenie klávesu so symbolom $1 zobrazilo ponuku lomky"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Kontrola pravopisu sa ignorovala."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Otvorte kliknutím ľavým tlačidlom alebo klávesovou skratkou Alt + šípka nadol"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Otvorte kliknutím ľavým tlačidlom alebo klávesovou skratkou Ctrl + Alt + šípka nadol"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Otvorte kliknutím ľavým tlačidlom alebo klávesovou skratkou Control + Option + šípka nadol"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Automatické opravy"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt + šípka nadol)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl + Alt + šípka nadol)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Oprava gramatiky"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Návrh na vylepšenie písania"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Oprava pravopisu"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Otvoriť kliknutím ľavým tlačidlom"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Návrh Viva Topics"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Návrh „$1“ bol úspešne prijatý."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Rozpoznávanie úloh"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Vytvoriť úlohu"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Návrh: Vytvorte úlohu"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Tab"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Ťuknúť"
+   },
+   "ebx_TurnItOn": {
+      "message": "Zapnúť"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Pridať ďalšiu lokalitu"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Pridať ďalšiu lokalitu"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Zrušiť pridanie lokality do zoznamu blokovaných lokalít"
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Pridať lokalitu do zoznamu blokovaných lokalít"
+   },
+   "ebx_addButton": {
+      "message": "Pridať"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Pridanie kontroly gramatiky"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Zrušiť pridávanie jazyka do zoznamu jazykov korektúry"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Pridanie jazyka do zoznamu jazykov korektúry"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Pridať ďalší jazyk"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Pridať do slovníka"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Povoliť Editoru automaticky zisťovať a pridávať nové jazyky korektúry na základe vášho písania."
+   },
+   "ebx_appDescription": {
+      "message": "Spoľahnite sa na Microsoft Editor, vášho inteligentného asistenta pri písaní."
+   },
+   "ebx_appLongDescription": {
+      "message": "Editor poskytuje pokročilú pomoc pri písaní pomocou návrhov gramatiky, pravopisu a štýlu na webe(1), aby ste mohli s istotou písať jasné a stručné príspevky a e-maily.\r\n\r\nPíšte ako profesionál vďaka inteligentnej pomoci pri písaní\r\nZvládajte základy pomocou bezplatnej gramatiky, pokročilej gramatiky a kontroly pravopisu a interpunkcie. Získajte viac než základy vďaka pokročilej kontrole štýlu s možnosťami ako prehľadnosť, stručnosť, formálnosť, slovná zásoba a množstvo ďalšieho v prémiovej verzii (vyžaduje sa predplatné na Microsoft 365).\r\n\r\nPrispôsobte si ho podľa svojich potrieb\r\nEditor teraz dokáže pridávať slová do vlastného slovníka, ktorý je vstavaný vo vašich aplikáciách Microsoft 365. Keď Editor vytvorí návrh na kontrolu pravopisu, vyhľadajte položku Pridať do slovníka. Okrem toho vám nastavenia umožňujú podrobne nastaviť vaše predvoľby pri návrhoch písania. Uľahčili sme tiež ignorovanie všetkých výskytov opravy pravopisu výberom položky Ignorovať všetko alebo ignorovanie neželaných návrhov gramatiky výberom položky Ignorovať.\r\n\r\nPíšte kdekoľvek\r\nS týmto rozšírením prehliadača získate pomoc pri písaní na lokalitách ako LinkedIn, Gmail, Facebook a ďalších obľúbených lokalitách. Ak potrebujete pomoc Editora v aplikáciách balíka Office, v ktorých píšete najviac, otvorte Word alebo Outlook na webe a získavajte návrhy na vylepšovanie dokumentov a e-mailov.\r\n\r\nZískajte pomoc vo viacerých jazykoch\r\nKontrolujte pravopis a gramatiku až v troch jazykoch naraz s viacjazyčnou korektúrou. Editor kontroluje pravopis vo viac ako 80 jazykoch a poskytuje kontrolu gramatiky a vylepšenia štýlu písania v 21jazykoch. Ďalšie informácie o dostupnosti jazykov nájdete tu: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nEditor pre Edge získate tu: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. K dispozícii pre prehliadače Microsoft Edge alebo Chrome a vyžaduje sa konto Microsoft. Editor sa pripája k online službe Microsoft, ktorá ponúka kontrolu pravopisu a gramatiky a návrhy na vylepšenia písania na väčšine webových lokalít.\r\n2. Nie všetky jazyky majú rovnakú množinu návrhov na vylepšenie.\r\n\r\nInštaláciou aplikácie vyjadrujete súhlas s týmito podmienkami a požiadavkami:\r\n\r\nPOZNÁMKA: Ak chcete získať informácie o poskytovateľovi licencie na toto rozšírenie a o podpore, prečítajte si licenčné podmienky svojho konta Microsoft alebo predplatného na Microsoft 365. Na vaše používanie tohto rozšírenia sa vzťahujú licenčné podmienky vzťahujúce sa na konto Microsoft alebo predplatné na Microsoft 365.\r\n\r\nZásady ochrany osobných údajov: http://aka.ms/privacy\r\nPodmienky poskytovania služby: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Editor poskytuje pokročilú pomoc pri písaní pomocou návrhov gramatiky, pravopisu a štýlu na webe(1), aby ste mohli s istotou písať jasné a stručné príspevky a e-maily.\r\n\r\nPíšte ako profesionál vďaka inteligentnej pomoci pri písaní\r\nZvládajte základy pomocou bezplatnej gramatiky, pokročilej gramatiky a kontroly pravopisu a interpunkcie. Získajte viac než základy vďaka pokročilej kontrole štýlu s možnosťami ako prehľadnosť, stručnosť, formálnosť, slovná zásoba a množstvo ďalšieho v prémiovej verzii (vyžaduje sa predplatné na Microsoft 365).\r\n\r\nPrispôsobte si ho podľa svojich potrieb\r\nEditor teraz dokáže pridávať slová do vlastného slovníka, ktorý je vstavaný vo vašich aplikáciách Microsoft 365. Keď Editor vytvorí návrh na kontrolu pravopisu, vyhľadajte položku Pridať do slovníka. Okrem toho vám nastavenia umožňujú podrobne nastaviť vaše predvoľby pri návrhoch písania. Uľahčili sme tiež ignorovanie všetkých výskytov opravy pravopisu výberom položky Ignorovať všetko alebo ignorovanie neželaných návrhov gramatiky výberom položky Ignorovať.\r\n\r\nPíšte kdekoľvek\r\nS týmto rozšírením prehliadača získate pomoc pri písaní na lokalitách ako LinkedIn, Gmail, Facebook a ďalších obľúbených lokalitách. Ak potrebujete pomoc Editora v aplikáciách balíka Office, v ktorých píšete najviac, otvorte Word alebo Outlook na webe a získavajte návrhy na vylepšovanie dokumentov a e-mailov.\r\n\r\nZískajte pomoc vo viacerých jazykoch\r\nKontrolujte pravopis a gramatiku až v troch jazykoch naraz s viacjazyčnou korektúrou. Editor kontroluje pravopis vo viac ako 80 jazykoch a poskytuje kontrolu gramatiky a vylepšenia štýlu písania v 21jazykoch. Ďalšie informácie o dostupnosti jazykov nájdete tu: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nEditor pre Chrome získate tu: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. K dispozícii pre prehliadače Microsoft Edge alebo Chrome a vyžaduje sa konto Microsoft. Editor sa pripája k online službe Microsoft, ktorá ponúka kontrolu pravopisu a gramatiky a návrhy na vylepšenia písania na väčšine webových lokalít.\r\n2. Nie všetky jazyky majú rovnakú množinu návrhov na vylepšenie.\r\n\r\nInštaláciou aplikácie vyjadrujete súhlas s týmito podmienkami a požiadavkami:\r\n\r\nPOZNÁMKA: Ak chcete získať informácie o poskytovateľovi licencie na toto rozšírenie a o podpore, prečítajte si licenčné podmienky svojho konta Microsoft alebo predplatného na Microsoft 365. Na vaše používanie tohto rozšírenia sa vzťahujú licenčné podmienky vzťahujúce sa na konto Microsoft alebo predplatné na Microsoft 365.\r\n\r\nZásady ochrany osobných údajov: http://aka.ms/privacy\r\nPodmienky poskytovania služby: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Microsoft Editor: Kontrola pravopisu a gramatiky"
+   },
+   "ebx_appShortName": {
+      "message": "Editor"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, podobné s: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, podobné s: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Nahradiť čím"
+   },
+   "ebx_asInSynonyms": {
+      "message": "je podobné s"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "$1, automatické opravy sa vrátili späť."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Vrátiť sa k $1"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, automaticky opravené."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Stlačením klávesu Control zobrazíte možnosti automatických opráv."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "Jazyk {0} sa úspešne pridal"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Stlačením klávesu so šípkou doprava získate prístup k tlačidli Odstrániť."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Zoznam je prázdny."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "Jazyk {0} sa úspešne odstránil"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft Editor"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Logo Microsoft Editora"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Prehľadávať tento počítač"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Zmeniť všetko"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Nastavenia Editora..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Kontrolovať návrhy na vylepšenie"
+   },
+   "ebx_checkGrammar": {
+      "message": "Kontrolovať gramatiku"
+   },
+   "ebx_checkSpelling": {
+      "message": "Kontrolovať pravopis"
+   },
+   "ebx_close": {
+      "message": "Zavrieť"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Už čoskoro"
+   },
+   "ebx_copilotInsert": {
+      "message": "Vložiť"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Prepis funkcie Copilot"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Odstrániť opakujúce sa slovo"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Toto už nekontrolovať"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Toto už nekontrolovať. Editor bude toto nastavenie používať, kým ho nezmeníte."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Editor bude používať toto nastavenie, až kým ho nezmeníte"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Vypnúť Editor na stránke {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Možnosti zobrazenia"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Táto lokalita už je v zozname blokovaných lokalít"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Editor má niekoľko ($1) pokročilých návrhov písania pre túto správu"
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Na lokalite{0} sa Editor momentálne nepodporuje"
+   },
+   "ebx_editorCanvas": {
+      "message": "Oddeliť Editor"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Vypnuté"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Zapnuté"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Zobraziť tlačidlo Editora v poliach, ktoré podporujú oddelenie Editora"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Rozšírenie prehliadača Microsoft Office teraz obsahuje Microsoft Editor, inteligentného pomocníka pri písaní, ktorý vám pomôže pri písaní na webe. Microsoft Editor sa pripája k online službe a ponúka návrhy pravopisu, gramatiky a štýlu počas písania."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft Editor (ukážka) je teraz spustený"
+   },
+   "ebx_editorFeature": {
+      "message": "Microsoft Editor"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Vypnuté"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Vypnúť Editor"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Zapnuté"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Funkcia editora"
+   },
+   "ebx_editorIsOff": {
+      "message": "Editor je vypnutý"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Editor je momentálne vypnutý na stránke {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Editor je súčasťou stránky {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Viac nastavení Editora"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Vyhľadávaniu nezodpovedajú žiadne jazyky"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Zapnúť Editor na stránke {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " a "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ","
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Editor $1 rozšírené návrhy písania pre túto správu."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Editor $1 rozšírený nápad na písanie v tejto správe."
+   },
+   "ebx_excludedSites": {
+      "message": "Vylúčené lokality"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Nahlásiť tento návrh"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Povedzte nám, prečo ste si vybrali túto odpoveď."
+   },
+   "ebx_feedbackLink": {
+      "message": "pripomienky"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Pomôžte nám vylepšiť Editor a poskytnite nám"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Veľmi negatívne"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Veľmi negatívne"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Mierne negatívne"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Mierne negatívne"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Ani negatívne ani pozitívne"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Ani negatívne ani pozitívne"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Mierne pozitívne"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Mierne pozitívne"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Veľmi pozitívne"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Mimoriadne pozitívne"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Ako hodnotíte svoju skúsenosť s používaním Microsoft Editora"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Aký je váš celkový pocit z používania Microsoft Editora na získavanie návrhov pravopisu, gramatiky, dokončovania textu a ďalších návrhov na vylepšenie písania?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Poskytnúť spoločnosti Microsoft pripomienky k Editoru"
+   },
+   "ebx_giveFeedback": {
+      "message": "Poskytnúť pripomienky"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Získajte Editor s pokročilými nápadmi na písanie, 1 TB ukladacieho priestoru vo OneDrive a prémiové funkcie vo všetkých aplikáciách služby Microsoft 365."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Získajte Editor s pokročilými nápadmi na písanie, 1 TB ukladacieho priestoru vo OneDrive a prémiové funkcie vo všetkých aplikáciách služby Microsoft 365."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Vyskúšajte Editor s pokročilými nápadmi na písanie."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Prejsť na prémiovú verziu"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "prejdite na prémiovú verziu"
+   },
+   "ebx_goToSettings": {
+      "message": "Prejsť na nastavenia Editora"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Ďalšie informácie získate v nastaveniach Editora"
+   },
+   "ebx_googleDocs": {
+      "message": "Dokumenty Google"
+   },
+   "ebx_grammar": {
+      "message": "Gramatika"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Skryť synonymá"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ignorovať všetko"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Ignorovať"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Otvorte Editor alebo kliknutím pravým tlačidlom myši zobrazte ďalšie možnosti"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Pozrite si všetky možnosti v Editore alebo kliknutím pravým tlačidlom myši zobrazte ďalšie možnosti"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "V tomto riadku sa našli problémy s korektúra $1."
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "V tomto riadku sa našiel problém s korektúra $1."
+   },
+   "ebx_languageAdded": {
+      "message": "Jazyk {0} sa úspešne pridal"
+   },
+   "ebx_languageMovedDown": {
+      "message": "Jazyk {0} sa v zozname úspešne presunul o jedno miesto dole."
+   },
+   "ebx_languageMovedToTop": {
+      "message": "Jazyk {0} sa úspešne presunul na prvé miesto v zozname"
+   },
+   "ebx_languageMovedUp": {
+      "message": "Jazyk {0} úspešne presunul o jedno miesto v zozname vyššie"
+   },
+   "ebx_languageRemoved": {
+      "message": "Jazyk {0} sa úspešne odstránil"
+   },
+   "ebx_learnMore": {
+      "message": "Ďalšie informácie"
+   },
+   "ebx_manageLanguages": {
+      "message": "Spravovať jazyky..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Spravovať jazyky kontroly pravopisu"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Ďalšie príkazy pre {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Premiestniť nadol"
+   },
+   "ebx_moveToTop": {
+      "message": "Premiestniť na začiatok"
+   },
+   "ebx_moveUp": {
+      "message": "Premiestniť nahor"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Ďalší návrh, zostáva $1"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Otvoriť Editor"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Nastavenia Editora"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Keďže ste tento preklep urobili niekoľkokrát, pridali sme $1 do vášho zoznamu automatických opráv."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "V tejto ukážke zostáva niekoľko dní ($1). Inovujte a získajte neobmedzené návrhy:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "V tejto ukážke zostáva $1 deň. Inovujte a získajte neobmedzené návrhy:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Získajte Editor s návrhmi na pokročilý štýl písania."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "V tejto ukážke zostáva niekoľko návrhov ($1). Inovujte a získajte neobmedzené návrhy:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "V tejto ukážke zostáva $1 návrh. Inovujte a získajte neobmedzené návrhy:"
+   },
+   "ebx_preview": {
+      "message": "(Ukážka)"
+   },
+   "ebx_previewLabel": {
+      "message": "UKÁŽKA"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Predchádzajúci návrh, zostáva $1"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Automaticky odosielať voliteľné diagnostické údaje počas používania tejto online služby, ktoré mám pomôžu pri zlepšovaní našich produktov."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Ďalšie informácie o diagnostických údajoch"
+   },
+   "ebx_privacyOptions": {
+      "message": "Možnosti ochrany osobných údajov"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Jazyk korektúry"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Stlačením klávesu so šípkou doprava prejdete na tlačidlo Ďalšie príkazy."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Jazyk korektúry"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Korektúru môžete zapnúť maximálne pre tri jazyky naraz."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Vyberte jazyk korektúry"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Jazyky korektúry"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Vyberte najviac tri jazyky. Váš preferovaný jazyk bude prvý."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Jazyky korektúry"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Je pre vás Editor užitočný?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Máme pre vás len dve otázky."
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Poskytnúť pripomienky"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Mrzí nás to. Dajte nám vedieť, ako môžeme vylepšiť Editor."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Nie"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Nie, ďakujem"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "To je skvelé! Chceli by ste ju ohodnotiť?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Ak sa vám ešte stále páči Editor, chcete ho ohodnotiť?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Samozrejme"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Áno"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Pripomienky k Microsoft Editoru"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Radi by sme si vypočuli vaše pripomienky"
+   },
+   "ebx_refinements": {
+      "message": "Návrhy na vylepšenie"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Vylepšenia sú pokročilé návrhy pri písaní, ktoré vám pomôžu písať zreteľnejšie, menej obsažne alebo formálnejšie."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Toto slovo sa opakuje"
+   },
+   "ebx_settings": {
+      "message": "Nastavenia"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Otvoriť nastavenia editora"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Ak chcete vybrať jazyky korektúry, otvorte nastavenia Editora."
+   },
+   "ebx_settingsLabel": {
+      "message": "Nastavenia konta"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Nastavenia Microsoft Editora"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Nastavenia podľa jazyka"
+   },
+   "ebx_showBeta": {
+      "message": "Beta v $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Zobraziť synonymá"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Zobrazovať synonymá pri návrhoch kontroly pravopisu"
+   },
+   "ebx_signInDescription": {
+      "message": "Ak chcete získať návrhy gramatiky a vylepšení na väčšine webových lokalít, ako aj prispôsobený slovník kontroly pravopisu, prihláste sa."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Potrebujete pomoc s prihlásením?"
+   },
+   "ebx_signInLabel": {
+      "message": "Prihláste sa alebo sa zaregistrujte"
+   },
+   "ebx_signInToAccess": {
+      "message": "Ak chcete získať prístup, prihláste sa"
+   },
+   "ebx_signIntoEditor": {
+      "message": "prihláste sa do Editora"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Ak chcete získať návrhy gramatiky a vylepšení na väčšine webových lokalít, prihláste sa."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Na prispôsobený pravopis"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Ak chcete prispôsobený slovník kontroly pravopisu, prihláste sa."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Ak chcete získať návrhy gramatiky a vylepšení na väčšine webových lokalít, prihláste sa."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Ak chcete získať návrhy gramatiky a vylepšení na väčšine webových lokalít, ako aj prispôsobený slovník kontroly pravopisu, prihláste sa."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Prihlásenie do Editora"
+   },
+   "ebx_signOutLabel": {
+      "message": "Odhlásiť sa"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Odhlásením sa obnovia všetky nastavenia na predvolené hodnoty a stratíte zoznam vylúčených lokalít."
+   },
+   "ebx_spelling": {
+      "message": "Pravopis"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Dôkladne skontrolujte, či je to správne"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Ďalšie akcie"
+   },
+   "ebx_synonyms": {
+      "message": "Synonymá"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonymá nie sú k dispozícii]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Umožňuje získať synonymá pri písaní: dvakrát kliknite na slovo alebo vyberte a stlačte kláves (Alt+Šípka nadol)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Získajte pri písaní synonymá: dvakrát kliknite na slovo alebo vyberte a stlačte kombináciu klávesov (⌃ + ⌥ + ⌘)."
+   },
+   "ebx_toggleOff": {
+      "message": "Vypnuté"
+   },
+   "ebx_toggleOn": {
+      "message": "Zapnuté"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Áno"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Teraz predstavujeme návrhy, ktoré vám pomôžu s tónom pri písaní. Chcete to skúsiť?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Zrušiť"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Teraz nie"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Vykonať zmeny v nastavení Editora"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Nikdy nezobrazovať návrhy tónov"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Rozpoznávanie tónov je teraz vypnuté."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Detekcia tónov"
+   },
+   "ebx_toneLabel": {
+      "message": "Tón"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Označte túto tému a pomôžte ostatným získať prístup k popisu, ľuďom a zdrojom, ktoré sú k nej pripojené."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Návrh Viva Topics"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Vyskúšajte Editor s pokročilými nápadmi na písanie."
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Vyskúšať"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Vypnúť Editor"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Editor sa pripája k online službe spoločnosti Microsoft, ktorá ponúka návrhy pravopisu, gramatiky a štýlu počas písania na väčšine webových lokalít."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Zapnúť Editor"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Zrušiť zmenu"
+   },
+   "ebx_undoButtonText": {
+      "message": "Zrušiť zmenu"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Možnosti automatických opráv"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Blokované lokality"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Neplatná URL adresa. Zadajte URL adresu v nasledujúcom formáte: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Neplatná URL adresa {0} v riadku {1}."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Na lokalitách uvedených nižšie ste vypli Editor. Editor sa môže automaticky vypnúť aj na ďalších lokalitách s citlivým obsahom alebo pomalou rýchlosťou načítania."
+   },
+   "ebx_viewAccount": {
+      "message": "Zobraziť konto"
+   },
+   "editor": {
+      "message": "Editor"
+   },
+   "editorButtonText": {
+      "message": "Editor"
+   },
+   "emailWarningMessage": {
+      "message": "Ak chcete použiť funkciu Copilot, prejdite na koniec e-mailu."
+   },
+   "emptyStateMessage": {
+      "message": "Vyberte text, ktorý chcete prepísať"
+   },
+   "errorLabel": {
+      "message": "Chyba"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "váš slovník"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Prepojenie na obsah zadaním špeciálneho znaku, lomky (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Označovanie obsahu"
+   },
+   "esdk_autocorrect": {
+      "message": "Automatické opravy"
+   },
+   "esdk_cancelButton": {
+      "message": "Zrušiť"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Nastavenia"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, zapnúť."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, vypnúť."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Stlačte Tab na prehratie stavu kategórie"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Šípka doprava na rozbalenie kategórie."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Podrobné nastavenia sú vypnuté."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Šípka doprava na zadanie podrobných nastavení."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} vypnuté"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Všetky podrobné nastavenia v tejto kategórii sú teraz nezačiarknuté."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Všetky podrobné nastavenia v tejto kategórii sú teraz začiarknuté."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "Podrobné nastavenia pre {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Medzerník alebo Enter na prepnutie stavu kategórie,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Editor nebude tento problém označovať, ak neotvoríte tablu Editor"
+   },
+   "esdk_closeButton": {
+      "message": "Zavrieť"
+   },
+   "esdk_copilotInsert": {
+      "message": "Vložiť"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot momentálne podporuje iba angličtinu."
+   },
+   "esdk_copilotRewrite": {
+      "message": "Prepísať"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Opravy"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Šípka doľava na návrat na nastavenia"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Šípka doprava na podrobné nastavenia"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Ak chcete zmeniť hodnotu začiarkavacieho políčka, musí byť povolená kategória"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Zmeniť spôsob, akým Editor opravuje a navrhuje úpravy textu v tejto aplikácii"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Nastavenia Microsoft Editora"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Ak chcete používať nástroj Automatické opravy, zapnite kontrolu pravopisu"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Vylepšenia"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Nepodarilo sa načítať nastavenia editora"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Prejsť na prémiovú verziu"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Prejdite na prémiovú verziu a získajte pokročilé návrhy na písanie a 1 TB ukladacieho priestoru"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Stlačte Tab na prehratie stavu"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Riadkové úpravy"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Jazyk korektúry"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Nastavenie pre"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Editor detekuje, keď text odkazuje na súbor alebo dáta a ponúka vytvorenie odkazu."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Návrhy odkazov"
+   },
+   "esdk_okButton": {
+      "message": "OK"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Zbaľte predvoľby kontroly pravopisu."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Zvoľte, čo editor skontroluje."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Vyberte najviac tri jazyky. Váš preferovaný jazyk bude prvý."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Upraviť jazyky"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Rozbaľte predvoľby kontroly pravopisu."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Predvoľby kontroly pravopisu"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Nastavenia kontroly pravopisu a gramatiky jazyka"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Nastavenia kontroly pravopisu a gramatiky"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Upraviť jazyky"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Vyberte najviac tri jazyky. Váš preferovaný jazyk bude prvý."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Nastavenia korektúry"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Nastavenia jazyka korektúry"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Návrhy na vylepšenie"
+   },
+   "esdk_resetToDefault": {
+      "message": "Obnoviť predvolené"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Vyskúšajte Editor s odporúčaniami na pokročilý štýl písania."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Stiahnuť podrobnosti"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Nie všetky jazyky majú rovnaké pokyny na písanie. Stiahnite si tento dokument a zobrazte podrobnosti o nastavení gramatiky a úprav, ktoré sú k dispozícii pre vybratý jazyk."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Ďalšie informácie"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Nie všetky jazyky majú rovnaké pokyny na písanie. Na tomto prepojení získate ďalšie informácie o nastaveniach gramatiky a úprav, ktoré sú k dispozícii pre všetky jazyky Editora."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Nie všetky jazyky majú rovnaké pokyny na písanie. {Learn more} o nastaveniach gramatiky a úprav, ktoré sú k dispozícii pre všetky jazyky Editora."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Zmeny možností kontroly pravopisu sa použijú na všetky povolené jazyky"
+   },
+   "esdk_synonyms": {
+      "message": "Synonymá (Ukážka)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Editor predvída ďalšie slová, rovnako ako súbory alebo iné objekty, ktoré sa majú vložiť pri písaní."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Dokončovanie textu"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Na pomoc s rýchlejším písaním Editor predvída ďalšie slová a počas písania navrhuje slová alebo slovné spojenia."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Učebný tip"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Príklady"
+   },
+   "explanationTableAfter": {
+      "message": "Zvážte:"
+   },
+   "explanationTableBefore": {
+      "message": "Namiesto:"
+   },
+   "explanationTableSeparator": {
+      "message": "alebo"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Napíšte príspevok o mojom výlete na Eiffelovu vežu."
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Ak chcete použiť funkciu Copilot, prejdite na koniec príspevku."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Ďalšia strana"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "TIPY $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Predchádzajúca strana"
+   },
+   "generalErrorMessage": {
+      "message": "Microsoft Editor narazil na problém a nemohol vygenerovať obsah."
+   },
+   "generateButtonLabel": {
+      "message": "Generovať"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Poskytnúť pripomienky"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Napísať e-mail so žiadosťou o schôdzku"
+   },
+   "inputName": {
+      "message": "Popíšte, čo má Editor písať..."
+   },
+   "inputPlaceholder": {
+      "message": "Popíšte, čo by ste chceli napísať."
+   },
+   "languageErrorMessage": {
+      "message": "Pre vybratý jazyk zatiaľ nie sú k dispozícii prepísanie."
+   },
+   "limitErrorMessage": {
+      "message": "Ak chcete prepísať, vyberte menej ako 100 slov."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Tipy na vytváranie obsahu"
+   },
+   "loadingLabel": {
+      "message": "Chvíľu počkajte, niečo pre vás pripravujeme..."
+   },
+   "loadingText": {
+      "message": "Načítava sa: "
+   },
+   "modalDescribeBy": {
+      "message": "Vygeneruje ďalšie spôsoby písania vybratého textu"
+   },
+   "moreButtonLabel": {
+      "message": "Ďalšie možnosti"
+   },
+   "moreButtonText": {
+      "message": "Viac"
+   },
+   "moreOptionsLabel": {
+      "message": "Ďalšie možnosti"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "pridajte ďalší jazyk kontroly pravopisu"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Pridajte jazyk kontroly pravopisu."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Ak chcete získať relevantné návrhy písania,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Pridať ďalší jazyk do Editora"
+   },
+   "nextSuggestion": {
+      "message": "Ďalší návrh"
+   },
+   "nudgeTextForEmails": {
+      "message": "Ak chcete nájsť e-maily, zadajte $1"
+   },
+   "nudgeTextForFile": {
+      "message": "Ak chcete nájsť súbory a ďalšie položky, zadajte $1"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Ak chcete nájsť schôdze, zadajte $1"
+   },
+   "nudgeTextForPeople": {
+      "message": "Ak chcete nájsť ľudí, zadajte $1"
+   },
+   "prevSuggestion": {
+      "message": "Predchádzajúci návrh"
+   },
+   "preview": {
+      "message": "UKÁŽKA"
+   },
+   "previewText": {
+      "message": "UKÁŽKA"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Ak chcete túto funkciu používať vždy, keď ste na novom riadku, stlačte tlačidlo CTRL + ALT + I."
+   },
+   "promptSuggestButtonText": {
+      "message": "Proste pokračujte v písaní"
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt + šípka doprava"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Prečítať nahlas pôvodnú vetu"
+   },
+   "regenerateLabel": {
+      "message": "Znovu vygenerovať"
+   },
+   "replaceLabel": {
+      "message": "Nahradiť"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Nahlásiť vygenerovaný obsah"
+   },
+   "reportOutput": {
+      "message": "Výstup zostavy"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Obsah vygenerovaný umelou inteligenciou môže obsahovať nepresnosti alebo citlivý materiál. Nezabudnite si overiť informácie."
+   },
+   "retry": {
+      "message": "Skúsiť znova"
+   },
+   "rewriteBrand": {
+      "message": "Prepísať"
+   },
+   "rewriteWithCopilot": {
+      "message": "Prepísať"
+   },
+   "sbx_signInDescription": {
+      "message": "Ak chcete získať návrhy gramatiky a vylepšení na väčšine webových lokalít, ako aj prispôsobený slovník kontroly pravopisu, prihláste sa."
+   },
+   "shareFeedback": {
+      "message": "Zdieľať pripomienky"
+   },
+   "showHeaderMessage": {
+      "message": "Tu je niekoľko ďalších spôsobov písania tohto obsahu"
+   },
+   "submitButtonTooltip": {
+      "message": "Generovať (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Ak chcete použiť funkciu Copilot, prejdite na koniec odseku."
+   },
+   "suggestionCountSeparator": {
+      "message": "z(o)"
+   },
+   "suggestionHint": {
+      "message": "Prijmite stlačením klávesu ENTER"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Skúsiť znova"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Znovu vygenerovať"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Napísať motivačný tweet"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Ak chcete použiť funkciu Copilot, prejdite na koniec tweetu."
+   }
+}

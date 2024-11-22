@@ -1,0 +1,6 @@
+2024/11/08-19:33:08.725 612 Creating DB /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_medium.com_0.indexeddb.leveldb since it was missing.
+2024/11/08-19:33:08.751 612 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/08-19:33:24.791 613 Level-0 table #5: started
+2024/11/08-19:33:24.806 613 Level-0 table #5: 24949 bytes OK
+2024/11/08-19:33:24.819 613 Delete type=0 #3
+2024/11/08-19:33:24.820 613 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

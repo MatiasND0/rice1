@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Λογαριασμός"
+   },
+   "AppDescription": {
+      "message": "Γράψτε με αυτοπεποίθηση με το Πρόγραμμα επεξεργασίας της Microsoft, τον έξυπνο βοηθό σύνταξης, γραμματικής, ορθογραφίας και στυλ."
+   },
+   "AppLongDescription": {
+      "message": "Το Πρόγραμμα επεξεργασίας παρέχει προηγμένη βοήθεια γραφής στο web (1) με προτάσεις γραμματικής, ορθογραφίας και στυλ, ώστε να μπορείτε να γράφετε με σιγουριά καθαρές, περιεκτικές δημοσιεύσεις και μηνύματα ηλεκτρονικού ταχυδρομείου.\r\n\r\nΓράψτε σαν επαγγελματίας με έξυπνη βοήθεια γραφής\r\nΑριστεύσετε στα βασικά στοιχεία με δωρεάν γραμματική, προηγμένη γραμματική, ορθογραφικό έλεγχο και γλωσσικό έλεγχο στίξης. Προχωρήστε πέρα από τα βασικά στοιχεία με προηγμένο έλεγχο στυλ για θέματα όπως τη σαφήνεια, την περιεκτικότητα, την επισημότητα, το λεξιλόγιο και πολλά άλλα με την Premium έκδοση (απαιτείται συνδρομή Microsoft 365).\r\n\r\nΕξατομικεύστε το σύμφωνα με τις ανάγκες σας\r\nΤο Πρόγραμμα επεξεργασίας μπορεί πλέον να προσθέτει λέξεις στο προσαρμοσμένο λεξικό που είναι ενσωματωμένο στις εφαρμογές Microsoft 365 σας. Αναζητήστε την επιλογή \"Προσθήκη στο λεξικό\" όταν το πρόγραμμα επεξεργασίας κάνει μια πρόταση ορθογραφίας. Επιπλέον, μέσω τις επιλογής Ρυθμίσεις σάς παρέχει έναν τρόπο να επεξεργαστείτε λεπτομερώς τις προτιμήσεις σας για προτάσεις σύνταξης. Επίσης, καταστήσαμε εύκολη την παράλειψη όλων των εμφανίσεων μιας ορθογραφικής διόρθωσης, επιλέγοντας \"Παράβλεψη όλων\" ή παραλείψτε τις ανεπιθύμητες προτάσεις γραμματικής, επιλέγοντας \"Παράβλεψη\".\r\n\r\nΓράψτε οπουδήποτε\r\nΛάβετε βοήθεια γραφής σε τοποθεσίες όπως το LinkedIn, το Gmail, το Facebook και άλλα αγαπημένα με αυτήν την επέκταση προγράμματος περιήγησης. Εάν θέλετε τη βοήθεια του Προγράμματος επεξεργασίας στις εφαρμογές Office όπου γράφετε περισσότερο, ανοίξτε το Word ή το Outlook στο web και λάβετε προτάσεις για τη βελτίωση των εγγράφων και των μηνυμάτων ηλεκτρονικού ταχυδρομείου σας.\r\n\r\nΛήψη βοήθειας σε πολλές γλώσσες\r\nΕλέγξτε την ορθογραφία και τη γραμματική για έως και τρεις γλώσσες ταυτόχρονα με τον γλωσσικό έλεγχο πολλαπλών γλωσσών. Το Πρόγραμμα επεξεργασίας ελέγχει την ορθογραφία σε περισσότερες από 80 γλώσσες και παρέχει γραμματικό έλεγχο και βελτιώσεις στυλ γραφής σε 21 γλώσσες. Μπορείτε να βρείτε περισσότερες πληροφορίες σχετικά με τη διαθεσιμότητα γλώσσας εδώ: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nΑποκτήστε το Πρόγραμμα επεξεργασίας για το Microsoft Edge εδώ: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Διαθέσιμο για προγράμματα περιήγησης Microsoft Edge ή Chrome και απαιτείται λογαριασμός Microsoft. Το Πρόγραμμα επεξεργασίας συνδέεται σε μια ηλεκτρονική υπηρεσία της Microsoft που προσφέρει προτάσεις ορθογραφίας, γραμματικής και βελτιστοποίησης για το γράψιμό σας στις περισσότερες τοποθεσίες web.\r\n2. Δεν έχουν όλες οι γλώσσες το ίδιο σύνολο βελτιώσεων.\r\n\r\nΜε την εγκατάσταση της εφαρμογής, συμφωνείτε με αυτούς τους όρους και τις προϋποθέσεις:\r\n\r\nΣΗΜΕΙΩΣΗ: Ανατρέξτε στους όρους άδειας χρήσης για τον λογαριασμό σας Microsoft ή τη συνδρομή Microsoft 365 σας, ανάλογα με την περίπτωση (η \"επέκταση\"), για να αναγνωρίσετε την οντότητα που σας παραχωρεί την άδεια χρήσης αυτής της επέκτασης και για πληροφορίες υποστήριξης. Οι όροι άδειας χρήσης για τον λογαριασμό Microsoft ή τη συνδρομή Microsoft 365, ανάλογα με την περίπτωση, ισχύουν για την από μέρους σας χρήση αυτής της επέκτασης.\r\n\r\nΠολιτική προστασίας προσωπικών δεδομένων: http://aka.ms/privacy\r\nΌροι χρήσης: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Το Πρόγραμμα επεξεργασίας παρέχει προηγμένη βοήθεια γραφής στο web (1) με προτάσεις γραμματικής, ορθογραφίας και στυλ, ώστε να μπορείτε να γράφετε με σιγουριά καθαρές, περιεκτικές δημοσιεύσεις και μηνύματα ηλεκτρονικού ταχυδρομείου.\r\n\r\nΓράψτε σαν επαγγελματίας με έξυπνη βοήθεια γραφής\r\nΑριστεύσετε στα βασικά στοιχεία με δωρεάν γραμματική, προηγμένη γραμματική, ορθογραφικό έλεγχο και γλωσσικό έλεγχο στίξης. Προχωρήστε πέρα από τα βασικά στοιχεία με προηγμένο έλεγχο στυλ για θέματα όπως τη σαφήνεια, την περιεκτικότητα, την επισημότητα, το λεξιλόγιο και πολλά άλλα με την Premium έκδοση (απαιτείται συνδρομή Microsoft 365).\r\n\r\nΕξατομικεύστε το σύμφωνα με τις ανάγκες σας\r\nΤο Πρόγραμμα επεξεργασίας μπορεί πλέον να προσθέτει λέξεις στο προσαρμοσμένο λεξικό που είναι ενσωματωμένο στις εφαρμογές Microsoft 365 σας. Αναζητήστε την επιλογή \"Προσθήκη στο λεξικό\" όταν το πρόγραμμα επεξεργασίας κάνει μια πρόταση ορθογραφίας. Επιπλέον, μέσω τις επιλογής Ρυθμίσεις σάς παρέχει έναν τρόπο να επεξεργαστείτε λεπτομερώς τις προτιμήσεις σας για προτάσεις σύνταξης. Επίσης, καταστήσαμε εύκολη την παράλειψη όλων των εμφανίσεων μιας ορθογραφικής διόρθωσης, επιλέγοντας \"Παράβλεψη όλων\" ή παραλείψτε τις ανεπιθύμητες προτάσεις γραμματικής, επιλέγοντας \"Παράβλεψη\".\r\n\r\nΓράψτε οπουδήποτε\r\nΛάβετε βοήθεια γραφής σε τοποθεσίες όπως το LinkedIn, το Gmail, το Facebook και άλλα αγαπημένα με αυτήν την επέκταση προγράμματος περιήγησης. Εάν θέλετε τη βοήθεια του Προγράμματος επεξεργασίας στις εφαρμογές Office όπου γράφετε περισσότερο, ανοίξτε το Word ή το Outlook στο web και λάβετε προτάσεις για τη βελτίωση των εγγράφων και των μηνυμάτων ηλεκτρονικού ταχυδρομείου σας.\r\n\r\nΛήψη βοήθειας σε πολλές γλώσσες\r\nΕλέγξτε την ορθογραφία και τη γραμματική για έως και τρεις γλώσσες ταυτόχρονα με τον γλωσσικό έλεγχο πολλαπλών γλωσσών. Το Πρόγραμμα επεξεργασίας ελέγχει την ορθογραφία σε περισσότερες από 80 γλώσσες και παρέχει γραμματικό έλεγχο και βελτιώσεις στυλ γραφής σε 21 γλώσσες. Μπορείτε να βρείτε περισσότερες πληροφορίες σχετικά με τη διαθεσιμότητα γλώσσας εδώ: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nΑποκτήστε το Πρόγραμμα επεξεργασίας για το Microsoft Edge εδώ: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Διαθέσιμο για προγράμματα περιήγησης Microsoft Edge ή Chrome και απαιτείται λογαριασμός Microsoft. Το Πρόγραμμα επεξεργασίας συνδέεται σε μια ηλεκτρονική υπηρεσία της Microsoft που προσφέρει προτάσεις ορθογραφίας, γραμματικής και βελτιστοποίησης για το γράψιμό σας στις περισσότερες τοποθεσίες web.\r\n2. Δεν έχουν όλες οι γλώσσες το ίδιο σύνολο βελτιώσεων.\r\n\r\nΜε την εγκατάσταση της εφαρμογής, συμφωνείτε με αυτούς τους όρους και τις προϋποθέσεις:\r\n\r\nΣΗΜΕΙΩΣΗ: Ανατρέξτε στους όρους άδειας χρήσης για τον λογαριασμό σας Microsoft ή τη Microsoft συνδρομή 365, ανάλογα με την περίπτωση (η \"επέκταση\"), για να αναγνωρίσετε την οντότητα που σας παραχωρεί την άδεια χρήσης αυτής της επέκτασης και για πληροφορίες υποστήριξης. Οι όροι άδειας χρήσης για τον λογαριασμό Microsoft ή τη συνδρομή Microsoft 365, ανάλογα με την περίπτωση, ισχύουν για την από μέρους σας χρήση αυτής της επέκτασης.\r\n\r\nΠολιτική προστασίας προσωπικών δεδομένων: http://aka.ms/privacy\r\nΌροι χρήσης: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Πρόγραμμα επεξεργασίας της Microsoft: Ορθογραφικός και γραμματικός έλεγχος"
+   },
+   "AppShortName": {
+      "message": "Πρόγραμμα επεξεργασίας"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Ενεργοποιήστε το"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Δοκιμάστε το Πρόγραμμα επεξεργασίας (beta) στα Έγγραφα Google"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Το Πρόγραμμα επεξεργασίας βρίσκεται στην έκδοση beta στα Έγγραφα Google. Αν αντιμετωπίζετε κάποιο πρόβλημα, ενημερώστε μας."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Όταν εκτελούνται άλλες επεκτάσεις επεξεργασίας παράλληλα με το Πρόγραμμα επεξεργασίας, οι προτάσεις τους ενδέχεται να αλληλεπικαλύπτονται ή να βρίσκονται σε διένεξη. Για την καλύτερη δυνατή εμπειρία επεξεργασίας, συνιστούμε να απενεργοποιήσετε άλλες επεκτάσεις επεξεργασίας στις ρυθμίσεις επέκτασης του προγράμματος περιήγησής σας."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Εντοπίστηκαν διενέξεις μεταξύ των επεκτάσεων επεξεργασίας."
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Απενεργοποίηση του \"Προγράμματος επεξεργασίας\" στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Πρόγραμμα επεξεργασίας της Microsoft"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Προσθήκη Copilot"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Επανεγγραφή Copilot"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Γραμματική"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Το Πρόγραμμα επεξεργασίας δεν υποστηρίζεται αυτήν τη στιγμή στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Το πρόγραμμα επεξεργασίας είναι απενεργοποιημένο αυτήν τη στιγμή στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Το Πρόγραμμα επεξεργασίας είναι απενεργοποιημένο."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1 $",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "2 $",
+            "example": "el"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Το Πρόγραμμα επεξεργασίας περιλαμβάνεται στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Γλώσσα γλωσσικού ελέγχου: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "el"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Γλώσσα ελέγχου"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Γλώσσες γλωσσικού ελέγχου"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Αποκτήστε προηγμένες ιδέες σύνταξης και 1 TB αποθήκευσης, επιλέγοντας την έκδοση premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Βελτιώσεις"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Οι βελτιώσεις είναι προηγμένες προτάσεις σύνταξης που θα σας βοηθήσουν να κάνετε το κείμενό σας σαφέστερο, πιο λιτό ή πιο επίσημο."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Ανοίξτε τις ρυθμίσεις του προγράμματος επεξεργασίας για να επιλέξετε γλώσσες γλωσσικού ελέγχου."
+   },
+   "EditorSettingsLabel": {
+      "message": "Περισσότερες ρυθμίσεις του Προγράμματος επεξεργασίας"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Ορθογραφία"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Συνώνυμα (Προεπισκόπηση)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Λάβετε συνώνυμα κατά τη σύνταξη: κάντε διπλό κλικ σε μια λέξη ή επιλέξτε και πατήστε (Alt+Κάτω βέλος)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Λάβετε συνώνυμα κατά τη σύνταξη: κάντε διπλό κλικ σε μια λέξη ή επιλέξτε και πατήστε το συνδυασμό πλήκτρων Alt+Κάτω βέλος."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Λάβετε συνώνυμα κατά τη σύνταξη: κάντε διπλό κλικ σε μια λέξη ή επιλέξτε και πατήστε το συνδυασμό πλήκτρων Control+Option+Κάτω βέλος."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Λάβετε συνώνυμα κατά τη σύνταξη: κάντε διπλό κλικ σε μια λέξη ή επιλέξτε και πατήστε (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ και $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1 $",
+            "example": "el"
+         },
+         "secondLanguage": {
+            "content": "2 $",
+            "example": "el"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Απενεργοποίηση του Προγράμματος επεξεργασίας στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Προβολή λογαριασμού"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Επέκταση προγράμματος περιήγησης του Προγράμματος επεξεργασίας της Microsoft"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Αναβαθμίσατε με επιτυχία στην έκδοση Premium του Προγράμματος επεξεργασίας της Microsoft! Εξερευνήστε το αναπτυγμένο σύνολο δυνατοτήτων κάνοντας κλικ στις μπλε και μοβ υπογραμμίσεις στο κείμενό σας."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Συγχαρητήρια"
+   },
+   "SettingsLabel": {
+      "message": "Ρυθμίσεις λογαριασμού"
+   },
+   "SignInLabel": {
+      "message": "Είσοδος ή εγγραφή"
+   },
+   "SignOutLabel": {
+      "message": "Έξοδος"
+   },
+   "SignOutTooltip": {
+      "message": "Αν εξέλθετε, θα γίνει επαναφορά όλων των προεπιλεγμένων ρυθμίσεων και θα χάσετε τη λίστα με τις εξαιρούμενες τοποθεσίες."
+   },
+   "SupportPageLabel": {
+      "message": "Χρειάζεστε βοήθεια για να εισέλθετε​;"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Ενεργοποίηση Προγράμματος επεξεργασίας"
+   },
+   "addButtonLabel": {
+      "message": "Προσθήκη"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Δημιουργήστε με το Copilot, πατήστε alt+i για να εμφανίσετε τις επιλογές"
+   },
+   "aiInsertButtonText": {
+      "message": "Δημιουργία περιεχομένου με το Copilot"
+   },
+   "aiInsertResultDescription": {
+      "message": "Αυτός είναι ένας τρόπος για να το κάνετε πιο ελκυστικό"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Το πρόγραμμα επεξεργασίας πρόσθεσε τα $1 ως γλώσσα ορθογραφικού ελέγχου"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Διαχείριση γλωσσών ορθογραφικού ελέγχου"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Αναίρεση"
+   },
+   "backToPromptLabel": {
+      "message": "Πίσω"
+   },
+   "closeLabel": {
+      "message": "Κλείσιμο"
+   },
+   "contentErrorMessage": {
+      "message": "Πρόγραμμα επεξεργασίας της Microsoft δεν ήταν δυνατή η δημιουργία περιεχομένου. Επιλέξτε διαφορετικό κείμενο ή περιμένετε λίγα λεπτά και δοκιμάστε ξανά."
+   },
+   "contentSuggestion": {
+      "message": "Πρόταση περιεχομένου"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Διόρθωση, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Γραμματικό σφάλμα, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Τελειοποίηση στυλ, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Επαναλαμβανόμενη λέξη, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Ορθογραφικό σφάλμα, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Το περιεχόμενο που δημιουργείται από τεχνητή νοημοσύνη ίσως περιέχει ανακρίβειες ή ευαίσθητο υλικό. Βεβαιωθείτε ότι έχετε επαληθεύσει τις πληροφορίες."
+   },
+   "copyButtonText": {
+      "message": "Αντιγραφή"
+   },
+   "defaultWarningMessage": {
+      "message": "Για να χρησιμοποιήσετε το Copilot, μεταβείτε στο τέλος της παραγράφου."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Μπορείτε να ενεργοποιήσετε τον γλωσσικό έλεγχο μόνο για έως τρεις γλώσσες κάθε φορά."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "Η λέξη $1 προστέθηκε στο λεξικό."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Κλείσιμο αποτελεσμάτων αναζήτησης στο μενού"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Έγινε εισαγωγή πρότασης. Κλείσιμο αποτελεσμάτων αναζήτησης στο μενού"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Κλικ πρότασης σημαίας. Εμφανίζονται τα αποτελέσματα αναζήτησης στο μενού"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Έγινε κλικ στην ώθηση. Εμφανίζονται τα αποτελέσματα αναζήτησης στο μενού"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "Το πάτημα του συμβόλου \"$1\" εμφανίζει τα αποτελέσματα αναζήτησης στο μενού"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Άνοιγμα με το κουμπί ελέγχου"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Πατήστε το πλήκτρο control για επιλογές αυτόματης διόρθωσης."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Προτάσεις αρχείων"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Αρχεία, στοιχεία, άτομα και πολλά άλλα"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Εισαγωγή"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Εντοπισμός τοπικής επιχείρησης"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Εντοπισμός διεύθυνσης"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Προσθήκη σύνδεσης σε αυτήν τη διεύθυνση"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Τοποθεσία"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Βελτίωση"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Προτάσεις ατόμων"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Πρόταση οντότητας"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Προσθήκη σύνδεσης σε αυτήν την οντότητα"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Οντότητα"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Πρόταση οντότητας"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Εντοπισμός ώρας"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Προσθέστε ζώνες ώρας σε αυτήν την ώρα"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Ώρα"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Βελτίωση"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Επισημάνετε αυτό το θέμα για να βοηθήσετε τους άλλους χρήστες να αποκτήσουν πρόσβαση σε μια περιγραφή, άτομα και πόρους που είναι συνδεδεμένοι με αυτό."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Πρόταση Viva Topics"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Πρόταση Viva Topics"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Εμφάνιση πρότασης σκουντήματος: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "Άκυρο"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Αναγνώριση ημερομηνίας"
+   },
+   "ebx_Dismiss": {
+      "message": "Παράβλεψη"
+   },
+   "ebx_Done": {
+      "message": "Ολοκληρώθηκε"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Αναζήτηση για αρχεία"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Αναζήτηση ατόμων"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Αρχίστε να πληκτρολογείτε για αναζήτηση"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Αρχίστε να πληκτρολογείτε για αναζήτηση 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Αρχίστε να πληκτρολογείτε για αναζήτηση"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Αρχίστε να πληκτρολογείτε για αναζήτηση"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Αναζήτηση στοιχείων Loop"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Αρχίστε να πληκτρολογείτε για αναζήτηση"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Αρχίστε να πληκτρολογείτε για αναζήτηση"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Αρχίστε να πληκτρολογείτε για αναζήτηση"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Αναζήτηση θεμάτων"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Άτομα / Αναγνώριση ημερομηνίας"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Εισαγωγή ημερομηνίας"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Εισαγωγή εύρους ημερομηνιών"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Πρόταση: Εισαγωγή εύρους ημερομηνία"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Εισαγωγή ημερομηνίας και ώρας"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Πρόταση: Εισαγωγή ημερομηνίας και ώρας"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Πρόταση: Εισαγωγή ημερομηνίας"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Πρόταση: Εισαγωγή ατόμου"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Εισαγωγή ώρας"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Εισαγωγή χρονικής περιόδου"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Πρόταση: Εισαγωγή χρονικής περιόδου"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Πρόταση: Εισαγωγή ώρας"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Τα σχόλια υποβλήθηκαν με επιτυχία."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Σας ευχαριστούμε που δοκιμάσατε το Πρόγραμμα επεξεργασίας (beta) στο Google Docs. Κάνουμε ενημερώσεις για να προσαρμόσουμε τις αλλαγές στο Google Docs που προκάλεσαν τη διακοπή λειτουργίας του Προγράμματος επεξεργασίας. Θα σας ενημερώσουμε όταν το Πρόγραμμα επεξεργασίας είναι έτοιμο για χρήση ξανά."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Το Πρόγραμμα επεξεργασίας στα Έγγραφα Google δεν είναι διαθέσιμο"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Για την καλύτερη εμπειρία του προγράμματος επεξεργασίας, δοκιμάστε να απενεργοποιήσετε τον ενσωματωμένο ορθογραφικό και γραμματικό έλεγχο των Εγγράφων Google. (Στο μενού \"Εργαλεία\", μεταβείτε στην επιλογή \"Ορθογραφία και γραμματική\" και απενεργοποιήστε τις επιλογές)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Χρήση μόνο εργαλείων γλωσσικού ελέγχου του προγράμματος επεξεργασίας"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Λάβετε σύνθετες προτάσεις ενώ γράφετε. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Λήψη σύνθετων προτάσεων ενώ γράφετε. Για την καλύτερη δυνατή εμπειρία επεξεργασίας, ο ενσωματωμένος ορθογραφικός και γραμματικός έλεγχος του Google Docs θα απενεργοποιηθεί. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Δοκιμάστε το Πρόγραμμα επεξεργασίας (beta) στα Έγγραφα Google"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Η πρόταση γραμματικού ελέγχου παραβλέφθηκε."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Εντοπισμός επικεφαλίδας"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Βελτίωση"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Επικεφαλίδα 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Επικεφαλίδα 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Επικεφαλίδα 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Εξετάστε το ενδεχόμενο αλλαγής σε κεφαλίδα"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Προσβασιμότητα"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Προσβασιμότητα: δοκιμάστε την αλλαγή σε κεφαλίδα"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Προτεινόμενη εισαγωγή \"$1\". Πατήστε για εισαγωγή."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Επιλέξαμε {0} με βάση τις τρέχουσες ρυθμίσεις του προγράμματος περιήγησής σας."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Ελέγξτε την ορθογραφία και τη γραμματική για τρεις γλώσσες ταυτόχρονα. Επιλέξτε τις γλώσσες σας στις ρυθμίσεις του προγράμματος επεξεργασίας"
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Μπορείτε να επεξεργαστείτε τις γλώσσες σας στις ρυθμίσεις του Προγράμματος επεξεργασίας."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Επιλέξαμε {0}, {1} και {2} με βάση τις τρέχουσες ρυθμίσεις του προγράμματος περιήγησής σας."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Τώρα μπορείτε να κάνετε επιμέλεια κειμένου πολλαπλών γλωσσών με το Πρόγραμμα επεξεργασίας"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Επιλέξαμε {0} και {1} με βάση τις τρέχουσες ρυθμίσεις του προγράμματος περιήγησής σας."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Αναγνώριση ατόμων"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Η προτεινόμενη εισαγωγή \"$1\" εφαρμόστηκε με επιτυχία."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Προτεινόμενη εισαγωγή \"$1\". Πατήστε το πλήκτρο TAB για εισαγωγή."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Γλώσσες γλωσσικού ελέγχου"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Οι συνδρομητές του Microsoft 365 λαμβάνουν προτάσεις σύνταξης για προχωρημένους όταν είναι συνδεδεμένοι."
+   },
+   "ebx_RemoveItem": {
+      "message": "Διαγραφή"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Τώρα μπορείτε να προσθέσετε τις δικές σας λέξεις στο λεξικό ορθογραφικού ελέγχου του προγράμματος επεξεργασίας. Αναζητήστε την επιλογή \"Προσθήκη στο λεξικό\" όταν το πρόγραμμα επεξεργασίας κάνει μια πρόταση ορθογραφίας."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Εξατομικεύστε το λεξικό ορθογραφίας σας"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "ΟΚ"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Τώρα, το πρόγραμμα επεξεργασίας μπορεί να προσθέτει λέξεις στο προσαρμοσμένο λεξικό που είναι ενσωματωμένο στις εφαρμογές Microsoft 365. Εισέλθετε και αναζητήστε την επιλογή \"Προσθήκη στο λεξικό\" όταν το πρόγραμμα επεξεργασίας κάνει μια πρόταση ορθογραφίας."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Εισέλθετε για εξατομικευμένο ορθογραφικό λεξικό"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Το κριτική \"$1\" έχει απενεργοποιηθεί στις ρυθμίσεις."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Αυτό το κριτική έχει απενεργοποιηθεί στις ρυθμίσεις."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Για να λάβετε προτάσεις γραφής στις περισσότερες τοποθεσίες Web, πραγματοποιήστε είσοδο στον λογαριασμό Microsoft που έχετε ή στον εταιρικό ή σχολικό λογαριασμό που χρησιμοποιείτε για το Office."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Είσοδος ή εγγραφή"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Πραγματοποιήστε είσοδο για να λάβετε προτάσεις γραφής στις περισσότερες τοποθεσίες Web. Θα αποθηκεύσουμε τις ρυθμίσεις σας, όπως τις γλώσσες στις οποίες γράφετε, καθώς και τα είδη των προβλημάτων που θέλετε να ελέγχει το πρόγραμμα επεξεργασίας."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Απολαύστε προτάσεις γραμματικής και βελτίωσης στους περισσότερους ιστότοπους, καθώς και ένα εξατομικευμένο λεξικό ορθογραφίας."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Για ένα εξατομικευμένο λεξικό ορθογραφίας, πραγματοποιήστε είσοδο στον λογαριασμό σας Microsoft ή στον εταιρικό ή σχολικό λογαριασμό που χρησιμοποιείτε για το Office."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Το πρόγραμμα επεξεργασίας δεν εκτελείται ακόμα"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Κλείσιμο μενού κάθετος"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Έγινε εισαγωγή πρότασης. Κλείσιμο μενού κάθετος"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Έγινε κλικ μετά την πρόταση σημαίας. Εμφανίζεται το μενού Κάθετος"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Έγινε κλικ μετά την υπενθύμιση. Εμφανίζεται το μενού Κάθετος"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "Το πάτημα του συμβόλου \"$1\" εμφανίζει το μενού κάθετο"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Η πρόταση ορθογραφικού ελέγχου παραβλέφθηκε."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Άνοιγμα με αριστερό κλικ ή Alt+κάτω βέλος"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Άνοιγμα με αριστερό κλικ ή Ctrl+Alt+κάτω βέλος"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Άνοιγμα με αριστερό κλικ ή με το συνδυασμό πλήκτρων Control+Option+κάτω βέλος"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "AutoCorrect"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+κάτω βέλος)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl+Alt+κάτω βέλος)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Διόρθωση γραμματικής"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Βελτίωση γραφής"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Διόρθωση ορθογραφίας"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Άνοιγμα με αριστερό κλικ"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Πρόταση Viva Topics"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Η πρόταση \"$1\" έγινε αποδεκτή με επιτυχία."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Αναγνώριση εργασιών"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Δημιουργία εργασίας"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Πρόταση: Δημιουργήστε εργασία"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Καρτέλα"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Πάτημα"
+   },
+   "ebx_TurnItOn": {
+      "message": "Ενεργοποίηση"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Προσθήκη άλλης τοποθεσίας"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Προσθήκη άλλης τοποθεσίας"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Ακύρωση της προσθήκης τοποθεσίας στη λίστα αποκλεισμένων τοποθεσιών."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Προσθήκη τοποθεσίας στη λίστα αποκλεισμένων τοποθεσιών"
+   },
+   "ebx_addButton": {
+      "message": "Προσθήκη"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Για να προσθέσετε έλεγχο γραμματικής"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Ακύρωση της προσθήκης γλώσσας στη λίστα γλωσσών γλωσσικού ελέγχου"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Προσθήκη γλώσσας στη λίστα γλωσσών γλωσσικού ελέγχου"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Προσθήκη άλλης γλώσσας"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Προσθήκη στο λεξικό"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Να επιτρέπεται στο \"Πρόγραμμα επεξεργασίας\" να εντοπίζει και να προσθέτει αυτόματα νέες γλώσσες γλωσσικού ελέγχου με βάση το γράψιμό σας."
+   },
+   "ebx_appDescription": {
+      "message": "Γράψτε με αυτοπεποίθηση με το Πρόγραμμα επεξεργασίας της Microsoft*: τον ευφυή βοηθό γραφής"
+   },
+   "ebx_appLongDescription": {
+      "message": "Το Πρόγραμμα επεξεργασίας παρέχει προηγμένη βοήθεια γραφής στο web (1) με προτάσεις γραμματικής, ορθογραφίας και στυλ, ώστε να μπορείτε να γράφετε με σιγουριά καθαρές, περιεκτικές δημοσιεύσεις και μηνύματα ηλεκτρονικού ταχυδρομείου.\r\n\r\nΓράψτε σαν επαγγελματίας με έξυπνη βοήθεια γραφής\r\nΑριστεύσετε στα βασικά στοιχεία με δωρεάν γραμματική, προηγμένη γραμματική, ορθογραφικό έλεγχο και γλωσσικό έλεγχο στίξης. Προχωρήστε πέρα από τα βασικά στοιχεία με προηγμένο έλεγχο στυλ για θέματα όπως τη σαφήνεια, την περιεκτικότητα, την επισημότητα, το λεξιλόγιο και πολλά άλλα με την Premium έκδοση (απαιτείται συνδρομή Microsoft 365).\r\n\r\nΕξατομικεύστε το σύμφωνα με τις ανάγκες σας\r\nΤο Πρόγραμμα επεξεργασίας μπορεί πλέον να προσθέτει λέξεις στο προσαρμοσμένο λεξικό που είναι ενσωματωμένο στις εφαρμογές Microsoft 365 σας. Αναζητήστε την επιλογή \"Προσθήκη στο λεξικό\" όταν το πρόγραμμα επεξεργασίας κάνει μια πρόταση ορθογραφίας. Επιπλέον, μέσω τις επιλογής Ρυθμίσεις σάς παρέχει έναν τρόπο να επεξεργαστείτε λεπτομερώς τις προτιμήσεις σας για προτάσεις σύνταξης. Επίσης, καταστήσαμε εύκολη την παράλειψη όλων των εμφανίσεων μιας ορθογραφικής διόρθωσης, επιλέγοντας \"Παράβλεψη όλων\" ή παραλείψτε τις ανεπιθύμητες προτάσεις γραμματικής, επιλέγοντας \"Παράβλεψη\".\r\n\r\nΓράψτε οπουδήποτε\r\nΛάβετε βοήθεια γραφής σε τοποθεσίες όπως το LinkedIn, το Gmail, το Facebook και άλλα αγαπημένα με αυτήν την επέκταση προγράμματος περιήγησης. Εάν θέλετε τη βοήθεια του Προγράμματος επεξεργασίας στις εφαρμογές Office όπου γράφετε περισσότερο, ανοίξτε το Word ή το Outlook στο web και λάβετε προτάσεις για τη βελτίωση των εγγράφων και των μηνυμάτων ηλεκτρονικού ταχυδρομείου σας.\r\n\r\nΛάβετε βοήθεια σε πολλές γλώσσες\r\nΕλέγξτε την ορθογραφία και τη γραμματική για έως και τρεις γλώσσες ταυτόχρονα με τον γλωσσικό έλεγχο πολλαπλών γλωσσών. Το Πρόγραμμα επεξεργασίας ελέγχει την ορθογραφία σε περισσότερες από 80 γλώσσες και παρέχει γραμματικό έλεγχο και βελτιώσεις στυλ γραφής σε 21 γλώσσες. Μπορείτε να βρείτε περισσότερες πληροφορίες σχετικά με τη διαθεσιμότητα γλώσσας εδώ: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nΑποκτήστε το Πρόγραμμα επεξεργασίας για το Microsoft Edge εδώ: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Διαθέσιμο για προγράμματα περιήγησης Microsoft Edge ή Chrome και απαιτείται λογαριασμός Microsoft. Το Πρόγραμμα επεξεργασίας συνδέεται σε μια ηλεκτρονική υπηρεσία της Microsoft που προσφέρει προτάσεις ορθογραφίας, γραμματικής και βελτιστοποίησης για το γράψιμό σας στις περισσότερες τοποθεσίες web.\r\n2. Δεν έχουν όλες οι γλώσσες το ίδιο σύνολο βελτιώσεων.\r\n\r\nΜε την εγκατάσταση της εφαρμογής, συμφωνείτε με αυτούς τους όρους και τις προϋποθέσεις:\r\n\r\nΣΗΜΕΙΩΣΗ: Ανατρέξτε στους όρους άδειας χρήσης για τον λογαριασμό σας Microsoft ή τη Microsoft συνδρομή 365, ανάλογα με την περίπτωση (η \"επέκταση\"), για να αναγνωρίσετε την οντότητα που σας παραχωρεί την άδεια χρήσης αυτής της επέκτασης και για πληροφορίες υποστήριξης. Οι όροι άδειας χρήσης για τον λογαριασμό Microsoft ή τη συνδρομή Microsoft 365, ανάλογα με την περίπτωση, ισχύουν για την από μέρους σας χρήση αυτής της επέκτασης.\r\n\r\nΠολιτική προστασίας προσωπικών δεδομένων: http://aka.ms/privacy\r\nΌροι χρήσης: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Το πρόγραμμα επεξεργασίας παρέχει προηγμένη βοήθεια γραφής στο web (1) με προτάσεις γραμματικής, ορθογραφίας και στυλ, ώστε να μπορείτε να γράφετε με σιγουριά καθαρές, περιεκτικές δημοσιεύσεις και μηνύματα ηλεκτρονικού ταχυδρομείου.\r\n\r\nΓράψτε σαν επαγγελματίας με την έξυπνη βοήθεια γραφής\r\nΑριστεύσετε στα βασικά στοιχεία με δωρεάν γραμματική, προηγμένη γραμματική, ορθογραφικό έλεγχο και έλεγχο στίξης. Προχωρήστε πέρα από τα βασικά στοιχεία με προηγμένο έλεγχο στυλ για θέματα όπως η σαφήνεια, η συνοπτικότητα, η επισημότητα, το λεξιλόγιο και πολλά άλλα με την έκδοση Premium (απαιτείται συνδρομή στο Microsoft 365).\r\n\r\nΕξατομικεύστε το σύμφωνα με τις ανάγκες σας\r\nΤο Πρόγραμμα επεξεργασίας μπορεί πλέον να προσθέτει λέξεις στο προσαρμοσμένο λεξικό που είναι ενσωματωμένο στις εφαρμογές Microsoft 365. Αναζητήστε την επιλογή \"Προσθήκη στο λεξικό\" όταν το πρόγραμμα επεξεργασίας κάνει μια πρόταση ορθογραφίας. Επιπλέον, μέσω τις επιλογής Ρυθμίσεις σάς παρέχει έναν τρόπο να επεξεργαστείτε λεπτομερώς τις προτιμήσεις σας για προτάσεις σύνταξης. Επίσης, καταστήσαμε εύκολη την παράλειψη όλων των εμφανίσεων μιας ορθογραφικής διόρθωσης, επιλέγοντας \"Παράβλεψη όλων\" ή παραλείψτε τις ανεπιθύμητες προτάσεις γραμματικής, επιλέγοντας \"Παράβλεψη\".\r\n\r\nΓράψτε οπουδήποτε\r\nΛάβετε βοήθεια γραφής σε τοποθεσίες όπως το LinkedIn, το Gmail, το Facebook και άλλες αγαπημένες τοποθεσίες με αυτήν την επέκταση προγράμματος περιήγησης. Εάν θέλετε τη βοήθεια του προγράμματος επεξεργασίας στις εφαρμογές του Office όπου γράφετε περισσότερο, ανοίξτε το Word ή το Outlook στο web και λάβετε προτάσεις για τη βελτίωση των εγγράφων και των μηνυμάτων ηλεκτρονικού ταχυδρομείου σας.\r\n\r\nΛάβετε βοήθεια σε πολλές γλώσσες\r\nΕλέγξτε την ορθογραφία και τη γραμματική για έως και τρεις γλώσσες ταυτόχρονα με τον γλωσσικό έλεγχο πολλών γλωσσών. Το πρόγραμμα επεξεργασίας ελέγχει την ορθογραφία σε περισσότερες από 80 γλώσσες και παρέχει γραμματικό έλεγχο και βελτιώσεις στυλ γραφής σε 21 γλώσσες. Μπορείτε να βρείτε περισσότερες πληροφορίες σχετικά με τη διαθεσιμότητα των γλωσσών στη διεύθυνση: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nΑποκτήστε το πρόγραμμα επεξεργασίας για το Chrome στη διεύθυνση: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Διαθέσιμο για προγράμματα περιήγησης Microsoft Edge ή Chrome και απαιτείται λογαριασμός Microsoft. Το πρόγραμμα επεξεργασίας συνδέεται σε μια ηλεκτρονική υπηρεσία της Microsoft που προσφέρει προτάσεις ορθογραφίας, γραμματικής και βελτίωσης για το γράψιμό σας στις περισσότερες τοποθεσίες web.\r\n2. Δεν έχουν όλες οι γλώσσες το ίδιο σύνολο βελτιώσεων.\r\n\r\nΜε την εγκατάσταση της εφαρμογής, συμφωνείτε με τους παρακάτω όρους και τις προϋποθέσεις:\r\n\r\nΣΗΜΕΙΩΣΗ: Ανατρέξτε στους όρους άδειας χρήσης για τον λογαριασμό σας Microsoft ή τη συνδρομή σας Microsoft 365, ανάλογα με την περίπτωση (η \"επέκταση\"), για να αναγνωρίσετε την οντότητα που σας παραχωρεί την άδεια χρήσης αυτής της επέκτασης και για πληροφορίες υποστήριξης. Οι όροι άδειας χρήσης για τον λογαριασμό Microsoft ή τη συνδρομή Microsoft 365, ανάλογα με την περίπτωση, ισχύουν για την από μέρους σας χρήση αυτής της επέκτασης.\r\n\r\nΠολιτική προστασίας προσωπικών δεδομένων: http://aka.ms/privacy\r\nΌροι χρήσης: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Πρόγραμμα επεξεργασίας της Microsoft: Ορθογραφικός και γραμματικός έλεγχος"
+   },
+   "ebx_appShortName": {
+      "message": "Πρόγραμμα επεξεργασίας"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, όμοιο με: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, όμοιο με: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Αντικατάσταση με"
+   },
+   "ebx_asInSynonyms": {
+      "message": "μοιάζει με"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "\"$1\", Αυτόματη Διόρθωση αναιρέθηκε."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Επαναφορά σε \"$1\""
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, διορθώθηκε αυτόματα."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Πατήστε το πλήκτρο control για επιλογές αυτόματης διόρθωσης."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "Το {0} προστέθηκε με επιτυχία"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Πατήστε το πλήκτρο δεξιού βέλους για να αποκτήσετε πρόσβαση στο κουμπί \"Κατάργηση\"."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Αυτή η λίστα είναι κενή."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "Η κατάργηση του {0} ολοκληρώθηκε με επιτυχία"
+   },
+   "ebx_brandText": {
+      "message": "Πρόγραμμα επεξεργασίας της Microsoft"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Λογότυπο του Πρόγραμμα επεξεργασίας της Microsoft"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Περιήγηση σε αυτόν τον υπολογιστή"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Αλλαγή όλων"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Ρυθμίσεις του Editor..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Έλεγχος για βελτιώσεις"
+   },
+   "ebx_checkGrammar": {
+      "message": "Γραμματικός έλεγχος"
+   },
+   "ebx_checkSpelling": {
+      "message": "Έλεγχος ορθογραφίας"
+   },
+   "ebx_close": {
+      "message": "Κλείσιμο"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Σύντομα κοντά σας"
+   },
+   "ebx_copilotInsert": {
+      "message": "Εισαγωγή"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Επανεγγραφή Copilot"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Διαγραφή επαναλαμβανόμενης λέξης"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Σταματήστε να ελέγχετε για αυτό"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Σταματήστε να ελέγχετε για αυτό. Το Πρόγραμμα επεξεργασίας θα εφαρμόσει αυτήν τη ρύθμιση μέχρι να την αλλάξετε."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Το Πρόγραμμα επεξεργασίας θα εφαρμόσει αυτήν τη ρύθμιση μέχρι να την αλλάξετε"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Απενεργοποίηση του Προγράμματος επεξεργασίας στο {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Επιλογές εμφάνισης"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Αυτή η τοποθεσία βρίσκεται ήδη στη λίστα αποκλεισμένων τοποθεσιών"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Το πρόγραμμα επεξεργασίας έχει $1 προηγμένες ιδέες γραφής για αυτό το μήνυμα."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Το Πρόγραμμα επεξεργασίας δεν υποστηρίζεται αυτήν τη στιγμή στο {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Αναδυόμενο πρόγραμμα επεξεργασίας"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Ανενεργό"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Ενεργό"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Εμφάνιση του κουμπιού \"Επεξεργαστής\" σε πεδία που υποστηρίζουν το αναδυόμενο παράθυρο \"Πρόγραμμα επεξεργασίας\""
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Η επέκταση του προγράμματος περιήγησης του Microsoft Office περιλαμβάνει πλέον το Πρόγραμμα επεξεργασίας της Microsoft, που αποτελεί τον έξυπνο βοηθό σύνταξης και θα σας βοηθήσει να δημοσιεύσετε τα καλύτερα κείμενά σας στο web. Το Πρόγραμμα επεξεργασίας της Microsoft συνδέεται με μια ηλεκτρονική υπηρεσία για να προσφέρει προτάσεις ορθογραφίας, γραμματικής και στυλ."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Το Πρόγραμμα επεξεργασίας της Microsoft (Προεπισκόπηση) εκτελείται τώρα"
+   },
+   "ebx_editorFeature": {
+      "message": "Πρόγραμμα επεξεργασίας της Microsoft"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Ανενεργό"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Απενεργοποίηση του Προγράμματος επεξεργασίας"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Ενεργό"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Δυνατότητα Editor"
+   },
+   "ebx_editorIsOff": {
+      "message": "Το Πρόγραμμα επεξεργασίας είναι απενεργοποιημένο"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Το πρόγραμμα επεξεργασίας είναι απενεργοποιημένο αυτήν τη στιγμή στο {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Το Πρόγραμμα επεξεργασίας περιλαμβάνεται στο {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Περισσότερες ρυθμίσεις του Προγράμματος επεξεργασίας"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Καμία γλώσσα δεν ταιριάζει στην αναζήτησή σας"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Ενεργοποίηση του Προγράμματος επεξεργασίας στο {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " και "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Το πρόγραμμα επεξεργασίας έχει $1 σύνθετες ιδέες γραφής για αυτό το μήνυμα."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Το πρόγραμμα επεξεργασίας έχει $1 προηγμένη ιδέα γραφής για αυτό το μήνυμα."
+   },
+   "ebx_excludedSites": {
+      "message": "Εξαιρούμενες τοποθεσίες"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Αναφορά αυτής της πρότασης"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Πείτε μας γιατί επιλέξατε αυτή την απάντηση."
+   },
+   "ebx_feedbackLink": {
+      "message": "σχόλια"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Βοηθήστε μας να βελτιώσουμε το Editor παρέχοντας"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Πολύ αρνητικά"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Εξαιρετικά αρνητικά"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Σχετικά αρνητικά"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Σχετικά αρνητικά"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Ούτε θετικά ούτε αρνητικά"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Ούτε αρνητικά ούτε θετικά"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Σχετικά θετικά"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Σχετικά θετικά"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Πολύ θετικά"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Εξαιρετικά θετικά"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Συνολικά, πώς θα περιγράφατε την εμπειρία σας με το πρόγραμμα επεξεργασίας της Microsoft;"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Συνολικά, πώς αισθάνεστε όταν χρησιμοποιείτε το πρόγραμμα επεξεργασίας της Microsoft για να λαμβάνετε προτάσεις ορθογραφίας, γραμματικής, προβλέψεις και άλλες προτάσεις για τη βελτίωση της γραφής σας;"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Παροχή σχολίων στη Microsoft σχετικά με το πρόγραμμα επεξεργασίας"
+   },
+   "ebx_giveFeedback": {
+      "message": "Υποβολή σχολίων"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Εξασφαλίστε προηγμένες ιδέες σύνταξης με το Editor, 1 TB χώρου αποθήκευσης στο OneDrive και δυνατότητες premium σε όλες τις εφαρμογές του Microsoft 365."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Εξασφαλίστε προηγμένες ιδέες σύνταξης με το Editor, 1 TB χώρου αποθήκευσης στο OneDrive και δυνατότητες premium σε όλες τις εφαρμογές του Microsoft 365."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Δοκιμάστε τις προηγμένες συμβουλές σύνταξης του Editor."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Μετάβαση σε έκδοση Premium"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "μετάβαση σε πρόγραμμα Premium"
+   },
+   "ebx_goToSettings": {
+      "message": "Μετάβαση στις ρυθμίσεις του προγράμματος επεξεργασίας"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Μεταβείτε στις ρυθμίσεις του Editor για να μάθετε περισσότερα"
+   },
+   "ebx_googleDocs": {
+      "message": "Έγγραφα Google"
+   },
+   "ebx_grammar": {
+      "message": "Γραμματική"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Απόκρυψη συνωνύμων"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Παράβλεψη όλων"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Παράβλεψη"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Ανοίξτε το Πρόγραμμα επεξεργασίας ή κάντε δεξί κλικ για περισσότερες επιλογές"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Δείτε όλες τις προτάσεις στο Πρόγραμμα επεξεργασίας ή κάντε δεξιό κλικ για περισσότερες επιλογές"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Υπάρχουν \"$1\" εντοπίστηκαν ζητήματα γλωσσικού ελέγχου σε αυτήν τη γραμμή"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Βρέθηκε το πρόβλημα γλωσσικού ελέγχου \"$1\" σε αυτήν τη γραμμή"
+   },
+   "ebx_languageAdded": {
+      "message": "Το {0} προστέθηκε με επιτυχία"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" μετακινήθηκε με επιτυχία μία θέση προς τα κάτω στη λίστα"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" μετακινήθηκε με επιτυχία στην κορυφή της λίστας"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" μετακινήθηκε με επιτυχία μία θέση προς τα επάνω στη λίστα"
+   },
+   "ebx_languageRemoved": {
+      "message": "Η κατάργηση του {0} ολοκληρώθηκε με επιτυχία"
+   },
+   "ebx_learnMore": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "ebx_manageLanguages": {
+      "message": "Διαχείριση γλωσσών..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Διαχείριση γλωσσών ορθογραφικού ελέγχου"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Περισσότερες εντολές για τη γλώσσα {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Υποβάθμιση"
+   },
+   "ebx_moveToTop": {
+      "message": "Μετακίνηση στην κορυφή"
+   },
+   "ebx_moveUp": {
+      "message": "Μετακίνηση επάνω"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Επόμενη πρόταση, απομένουν $1"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Άνοιγμα του Προγράμματος επεξεργασίας"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Ρυθμίσεις προγράμματος επεξεργασίας"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Εφόσον κάνατε αυτό το τυπογραφικό λάθος μερικές φορές, προσθέσαμε \"$1\" στη λίστα Αυτόματης Διόρθωσης."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "Απομένουν $1 ημέρες σε αυτήν την προεπισκόπηση. Κάντε αναβάθμιση για απεριόριστες προτάσεις:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "Απομένει $1 ημέρα σε αυτήν την προεπισκόπηση. Κάντε αναβάθμιση για απεριόριστες προτάσεις:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Λάβετε τις προηγμένες συμβουλές σύνταξης του Editor."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "Υπάρχουν $1 προτάσεις σε αυτήν την προεπισκόπηση. Κάντε αναβάθμιση για απεριόριστες προτάσεις:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "Απομένει $1 πρόταση σε αυτήν την προεπισκόπηση. Κάντε αναβάθμιση για απεριόριστες προτάσεις:"
+   },
+   "ebx_preview": {
+      "message": "(Προεπισκόπηση)"
+   },
+   "ebx_previewLabel": {
+      "message": "ΠΡΟΕΠΙΣΚΟΠΗΣΗ"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Προηγούμενη πρόταση, απομένουν $1"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Αυτόματη αποστολή προαιρετικών διαγνωστικών δεδομένων κατά τη χρήση αυτής της online υπηρεσίας, για να μας βοηθήσετε να βελτιώσουμε τα προϊόντα μας."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Μάθετε περισσότερα σχετικά με τα διαγνωστικά δεδομένα"
+   },
+   "ebx_privacyOptions": {
+      "message": "Επιλογές προστασίας προσωπικών δεδομένων"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Γλώσσα γλωσσικού ελέγχου"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Πατήστε το πλήκτρο δεξιού βέλους για να αποκτήσετε πρόσβαση στο κουμπί Περισσότερες εντολές."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Γλώσσα γλωσσικού ελέγχου"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Μπορείτε να ενεργοποιήσετε τον γλωσσικό έλεγχο μόνο για έως τρεις γλώσσες κάθε φορά."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Επιλέξτε μια γλώσσα γλωσσικού ελέγχου"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Γλώσσες γλωσσικού ελέγχου"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Επιλέξτε έως τρεις γλώσσες. Η προτιμώμενη γλώσσα θα εμφανίζεται πρώτη."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Γλώσσες γλωσσικού ελέγχου"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Βρίσκετε χρήσιμο το Πρόγραμμα επεξεργασίας;"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Έχουμε μόνο δύο ερωτήσεις για εσάς"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Αποστολή σχολίων"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Λυπούμαστε που το ακούμε αυτό. Πείτε μας πώς μπορούμε να βελτιώσουμε το Πρόγραμμα επεξεργασίας."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Όχι"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Όχι, ευχαριστώ"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Τέλεια! Θέλετε να αξιολογήσετε την εφαρμογή μας;"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Εάν εξακολουθείτε να απολαμβάνετε τη χρήση του Προγράμματος επεξεργασίας, θέλετε να το αξιολογήσετε;"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Βεβαίως"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Ναι"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Σχόλια για το Πρόγραμμα επεξεργασίας της Microsoft"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Θα εκτιμούσαμε τα σχόλιά σας"
+   },
+   "ebx_refinements": {
+      "message": "Βελτιώσεις"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Οι βελτιώσεις είναι προηγμένες προτάσεις σύνταξης που θα σας βοηθήσουν να καταστήσετε το κείμενό σας σαφέστερο, πιο λιτό ή πιο επίσημο."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Αυτή η λέξη επαναλαμβάνεται"
+   },
+   "ebx_settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Άνοιγμα ρυθμίσεων προγράμματος επεξεργασίας"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Ανοίξτε τις ρυθμίσεις του Προγράμματος επεξεργασίας για να επιλέξετε γλώσσες γλωσσικού ελέγχου."
+   },
+   "ebx_settingsLabel": {
+      "message": "Ρυθμίσεις λογαριασμού"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Ρυθμίσεις του Προγράμματος επεξεργασίας της Microsoft"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Ρυθμίσεις ανά γλώσσα"
+   },
+   "ebx_showBeta": {
+      "message": "$1 σε Beta"
+   },
+   "ebx_showSynonyms": {
+      "message": "Εμφάνιση συνωνύμων"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Εμφάνιση συνωνύμων στις προτάσεις ορθογραφίας"
+   },
+   "ebx_signInDescription": {
+      "message": "Για να λάβετε προτάσεις γραμματικής και βελτιώσεων στις περισσότερες τοποθεσίες web, καθώς και ένα εξατομικευμένο ορθογραφικό λεξικό, πραγματοποιήστε είσοδο."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Χρειάζεστε βοήθεια για την είσοδό σας;"
+   },
+   "ebx_signInLabel": {
+      "message": "Είσοδος ή εγγραφή"
+   },
+   "ebx_signInToAccess": {
+      "message": "Εισέλθετε για πρόσβαση"
+   },
+   "ebx_signIntoEditor": {
+      "message": "είσοδος στο πρόγραμμα επεξεργασίας"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Για τη λήψη προτάσεων γραμματικής και βελτίωσης στις περισσότερες τοποθεσίες Web, πραγματοποιήστε είσοδο."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Για εξατομικευμένη ορθογραφία"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Για ένα εξατομικευμένο ορθογραφικό λεξικό, πραγματοποιήστε είσοδο."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Για τη λήψη προτάσεων γραμματικής και βελτίωσης στις περισσότερες τοποθεσίες Web, πραγματοποιήστε είσοδο."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Για να λάβετε προτάσεις γραμματικής και βελτιώσεων στις περισσότερες τοποθεσίες web, καθώς και ένα εξατομικευμένο ορθογραφικό λεξικό, πραγματοποιήστε είσοδο."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Είσοδος στο πρόγραμμα επεξεργασίας"
+   },
+   "ebx_signOutLabel": {
+      "message": "Έξοδος"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Με την πραγματοποίηση εξόδου θα γίνει επαναφορά όλων των ρυθμίσεων στις προεπιλεγμένες και θα χαθεί η λίστα σας με τις εξαιρούμενες τοποθεσίες."
+   },
+   "ebx_spelling": {
+      "message": "Ορθογραφία"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Επανελέγξτε αν αυτό είναι σωστό"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Περισσότερες ενέργειες"
+   },
+   "ebx_synonyms": {
+      "message": "Συνώνυμα"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonyms not available]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Λάβετε συνώνυμα όταν γράφετε: κάντε διπλό κλικ σε μια λέξη ή επιλέξτε και πατήστε (Alt+Κάτω βέλος)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Λάβετε συνώνυμα κατά τη σύνταξη: κάντε διπλό κλικ σε μια λέξη ή επιλέξτε και πατήστε (⌃ + ⌥ + ↓)."
+   },
+   "ebx_toggleOff": {
+      "message": "Ανενεργό"
+   },
+   "ebx_toggleOn": {
+      "message": "Ενεργό"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Ναι, παρακαλώ"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Τώρα προσφέρουμε προτάσεις για να σας βοηθήσουμε με το ύφος της γραφής σας. Θέλετε να το ελέγξετε;"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Απόρριψη"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Όχι τώρα"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Πραγματοποίηση αλλαγών στις ρυθμίσεις του Προγράμματος επεξεργασίας"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Να μην εμφανίζονται ποτέ προτάσεις ύφους"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Ο εντοπισμός ύφους είναι πλέον απενεργοποιημένος."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Εντοπισμός ύφους"
+   },
+   "ebx_toneLabel": {
+      "message": "Τόνος"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Επισημάνετε αυτό το θέμα για να βοηθήσετε τους άλλους χρήστες να αποκτήσουν πρόσβαση σε μια περιγραφή, άτομα και πόρους που είναι συνδεδεμένοι με αυτό."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Πρόταση Viva Topics"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Δοκιμάστε τις προηγμένες ιδέες γραφής του Προγράμματος επεξεργασίας"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Δοκιμή τώρα"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Απενεργοποίηση του Προγράμματος επεξεργασίας"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Το πρόγραμμα επεξεργασίας συνδέεται με μια ηλεκτρονική υπηρεσία της Microsoft που προσφέρει ορθογραφικό έλεγχο και προτάσεις γραμματικής και στυλ για την εγγραφή στις περισσότερες τοποθεσίες Web."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Ενεργοποίηση Προγράμματος επεξεργασίας"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Αναίρεση"
+   },
+   "ebx_undoButtonText": {
+      "message": "Αναίρεση"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Επιλογές αυτόματης διόρθωσης"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Αποκλεισμένες τοποθεσίες"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Μη έγκυρη διεύθυνση URL. Πληκτρολογήστε τη διεύθυνση URL με την ακόλουθη μορφή: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Μη έγκυρη διεύθυνση URL \"{0}\" στη γραμμή {1}."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Έχετε απενεργοποιήσει το πρόγραμμα επεξεργασίας στις τοποθεσίες που αναφέρονται παρακάτω. Το πρόγραμμα επεξεργασίας ενδέχεται να απενεργοποιηθεί αυτόματα σε πρόσθετες τοποθεσίες με ευαίσθητο περιεχόμενο ή αργές ταχύτητες φόρτωσης."
+   },
+   "ebx_viewAccount": {
+      "message": "Προβολή λογαριασμού"
+   },
+   "editor": {
+      "message": "Πρόγραμμα επεξεργασίας"
+   },
+   "editorButtonText": {
+      "message": "Πρόγραμμα επεξεργασίας"
+   },
+   "emailWarningMessage": {
+      "message": "Για να χρησιμοποιήσετε το Copilot, μεταβείτε στο τέλος του μηνύματος ηλεκτρονικού ταχυδρομείου."
+   },
+   "emptyStateMessage": {
+      "message": "Επιλέξτε κάποιο κείμενο για επανεγγραφή"
+   },
+   "errorLabel": {
+      "message": "Σφάλμα"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "το λεξικό σας"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Συνδεθείτε με το περιεχόμενο πληκτρολογώντας τον ειδικό χαρακτήρα, την κάθετο (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Προσθήκη ετικετών σε περιεχόμενο"
+   },
+   "esdk_autocorrect": {
+      "message": "Αυτόματη Διόρθωση"
+   },
+   "esdk_cancelButton": {
+      "message": "Άκυρο"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Ρυθμίσεις"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, διακόπτης, Απενεργοποίηση."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, διακόπτης, Ενεργοποίηση."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Πατήστε το πλήκτρο Tab για να ακούσετε την κατάσταση της κατηγορίας"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Δεξιό βέλος για ανάπτυξη του μενού της κατηγορίας."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Οι λεπτομερείς ρυθμίσεις είναι απενεργοποιημένες."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Δεξιό βέλος για είσοδο σε λεπτομερείς ρυθμίσεις."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} Απενεργοποιήθηκε"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Όλες οι λεπτομερείς ρυθμίσεις σε αυτήν την κατηγορία δεν είναι πλέον επιλεγμένες."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Όλες οι λεπτομερείς ρυθμίσεις σε αυτήν την κατηγορία είναι πλέον ενεργοποιημένες."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "Λεπτομερείς ρυθμίσεις για {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Διάστημα ή ENTER για εναλλαγή της κατάστασης κατηγορίας,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Το πρόγραμμα επεξεργασίας δεν θα επισημάνει αυτό το ζήτημα, εκτός εάν ανοίξετε το παράθυρο του προγράμματος επεξεργασίας"
+   },
+   "esdk_closeButton": {
+      "message": "Κλείσιμο"
+   },
+   "esdk_copilotInsert": {
+      "message": "Εισαγωγή"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Προς το παρόν, το Copilot υποστηρίζει μόνο Αγγλικά"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Εκ νέου σύνταξη"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Διορθώσεις"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Αριστερό βέλος για επιστροφή στις ρυθμίσεις"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Δεξιό βέλος για λεπτομερείς ρυθμίσεις"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Η κατηγορία πρέπει να είναι ενεργοποιημένη για να αλλάξει η τιμή του πλαισίου ελέγχου"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Αλλαγή του τρόπου με τον οποίο το πρόγραμμα επεξεργασίας διορθώνει και προτείνει βελτιώσεις για κείμενα μέσω αυτής της εφαρμογής"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Ρυθμίσεις του Προγράμματος επεξεργασίας της Microsoft"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Ενεργοποίηση ορθογραφίας για χρήση της αυτόματης διόρθωσης"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Βελτιώσεις"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Απέτυχε η φόρτωση των ρυθμίσεων του Προγράμματος επεξεργασίας"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Μετάβαση στην έκδοση Premium"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Αποκτήστε προηγμένες ιδέες σύνταξης και 1 TB αποθήκευσης, επιλέγοντας την έκδοση premium"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Πατήστε το πλήκτρο Tab για να ακούσετε την κατάσταση"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Ενσωματωμένη επεξεργασία"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Γλώσσα ελέγχου"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Ρυθμίσεις για"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Το πρόγραμμα επεξεργασίας εντοπίζει πότε γίνεται αναφορά κειμένου σε ένα αρχείο ή δεδομένα και προσφέρει τη δημιουργία μιας σύνδεσης."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Προτάσεις σύνδεσης"
+   },
+   "esdk_okButton": {
+      "message": "ΟΚ"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Σύμπτυξη προτιμήσεων γλωσσικού ελέγχου."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Επιλέξτε το \"Πρόγραμμα επεξεργασίας\" για το οποίο θα γίνεται έλεγχος."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Επιλέξτε έως τρεις γλώσσες. Η προτιμώμενη γλώσσα θα εμφανίζεται πρώτη."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Επεξεργασία γλωσσών"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Αναπτύξτε τις προτιμήσεις γλωσσικού ελέγχου."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Προτιμήσεις γλωσσικού ελέγχου"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Ρυθμίσεις γλώσσας γλωσσικού ελέγχου"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Ρυθμίσεις γλωσσικού ελέγχου"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Επεξεργασία γλωσσών"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Επιλέξτε έως τρεις γλώσσες. Η προτιμώμενη γλώσσα θα εμφανίζεται πρώτη."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Ρυθμίσεις γλωσσικού ελέγχου"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Ρυθμίσεις γλώσσας γλωσσικού ελέγχου"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Βελτιώσεις"
+   },
+   "esdk_resetToDefault": {
+      "message": "Επαναφορά στις προεπιλεγμένες ρυθμίσεις"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Δοκιμάστε τις προηγμένες προτάσεις σύνταξης του προγράμματος επεξεργασίας."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Λήψη λεπτομερειών"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Δεν έχουν όλες οι γλώσσες τις ίδιες οδηγίες γραφής. Κάντε λήψη αυτού του εγγράφου για να προβάλετε λεπτομέρειες σχετικά με τις ρυθμίσεις γραμματικής και τελειοποίησης που είναι διαθέσιμες για την επιλεγμένη γλώσσα."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Δεν έχουν όλες οι γλώσσες τις ίδιες οδηγίες γραφής. Ακολουθήστε αυτή τη σύνδεση για να μάθετε περισσότερα σχετικά με τις ρυθμίσεις γραμματικής και τελειοποίησης που είναι διαθέσιμες για όλες τις γλώσσες του Προγράμματος επεξεργασίας."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Δεν έχουν όλες οι γλώσσες τις ίδιες οδηγίες γραφής. {Learn more} σχετικά με τις ρυθμίσεις γραμματικής και τελειοποίησης που είναι διαθέσιμες για όλες τις γλώσσες του Προγράμματος επεξεργασίας."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Οι αλλαγές στις επιλογές ορθογραφικού ελέγχου ισχύουν για όλες τις ενεργοποιημένες γλώσσες"
+   },
+   "esdk_synonyms": {
+      "message": "Συνώνυμα (Προεπισκόπηση)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Το πρόγραμμα επεξεργασίας αναμένει την εισαγωγή των επόμενων λέξεων, καθώς και αρχείων ή άλλων αντικειμένων, κατά την πληκτρολόγηση."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Προβλέψεις κειμένου"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Για να σας βοηθήσει στην ταχύτερη σύνταξη, το πρόγραμμα επεξεργασίας αναμένει τις επόμενες λέξεις σας και προτείνει λέξεις ή φράσεις καθώς πληκτρολογείτε."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Συμβουλή εκμάθησης"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Παραδείγματα"
+   },
+   "explanationTableAfter": {
+      "message": "Υπολογίστε:"
+   },
+   "explanationTableBefore": {
+      "message": "Αντί για:"
+   },
+   "explanationTableSeparator": {
+      "message": "ή"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Γράψτε μια δημοσίευση για το ταξίδι μου στον Πύργο του Άιφελ"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Για να χρησιμοποιήσετε το Copilot, μεταβείτε στο τέλος της δημοσίευσης."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Επόμενη σελίδα"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "ΣΥΜΒΟΥΛΕΣ $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Προηγούμενη σελίδα"
+   },
+   "generalErrorMessage": {
+      "message": "Πρόγραμμα επεξεργασίας της Microsoft αντιμετώπισε πρόβλημα και δεν ήταν δυνατή η δημιουργία περιεχομένου."
+   },
+   "generateButtonLabel": {
+      "message": "Δημιουργία"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Αποστολή σχολίων"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Σύνταξη μηνύματος ηλεκτρονικού ταχυδρομείου πρόσκλησης σε σύσκεψη"
+   },
+   "inputName": {
+      "message": "Περιγράψτε τι θέλετε να γράψει το Πρόγραμμα επεξεργασίας..."
+   },
+   "inputPlaceholder": {
+      "message": "Περιγράψτε τι θέλετε να γράψετε"
+   },
+   "languageErrorMessage": {
+      "message": "Οι επανεγγραφές δεν είναι ακόμα διαθέσιμες για τη γλώσσα που επιλέξατε."
+   },
+   "limitErrorMessage": {
+      "message": "Για επανεγγραφή, επιλέξτε λιγότερες από 100 λέξεις."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Συμβουλές δημιουργίας περιεχομένου"
+   },
+   "loadingLabel": {
+      "message": "Περιμένετε λίγο, ετοιμάζουμε κάτι για εσάς..."
+   },
+   "loadingText": {
+      "message": "Γίνεται φόρτωση:"
+   },
+   "modalDescribeBy": {
+      "message": "Δημιουργεί άλλους τρόπους εγγραφής του επιλεγμένου κειμένου"
+   },
+   "moreButtonLabel": {
+      "message": "Περισσότερες επιλογές"
+   },
+   "moreButtonText": {
+      "message": "Περισσότερα"
+   },
+   "moreOptionsLabel": {
+      "message": "Περισσότερες επιλογές"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "προσθήκη άλλης γλώσσας ορθογραφικού ελέγχου"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Προσθήκη γλώσσας ορθογραφικού ελέγχου."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Για να λάβετε σχετικές προτάσεις γραφής,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Προσθήκη άλλης γλώσσας στο πρόγραμμα επεξεργασίας"
+   },
+   "nextSuggestion": {
+      "message": "Επόμενη πρόταση"
+   },
+   "nudgeTextForEmails": {
+      "message": "Πληκτρολογήστε $1 για να βρείτε μηνύματα email"
+   },
+   "nudgeTextForFile": {
+      "message": "Πληκτρολογήστε $1 για να βρείτε αρχεία και άλλα"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Πληκτρολογήστε $1 για να βρείτε συσκέψεις"
+   },
+   "nudgeTextForPeople": {
+      "message": "Πληκτρολογήστε $1 για να βρείτε άτομα"
+   },
+   "prevSuggestion": {
+      "message": "Προηγούμενη πρόταση"
+   },
+   "preview": {
+      "message": "ΠΡΟΕΠΙΣΚΟΠΗΣΗ"
+   },
+   "previewText": {
+      "message": "ΠΡΟΕΠΙΣΚΟΠΗΣΗ"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Πατήστε CTRL + ALT + I για να χρησιμοποιήσετε αυτήν τη δυνατότητα κάθε φορά που βρίσκεστε σε νέα γραμμή."
+   },
+   "promptSuggestButtonText": {
+      "message": "Συνεχίστε να γράφετε "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+δεξιό βέλος"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Εκφώνηση αρχικής πρότασης"
+   },
+   "regenerateLabel": {
+      "message": "Αναδημιουργία"
+   },
+   "replaceLabel": {
+      "message": "Αντικατάσταση"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Περιεχόμενο που δημιουργήθηκε από αναφορά"
+   },
+   "reportOutput": {
+      "message": "Έξοδος αναφοράς"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Το περιεχόμενο που δημιουργείται από τεχνητή νοημοσύνη ίσως περιέχει ανακρίβειες ή ευαίσθητο υλικό. Βεβαιωθείτε ότι έχετε επαληθεύσει τις πληροφορίες."
+   },
+   "retry": {
+      "message": "Επανάληψη"
+   },
+   "rewriteBrand": {
+      "message": "Εκ νέου σύνταξη"
+   },
+   "rewriteWithCopilot": {
+      "message": "Εκ νέου σύνταξη"
+   },
+   "sbx_signInDescription": {
+      "message": "Για να λάβετε προτάσεις γραμματικής και τελειοποίησης στις περισσότερες τοποθεσίες Web, καθώς και ένα εξατομικευμένο ορθογραφικό λεξικό, πρέπει να συνδεθείτε."
+   },
+   "shareFeedback": {
+      "message": "Κοινοποίηση σχολίων"
+   },
+   "showHeaderMessage": {
+      "message": "Ακολουθούν ορισμένοι άλλοι τρόποι σύνταξης αυτού του στοιχείου"
+   },
+   "submitButtonTooltip": {
+      "message": "Δημιουργία (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Για να χρησιμοποιήσετε το Copilot, μεταβείτε στο τέλος της παραγράφου."
+   },
+   "suggestionCountSeparator": {
+      "message": "από"
+   },
+   "suggestionHint": {
+      "message": "ENTER για αποδοχή"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Δοκιμάστε ξανά"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Δημιουργήστε ξανά"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Σύνταξη παρακινητικού tweet"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Για να χρησιμοποιήσετε το Copilot, μεταβείτε στο τέλος του tweet."
+   }
+}

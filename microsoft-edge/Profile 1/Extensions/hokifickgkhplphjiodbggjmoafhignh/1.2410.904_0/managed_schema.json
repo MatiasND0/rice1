@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "DisableUnsignedInExperience": {
+      "title": "Disables the text proofing in unsigned in mode.",
+      "type": "boolean"
+    },
+    "DisableMsaAuth": {
+      "title": "Disables authentication using private Microsoft account (MSA).",
+      "type": "boolean"
+    },
+    "DisableWelcomePage": {
+      "title": "Disables the opening of a welcome page on install.",
+      "type": "boolean"
+    }
+  }
+}

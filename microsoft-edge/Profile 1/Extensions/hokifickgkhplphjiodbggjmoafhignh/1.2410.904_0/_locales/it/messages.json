@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Account"
+   },
+   "AppDescription": {
+      "message": "Scrivere in modo affidabile con Editor Microsoft: l'assistente intelligente di scrittura, grammatica, ortografia e stile."
+   },
+   "AppLongDescription": {
+      "message": "Editor fornisce assistenza avanzata per la scrittura con suggerimenti di grammatica, ortografia e stile sul Web (1) in modo da poter scrivere con sicurezza post e messaggi di posta elettronica chiari e concisi.\r\n\r\nScrivi come un professionista con assistenza intelligente per la scrittura\r\nFissa le nozioni di base con la grammatica gratuita, la grammatica avanzata, l'ortografia e gli strumenti di correzione per la punteggiatura. Vai oltre le nozioni di base con il controllo avanzato dello stile per problemi come chiarezza, brevità, formalità, vocabolario e molto altro con premium (richiede un abbonamento a Microsoft 365).\r\n\r\nPersonalizza in base alle tue esigenze\r\nEditor può ora aggiungere parole al dizionario personalizzato incorporato nelle app di Microsoft 365. Cerca \"Aggiungi al dizionario\" quando Editor crea un suggerimento ortografico. Inoltre, Impostazioni consente di ottimizzare le preferenze per la scrittura di suggerimenti. È stato reso inoltre facile ignorare tutte le occorrenze di una correzione ortografica selezionando Ignora tutto o ignorare i suggerimenti grammaticali indesiderati selezionando Ignora.\r\n\r\nScrivi ovunque\r\nOttieni assistenza per la scrittura su siti come LinkedIn, Gmail, Facebook e altri preferiti con questa estensione del browser. Se desideri ricevere assistenza da Editor nelle app di Office in cui scrivi di più, apri Word o Outlook sul Web e ottieni suggerimenti per migliorare i documenti e la posta elettronica.\r\n\r\nOttieni assistenza in più lingue\r\nControlla l'ortografia e la grammatica per un massimo di tre lingue contemporaneamente con gli strumenti di correzione in più lingue. L'Editor controlla l'ortografia in più di 80 lingue e fornisce il controllo grammaticale e i perfezionamenti dello stile di scrittura in 21 lingue. Per altre informazioni sulla disponibilità della lingua, vedere qui:: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nOttieni Editor per Microsoft Edge qui  https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n 1 Disponibile per i browser Edge o Chrome e richiede un account Microsoft. Editor si connette a un servizio online Microsoft che offre suggerimenti per ortografia, grammatica e perfezionamento per la maggior parte dei siti Web.\r\n2. Non tutte le lingue hanno lo stesso set di perfezionamenti.\r\n\r\nInstallando l'app, accetti le condizioni seguenti:\r\n\r\nNOTA: fare riferimento alle condizioni di licenza per l'account Microsoft o l'abbonamento a Microsoft 365, in base a quanto applicabile (l'\"estensione\") per identificare l'entità che concede in licenza questa estensione all'utente e per ottenere informazioni di supporto. Le condizioni di licenza per l'account Microsoft o l’abbonamento a Microsoft 365, se applicabili, si applicano all'uso di questa estensione.\r\n\r\nInformativa sulla privacy: http://aka.ms/privacy\r\nCondizioni d'uso: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Editor fornisce assistenza avanzata per la scrittura con suggerimenti di grammatica, ortografia e stile sul Web (1) in modo da poter scrivere con sicurezza post e messaggi di posta elettronica chiari e concisi.\r\n\r\nScrivi come un professionista con assistenza intelligente per la scrittura\r\nFissa le nozioni di base con la grammatica gratuita, la grammatica avanzata, l'ortografia e gli strumenti di correzione per la punteggiatura. Vai oltre le nozioni di base con il controllo avanzato dello stile per problemi come chiarezza, brevità, formalità, vocabolario e molto altro con premium (richiede un abbonamento a Microsoft 365).\r\n\r\nPersonalizza in base alle tue esigenze\r\nEditor può ora aggiungere parole al dizionario personalizzato incorporato nelle app di Microsoft 365. Cerca \"Aggiungi al dizionario\" quando Editor crea un suggerimento ortografico. Inoltre, Impostazioni consente di ottimizzare le preferenze per la scrittura di suggerimenti. È stato reso inoltre facile ignorare tutte le occorrenze di una correzione ortografica selezionando Ignora tutto o ignorare i suggerimenti grammaticali indesiderati selezionando Ignora.\r\n\r\nScrivi ovunque\r\nOttieni assistenza per la scrittura su siti come LinkedIn, Gmail, Facebook e altri preferiti con questa estensione del browser. Se desideri ricevere assistenza da Editor nelle app di Office in cui scrivi di più, apri Word o Outlook sul Web e ottieni suggerimenti per migliorare i documenti e la posta elettronica.\r\n\r\nOttieni assistenza in più lingue\r\nControlla l'ortografia e la grammatica per un massimo di tre lingue contemporaneamente con gli strumenti di correzione in più lingue. L'Editor controlla l'ortografia in più di 80 lingue e fornisce il controllo grammaticale e i perfezionamenti dello stile di scrittura in 21 lingue. Per altre informazioni sulla disponibilità della lingua, vedere qu:: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nOttieni Editor per Microsoft Chrome qui: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n 1 Disponibile per i browser Microsoft Edge o Chrome e richiede un account Microsoft. Editor si connette a un servizio online Microsoft che offre suggerimenti per ortografia, grammatica e perfezionamento per la maggior parte dei siti Web.\r\n2. Non tutte le lingue hanno lo stesso set di perfezionamenti.\r\n\r\nInstallando l'app, accetti le condizioni seguenti:\r\n\r\nNOTA: fare riferimento alle condizioni di licenza per l'account Microsoft o l'abbonamento a Microsoft 365, in base a quanto applicabile (l'\"estensione\") per identificare l'entità che concede in licenza questa estensione all'utente e per ottenere informazioni di supporto. Le condizioni di licenza per l'account Microsoft o l’abbonamento a Microsoft 365, se applicabili, si applicano all'uso di questa estensione.\r\n\r\nInformativa sulla privacy: http://aka.ms/privacy\r\nCondizioni d'uso: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Editor Microsoft: il correttore ortografico e grammaticale"
+   },
+   "AppShortName": {
+      "message": "Editor"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Attiva"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Prova Editor (beta) in Google Docs"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Editor è in versione beta in Google Docs. Se si verifica un problema, segnalalo."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Quando sia Editor che altre estensioni di modifica sono in esecuzione, i loro suggerimenti potrebbero sovrapporsi o entrare in conflitto. Per un'esperienza di Editor ottimale, consigliamo di disabilitare le altre estensioni di modifica nelle impostazioni delle estensioni del browser."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "È stato rilevato un conflitto tra le estensioni di modifica"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Disattiva Editor su $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Editor Microsoft"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Inserimento di Copilot"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Riscrittura di Copilot"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatica"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor non è al momento supportato in $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor è attualmente disattivato su $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "L'Editor è disattivato."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "it"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor è incluso in $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Linguaggio di correzione: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "it"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Lingua degli strumenti di correzione"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Lingue dello strumento di correzione"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Ottieni i suggerimenti avanzati per la scrittura e 1 TB di spazio di archiviazione acquistando le funzionalità premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Perfezionamenti"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "I miglioramenti sono suggerimenti per rendere il testo più chiaro, più scorrevole o più formale."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Apri Impostazioni editor per selezionare le lingue di correzione."
+   },
+   "EditorSettingsLabel": {
+      "message": "Ulteriori impostazioni di Editor"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Ortografia"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Sinonimi (anteprima)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Ottieni sinonimi durante la scrittura: fai doppio clic su una parola oppure seleziona e premi (ALT+freccia GIÙ)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Ottieni sinonimi durante la scrittura: fai doppio clic su una parola oppure seleziona e premi ALT+freccia GIÙ."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Ottieni sinonimi durante la scrittura: fai doppio clic su una parola oppure seleziona e premi CTRL+OPZIONE+freccia GIÙ."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Ottieni sinonimi durante la scrittura: fai doppio clic su una parola oppure seleziona e premi (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ e $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "it"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "it"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Abilita Editor in $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Visualizza account"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Estensione del browser di Editor Microsoft"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "L’aggiornamento alla versione premium di Editor Microsoft è completato. Esplora le funzionalità premium facendo clic sulle sottolineature blu e viola nel testo."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Congratulazioni"
+   },
+   "SettingsLabel": {
+      "message": "Impostazioni account"
+   },
+   "SignInLabel": {
+      "message": "Accedi o iscriviti"
+   },
+   "SignOutLabel": {
+      "message": "Disconnetti"
+   },
+   "SignOutTooltip": {
+      "message": "Se si esegue la disconnessione verranno reimpostate tutte le impostazioni predefinite e l'elenco dei siti esclusi andrà perso."
+   },
+   "SupportPageLabel": {
+      "message": "Serve aiuto per l'accesso​?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Abilita Editor"
+   },
+   "addButtonLabel": {
+      "message": "Aggiungi"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Crea con Copilot, premi ALT+I per visualizzare le opzioni"
+   },
+   "aiInsertButtonText": {
+      "message": "Creare contenuti con Copilot"
+   },
+   "aiInsertResultDescription": {
+      "message": "Ecco un modo per renderlo più coinvolgente"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Editor ha aggiunto $1 come lingua del controllo ortografico"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Gestisci lingue del controllo ortografico"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Annulla"
+   },
+   "backToPromptLabel": {
+      "message": "Indietro"
+   },
+   "closeLabel": {
+      "message": "Chiudi"
+   },
+   "contentErrorMessage": {
+      "message": "Editor Microsoft non è riuscito a creare il contenuto. Selezionare testo diverso o attendere qualche istante e riprovare."
+   },
+   "contentSuggestion": {
+      "message": "Suggerimento contenuto"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Correzione, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Errore grammaticale, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Perfezionamento stile, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Parola ripetuta, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Errore di ortografia, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Il contenuto generato dall'intelligenza artificiale potrebbe contenere imprecisioni o materiale sensibile. Assicurati di verificare le informazioni."
+   },
+   "copyButtonText": {
+      "message": "Copia"
+   },
+   "defaultWarningMessage": {
+      "message": "Per usare Copilot, passare alla fine del paragrafo."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Puoi attivare gli strumenti di correzione solo per un massimo di tre lingue alla volta."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "\"$1\" è stato aggiunto al dizionario."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Risultati della ricerca nel menu ignorati"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Il suggerimento è stato inserito. Risultati della ricerca nel menu ignorati"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Suggerimento contrassegno selezionato. Vengono visualizzati i risultati della ricerca nel menu Chiocciola"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Suggerimento selezionato. Nel menu vengono visualizzati i risultati della ricerca"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "Il tasto di scelta rapida con il simbolo\"$1\" ha visualizzato i risultati della ricerca nel menu Chiocciola"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Apri con il pulsante di controllo"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Premere CTRL per visualizzare le opzioni di correzione automatica."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Suggerimenti per i file"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "File, componenti, persone e altro ancora"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Inserisci"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Rilevamento aziendale locale"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Rilevamento indirizzi"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Aggiungi collegamento a questo indirizzo"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Posizione"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Miglioramento"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Suggerimenti di persone"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Suggerimento entità"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Aggiungi collegamento a questa entità"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Entità"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Suggerimento entità"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Rilevamento ora"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Aggiungi fusi orari a questa ora"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Ora"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Miglioramento"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Contrassegna questo argomento per consentire ad altri utenti di accedere a una descrizione, a persone e alle risorse connesse."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Suggerimento Viva Topics"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Suggerimento Viva Topics"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Suggerimento di spostamento visualizzato: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "Annulla"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Riconoscimento data"
+   },
+   "ebx_Dismiss": {
+      "message": "Ignora"
+   },
+   "ebx_Done": {
+      "message": "Fine"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Cerca file"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Cerca persone"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Inizia a digitare per cercare"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Inizia a digitare per cercare 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Inizia a digitare per cercare"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Inizia a digitare per cercare"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Componenti Loop di ricerca"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Inizia a digitare per cercare"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Inizia a digitare per cercare"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Inizia a digitare per cercare"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Cerca argomenti"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Persone/Riconoscimento data"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Inserisci data"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Inserisci intervallo di date"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Suggerimento: inserisci intervallo di date"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Inserisci data e ora"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Suggerimento: inserisci data e ora"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Suggerimento: inserisci data"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Suggerimento: inserisci persona"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Inserisci ora"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Inserisci intervallo di tempo"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Suggerimento: inserisci intervallo di tempo"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Suggerimento: inserisci l'ora"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Il feedback è stato inviato correttamente."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Grazie per aver provato Editor (beta) in Google Docs. Stiamo apportando aggiornamenti per gestire le modifiche apportate a Google Docs che hanno causato l'interruzione del funzionamento di Editor. Ti informeremo quando Editor sarà pronto per l'uso."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Editor in Google Docs non è disponibile"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Per un'esperienza Editor ottimale, prova a disattivare il controllo ortografico e grammaticale predefinito di Google Docs. (Scegli Controllo ortografico e grammaticale dal menu Strumenti e disattiva le opzioni)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Usa solo gli strumenti di correzione di Editor"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Ricevi suggerimenti avanzati mentre scrivi. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Ottieni suggerimenti avanzati durante la scrittura. Per la migliore esperienza di Editor, il controllo ortografico e grammaticale predefinito di Google Docs verrà disattivato. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Prova Editor (beta) in Google Docs"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Suggerimento grammaticale ignorato."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Rilevamento intestazione"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Migliora"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Titolo 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Titolo 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Titolo 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Considera di passare a un'intestazione"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Accessibilità"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Accessibilità: è consigliabile modificare il testo in un'intestazione"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Inserisci suggerito \"$1\". Premi per inserire."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Abbiamo selezionato {0} in base alle impostazioni correnti del browser."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Controlla ortografia e grammatica per tre lingue contemporaneamente. Scegli le lingue nelle impostazioni dell'editor"
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "È possibile modificare le lingue nelle impostazioni dell'editor."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Sono stati selezionati {0}, {1} e {2} in base alle impostazioni correnti del browser."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Revisione multilingue con Editor"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Sono stati selezionati {0} e {1} in base alle impostazioni correnti del browser."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Riconoscimento persone"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "L'inserimento suggerito \"$1\" è stato applicato."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Inserimento suggerito \"$1\". Premi TAB per inserire."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Lingue dello strumento di correzione"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Microsoft 365 sottoscrittori ricevono suggerimenti di scrittura avanzati quando eseguono l'accesso."
+   },
+   "ebx_RemoveItem": {
+      "message": "Elimina"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Ora puoi aggiungere parole personalizzate al dizionario ortografico dell'editor. Cerca \"Aggiungi al dizionario\" quando Editor invia un suggerimento ortografico."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Personalizza il tuo dizionario ortografico"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "OK"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Editor può ora aggiungere parole al dizionario personalizzato incorporato nelle app Microsoft 365. Accedi e cerca \"Aggiungi al dizionario\" quando Editor propone un suggerimento ortografico."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Accedi per ottenere il dizionario ortografico personalizzato."
+   },
+   "ebx_RuleIgnored": {
+      "message": "Il critica \"$1\" è stato disabilitato nelle impostazioni."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Questa critica è stata disabilitata nelle impostazioni."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Per ricevere suggerimenti di scrittura nella maggior parte dei siti Web, accedere al proprio account Microsoft o all'account aziendale o dell'istituto di istruzione usato per Office."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Accedi o iscriviti"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Accedi per ottenere suggerimenti di scrittura sulla maggior parte dei siti Web. Salveremo le tue impostazioni, come le lingue in cui scrivi e i tipi di problemi che vuoi far controllare a Editor."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Approfitta dei suggerimenti di grammatica e perfezionamento nella maggior parte dei siti Web, oltre a un dizionario ortografico personalizzato."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Per il dizionario ortografico personalizzato, accedi con l’account Microsoft o l'account aziendale o dell'istituto di istruzione che usi per Office."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Editor non è ancora aperto"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Menu Slash ignorato"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Il suggerimento è stato inserito. Il menu Slash è stato ignorato"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Il suggerimento di contrassegno è stato selezionato. Il menu Slash è visualizzato"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Suggerimento selezionato. Il menu Slash è visualizzato"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "La selezione del tasto con simbolo \"$1\" ha provocato la visualizzazione del menu Slash"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Il suggerimento ortografico è stato ignorato."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Apri facendo clic con il pulsante sinistro del mouse o con ALT + Freccia GIÙ"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Apri con clic sinistro o con CTRL+ALT+freccia GIÙ"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Apri facendo clic con il pulsante sinistro del mouse o con CTRL + Opzione + Freccia GIÙ"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Correzione automatica"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(ALT + Freccia GIÙ)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(CTRL+ALT+freccia GIÙ)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Correzione errori grammaticali"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Perfezionamento tecnica di scrittura"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Correzione errori ortografici"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Apri facendo clic con pulsante sinistro"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Suggerimento Viva Topics"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Il suggerimento \"$1\" è stato accettato correttamente."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Riconoscimento attività"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Crea attività"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Suggerimento: crea un'attività"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Tab"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Riusa"
+   },
+   "ebx_TurnItOn": {
+      "message": "Attivare"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Aggiungi un altro sito"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Aggiungi un altro sito"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Annulla l'aggiunta del sito all'elenco dei siti bloccati."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Aggiungi sito all'elenco dei siti bloccati"
+   },
+   "ebx_addButton": {
+      "message": "Aggiungi"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Per aggiungere il controllo grammaticale"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Annullare l'aggiunta della lingua all'elenco delle lingue degli strumenti di correzione"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Aggiungere una lingua all'elenco delle lingue degli strumenti di correzione"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Aggiungi un'altra lingua"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Aggiungi al dizionario"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Consentire a Editor di rilevare e aggiungere automaticamente nuove lingue dello strumento di correzione in base alla scrittura."
+   },
+   "ebx_appDescription": {
+      "message": "Scrivi in tutta sicurezza con Editor Microsoft: l'assistente di scrittura intelligente"
+   },
+   "ebx_appLongDescription": {
+      "message": "Editor fornisce assistenza avanzata per la scrittura con suggerimenti grammaticali, ortografia e stile sul Web (1) per scrivere con sicurezza post e messaggi di posta elettronica chiari e concisi.\r\n\r\nScrivi come un professionista con l’assistenza per la scrittura intelligente\r\nFissa le nozioni di base con la grammatica gratuita, la grammatica avanzata, l'ortografia e gli strumenti di correzione per la punteggiatura. Vai oltre le nozioni di base con il controllo avanzato dello stile per problemi come chiarezza, brevità, formalità, vocabolario e molto altro con premium (richiede un abbonamento a Microsoft 365).\r\n\r\nPersonalizzalo in base alle tue esigenze\r\nEditor può ora aggiungere parole al dizionario personalizzato incorporato nelle app di Microsoft 365. Cerca \"Aggiungi al dizionario\" quando Editor propone un suggerimento ortografico. Inoltre, Impostazioni consente di ottimizzare le preferenze per la scrittura di suggerimenti. Abbiamo anche reso semplice ignorare tutte le occorrenze di una correzione ortografica selezionando Ignora tutto, o ignorare i suggerimenti grammaticali indesiderati selezionando Ignora.\r\n\r\nScrivi ovunque\r\nOttieni assistenza per la scrittura su siti come LinkedIn, Gmail, Facebook e altri preferiti con questa estensione del browser. Se vuoi ottenere assistenza da Editor nelle app di Office in cui scrivi di più, apri Word o Outlook sul web e ottieni suggerimenti per migliorare i documenti e la posta elettronica.\r\n\r\nOttieni assistenza in più lingue\r\nControlla l'ortografia e la grammatica per un massimo di tre lingue contemporaneamente con gli strumenti di correzione in più lingue. L'Editor controlla l'ortografia in più di 80 lingue e fornisce il controllo grammaticale e i perfezionamenti dello stile di scrittura in 21 lingue. Altre informazioni sulla disponibilità della lingua sono disponibili qui: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nOttieni Editor per Microsoft Edge qui: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n 1 Disponibile per i browser Edge o Chrome e richiede un account Microsoft. Editor si connette a un servizio online Microsoft che offre suggerimenti per ortografia, grammatica e perfezionamento per la maggior parte dei siti Web.\r\n2. Non tutte le lingue hanno lo stesso set di perfezionamenti.\r\n\r\nInstallando l'app, accetti le condizioni seguenti:\r\n\r\nNOTA: fai riferimento alle condizioni di licenza dell'account Microsoft o dell'abbonamento Microsoft 365, a seconda dei casi (l'\"estensione\"), per identificare l'entità che concede in licenza l'estensione e per informazioni sull'assistenza. Le condizioni di licenza dell'account Microsoft o dell'abbonamento Microsoft 365, a seconda dei casi, si applicano all'uso di questa estensione.\r\n\r\nInformativa sulla privacy: http://aka.ms/privacy\r\nCondizioni d’uso: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Editor fornisce un’assistenza avanzata per la scrittura con suggerimenti di grammatica, ortografia e stile sul Web (1) in modo da poter scrivere con sicurezza post e messaggi di posta elettronica chiari e concisi.\r\n\r\nScrivi come un professionista con l’assistenza per la scrittura intelligente\r\nFissa le nozioni di base con la grammatica gratuita, la grammatica avanzata, l'ortografia e gli strumenti di correzione per la punteggiatura. Vai oltre le nozioni di base con il controllo avanzato dello stile per problemi come chiarezza, brevità, formalità, vocabolario e molto altro con premium (richiede un abbonamento a Microsoft 365)..\r\n\r\nPersonalizzalo in base alle tue esigenze\r\nEditor può ora aggiungere parole al dizionario personalizzato incorporato nelle app di Microsoft 365. Cerca \"Aggiungi al dizionario\" quando Editor propone un suggerimento ortografico. Inoltre, Impostazioni consente di ottimizzare le preferenze per la scrittura dei suggerimenti. Abbiamo anche reso semplice ignorare tutte le occorrenze di una correzione ortografica selezionando Ignora tutto, o ignorare i suggerimenti grammaticali indesiderati selezionando Ignora.\r\n\r\nScrivi ovunque\r\nOttieni assistenza per la scrittura su siti come LinkedIn, Gmail, Facebook e altri preferiti con questa estensione del browser. Se vuoi ottenere assistenza da Editor nelle app di Office in cui scrivi di più, apri Word o Outlook sul web e ottieni suggerimenti per migliorare i documenti e la posta elettronica.\r\n\r\nOttieni assistenza in più lingue\r\nControlla l'ortografia e la grammatica per un massimo di tre lingue contemporaneamente con gli strumenti di correzione in più lingue. L'Editor controlla l'ortografia in più di 80 lingue e fornisce il controllo grammaticale e i perfezionamenti dello stile di scrittura in 21 lingue. Altre informazioni sulla disponibilità della lingua sono disponibili qui: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nScarica Editor per Chrome qui: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Disponibile per i browser Microsoft Edge o Chrome e richiede un account Microsoft. Editor si connette a un servizio online Microsoft che offre suggerimenti per ortografia, grammatica e perfezionamento per la maggior parte dei siti Web.\r\n2. Non tutte le lingue hanno lo stesso set di perfezionamenti..\r\n\r\nInstallando l'app, accetti le condizioni seguenti:\r\n\r\nNOTA: fai riferimento alle condizioni di licenza dell'account Microsoft o dell'abbonamento Microsoft 365, a seconda dei casi (l'\"estensione\"), per identificare l'entità che concede in licenza l'estensione e per informazioni sull'assistenza. Le condizioni di licenza dell'account Microsoft o dell'abbonamento Microsoft 365, a seconda dei casi, si applicano all'uso di questa estensione.\r\n\r\nInformativa sulla privacy: http://aka.ms/privacy\r\nCondizioni d’uso: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Editor Microsoft: il correttore ortografico e grammaticale"
+   },
+   "ebx_appShortName": {
+      "message": "Editor"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, simile a: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, simile a: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Sostituisci con"
+   },
+   "ebx_asInSynonyms": {
+      "message": "simile a"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "\"$1\", correzione automatica annullata."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Ripristina \"$1\""
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, corretto automaticamente."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Premere CTRL per visualizzare le opzioni di correzione automatica."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "\"{0}\" è stato aggiunto correttamente"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Premere la freccia DESTRA per accedere al pulsante Rimuovi."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "L'elenco è vuoto."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "\"{0}\" è stato rimosso correttamente"
+   },
+   "ebx_brandText": {
+      "message": "Editor Microsoft"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Logo di Editor Microsoft"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Esplora questo computer"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Cambia tutto"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Impostazioni Editor..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Verifica la presenza di perfezionamenti"
+   },
+   "ebx_checkGrammar": {
+      "message": "Controllo grammaticale"
+   },
+   "ebx_checkSpelling": {
+      "message": "Controllo ortografia"
+   },
+   "ebx_close": {
+      "message": "Chiudi"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Presto disponibile"
+   },
+   "ebx_copilotInsert": {
+      "message": "Inserisci"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Riscrittura di Copilot"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Elimina la parola ripetuta"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Interrompi questa verifica"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Interrompi questa verifica. Editor applicherà questa impostazione finché non la modifichi."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "L'editor applicherà questa impostazione finché non la modifichi."
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Disattiva Editor su {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Opzioni di visualizzazione"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Questo sito è già nell'elenco dei siti bloccati"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Editor ha $1 idee di scrittura avanzate per questo messaggio."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Editor non è attualmente supportato in {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Popup Editor"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Disattivato"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Attivato"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Visualizza il pulsante Editor nei campi che supportano il popup editor"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "L'estensione del browser Microsoft Office include ora l’Editor Microsoft, l'Assistente scrittura intelligente che consente di portare il meglio di scrivere sul Web. L’Editor Microsoft si connette a un servizio online per offrire suggerimenti di ortografia, grammatica e stile."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Editor Microsoft (anteprima) è ora in esecuzione"
+   },
+   "ebx_editorFeature": {
+      "message": "Editor Microsoft"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Disattivato"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Disattiva Editor"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Attivato"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Funzionalità Editor"
+   },
+   "ebx_editorIsOff": {
+      "message": "L'Editor è disattivato"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Editor è attualmente disattivato {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Editor incluso in {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Altre impostazioni di Editor"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Nessuna lingua corrispondente alla ricerca"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Abilita Editor in {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " e"
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": "; "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "L'editor ha $1 idee di scrittura avanzate per questo messaggio."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "L'editor ha $1 idea di scrittura avanzata per questo messaggio."
+   },
+   "ebx_excludedSites": {
+      "message": "Siti esclusi"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Segnala questo suggerimento"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Perché hai scelto questa risposta?"
+   },
+   "ebx_feedbackLink": {
+      "message": "feedback"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Aiutaci a migliorare Editor fornendo"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Molto negativa"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Estremamente negativa"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Abbastanza negativa"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Abbastanza negativa"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Né positiva né negativa"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Né negativa né positiva"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Abbastanza positiva"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Abbastanza positiva"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Molto positiva"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Estremamente positiva"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Nel complesso, come descriveresti la tua esperienza con Editor Microsoft?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Nel complesso, come ti senti quando usi Editor Microsoft per ottenere correzioni di ortografia, grammatica, stime e altri suggerimenti per perfezionare la scrittura?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Fornisci feedback a Microsoft su Editor"
+   },
+   "ebx_giveFeedback": {
+      "message": "Invia feedback"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Ottieni i suggerimenti avanzati per la scrittura di Editor, 1 TB di spazio di archiviazione di OneDrive e le funzionalità premium in tutte le app di Microsoft 365."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Ottieni i suggerimenti avanzati per la scrittura di Editor, 1 TB di spazio di archiviazione di OneDrive e le funzionalità premium in tutte le app di Microsoft 365."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Prova le idee di scrittura avanzate di Editor."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Passa a Premium"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "passa a Premium"
+   },
+   "ebx_goToSettings": {
+      "message": "Vai alle Impostazioni editor"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Vai alle impostazioni di Editor per ottenere altre informazioni"
+   },
+   "ebx_googleDocs": {
+      "message": "Documenti di Google"
+   },
+   "ebx_grammar": {
+      "message": "Grammatica"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Nascondi sinonimi"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ignora tutto"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Ignora"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Apri Editor o fai clic con il pulsante destro del mouse per visualizzare altre opzioni"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Visualizza tutti i suggerimenti nell'editor o fai clic con il pulsante destro del mouse per visualizzare altre opzioni"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "In questa riga sono presenti i problemi di correzione di \"$1\""
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Nella riga è presente un problema di correzione di \"$1\""
+   },
+   "ebx_languageAdded": {
+      "message": "\"{0}\" è stato aggiunto correttamente"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" è stata spostata una posizione verso il basso nell'elenco"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" è stato spostato all'inizio dell'elenco"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" è stato spostato una posizione verso l'alto nell'elenco"
+   },
+   "ebx_languageRemoved": {
+      "message": "\"{0}\" è stato rimosso correttamente"
+   },
+   "ebx_learnMore": {
+      "message": "Altre informazioni"
+   },
+   "ebx_manageLanguages": {
+      "message": "Gestisci lingue..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Gestisci lingue del controllo ortografico"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Altri comandi per {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Sposta giù"
+   },
+   "ebx_moveToTop": {
+      "message": "Sposta all'inizio"
+   },
+   "ebx_moveUp": {
+      "message": "Sposta su"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Suggerimento successivo, $1 rimanente"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Apri Editor"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Impostazioni di Editor"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Poiché l'errore è stato digitato un paio di volte, abbiamo aggiunto \"$1\" all'elenco delle correzioni automatiche."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1 giorni rimanenti in questa anteprima. Aggiorna per avere suggerimenti illimitati:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "$1 giorno rimanente in questa anteprima. Aggiorna per avere suggerimenti illimitati:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Ottieni le idee di scrittura avanzate di Editor."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1 suggerimenti rimanenti in questa anteprima. Aggiorna per avere suggerimenti illimitati:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1 suggerimento rimanente in questa anteprima. Aggiorna per avere suggerimenti illimitati:"
+   },
+   "ebx_preview": {
+      "message": "(Anteprima)"
+   },
+   "ebx_previewLabel": {
+      "message": "ANTEPRIMA"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Suggerimento precedente, $1 rimanente"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Invia automaticamente i dati di diagnostica facoltativi durante l'utilizzo di questo servizio online per aiutarci a migliorare i nostri prodotti."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Scopri di più sui dati di diagnostica"
+   },
+   "ebx_privacyOptions": {
+      "message": "Opzioni privacy"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Lingua dello strumento di correzione"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Premere il tasto Freccia DESTRA per accedere al pulsante Altri comandi."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Lingua dello strumento di correzione"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Puoi attivare gli strumenti di correzione solo per un massimo di tre lingue alla volta."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Seleziona una lingua per lo strumento di correzione"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Lingue dello strumento di correzione"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Selezionare un massimo di tre lingue. La lingua preferita sarà la prima dell’elenco."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Lingue dello strumento di correzione"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Pensi che Editor sia utile?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Abbiamo solo due domande da farti"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Invia feedback"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Siamo spiacenti. Facci sapere come possiamo migliorare Editor."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "No"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "No, grazie"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Ottimo, vuoi valutarlo?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Se ti piace ancora usare Editor, vuoi valutarlo?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Certo"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Sì"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Feedback su Editor Microsoft"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Ci piacerebbe ricevere il tuo feedback"
+   },
+   "ebx_refinements": {
+      "message": "Perfezionamenti"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "I perfezionamenti sono suggerimenti avanzati per rendere la scrittura più chiara, meno prolissa o più formale."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Questa parola è ripetuta"
+   },
+   "ebx_settings": {
+      "message": "Impostazioni"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Apri Impostazioni editor"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Apri Impostazioni editor per selezionare le lingue dello strumento di correzione."
+   },
+   "ebx_settingsLabel": {
+      "message": "Impostazioni account"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Impostazioni di Editor Microsoft"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Impostazioni per lingua"
+   },
+   "ebx_showBeta": {
+      "message": "Beta su $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Mostra sinonimi"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Mostra i sinonimi per i suggerimenti ortografici"
+   },
+   "ebx_signInDescription": {
+      "message": "Per ottenere suggerimenti grammaticali e di perfezionamento nella maggior parte dei siti Web, oltre a un dizionario ortografico personalizzato, esegui l’accesso."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Serve aiuto per l'accesso​?"
+   },
+   "ebx_signInLabel": {
+      "message": "Accedi o iscriviti"
+   },
+   "ebx_signInToAccess": {
+      "message": "Effettua l'accesso per accedere"
+   },
+   "ebx_signIntoEditor": {
+      "message": "accedi all'Editor"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Per ottenere suggerimenti grammaticali e di perfezionamento nella maggior parte dei siti Web, esegui l'accesso."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Per l'ortografia personalizzata"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Accedi per il dizionario ortografico personalizzato."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Per ottenere suggerimenti grammaticali e di perfezionamento nella maggior parte dei siti Web, esegui l'accesso."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Per ottenere suggerimenti grammaticali e di perfezionamento nella maggior parte dei siti Web, oltre a un dizionario ortografico personalizzato, esegui l’accesso."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Accedi a Editor"
+   },
+   "ebx_signOutLabel": {
+      "message": "Disconnettiti"
+   },
+   "ebx_signOutTooltip": {
+      "message": "La disconnessione ripristinerà tutte le impostazioni predefinite e perderà l'elenco dei siti esclusi."
+   },
+   "ebx_spelling": {
+      "message": "Ortografia"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Verifica di nuovo se la parola è corretta"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Altre azioni"
+   },
+   "ebx_synonyms": {
+      "message": "Sinonimi"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonyms not available]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Ottieni sinonimi durante la scrittura: fai doppio clic su una parola oppure seleziona e premi (ALT+FRECCIA GIÙ)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Ottieni sinonimi durante la scrittura: fai doppio clic su una parola oppure seleziona e premi (⌃ + ⌥ + ↓)."
+   },
+   "ebx_toggleOff": {
+      "message": "Disattivato"
+   },
+   "ebx_toggleOn": {
+      "message": "Attivato"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Sì, grazie"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Sono ora disponibili suggerimenti per contribuire al tono della scrittura. Vuoi provarli?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Ignora"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Non ora"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Apporta modifiche nelle impostazioni dell'editor"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Non mostrare mai suggerimenti sul tono"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Il rilevamento del tono è ora disattivato."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Rilevamento tono"
+   },
+   "ebx_toneLabel": {
+      "message": "Segnale"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Contrassegna questo argomento per consentire ad altri utenti di accedere a una descrizione, a persone e alle risorse connesse."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Suggerimento Viva Topics"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Prova le idee di scrittura avanzate di Editor"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Prova ora"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Disattiva Editor"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Editor si connette a un servizio online Microsoft che offre suggerimenti ortografici, grammatica e stile per la scrittura su più siti Web."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Abilita Editor"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Annulla"
+   },
+   "ebx_undoButtonText": {
+      "message": "Annulla"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Opzioni di correzione automatica"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Siti bloccati"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "URL non valido. Specificare l'URL nel formato seguente: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "L'url \"{0}\" alla riga {1} non è valido."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Hai disabilitato l'Editor nei siti elencati di seguito. L'Editor può essere disabilitato automaticamente nei siti aggiuntivi con contenuti sensibili o velocità di caricamento lente."
+   },
+   "ebx_viewAccount": {
+      "message": "Visualizza account"
+   },
+   "editor": {
+      "message": "Editor"
+   },
+   "editorButtonText": {
+      "message": "Editor"
+   },
+   "emailWarningMessage": {
+      "message": "Per usare Copilot, vai alla fine del messaggio di posta elettronica."
+   },
+   "emptyStateMessage": {
+      "message": "Selezionare un testo da riscrivere"
+   },
+   "errorLabel": {
+      "message": "Errore"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "il tuo dizionario"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Collega al contenuto digitando il carattere speciale, la barra (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Aggiunta di tag al contenuto"
+   },
+   "esdk_autocorrect": {
+      "message": "Correzione automatica"
+   },
+   "esdk_cancelButton": {
+      "message": "Annulla"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Impostazioni"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "Disattiva {0}."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "Attiva {0}."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Premi TAB per ascoltare lo stato della categoria"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Freccia DESTRA per espandere la categoria."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Le impostazioni dettagliate sono disabilitate."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Freccia DESTRA per immettere le impostazioni dettagliate."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} disabilitato"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Tutte le impostazioni dettagliate in questa categoria sono ora deselezionate."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Tutte le impostazioni dettagliate in questa categoria sono ora selezionate."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "Impostazioni dettagliate per {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Barra spaziatrice o INVIO per attivare/disattivare lo stato della categoria,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "L'editor non contrassegnerà il problema a meno che non si apra il riquadro Editor"
+   },
+   "esdk_closeButton": {
+      "message": "Chiudi"
+   },
+   "esdk_copilotInsert": {
+      "message": "Inserisci"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot supporta attualmente solo l'inglese"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Riscrivere"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Correzioni"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "FRECCIA SINISTRA per tornare alle impostazioni"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Freccia destra per le impostazioni dettagliate"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Per modificare il valore della casella di controllo, è necessario abilitare la categoria"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Modifica il modo in cui Editor corregge e suggerisce i perfezionamenti per il testo in questa app"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Impostazioni di Editor Microsoft"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Abilita Ortografia per usare la correzione automatica"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Miglioramenti"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Non è stato possibile caricare le impostazioni dell'Editor"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Acquista funzionalità premium"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Con la versione Premium otterrai suggerimenti avanzati per la scrittura e 1 TB di spazio di archiviazione"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Premi TAB per ascoltare lo stato"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Modifica in linea"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Lingua dello strumento di correzione"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Impostazioni per"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Editor rileva quando il testo fa riferimento a un file o a dati e offre di creare un collegamento."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Suggerimenti per i collegamenti"
+   },
+   "esdk_okButton": {
+      "message": "OK"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Comprimi le preferenze per gli strumenti di correzione."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Scegli il controllo dell'editor."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Selezionare un massimo di tre lingue. La lingua preferita sarà la prima dell’elenco."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Modifica lingue"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Espandi le preferenze per gli strumenti di correzione."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Preferenze di correzione"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Impostazioni della lingua di prova"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Impostazioni degli strumenti di correzione"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Modifica lingue"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Selezionare un massimo di tre lingue. La lingua preferita sarà la prima dell’elenco."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Impostazioni degli strumenti di correzione"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Impostazioni della lingua degli strumenti di correzione"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Perfezionamenti"
+   },
+   "esdk_resetToDefault": {
+      "message": "Ripristina predefiniti"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Prova i suggerimenti di scrittura avanzati di Editor."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Dettagli del download"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Non tutte le lingue hanno le stesse indicazioni per la scrittura. Scaricare questo documento per visualizzare i dettagli sulle impostazioni di grammatica e perfezionamento disponibili per la lingua selezionata."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Scopri di più"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Non tutte le lingue hanno le stesse indicazioni per la scrittura. Seguire questo collegamento per altre informazioni sulle impostazioni di grammatica e perfezionamento disponibili per tutte le lingue dell'editor."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Non tutte le lingue hanno la stessa guida alla scrittura. {Learn more} sulle impostazioni di grammatica e perfezionamento disponibili per tutte le lingue dell'editor."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Le modifiche alle opzioni di ortografia sono valide per tutte le lingue abilitate"
+   },
+   "esdk_synonyms": {
+      "message": "Sinonimi (anteprima)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "l'editor prevede le parole successive, nonché i file o altri oggetti, da inserire durante la digitazione."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Completamento del testo"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Per velocizzare la scrittura, l’editor prevede le parole successive, suggerendo parole o frasi durante la digitazione."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Suggerimento per l'apprendimento"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Esempi"
+   },
+   "explanationTableAfter": {
+      "message": "Considerare:"
+   },
+   "explanationTableBefore": {
+      "message": "Invece di:"
+   },
+   "explanationTableSeparator": {
+      "message": "oppure"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Scrivi un post sul mio viaggio alla torre Eiffel"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Per usare Copilot, vai alla fine del post."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Pagina successiva"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "SUGGERIMENTI $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Pagina precedente"
+   },
+   "generalErrorMessage": {
+      "message": "Editor Microsoft si è verificato un problema e non è stato possibile generare il contenuto."
+   },
+   "generateButtonLabel": {
+      "message": "Genera"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Invia feedback"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Scrivi un messaggio di posta elettronica di convocazione riunione"
+   },
+   "inputName": {
+      "message": "Descrivi cosa vuoi che scriva l'Editor..."
+   },
+   "inputPlaceholder": {
+      "message": "Descrivi cosa vuoi scrivere"
+   },
+   "languageErrorMessage": {
+      "message": "Le riscritture non sono ancora disponibili per la lingua selezionata."
+   },
+   "limitErrorMessage": {
+      "message": "Per riscrivere, seleziona meno di 100 parole."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Suggerimenti per la creazione di contenuti"
+   },
+   "loadingLabel": {
+      "message": "Solo un secondo, sto cucinando qualcosa per te..."
+   },
+   "loadingText": {
+      "message": "Caricamento: "
+   },
+   "modalDescribeBy": {
+      "message": "Genera altri modi per scrivere il testo selezionato"
+   },
+   "moreButtonLabel": {
+      "message": "Altre opzioni"
+   },
+   "moreButtonText": {
+      "message": "Altro"
+   },
+   "moreOptionsLabel": {
+      "message": "Altre opzioni"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "Aggiungere un'altra lingua di controllo ortografico"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Aggiungere la lingua del controllo ortografico."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Per ottenere suggerimenti di scrittura pertinenti,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Aggiungere un'altra lingua all'editor"
+   },
+   "nextSuggestion": {
+      "message": "Suggerimento successivo"
+   },
+   "nudgeTextForEmails": {
+      "message": "Digita $1 per trovare email"
+   },
+   "nudgeTextForFile": {
+      "message": "Digita $1 per inserire file e molto altro"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Digita $1 per trovare riunioni"
+   },
+   "nudgeTextForPeople": {
+      "message": "Digita $1 per trovare persone"
+   },
+   "prevSuggestion": {
+      "message": "Suggerimento precedente"
+   },
+   "preview": {
+      "message": "ANTEPRIMA"
+   },
+   "previewText": {
+      "message": "ANTEPRIMA"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Premi CTRL + ALT + I per utilizzare questa funzionalità ogni volta che ti trovi in una nuova riga."
+   },
+   "promptSuggestButtonText": {
+      "message": "Continua a scrivere "
+   },
+   "promptSuggestShortcut": {
+      "message": "ALT+freccia DESTRA"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Leggi ad alta voce la frase originale"
+   },
+   "regenerateLabel": {
+      "message": "Rigenera"
+   },
+   "replaceLabel": {
+      "message": "Sostituisci"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Contenuto generato dal report"
+   },
+   "reportOutput": {
+      "message": "Report Output"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Il contenuto generato dall'intelligenza artificiale potrebbe contenere imprecisioni o materiale sensibile. Assicurati di verificare le informazioni."
+   },
+   "retry": {
+      "message": "Riprova"
+   },
+   "rewriteBrand": {
+      "message": "Riscrivi"
+   },
+   "rewriteWithCopilot": {
+      "message": "Riscrivi"
+   },
+   "sbx_signInDescription": {
+      "message": "Accedi per ottenere suggerimenti di grammatica e perfezionamento nella maggior parte dei siti Web, oltre a un dizionario ortografico personalizzato."
+   },
+   "shareFeedback": {
+      "message": "Condividi feedback"
+   },
+   "showHeaderMessage": {
+      "message": "Ecco alcuni altri modi per scrivere questo"
+   },
+   "submitButtonTooltip": {
+      "message": "Genera (INVIO)"
+   },
+   "substackWarningMessage": {
+      "message": "Per usare Copilot, passare alla fine del paragrafo."
+   },
+   "suggestionCountSeparator": {
+      "message": "di"
+   },
+   "suggestionHint": {
+      "message": "INVIO per accettare"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Riprova"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Rigenera"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Scrivi un tweet motivazionale"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Per usare Copilot, vai alla fine del tweet."
+   }
+}

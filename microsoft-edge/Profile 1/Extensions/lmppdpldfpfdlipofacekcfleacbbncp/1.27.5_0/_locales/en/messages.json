@@ -1,0 +1,438 @@
+{
+   "about": {
+      "message": "About"
+   },
+   "absolute": {
+      "message": "absolute"
+   },
+   "absoluteSilenceSpeedClarification": {
+      "message": " (a.k.a. relative to normal (intrinsic) media speed)"
+   },
+   "action": {
+      "message": "Action"
+   },
+   "addBinding": {
+      "message": "Add new hotkey"
+   },
+   "advance": {
+      "message": "Advance (seconds)"
+   },
+   "alsoSearchFor": {
+      "message": "Also search for $type$ elements",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "alwaysShowOpenLocalFileLink": {
+      "message": "Show the \"$openLocalFileLabel$\" link",
+      "placeholders": {
+         "openLocalFileLabel": {
+            "content": "$1"
+         }
+      }
+   },
+   "applyTo": {
+      "message": "Apply to"
+   },
+   "applyToBoth": {
+      "message": "Both video and audio elements"
+   },
+   "applyToOnly": {
+      "message": "$type$ elements only",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "audio": {
+      "message": "audio"
+   },
+   "autofocusEnabledInput": {
+      "message": "Autofocus the \"$enableCheckboxLabel$\" checkbox when popup opens",
+      "placeholders": {
+         "enableCheckboxLabel": {
+            "content": "$1"
+         }
+      }
+   },
+   "badgeWhatSettingToDisplayByDefault": {
+      "message": "What setting value to display by default"
+   },
+   "changeElementSearchCriteria": {
+      "message": "Change search criteria…"
+   },
+   "chart": {
+      "message": "Chart"
+   },
+   "chartHeightPx": {
+      "message": "Height (pixels)"
+   },
+   "chartJumpPeriod": {
+      "message": "Jump period, %. Expressed as a fraction of chart length. Set to 0 for smooth movement (no jumps)."
+   },
+   "chartLengthInSeconds": {
+      "message": "Length in seconds"
+   },
+   "chartSpeed": {
+      "message": "Movement speed"
+   },
+   "chartSpeedIntrinsicTime": {
+      "message": "Same as the current video speed"
+   },
+   "chartSpeedRealTime": {
+      "message": "Constant (real-time)"
+   },
+   "chartSpeedSoundedSpeedTime": {
+      "message": "Same as the current video speed, relative to sounded speed"
+   },
+   "chartWidthPx": {
+      "message": "Width (pixels)"
+   },
+   "chat": {
+      "message": "Chat"
+   },
+   "comparedToIntrinsic": {
+      "message": "compared to normal (intrinsic)"
+   },
+   "comparedToSounded": {
+      "message": "compared to sounded"
+   },
+   "contact": {
+      "message": "Contact"
+   },
+   "contentScriptFail": {
+      "message": "Couldn't execute the content script on this page"
+   },
+   "couldGetMuted": {
+      "message": "it could get muted if we attach to it"
+   },
+   "decreaseVolume": {
+      "message": "Decrease volume (%)"
+   },
+   "disableHotkeysWhileInputFocused": {
+      "message": "Disable hotkeys while an input is in focus"
+   },
+   "doNothingWheneverPlaybackRateChanges": {
+      "message": "None of the above. Simply ignore playback rate changes from other scripts."
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "downloadFromSync": {
+      "message": "Apply settings from sync storage"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "enable": {
+      "message": "Enable"
+   },
+   "enableDesyncCorrection": {
+      "message": "Enable correction of audio-video desynchronization (side effect: for the most part unnoticeable stutter every minute or so)"
+   },
+   "enableHotkeys": {
+      "message": "Enable hotkeys"
+   },
+   "extensionDescription": {
+      "message": "Watch videos ~1.5x faster by fast-forwarding long pauses between sentences"
+   },
+   "fileInputLabel": {
+      "message": "Drop one or several files here\nor click to select"
+   },
+   "general": {
+      "message": "General"
+   },
+   "hasErrors": {
+      "message": "Errors found"
+   },
+   "helpTranslate": {
+      "message": "Help translate"
+   },
+   "hotkey": {
+      "message": "Hotkey"
+   },
+   "hotkeys": {
+      "message": "Hotkeys"
+   },
+   "hotkeysNotes": {
+      "message": "Modifier keys (Ctrl, Shift, etc.) are supported.\nSeveral actions can be bound to a single key. This can be utilized to create \"profiles\".\nThe difference between \"$switch$\" and \"=\" (a.k.a \"set\") actions is that \"$switch$\" toggles the value between the previous value and the hotkey's argument, while \"set\" always sets it to the argument's value.\nHotkeys are also active when the popup is open.",
+      "placeholders": {
+         "switch": {
+            "content": "$1"
+         }
+      }
+   },
+   "iconBadge": {
+      "message": "Extension's icon badge"
+   },
+   "increaseVolume": {
+      "message": "Increase volume (%)"
+   },
+   "input": {
+      "message": "Input"
+   },
+   "license": {
+      "message": "License"
+   },
+   "loading": {
+      "message": "Loading"
+   },
+   "marginAfter": {
+      "message": "Margin after"
+   },
+   "marginAfterTooltip": {
+      "message": "This is similar to \"margin before\". When it was loud and then became silent, how many seconds we need to wait before speeding up (switching to silence speed).\nThis is mostly to keep pauses in the speech at least to some degree so words don't get mushed together and to ensure that you can clearly hear the very last letters in a sentence.\nUnlike \"margin before\" this doesn't cause audio distortion & delay (but it's not to say that these settings are interchangeable)."
+   },
+   "marginBefore": {
+      "message": "Margin before"
+   },
+   "marginBeforeTooltip": {
+      "message": "When it's currently silent and then we encounter a loud part, how many seconds prior to it we need to slow down (switch to sounded speed).\nThis is mostly to ensure that you can clearly hear the very first letters when someone begins to speak.\n\n⚠️ Note that non-zero values will cause audio DISTORTION when switching from silence to sounded speed AND will add constant audio DELAY equivalent to the value of this setting. These drawbacks do not apply if you use the \"experimental algorithm\"."
+   },
+   "max": {
+      "message": "Max"
+   },
+   "mediaUnsupported": {
+      "message": "This media is **likely** unsupported — $consequences$.",
+      "placeholders": {
+         "consequences": {
+            "content": "$1"
+         }
+      }
+   },
+   "meta": {
+      "message": "Meta"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "more": {
+      "message": "More"
+   },
+   "noSuitableElement": {
+      "message": "Could not find a suitable media element on the page"
+   },
+   "none": {
+      "message": "None"
+   },
+   "numbersMeanings": {
+      "message": "Numbers' meanings (in order):"
+   },
+   "omitMutedElements": {
+      "message": "Don't apply to muted media elements"
+   },
+   "openLocalFile": {
+      "message": "open a local file"
+   },
+   "openPopup": {
+      "message": "Open popup"
+   },
+   "or": {
+      "message": "Or"
+   },
+   "overTheLast": {
+      "message": "Over the last $duration$",
+      "placeholders": {
+         "duration": {
+            "content": "$1"
+         }
+      }
+   },
+   "overrideWebsiteHotkeys": {
+      "message": "Override website hotkeys"
+   },
+   "popup": {
+      "message": "Popup"
+   },
+   "popupSpecificHotkeys": {
+      "message": "Popup-specific hotkeys"
+   },
+   "preventOtherScriptsFromChangingPlaybackRate": {
+      "message": "On some websites I visit, playback rate is getting changed in an unexpected manner. Don't let them change playback rate set by this extension."
+   },
+   "rangeSlidersAttributes": {
+      "message": "Range sliders' attributes"
+   },
+   "rangeSlidersAttributesNote": {
+      "message": "Be aware that browsers do not support playback rates above a certain limit.\nAt the time of writing it's 16 for Chromium (Chrome, Edge) and 8 (by default) for Gecko (Firefox)."
+   },
+   "refreshIfMuted": {
+      "message": "Refresh the page if the media got muted"
+   },
+   "relativeToSounded": {
+      "message": "relative to sounded speed"
+   },
+   "removeBinding": {
+      "message": "Remove binding"
+   },
+   "resetToDefaults": {
+      "message": "Reset to defaults"
+   },
+   "retry": {
+      "message": "Retry"
+   },
+   "rewind": {
+      "message": "Rewind (seconds)"
+   },
+   "runSnowflakeBridge": {
+      "message": "Help others circumvent censorship by simply installing (another) extension"
+   },
+   "saved": {
+      "message": "Saved"
+   },
+   "saving": {
+      "message": "Saving…"
+   },
+   "showErrors": {
+      "message": "Show errors"
+   },
+   "silenceSkippingWontWork": {
+      "message": "silence skipping won't work properly"
+   },
+   "silenceSpeed": {
+      "message": "Silence speed"
+   },
+   "silenceSpeedSpecificationMethod": {
+      "message": "Silence speed specification method"
+   },
+   "silenceSpeedTooltip": {
+      "message": "The speed at which we play the silent parts.\nOn the chart, the parts that were played at this speed have red 🟥 background.$relativeNote$\n⚠️ If this value is very high (> ~4) the beginnings of sentences may also start getting skipped (it's like \"Margin before\" is smaller).",
+      "placeholders": {
+         "relativeNote": {
+            "content": "$1"
+         }
+      }
+   },
+   "silenceSpeedTooltipRelativeNote": {
+      "message": "\nNote that it is specified as a multiplier of the sounded speed, so e.g. if sounded speed is 1.5 and silence speed is 2, the resulting absolute value will be 3. You can change this behavior on the options page."
+   },
+   "soundedSpeed": {
+      "message": "Regular speed"
+   },
+   "soundedSpeedTooltip": {
+      "message": "The speed at which we play the video when it's currently NOT silent, the \"normal\" speed.\nOn the chart, the parts that were played at this speed have green 🟩 background."
+   },
+   "step": {
+      "message": "Step"
+   },
+   "suggestOpenLocalFile": {
+      "message": "Want to **$openLocalFile$**?",
+      "placeholders": {
+         "openLocalFile": {
+            "content": "$1"
+         }
+      }
+   },
+   "switch": {
+      "message": "switch"
+   },
+   "timeSaved": {
+      "message": "Time saved info"
+   },
+   "timeSavedAveragingMethod": {
+      "message": "Averaging method"
+   },
+   "timeSavedAveragingMethodAllTime": {
+      "message": "All-time average (no decay)"
+   },
+   "timeSavedAveragingMethodExponential": {
+      "message": "Only take into account the latest data (exponential decay)"
+   },
+   "timeSavedAveragingWindowLength": {
+      "message": "Only take into account the last N seconds of playback"
+   },
+   "timeSavedComparedToIntrinsic": {
+      "message": "on average how much faster the video is effectively playing compared to normal (intrinsic) speed"
+   },
+   "timeSavedComparedToIntrinsicAbs": {
+      "message": "time saved compared to just playing the video at normal (intrinsic) speed"
+   },
+   "timeSavedComparedToSounded": {
+      "message": "on average how much faster the video is effectively playing compared to sounded speed"
+   },
+   "timeSavedComparedToSoundedAbs": {
+      "message": "time saved compared to just playing the video at sounded speed"
+   },
+   "timeSavedDataWeightDecayTimeConstant": {
+      "message": "Resulting data weight half-life: $length$ seconds",
+      "placeholders": {
+         "length": {
+            "content": "$1"
+         }
+      }
+   },
+   "timeSavedExponentialAveragingLatestDataWeight": {
+      "message": "Latest playback period averaging weight"
+   },
+   "timeSavedPercentage": {
+      "message": "Equivalent time saved percentage:"
+   },
+   "toggleExtension": {
+      "message": "Toggle extension"
+   },
+   "toggleMute": {
+      "message": "Mute/unmute"
+   },
+   "togglePause": {
+      "message": "Pause/unpause"
+   },
+   "tryAttachAnyway": {
+      "message": "Try to attach anyway"
+   },
+   "tryOpeningDirectly": {
+      "message": "Try opening it directly"
+   },
+   "updateSoundedSpeedWheneverItChangesOnWebsite": {
+      "message": "I want to control playback rate (sounded speed) through the website's UI or through other extensions, not just this one. This will update sounded speed whenever playback rate gets changed."
+   },
+   "uploadToSync": {
+      "message": "Upload settings to sync storage"
+   },
+   "useExperimentalAlgorithm": {
+      "message": "Use experimental algorithm"
+   },
+   "useExperimentalAlgorithmTooltip": {
+      "message": "➕ 🆕 Now works on most websites!\n➕ Allows skipping silent parts entirely instead of playing them at a faster rate.\n➕ No audio distortion or delay.\n➖ May break playback-related functionality on some websites.\n➖ The chart won't display the actual volume on silent parts (it will just show 0 instead)."
+   },
+   "useSeparateMarginSettingsForDifferentAlgorithms": {
+      "message": "Use separate silence skipping settings for different algorithms (related to the \"$useExperimentalAlgorithmLabel$\" setting)",
+      "placeholders": {
+         "marginAfterLabel": {
+            "content": "$2"
+         },
+         "marginBeforeLabel": {
+            "content": "$1"
+         },
+         "useExperimentalAlgorithmLabel": {
+            "content": "$3"
+         }
+      }
+   },
+   "value": {
+      "message": "Value"
+   },
+   "video": {
+      "message": "video"
+   },
+   "volume": {
+      "message": "Volume\nIt's not the current loudness of the material, but its amplification multiplier, like on TV"
+   },
+   "volumeThreshold": {
+      "message": "Lowest speech loudness"
+   },
+   "volumeThresholdTooltip": {
+      "message": "When the current audio volume is below this value, speed up.\nOn the chart, this is the red 🟥 horizontal line. The blue 🟦 line is the current volume, so when the blue line is below the red, it is considered to be silence."
+   },
+   "wheneverPlaybackRateChangesFromOtherScripts": {
+      "message": "Whenever playback rate gets changed by other scripts"
+   },
+   "wouldHaveLastedIfSpeedWasIntrinsic": {
+      "message": "how long playback would take at normal (intrinsic) speed WITHOUT skipping silence"
+   },
+   "wouldHaveLastedIfSpeedWasSounded": {
+      "message": "how long playback would take at sounded speed WITHOUT skipping silence"
+   }
+}

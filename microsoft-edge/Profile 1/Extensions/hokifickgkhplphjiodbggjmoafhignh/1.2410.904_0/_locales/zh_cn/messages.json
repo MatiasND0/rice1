@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "帐户"
+   },
+   "AppDescription": {
+      "message": "Microsoft 编辑器是你的智能语法、拼写和风格检查写作助手，可让你自信地挥洒创意。"
+   },
+   "AppLongDescription": {
+      "message": "编辑提供高级写作帮助，包括跨 web (1)的语法、拼写和风格建议，因此你可以自信地写出清晰、简洁的文章和电子邮件。\r\n\r\n使用智能写作帮助像专家一样写作\r\n使用免费的语法、高级语法、拼写和标点符号校对钉住基础知识。通过高级文体检查超越基础知识，如清晰度、简洁性、正式性、词汇等问题(需要订阅 Microsoft 365)。\r\n\r\n根据需要进行个性化编辑\r\n现在可以向 Microsoft 365 应用内置的自定义字典中添加单词。当编辑器提出拼写建议时，请查找“添加到字典”。此外，“设置”为你提供了微调你对写作建议首选项的方法。我们还让你很容易通过选择“忽略所有”来跳过“所有”出现的拼写更正，或通过选择“忽略”来跳过不需要的语法建议。\r\n\r\n在任何地方写作\r\n通过该浏览器扩展，在 LinkedIn、Gmail、Facebook 等网站以及其他收藏夹上获得写作帮助。如果想在写作最多的 Office 应用程序中得到编辑的帮助，请在 Web 上打开 Word 或 Outlook，即可获得改进文档和电子邮件的建议。\r\n\r\n获得多种语言的帮助\r\n通过多语言校对，同时检查多达三种语言的拼写和语法。编辑器可检查 80 多种语言的拼写，并提供 21 种语言的语法检查和写作风格改进。可在此处找到更多关于语言可用性的信息: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n在此处获取 Microsoft Edge 编辑器: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. 可用于 Microsoft Edge 或 Chrome 浏览器，需要 Microsoft 账户。编辑器连接到 Microsoft 的在线服务，为你在大多数网站上的写作提供拼写、语法和完善的建议。\r\n2. 不是所有的语言都有相同的完善建议。\r\n\r\n通过安装该应用，同意这些条款和条件:\r\n\r\n请注意: 请参考 Microsoft 帐户或 Microsoft 365 订阅(如适用)的许可条款(“扩展”)，以确定向你许可该扩展的实体并获取支持信息。适用的 Microsoft 帐户或 Microsoft 365 订阅的许可条款适用于你对该扩展的使用。 \r\n\r\n隐私策略: http://aka.ms/privacy\r\n服务条款: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "编辑提供高级写作帮助，包括跨 web (1)的语法、拼写和风格建议，因此你可以自信地写出清晰、简洁的文章和电子邮件。\r\n\r\n使用智能写作帮助像专家一样写作\r\n使用免费的语法、高级语法、拼写和标点符号校对钉住基础知识。通过高级文体检查超越基础知识，如清晰度、简洁性、正式性、词汇等问题(需要订阅 Microsoft 365)。\r\n\r\n根据需要进行个性化编辑\r\n现在可以向 Microsoft 365 应用内置的自定义字典中添加单词。当编辑器提出拼写建议时，请查找“添加到字典”。此外，“设置”为你提供了微调你对写作建议首选项的方法。我们还让你很容易通过选择“忽略所有”来跳过“所有”出现的拼写更正，或通过选择“忽略”来跳过不需要的语法建议。\r\n\r\n在任何地方写作\r\n通过该浏览器扩展，在 LinkedIn、Gmail、Facebook 等网站以及其他收藏夹上获得写作帮助。如果想在写作最多的 Office 应用程序中得到编辑的帮助，请在 Web 上打开 Word 或 Outlook，即可获得改进文档和电子邮件的建议。\r\n\r\n获得多种语言的帮助\r\n通过多语言校对，同时检查多达三种语言的拼写和语法。编辑器可检查 80 多种语言的拼写，并提供 21 种语言的语法检查和写作风格改进。可在此处找到更多关于语言可用性的信息: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n在此处获取 Chrome 编辑器: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. 可用于 Microsoft Edge 或 Chrome 浏览器，需要 Microsoft 账户。编辑器连接到 Microsoft 的在线服务，为你在大多数网站上的写作提供拼写、语法和完善的建议。\r\n2. 不是所有的语言都有相同的完善建议。\r\n\r\n通过安装该应用，同意这些条款和条件:\r\n\r\n请注意: 请参考 Microsoft 帐户或 Microsoft 365 订阅(如适用)的许可条款(“扩展”)，以确定向你许可该扩展的实体并获取支持信息。适用的 Microsoft 帐户或 Microsoft 365 订阅的许可条款适用于你对该扩展的使用。 \r\n\r\n隐私策略: http://aka.ms/privacy\r\n服务条款: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Microsoft 编辑器:拼写和语法检查器"
+   },
+   "AppShortName": {
+      "message": "编辑器"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "打开"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "在 Google Docs 中试用编辑器(beta)"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "编辑器位于 Google Docs 上的 Beta 版中。如果遇到问题，请告知我们。"
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "当其他编辑扩展和编辑器都运行时，它们的建议可能会重叠或冲突。为了获得最佳编辑器体验，我们建议在浏览器的扩展设置中关闭其他编辑扩展。"
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "在编辑扩展之间检测到冲突"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "关闭$host$的编辑器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft 编辑器"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Copilot 插入"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Copilot 重写"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "语法"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "$host$ 当前不支持编辑器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "编辑器当前已在$host$上关闭",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "编辑器已关闭。"
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$，$secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1USD",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "2USD",
+            "example": "zh-hans"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "编辑器包含在 $host$ 中",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "校对语言: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "zh-hans"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "校对语言"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "校对语言"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "升级到高级版后，可获取高级协作创意和 1 TB 的存储空间。"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "改进"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "优化就是高级写作建议，有助于使你的书写更清晰、更简洁或更正式。"
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "打开编辑器设置以选择校对语言。"
+   },
+   "EditorSettingsLabel": {
+      "message": "更多编辑器设置"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "拼写检查"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "同义词 (预览版)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "在写入时获取同义词: 双击单词，或选择并按 (Alt+向下键)。"
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "在写入时获取同义词: 双击单词，或选择并按 Alt+向下键。"
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "在写入时获取同义词: 双击单词，或选择并按 Control+Option+向下键。"
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "在写入时获取同义词: 双击单词，或选择并按 (⌃ + ⌥ + ↓)。"
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ 和 $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1USD",
+            "example": "zh-hans"
+         },
+         "secondLanguage": {
+            "content": "2USD",
+            "example": "zh-hans"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "在 $host$ 上启用编辑器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "查看帐户"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Microsoft 编辑器浏览器扩展"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "你已成功升级到 Microsoft 编辑器的高级版本! 通过单击书写中的蓝色和紫色下划线，浏览展开的功能集。"
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "恭喜"
+   },
+   "SettingsLabel": {
+      "message": "帐户设置"
+   },
+   "SignInLabel": {
+      "message": "登录或注册"
+   },
+   "SignOutLabel": {
+      "message": "注销"
+   },
+   "SignOutTooltip": {
+      "message": "如果注销，所有设置都将重置为默认值，并且已排除的网站列表将丢失。"
+   },
+   "SupportPageLabel": {
+      "message": "需要登​录方面的帮助?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "打开编辑器"
+   },
+   "addButtonLabel": {
+      "message": "添加"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "使用 Copilot 创建，按 alt+I 显示选项"
+   },
+   "aiInsertButtonText": {
+      "message": "使用 Copilot 创建内容"
+   },
+   "aiInsertResultDescription": {
+      "message": "下面是使其更吸引人的一种方法"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "编辑器添加了 $1 作为拼写检查语言"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "管理拼写检查语言"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "撤消"
+   },
+   "backToPromptLabel": {
+      "message": "返回"
+   },
+   "closeLabel": {
+      "message": "关闭"
+   },
+   "contentErrorMessage": {
+      "message": "Microsoft 编辑器无法创建内容。请选择其他文本，或稍等片刻，然后重试。"
+   },
+   "contentSuggestion": {
+      "message": "内容建议"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "更正，$1，$2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "语法错误，$1，$2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "样式优化，$1，$2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "重复单词，$1，$2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "拼写错误，$1，$2"
+   },
+   "copilotTooltipMessage": {
+      "message": "AI 生成的内容可能包含不准确的内容或敏感材料。请务必验证信息。"
+   },
+   "copyButtonText": {
+      "message": "复制"
+   },
+   "defaultWarningMessage": {
+      "message": "若要使用 Copilot，请转到段落末尾。"
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "一次最多只能打开三种语言的校对。"
+   },
+   "ebx_AddedToDictionary": {
+      "message": "\"$1\"被添加到词典。"
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "在菜单中搜索结果中关闭"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "建议已插入。在菜单搜索结果中关闭。"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "点击了标记建议。在菜单搜索结果中显示"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "已单击提醒。在菜单中显示搜索结果。"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "\"$1\" 符号按键已显示 \"At\" 菜单搜索结果"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "使用“控制”按钮打开"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "按 Control 以获取自动更正选项。"
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "文件建议"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "文件、组件、人员等"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "插入"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "本地业务检测"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "地址检测"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "添加此地址的链接"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "位置"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "增强"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "人员建议"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "实体建议"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "添加此实体的链接"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "实体"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "实体建议"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "时间检测"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "将时区添加到此时间"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "时间"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "增强"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "标记此主题以帮助其他人访问与之连接的说明、人员和资源。"
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Viva Topics 建议"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Viva Topics 建议"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "显示的微移建议:“$1”"
+   },
+   "ebx_Cancel": {
+      "message": "取消"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "人脸识别"
+   },
+   "ebx_Dismiss": {
+      "message": "关闭"
+   },
+   "ebx_Done": {
+      "message": "完成"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "搜索文件"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "搜索联系人"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "开始键入以进行搜索"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "开始键入以搜索 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "开始键入以进行搜索"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "开始键入以进行搜索"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "搜索 Loop 组件"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "开始键入以进行搜索"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "开始键入以进行搜索"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "开始键入以进行搜索"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "搜索主题"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "人员/日期识别"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "插入日期"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "插入日期范围"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "建议: 插入日期范围"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "插入日期和时间"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "建议: 插入日期和时间"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "建议: 插入日期"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "建议: 插入人员"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "插入时间"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "插入时间范围"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "建议: 插入时间范围"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "建议: 插入时间"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "已成功提交反馈。"
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "感谢你在 Google Docs 中试用编辑器(beta 版)。我们正在进行更新，以适应导致编辑器停止工作的 Google Docs 更改。我们将在编辑器准备再次可以使用时通知你。"
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Google Docs 中的编辑器不可用"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "为了获得最佳编辑器体验，请尝试关闭 Google Docs 的内置拼写和语法检查。(在“工具”菜单上，转到“拼写和语法”，然后关闭该选项)。"
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "仅使用编辑器校对"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "在编写时获取高级建议。 "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "在编写时获取高级建议。为了获得最佳编辑器体验，Google Docs 的内置拼写和语法检查将关闭。 "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "在 Google Docs 中试用编辑器(beta)"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "已忽略语法建议。"
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "标题检测"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "增强"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "标题 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "标题 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "标题 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "考虑更改为标题"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "辅助功能"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "辅助功能: 考虑更改为标题"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "建议插入“$1”。按下以插入。"
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "我们根据你当前的浏览器设置选择了{0}。"
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "同时检查三种语言的拼写和语法。在“编辑器设置”中选择你的语言"
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "你可以在编辑器设置中编辑语言。"
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "我们根据当前浏览器设置选择了{0}、{1}和{2}。"
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "使用“编辑器”进行多语言校对"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "我们根据你当前的浏览器设置选择了{0}和{1}。"
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "人员识别"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "已成功应用建议的插入“$1”。"
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "建议插入“$1”。按 TAB 插入。"
+   },
+   "ebx_ProofingLanguages": {
+      "message": "校对语言"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Microsoft 365订阅者在登录时会获得高级写作建议。"
+   },
+   "ebx_RemoveItem": {
+      "message": "删除"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "现在，你可以将自己的单词添加到编辑器的拼写词典中。编辑器提出拼写建议时查找“添加到字典”。"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "个性化拼写词典"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "确定"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "编辑器现在可以将单词添加到 Microsoft 365 应用内置的自定义词典中。当编辑器提出拼写建议时，请登录并查找“添加到词典”。"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "登录以获取个性化的拼写词典"
+   },
+   "ebx_RuleIgnored": {
+      "message": "评论 \"$1\" 在设置中已被禁用。"
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "已在设置中禁用此评论。"
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "若要在大多数网站上获取写作建议，请登录到你的 Microsoft 帐户，或登录你用于 Office 的工作或学校帐户。"
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "登录或注册"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "登录后可在大多数网站上获得写作建议。我们将保存你的设置，例如你写作时采用的语言以及你希望编辑器检查的问题种类。"
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "在大多数网站上享受语法和优化建议，以及个性化拼写词典。"
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "对于个性化拼写字典，请登录到 Microsoft 帐户或 Office 工作或学校帐户。"
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "编辑器尚未运行"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "切换菜单已关闭"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "建议已插入。切换菜单已关闭"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "已单击“标记建议”。已显示斜杠菜单"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "已单击提醒。显示斜杠菜单"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "\"$1\" 符号按键已显示“斜杠”菜单"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "已忽略拼写建议。"
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "右键单击或按 Alt+向下键进行打开"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "左键单击或按 Ctrl+Alt+向下键打开"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "左键单击或按 Ctrl+Option+向下键打开"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "自动更正"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+向下键)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl+Alt+向下键)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "语法更正"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "书写精简"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "拼写更正"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "通过左键单击打开"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Viva Topics 建议"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "已成功接受$1建议\"。"
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "任务识别"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "创建任务"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "建议: 创建任务"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Tab"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "点击"
+   },
+   "ebx_TurnItOn": {
+      "message": "打开"
+   },
+   "ebx_addAnotherSite": {
+      "message": "添加其他网站"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "添加其他网站"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "取消将网站添加到“阻止的网站”列表中。"
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "将网站添加到“阻止的网站”列表中"
+   },
+   "ebx_addButton": {
+      "message": "添加"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "添加语法检查"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "取消向校对语言列表添加语言"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "向校对语言列表添加语言"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "添加其他语言"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "添加到词典"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "允许编辑器根据你的写作自动检测和添加新的校对语言。"
+   },
+   "ebx_appDescription": {
+      "message": "使用 Microsoft 编辑器自信地写作: 你的智能写作助手"
+   },
+   "ebx_appLongDescription": {
+      "message": "编辑器提供高级写作帮助，包括跨 web (1) 的语法、拼写和风格建议，因此你可以自信地写出清晰、简洁的文章和电子邮件。\r\n\r\n使用智能写作帮助，像专家一样写作\r\n使用免费的语法、高级语法、拼写和标点符号校对钉住基础知识。使用高级版 (需要 Microsoft 365 订阅) 对清晰度、简洁性、正式性、词汇等问题进行高级风格检查，从而超越基础知识。\r\n\r\n根据需要进行个性化编辑\r\n编辑器现在可以将单词添加到 Microsoft 365 应用内置的自定义词典中。当编辑器提出拼写建议时，请查找“添加到词典”。此外，“设置”为你提供了微调写作建议首选项的方法。我们还让你很容易通过选择“全部忽略”来跳过所有出现的拼写更正，或通过选择“忽略”来跳过不需要的语法建议。\r\n\r\n在任何地方写作\r\n通过该浏览器扩展，在 LinkedIn、Gmail、Facebook 等网站以及其他收藏夹上获得写作帮助。如果想在写作最多的 Office 应用中得到编辑器的帮助，请打开 Word 网页版或 Outlook 网页版，即可获得改进文档和电子邮件的建议。\r\n\r\n获得多种语言的帮助\r\n通过多语言校对，同时检查多达三种语言的拼写和语法。编辑器可检查 80 多种语言的拼写，并提供 21 种语言的语法检查和写作风格改进。可在此处找到关于可用语言的更多信息: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n在此处获取 Edge 版编辑器: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. 可用于 Microsoft Edge 或 Chrome 浏览器，需要 Microsoft 账户。编辑器连接到 Microsoft 的在线服务，为你在大多数网站上的写作提供拼写、语法和改进的建议。\r\n2. 不是所有的语言都有相同的改进建议。\r\n\r\n安装本应用即表示你同意这些条款和条件:\r\n\r\n请注意: 请参考 Microsoft 帐户或 Microsoft 365 订阅 (如适用) 的许可条款 (“扩展”)，以确定向你许可该扩展的实体并获取支持信息。Microsoft 帐户或 Microsoft 365 订阅 (如适用) 的许可条款适用于你对该扩展的使用。\r\n\r\n隐私策略: http://aka.ms/privacy\r\n服务条款: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "编辑器提供高级写作帮助，包括跨 web (1) 的语法、拼写和风格建议，因此你可以自信地写出清晰、简洁的文章和电子邮件。\r\n\r\n使用智能写作帮助，像专家一样写作\r\n使用免费的语法、高级语法、拼写和标点符号校对钉住基础知识。使用高级版 (需要 Microsoft 365 订阅) 对清晰度、简洁性、正式性、词汇等问题进行高级风格检查，从而超越基础知识。\r\n\r\n根据需要进行个性化编辑\r\n编辑器现在可以将单词添加到 Microsoft 365 应用内置的自定义词典中。当编辑器提出拼写建议时，请查找“添加到词典”。此外，“设置”为你提供了微调写作建议首选项的方法。我们还让你很容易通过选择“全部忽略”来跳过所有出现的拼写更正，或通过选择“忽略”来跳过不需要的语法建议。\r\n\r\n在任何地方写作\r\n通过该浏览器扩展，在 LinkedIn、Gmail、Facebook 等网站以及其他收藏夹上获得写作帮助。如果想在写作最多的 Office 应用中得到编辑器的帮助，请打开 Word 网页版或 Outlook 网页版，即可获得改进文档和电子邮件的建议。\r\n\r\n获得多种语言的帮助\r\n通过多语言校对，同时检查多达三种语言的拼写和语法。编辑器可检查 80 多种语言的拼写，并提供 21 种语言的语法检查和写作风格改进。可在此处找到关于可用语言的更多信息: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n在此处获取 Chrome 版编辑器: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. 可用于 Microsoft Edge 或 Chrome 浏览器，需要 Microsoft 账户。编辑器连接到 Microsoft 的在线服务，为你在大多数网站上的写作提供拼写、语法和改进的建议。\r\n2. 不是所有的语言都有相同的改进建议。\r\n\r\n安装本应用即表示你同意这些条款和条件:\r\n\r\n请注意: 请参考 Microsoft 帐户或 Microsoft 365 订阅 (如适用) 的许可条款 (“扩展”)，以确定向你许可该扩展的实体并获取支持信息。Microsoft 帐户或 Microsoft 365 订阅 (如适用) 的许可条款适用于你对该扩展的使用。\r\n\r\n隐私策略: http://aka.ms/privacy\r\n服务条款: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Microsoft 编辑器:拼写和语法检查器"
+   },
+   "ebx_appShortName": {
+      "message": "编辑器"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1，类似于: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1，$2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1，$2，类似于: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "替换为"
+   },
+   "ebx_asInSynonyms": {
+      "message": "类似于"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "\"$1\"，自动更正已撤消。"
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "还原为\"$1\""
+   },
+   "ebx_autoCorrected": {
+      "message": "$1，自动更正。"
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "按 Control 可自动更正选项。"
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "已成功添加“{0}”"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "按向右键访问“删除”按钮。"
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "列表为空。"
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "已成功删除 “{0}”"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft 编辑器"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft 编辑器徽标"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "浏览此计算机"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "全部更改"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Editor 设置…"
+   },
+   "ebx_checkForRefinements": {
+      "message": "检查优化"
+   },
+   "ebx_checkGrammar": {
+      "message": "检查语法"
+   },
+   "ebx_checkSpelling": {
+      "message": "检查拼写"
+   },
+   "ebx_close": {
+      "message": "关闭"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "即将推出"
+   },
+   "ebx_copilotInsert": {
+      "message": "插入"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Copilot 重写"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1，$2，$3，$4。"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "删除重复单词"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "停止检查"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "停止检查。除非你更改此设置，否则编辑器将应用该设置。"
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "编辑器将应用此设置，直至更改其为止"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "关闭 {0} 上的编辑器"
+   },
+   "ebx_displayOptions": {
+      "message": "显示选项"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "此网站已在“阻止的网站”列表中"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "编辑器已$1此邮件的高级写作创意。"
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "{0} 当前不支持编辑器"
+   },
+   "ebx_editorCanvas": {
+      "message": "编辑器弹出窗口"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "关"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "开"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "在支持“编辑器”弹出窗口的字段中显示“编辑器”按钮"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Microsoft Office 浏览器扩展现在包含 Microsoft 编辑器，智能书写助手可帮助你在 web 上获得最佳的书写效果。Microsoft 编辑器连接到联机服务，为您提供拼写、语法和样式建议。"
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft 编辑器(预览版)现正在运行"
+   },
+   "ebx_editorFeature": {
+      "message": "Microsoft 编辑器"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "关"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "关闭 Editor"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "开"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Editor 功能"
+   },
+   "ebx_editorIsOff": {
+      "message": "编辑器已关闭"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "编辑器当前已关闭 {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "{0} 随附于编辑器中"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "更多编辑器设置"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "没有与搜索匹配的语言"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "在 {0} 上启用编辑器"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " 和 "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": "， "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "编辑器已 $1 此邮件的高级写作创意。"
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "编辑器 $1 具有高级编写创意。"
+   },
+   "ebx_excludedSites": {
+      "message": "排除的网站"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "报告此建议"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "请谈谈你为什么选择那个答案。"
+   },
+   "ebx_feedbackLink": {
+      "message": "反馈"
+   },
+   "ebx_feedbackMessage": {
+      "message": "请帮助我们改进 Editor，方式是"
+   },
+   "ebx_feedbackRating1": {
+      "message": "非常差"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "非常不好"
+   },
+   "ebx_feedbackRating2": {
+      "message": "不太好"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "不太好"
+   },
+   "ebx_feedbackRating3": {
+      "message": "不好不坏"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "不好不坏"
+   },
+   "ebx_feedbackRating4": {
+      "message": "还可以"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "还可以"
+   },
+   "ebx_feedbackRating5": {
+      "message": "非常好"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "非常好"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "总的来说，如何描述 Microsoft 编辑器使用体验?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "总的来说，使用 Microsoft 编辑器获取拼写、语法、预测和其他写作改进建议时的感受如何?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "向 Microsoft 提供有关编辑器的反馈"
+   },
+   "ebx_giveFeedback": {
+      "message": "提供反馈"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "获取 Microsoft 编辑器的高级写作创意、1 TB 的 OneDrive 存储空间以及所有 Microsoft 365 应用中的高级功能。"
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "获取 Microsoft 编辑器的高级写作创意、1 TB 的 OneDrive 存储空间以及所有 Microsoft 365 应用中的高级功能。"
+   },
+   "ebx_goPremiumLine": {
+      "message": "请试用 Editor 的高级写作创意。"
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "转到高级版"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "升级到高级版"
+   },
+   "ebx_goToSettings": {
+      "message": "跳转到编辑器设置"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "转到编辑器设置以了解详细信息"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Docs"
+   },
+   "ebx_grammar": {
+      "message": "语法"
+   },
+   "ebx_hideSynonyms": {
+      "message": "隐藏同义词"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "全部忽略"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "忽略"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "打开编辑器，或右键单击以获取更多选项"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "查看编辑器中的所有建议，或右键单击以获取更多选项"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "在此行上找到 \"$1\" 校对问题"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "在此行上找到 \"$1\" 校对问题"
+   },
+   "ebx_languageAdded": {
+      "message": "已成功添加“{0}”"
+   },
+   "ebx_languageMovedDown": {
+      "message": "“{0}”已成功在列表中下移了一个位置"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\"已成功移动到列表顶部"
+   },
+   "ebx_languageMovedUp": {
+      "message": "“{0}”已成功在列表中上移了一个位置"
+   },
+   "ebx_languageRemoved": {
+      "message": "已成功删除 “{0}”"
+   },
+   "ebx_learnMore": {
+      "message": "了解详细信息"
+   },
+   "ebx_manageLanguages": {
+      "message": "管理语言..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "管理拼写检查语言"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "{0} 的更多命令"
+   },
+   "ebx_moveDown": {
+      "message": "~向下移动"
+   },
+   "ebx_moveToTop": {
+      "message": "移到顶部"
+   },
+   "ebx_moveUp": {
+      "message": "~向上移动"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "下一条建议，剩余$1"
+   },
+   "ebx_openEditorLabel": {
+      "message": "打开编辑器"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "编辑器设置"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "由于你多次创建此拼写错误，我们已将\"$1\"添加到自动更正列表中。"
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1天后此预览版到期。请升级以获取无限量的建议:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "$1天后此预览版到期。请升级以获取无限量的建议:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "获取编辑器的高级写作创意。"
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1条建议还可供预览。请升级以获取无限量的建议:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1条建议还可供预览。请升级以获取无限量的建议:"
+   },
+   "ebx_preview": {
+      "message": "(预览)"
+   },
+   "ebx_previewLabel": {
+      "message": "预览"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "下一条建议，剩余$1"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "使用此联机服务时，将自动发送可选诊断数据，帮助我们改进产品。"
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "详细了解诊断数据"
+   },
+   "ebx_privacyOptions": {
+      "message": "个人信息选项"
+   },
+   "ebx_proofingLanguage": {
+      "message": "校对语言"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "按向右键访问“更多”命令按钮。"
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "校对语言"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "一次最多只能打开三种语言的校对。"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "选择校对语言"
+   },
+   "ebx_proofingLanguages": {
+      "message": "校对语言"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "最多选择三种语言。首选语言将位于顶部。"
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "校对语言"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "你觉得编辑器有用吗?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "我们只想问两个问题"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "提供反馈"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "很遗憾听到此消息。请告诉我们如何改进编辑器。"
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "否"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "不，谢谢"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "太棒了! 是否要评价它?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "如果你仍然喜欢使用编辑器，你想对它进行评价吗?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "当然"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "是"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "有关 Microsoft 编辑器的反馈"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "欢迎提供反馈"
+   },
+   "ebx_refinements": {
+      "message": "优化项"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "优化就是高级写作建议，有助于使你的书写更清晰、更简洁或更正式。"
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "此单词重复"
+   },
+   "ebx_settings": {
+      "message": "设置"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "打开编辑器设置"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "打开编辑器设置以选择校对语言。"
+   },
+   "ebx_settingsLabel": {
+      "message": "帐户设置"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Microsoft 编辑器设置"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "每种语言的设置"
+   },
+   "ebx_showBeta": {
+      "message": "$1 上的 Beta 版"
+   },
+   "ebx_showSynonyms": {
+      "message": "显示同义词"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "显示拼写建议的同义词"
+   },
+   "ebx_signInDescription": {
+      "message": "若要获得大多数网站上的语法和改进建议，以及个性化的拼写词典，请登录。"
+   },
+   "ebx_signInHelpLabel": {
+      "message": "需要帮助登录吗?"
+   },
+   "ebx_signInLabel": {
+      "message": "登录或注册"
+   },
+   "ebx_signInToAccess": {
+      "message": "登录以访问"
+   },
+   "ebx_signIntoEditor": {
+      "message": "登录到编辑器"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "若要获得大多数网站上的语法和改进建议，请登录。"
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "用于个性化拼写"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "要获取个性化的拼写词典，请登录。"
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "若要获得大多数网站上的语法和改进建议，请登录。"
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "若要获得大多数网站上的语法和改进建议，以及个性化的拼写词典，请登录。"
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "登录到编辑器"
+   },
+   "ebx_signOutLabel": {
+      "message": "退出登录"
+   },
+   "ebx_signOutTooltip": {
+      "message": "如果注销，所有设置都将重置为默认值，并且已排除的网站列表将丢失。"
+   },
+   "ebx_spelling": {
+      "message": "拼写检查"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "仔细检查是否正确"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "更多操作"
+   },
+   "ebx_synonyms": {
+      "message": "同义词"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[同义词不可用]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "在写入时获取同义词: 双击单词，或选择并按 (Alt+向下键)。"
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "在写入时获取同义词: 双击单词，或选择并按 (⌃ + ⌥ + ↓)。"
+   },
+   "ebx_toggleOff": {
+      "message": "关"
+   },
+   "ebx_toggleOn": {
+      "message": "开"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "是的，请启用"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "我们现在提供一些建议来帮助你检查写作风格。你想看看吗?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "关闭"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "暂不需要"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "在编辑器设置中进行更改"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "不再显示风格建议"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "风格检测现已关闭。"
+   },
+   "ebx_tonalFreTitle": {
+      "message": "风格检测"
+   },
+   "ebx_toneLabel": {
+      "message": "语气"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "标记此主题以帮助其他人访问与之连接的说明、人员和资源。"
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Viva Topics 建议"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "请试用编辑器的高级写作创意"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "立即试用"
+   },
+   "ebx_turnOffEditor": {
+      "message": "关闭 Editor"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "编辑器连接到 Microsoft 在线服务，在大多数网站上为书写提供拼写、语法和样式建议。"
+   },
+   "ebx_turnOnEditor": {
+      "message": "打开编辑器"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "撤消"
+   },
+   "ebx_undoButtonText": {
+      "message": "撤消"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "自动更正选项"
+   },
+   "ebx_userBlockedSites": {
+      "message": "阻止的网站"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "无效 URL. 请提供以下格式的 URL: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "行 {1} 处的 URL“{0}”无效。"
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "你已在下列网站上禁用 Editor。可能会在具有敏感内容或加载速度较慢的其他网站上自动关闭 Editor。"
+   },
+   "ebx_viewAccount": {
+      "message": "查看帐户"
+   },
+   "editor": {
+      "message": "编辑器"
+   },
+   "editorButtonText": {
+      "message": "编辑器"
+   },
+   "emailWarningMessage": {
+      "message": "若要使用 Copilot，请转到电子邮件结尾。"
+   },
+   "emptyStateMessage": {
+      "message": "选择一些要重写的文本"
+   },
+   "errorLabel": {
+      "message": "错误"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "字典"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "通过键入特殊字符、正斜杠(/) 链接到内容。"
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "标记内容"
+   },
+   "esdk_autocorrect": {
+      "message": "自动更正"
+   },
+   "esdk_cancelButton": {
+      "message": "取消"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "设置"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}，开关，关闭。"
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}，开关，开启。"
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}。点击选项卡以收听类别的状态"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "用于展开类别的向右键。"
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "已禁用详细设置。"
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "用于输入详细设置的向右键。"
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0}已禁用 "
+   },
+   "esdk_categoryListAllOff": {
+      "message": "现已取消选中此类别中的所有详细设置。"
+   },
+   "esdk_categoryListAllOn": {
+      "message": "现已检查此类别中的所有详细设置。"
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "{0} 的详细设置"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "用于切换类别状态的空格或 Enter ，"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "除非打开 \"编辑器\" 窗格，否则编辑器不会标记此问题"
+   },
+   "esdk_closeButton": {
+      "message": "关闭"
+   },
+   "esdk_copilotInsert": {
+      "message": "插入"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot 目前仅支持英语"
+   },
+   "esdk_copilotRewrite": {
+      "message": "重写"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "更正项"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "向左箭头返回“设置”"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "用于详细设置的右箭头"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "必须启用类别才能更改复选框的值"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "更改编辑器纠正并建议对此应用中的文本进行的改进"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Microsoft 编辑器设置"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "打开拼写以使用自动更正"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "增强功能"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "加载编辑器设置失败"
+   },
+   "esdk_goPremiumButton": {
+      "message": "升级到高级版"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "升级到高级版后，可获取高级协作创意和 1 TB 的存储空间"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}。点击选项卡以收听状态"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "直接编辑"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "校对语言"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "设置用于"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "编辑器会检测文本何时引用文件或数据，并提供创建链接的选项。"
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "链接建议"
+   },
+   "esdk_okButton": {
+      "message": "确定"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "折叠校对首选项。"
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "选择编辑器检查的内容。"
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "最多选择三种语言。首选语言将位于顶部。"
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "编辑语言"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "展开校对首选项。"
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "校对首选项"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "校对语言设置"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "校对设置"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "编辑语言"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "最多选择三种语言。首选语言将位于顶部。"
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "校对设置"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "校对语言设置"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "优化项"
+   },
+   "esdk_resetToDefault": {
+      "message": "重置为默认值"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "请试用编辑器的高级写作建议。"
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "下载详细信息"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "并非所有语言都具有相同的写作指导。下载此文档以查看有关所选语言可用的语法和优化设置的详细信息。"
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "了解更多信息"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "并非所有语言都具有相同的写作指导。请访问此链接以详细了解适用于所有编辑器语言的语法和优化设置。"
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "并非所有语言都具有相同的写作指导。{Learn more}适用于所有编辑器语言的语法和优化设置。"
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "对拼写检查选项所做的更改将应用于全部已启用的语言"
+   },
+   "esdk_synonyms": {
+      "message": "同义词 (预览版)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "编辑器会在你输入时预测并插入接下来的字词，以及文件或其他对象。"
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "文本预测"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "为了帮助你更快地书写，编辑器会预见下一字词，并在你键入时建议字词或短语。"
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "学习提示"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "示例"
+   },
+   "explanationTableAfter": {
+      "message": "请考虑:"
+   },
+   "explanationTableBefore": {
+      "message": "而不是:"
+   },
+   "explanationTableSeparator": {
+      "message": "或"
+   },
+   "facebookInputPlaceholder": {
+      "message": "写一篇关于我去埃菲尔铁塔的帖子"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "若要使用 Copilot，请转到帖子末尾。"
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "下一页"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "提示 $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "上一页"
+   },
+   "generalErrorMessage": {
+      "message": "Microsoft 编辑器遇到问题，无法生成内容。"
+   },
+   "generateButtonLabel": {
+      "message": "生成"
+   },
+   "giveFeedbackButtonText": {
+      "message": "提供反馈"
+   },
+   "gmailInputPlaceholder": {
+      "message": "写入会议请求电子邮件"
+   },
+   "inputName": {
+      "message": "描述你希望编辑器写入的内容..."
+   },
+   "inputPlaceholder": {
+      "message": "描述要写入的内容"
+   },
+   "languageErrorMessage": {
+      "message": "重写尚不适用于所选语言。"
+   },
+   "limitErrorMessage": {
+      "message": "若要重写，请选择少于 100 个字。"
+   },
+   "linkedinInputPlaceholder": {
+      "message": "内容创建提示"
+   },
+   "loadingLabel": {
+      "message": "请稍等，正在为你准备一些内容..."
+   },
+   "loadingText": {
+      "message": "正在加载:"
+   },
+   "modalDescribeBy": {
+      "message": "生成其他编写所选文本的方式"
+   },
+   "moreButtonLabel": {
+      "message": "其他选项"
+   },
+   "moreButtonText": {
+      "message": "更多"
+   },
+   "moreOptionsLabel": {
+      "message": "更多选项"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "添加另一种拼写检查语言"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "添加拼写检查语言。"
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "若要获取相关的写作建议，"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "向编辑器添加另一种语言"
+   },
+   "nextSuggestion": {
+      "message": "下一条建议"
+   },
+   "nudgeTextForEmails": {
+      "message": "键入 $1 以查找电子邮件"
+   },
+   "nudgeTextForFile": {
+      "message": "键入 $1 以查找文件等"
+   },
+   "nudgeTextForMeetings": {
+      "message": "键入 $1 以查找会议"
+   },
+   "nudgeTextForPeople": {
+      "message": "键入 $1 以查找人员"
+   },
+   "prevSuggestion": {
+      "message": "上一条建议"
+   },
+   "preview": {
+      "message": "预览"
+   },
+   "previewText": {
+      "message": "预览"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "当你在新行上时，按 Ctrl + ALT + I 使用此功能。"
+   },
+   "promptSuggestButtonText": {
+      "message": "继续书写 "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+向右键"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "大声朗读原句"
+   },
+   "regenerateLabel": {
+      "message": "重新生成"
+   },
+   "replaceLabel": {
+      "message": "替换"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "报表生成的内容"
+   },
+   "reportOutput": {
+      "message": "报表输出"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "AI 生成的内容可能包含不准确的内容或敏感材料。请务必验证信息。"
+   },
+   "retry": {
+      "message": "重试"
+   },
+   "rewriteBrand": {
+      "message": "重写"
+   },
+   "rewriteWithCopilot": {
+      "message": "重写"
+   },
+   "sbx_signInDescription": {
+      "message": "若要获得大多数网站的语法和改进建议，以及个性化的拼写词典，请登录。"
+   },
+   "shareFeedback": {
+      "message": "共享反馈"
+   },
+   "showHeaderMessage": {
+      "message": "下面是编写此内容的一些其他方法"
+   },
+   "submitButtonTooltip": {
+      "message": "生成 (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "若要使用 Copilot，请转到段落末尾。"
+   },
+   "suggestionCountSeparator": {
+      "message": "，共"
+   },
+   "suggestionHint": {
+      "message": "输入以接受"
+   },
+   "tryAgainButtonLabel": {
+      "message": "重试"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "重新生成"
+   },
+   "twitterInputPlaceholder": {
+      "message": "写一条激励人心的推文"
+   },
+   "twitterWarningMessagePost": {
+      "message": "若要使用 Copilot，请转到推文末尾。"
+   }
+}

@@ -1,0 +1,7 @@
+2024/11/16-00:52:58.814 4 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2024/11/16-00:52:58.819 4 Recovering log #464
+2024/11/16-00:52:58.822 4 Level-0 table #468: started
+2024/11/16-00:52:58.841 4 Level-0 table #468: 252460 bytes OK
+2024/11/16-00:52:58.842 4 Recovering log #467
+2024/11/16-00:52:58.842 4 Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/Local Storage/leveldb/000467.log 
+2024/11/16-00:52:58.857 4 Delete type=0 #464

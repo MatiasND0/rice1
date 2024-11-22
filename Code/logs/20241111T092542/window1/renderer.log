@@ -1,0 +1,234 @@
+2024-11-11 09:25:45.757 [info] Started local extension host with pid 4336.
+2024-11-11 09:26:00.549 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:26:00.550 [info] Settings Sync: Authentication providers updated []
+2024-11-11 09:26:00.881 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:26:00.882 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-11 09:26:00.883 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:26:00.884 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-11 09:26:00.885 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-11 09:26:00.885 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:26:00.886 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-11 09:26:00.886 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:26:00.891 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 09:26:00.899 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:26:00.899 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 09:26:00.900 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-11 09:26:00.901 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:26:00.903 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 09:26:03.660 [info] [perf] Render performance baseline is 523ms
+2024-11-11 09:44:20.183 [info] Invoking resolveAuthority(ssh-remote)...
+2024-11-11 09:44:20.185 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1ms] obtaining proxy...
+2024-11-11 09:44:20.325 [info] Started local extension host with pid 5143.
+2024-11-11 09:44:22.481 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2296ms] invoking...
+2024-11-11 09:44:23.555 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3361ms] waiting...
+2024-11-11 09:44:24.483 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4297ms] waiting...
+2024-11-11 09:44:25.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5297ms] waiting...
+2024-11-11 09:44:26.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6297ms] waiting...
+2024-11-11 09:44:27.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][7297ms] waiting...
+2024-11-11 09:44:28.509 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][8324ms] waiting...
+2024-11-11 09:44:29.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][9297ms] waiting...
+2024-11-11 09:44:30.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][10297ms] waiting...
+2024-11-11 09:44:31.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][11297ms] waiting...
+2024-11-11 09:44:32.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][12297ms] waiting...
+2024-11-11 09:44:33.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][13297ms] waiting...
+2024-11-11 09:44:34.481 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][14297ms] waiting...
+2024-11-11 09:44:35.482 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][15297ms] waiting...
+2024-11-11 09:44:36.483 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][16297ms] waiting...
+2024-11-11 09:44:36.797 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][16611ms] returned Managed(1)
+2024-11-11 09:44:36.797 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 16614 ms
+2024-11-11 09:44:36.802 [info] Creating a socket (renderer-Management-9cf8db13-32a4-41c4-801a-29e45b4f38d1)...
+2024-11-11 09:44:36.804 [info] Creating a socket (renderer-ExtensionHost-143d157f-8a74-4746-8695-83727595f7c3)...
+2024-11-11 09:44:42.967 [info] Creating a socket (renderer-ExtensionHost-143d157f-8a74-4746-8695-83727595f7c3) was successful after 6160 ms.
+2024-11-11 09:44:42.976 [info] Creating a socket (renderer-Management-9cf8db13-32a4-41c4-801a-29e45b4f38d1) was successful after 6170 ms.
+2024-11-11 09:44:44.696 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:44:44.698 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 09:44:47.221 [info] [perf] Render performance baseline is 80ms
+2024-11-11 09:44:51.087 [info] Started local extension host with pid 5224.
+2024-11-11 09:44:53.833 [info] Invoking resolveAuthority(ssh-remote)...
+2024-11-11 09:44:53.835 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2024-11-11 09:44:53.836 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1ms] invoking...
+2024-11-11 09:44:54.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1003ms] waiting...
+2024-11-11 09:44:55.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2003ms] waiting...
+2024-11-11 09:44:56.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3003ms] waiting...
+2024-11-11 09:44:57.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4003ms] waiting...
+2024-11-11 09:44:58.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5003ms] waiting...
+2024-11-11 09:44:59.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6003ms] waiting...
+2024-11-11 09:45:00.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][7003ms] waiting...
+2024-11-11 09:45:01.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][8003ms] waiting...
+2024-11-11 09:45:02.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][9003ms] waiting...
+2024-11-11 09:45:03.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][10003ms] waiting...
+2024-11-11 09:45:04.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][11003ms] waiting...
+2024-11-11 09:45:05.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][12003ms] waiting...
+2024-11-11 09:45:06.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][13003ms] waiting...
+2024-11-11 09:45:07.838 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][14003ms] waiting...
+2024-11-11 09:45:08.243 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][14408ms] returned Managed(1)
+2024-11-11 09:45:08.244 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 14410 ms
+2024-11-11 09:45:08.246 [info] Creating a socket (renderer-Management-a216db10-5677-48ae-bb56-10c11a629295)...
+2024-11-11 09:45:08.248 [info] Creating a socket (renderer-ExtensionHost-0b0f753d-5f6d-442c-a50a-8fdae8eba254)...
+2024-11-11 09:45:08.302 [info] Creating a socket (renderer-Management-a216db10-5677-48ae-bb56-10c11a629295) was successful after 48 ms.
+2024-11-11 09:45:08.312 [info] Creating a socket (renderer-ExtensionHost-0b0f753d-5f6d-442c-a50a-8fdae8eba254) was successful after 64 ms.
+2024-11-11 09:45:09.568 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:45:09.575 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 09:45:11.506 [info] [perf] Render performance baseline is 117ms
+2024-11-11 09:45:12.275 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 09:45:12.276 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 10:05:11.921 [info] Extension host (Remote) is unresponsive.
+2024-11-11 10:05:27.464 [info] [remote-connection][ExtensionHost][0b0f7…][reconnect] received socket timeout event (unacknowledgedMsgCount: 3, timeSinceOldestUnacknowledgedMsg: 20026, timeSinceLastReceivedSomeData: 158326).
+2024-11-11 10:05:27.464 [info] [remote-connection][ExtensionHost][0b0f7…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+2024-11-11 10:05:27.465 [info] [remote-connection][ExtensionHost][0b0f7…][reconnect] resolving connection...
+2024-11-11 10:05:27.465 [info] [remote-connection][ExtensionHost][0b0f7…][reconnect] connecting to Managed(1)...
+2024-11-11 10:05:27.466 [info] Creating a socket (renderer-ExtensionHost-0b0f753d-5f6d-442c-a50a-8fdae8eba254)...
+2024-11-11 10:05:27.510 [info] Creating a socket (renderer-ExtensionHost-0b0f753d-5f6d-442c-a50a-8fdae8eba254) returned an error after 47 ms.
+2024-11-11 10:05:27.516 [error] Error: CodeError(AsyncPipeFailed(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" }))
+	at Object.resolve (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:294996)
+	at /home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:293695
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-11 10:05:27.519 [error] [remote-connection][ExtensionHost][0b0f7…][reconnect][Managed(1)] socketFactory.connect() failed or timed out. Error:
+2024-11-11 10:05:27.529 [error] Error: CodeError(AsyncPipeFailed(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" }))
+	at Object.resolve (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:294996)
+	at /home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:293695
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-11 10:05:27.530 [error] [remote-connection][ExtensionHost][0b0f7…][reconnect] An unknown error occurred while trying to reconnect, since this is an unknown case, it will be treated as a permanent error! Will give up now! Error:
+2024-11-11 10:05:27.532 [error] Error: CodeError(AsyncPipeFailed(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" }))
+	at Object.resolve (/home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:294996)
+	at /home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0/out/extension.js:2:293695
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-11 10:05:27.863 [info] [remote-connection][Management   ][a216d…][reconnect] received socket timeout event (unacknowledgedMsgCount: 90, timeSinceOldestUnacknowledgedMsg: 20165, timeSinceLastReceivedSomeData: 159482).
+2024-11-11 10:05:27.863 [info] [remote-connection][Management   ][a216d…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+2024-11-11 10:05:27.871 [info] [remote-connection][Management   ][a216d…][reconnect] resolving connection...
+2024-11-11 10:05:27.883 [info] Invoking resolveAuthority(ssh-remote)...
+2024-11-11 10:05:27.887 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][0ms] obtaining proxy...
+2024-11-11 10:05:27.891 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][1ms] invoking...
+2024-11-11 10:05:28.876 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][1003ms] waiting...
+2024-11-11 10:05:29.874 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][2002ms] waiting...
+2024-11-11 10:05:30.875 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][3002ms] waiting...
+2024-11-11 10:05:31.874 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][4002ms] waiting...
+2024-11-11 10:05:32.874 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][5002ms] waiting...
+2024-11-11 10:05:33.876 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][6004ms] waiting...
+2024-11-11 10:05:34.874 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][7002ms] waiting...
+2024-11-11 10:05:35.876 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][8002ms] waiting...
+2024-11-11 10:05:36.343 [info] [LocalProcess0][resolveAuthority(ssh-remote,2)][8471ms] returned Managed(2)
+2024-11-11 10:05:36.345 [info] resolveAuthority(ssh-remote) returned 'Managed(2)' after 8473 ms
+2024-11-11 10:05:36.350 [info] [remote-connection][Management   ][a216d…][reconnect] connecting to Managed(2)...
+2024-11-11 10:05:36.352 [info] Creating a socket (renderer-Management-a216db10-5677-48ae-bb56-10c11a629295)...
+2024-11-11 10:05:37.241 [info] Creating a socket (renderer-Management-a216db10-5677-48ae-bb56-10c11a629295) was successful after 889 ms.
+2024-11-11 10:05:37.426 [error] [remote-connection][Management   ][a216d…][reconnect][Managed(2)] received error control message when negotiating connection. Error:
+2024-11-11 10:05:37.429 [error] Error: Connection error: Unknown reconnection token (never seen)
+    at Dsi (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2525:39384)
+    at vZ.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2525:31527)
+    at x.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)
+    at rJi.A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:13507)
+    at vZ.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:12874)
+    at x.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at s5e.acceptChunk (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:8135)
+2024-11-11 10:05:37.429 [error] [remote-connection][Management   ][a216d…][reconnect] A permanent error occurred in the reconnecting loop! Will give up now! Error:
+2024-11-11 10:05:37.430 [error] Error: Connection error: Unknown reconnection token (never seen)
+    at Dsi (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2525:39384)
+    at vZ.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2525:31527)
+    at x.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at D6.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:10348)
+    at rJi.A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:13507)
+    at vZ.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:12874)
+    at x.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:965)
+    at s5e.acceptChunk (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:630:8135)
+2024-11-11 10:05:37.450 [error] Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/.vscode/settings.json' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68791)
+2024-11-11 10:05:37.450 [error] Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/.vscode/tasks.json' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68791)
+2024-11-11 10:05:37.454 [error] Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/.vscode/launch.json' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68791)
+2024-11-11 10:05:37.462 [error] Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/lab_back/controllers/bookingController.js' (Canceled: Canceled): Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/lab_back/controllers/bookingController.js' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Gnt.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:9119)
+    at async Gnt.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:8894)
+    at async Pde.Db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1275:11960)
+    at async Pde.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1275:10435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:5479
+2024-11-11 10:05:37.485 [error] Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/.vscode/settings.json' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68791)
+2024-11-11 10:05:37.485 [error] Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/.vscode/tasks.json' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68791)
+2024-11-11 10:05:37.486 [error] Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/.vscode/launch.json' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:68791)
+2024-11-11 10:05:37.488 [error] TreeError [FileExplorer] Unknown compressed tree node: Error: TreeError [FileExplorer] Unknown compressed tree node
+    at T$i.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:416:10530)
+    at N$i.setChildren (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:416:14663)
+    at b$.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:416:37023)
+    at b$.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:416:40887)
+    at b$.E (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:416:34199)
+2024-11-11 10:05:38.133 [error] Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/lab_back/controllers/bookingController.js' (Canceled: Canceled): Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/lab_back/controllers/bookingController.js' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Gnt.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:9119)
+    at async Gnt.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:8894)
+    at async Pde.Db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1275:11960)
+    at async Pde.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1275:10435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:5479
+2024-11-11 10:05:39.387 [error] Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/lab_back/controllers/bookingController.js' (Canceled: Canceled): Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/lab_back/controllers/bookingController.js' (Canceled: Canceled)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Gnt.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:9119)
+    at async Gnt.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:8894)
+    at async Pde.Db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1275:11960)
+    at async Pde.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1275:10435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:5479
+2024-11-11 10:05:40.886 [info] Started local extension host with pid 5796.
+2024-11-11 10:05:43.711 [info] Invoking resolveAuthority(ssh-remote)...
+2024-11-11 10:05:43.713 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2024-11-11 10:05:43.714 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] invoking...
+2024-11-11 10:05:44.712 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1000ms] waiting...
+2024-11-11 10:05:45.712 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2000ms] waiting...
+2024-11-11 10:05:46.712 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3000ms] waiting...
+2024-11-11 10:05:47.712 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4000ms] waiting...
+2024-11-11 10:05:48.713 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5000ms] waiting...
+2024-11-11 10:05:49.712 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6000ms] waiting...
+2024-11-11 10:05:50.712 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][7000ms] waiting...
+2024-11-11 10:05:51.437 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][7725ms] returned Managed(1)
+2024-11-11 10:05:51.438 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 7727 ms
+2024-11-11 10:05:51.441 [info] Creating a socket (renderer-Management-86d6b238-9992-4571-a917-407952d4611c)...
+2024-11-11 10:05:51.443 [info] Creating a socket (renderer-ExtensionHost-bcfdff49-5a92-428b-86f8-0681610c4264)...
+2024-11-11 10:05:51.746 [info] Creating a socket (renderer-Management-86d6b238-9992-4571-a917-407952d4611c) was successful after 304 ms.
+2024-11-11 10:05:51.748 [info] Creating a socket (renderer-ExtensionHost-bcfdff49-5a92-428b-86f8-0681610c4264) was successful after 305 ms.
+2024-11-11 10:05:53.669 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 10:05:53.672 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 10:05:56.947 [info] [perf] Render performance baseline is 211ms
+2024-11-11 10:05:58.354 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 10:05:58.356 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 10:08:38.489 [info] Extension host (Remote) is unresponsive.
+2024-11-11 10:08:38.509 [info] Extension host (Remote) is responsive.
+2024-11-11 10:17:23.971 [info] Extension host (Remote) is unresponsive.
+2024-11-11 10:17:23.971 [info] Extension host (Remote) is responsive.
+2024-11-11 10:22:23.924 [info] Extension host (Remote) is unresponsive.
+2024-11-11 10:22:24.018 [info] Extension host (Remote) is responsive.
+2024-11-11 10:25:58.388 [error] Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/lab_front/src/components/ReservaProyector.js' (Error: File not modified since): Error: Unable to read file 'vscode-remote://ssh-remote+10.10.203.9/home/diit/WEB/lab_front/src/components/ReservaProyector.js' (Error: File not modified since)
+    at Pnt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69610)
+    at Pnt.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Gnt.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:9119)
+    at async Gnt.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:8894)
+    at async Pde.Db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1275:11960)
+    at async Pde.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1275:10435)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3089:5479

@@ -1,0 +1,1 @@
+module.exports.mailController = (req, res) => {}

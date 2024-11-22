@@ -1,0 +1,28 @@
+2024-11-13 18:49:53.768 [info] Getting Manifest... ms-python.python
+2024-11-13 18:49:53.773 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-11-13 18:49:53.890 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json","path":"/home/hhouse/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:49:53.903 [info] Installing extension: ms-vscode-remote.remote-ssh {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json","path":"/home/hhouse/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:50:00.695 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 4421ms.
+2024-11-13 18:50:00.770 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: Success. Executed: true. Duration: 5243ms.
+2024-11-13 18:50:01.371 [info] Extracted extension to file:///home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.1: ms-vscode-remote.remote-ssh
+2024-11-13 18:50:01.447 [info] Renamed to /home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.1
+2024-11-13 18:50:01.499 [info] Marked extension as uninstalled ms-vscode-remote.remote-ssh-0.115.0
+2024-11-13 18:50:01.516 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json
+2024-11-13 18:50:01.549 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-13 18:50:04.672 [info] Extracted extension to file:///home/hhouse/.vscode/extensions/ms-python.python-2024.20.0-linux-x64: ms-python.python
+2024-11-13 18:50:04.812 [info] Renamed to /home/hhouse/.vscode/extensions/ms-python.python-2024.20.0-linux-x64
+2024-11-13 18:50:04.876 [info] Marked extension as uninstalled ms-python.python-2024.18.1-linux-x64
+2024-11-13 18:50:04.907 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json
+2024-11-13 18:50:04.928 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

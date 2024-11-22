@@ -1,0 +1,7 @@
+2024/11/09-11:46:55.951 56c Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/09-11:46:55.951 56c Recovering log #6
+2024/11/09-11:46:55.952 56c Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000006.log 
+2024/11/09-11:46:56.029 56c Level-0 table #11: started
+2024/11/09-11:46:56.043 56c Level-0 table #11: 516 bytes OK
+2024/11/09-11:46:56.045 56c Delete type=0 #6
+2024/11/09-11:46:56.046 56c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

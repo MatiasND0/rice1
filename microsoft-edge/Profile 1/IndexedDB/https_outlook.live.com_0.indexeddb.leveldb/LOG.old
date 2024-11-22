@@ -1,0 +1,41 @@
+2024/11/09-02:15:05.549 5e1 Creating DB /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb since it was missing.
+2024/11/09-02:15:05.567 5e1 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/09-02:15:05.596 5e5 Level-0 table #5: started
+2024/11/09-02:15:05.610 5e5 Level-0 table #5: 571 bytes OK
+2024/11/09-02:15:05.613 5e5 Delete type=0 #3
+2024/11/09-02:15:05.613 5e1 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/09-02:15:07.329 5e1 Level-0 table #7: started
+2024/11/09-02:15:07.343 5e5 Current memtable full; waiting...
+2024/11/09-02:15:07.344 5e1 Level-0 table #7: 626 bytes OK
+2024/11/09-02:15:07.347 5e1 Delete type=0 #4
+2024/11/09-02:15:07.347 5e1 Level-0 table #9: started
+2024/11/09-02:15:07.360 5e1 Level-0 table #9: 476 bytes OK
+2024/11/09-02:15:07.373 5e1 Delete type=0 #6
+2024/11/09-02:15:07.374 5e1 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 53 : 0
+2024/11/09-02:15:07.374 5e1 Compacting 1@0 + 1@1 files
+2024/11/09-02:15:07.387 5e1 Generated table #10@0: 14 keys, 575 bytes
+2024/11/09-02:15:07.388 5e1 Compacted 1@0 + 1@1 files => 575 bytes
+2024/11/09-02:15:07.400 5e1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/09-02:15:07.400 5e1 Delete type=2 #9
+2024/11/09-02:15:07.400 5e1 Delete type=2 #7
+2024/11/09-02:15:07.401 5e1 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/09-02:15:07.401 5e1 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 53 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/09-02:15:09.383 5e2 Level-0 table #12: started
+2024/11/09-02:15:09.396 5e2 Level-0 table #12: 271 bytes OK
+2024/11/09-02:15:09.399 5e2 Delete type=0 #8
+2024/11/09-02:15:09.400 5e2 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 54 : 0
+2024/11/09-02:15:09.400 5e2 Compacting 1@0 + 1@1 files
+2024/11/09-02:15:09.414 5e2 Generated table #13@0: 16 keys, 596 bytes
+2024/11/09-02:15:09.414 5e2 Compacted 1@0 + 1@1 files => 596 bytes
+2024/11/09-02:15:09.416 5e2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/09-02:15:09.416 5e2 Delete type=2 #12
+2024/11/09-02:15:09.416 5e2 Delete type=2 #10
+2024/11/09-02:15:09.416 5e2 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 54 : 0 .. (end); will stop at (end)
+2024/11/09-02:15:09.416 5e2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x1a\x00h\x00t\x00t\x00p\x00s\x00_\x00o\x00u\x00t\x00l\x00o\x00o\x00k\x00.\x00l\x00i\x00v\x00e\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x17\x00o\x00w\x00a\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00-\x00s\x00y\x00s\x00t\x00e\x00m\x00-\x00d\x00a\x00t\x00a' @ 32 : 0
+2024/11/09-02:15:09.416 5e2 Compacting 1@1 + 1@2 files
+2024/11/09-02:15:09.430 5e2 Generated table #14@1: 6 keys, 268 bytes
+2024/11/09-02:15:09.430 5e2 Compacted 1@1 + 1@2 files => 268 bytes
+2024/11/09-02:15:09.444 5e2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/09-02:15:09.444 5e2 Delete type=2 #13
+2024/11/09-02:15:09.444 5e2 Delete type=2 #5
+2024/11/09-02:15:09.444 5e2 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x1a\x00h\x00t\x00t\x00p\x00s\x00_\x00o\x00u\x00t\x00l\x00o\x00o\x00k\x00.\x00l\x00i\x00v\x00e\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x17\x00o\x00w\x00a\x00-\x00o\x00f\x00f\x00l\x00i\x00n\x00e\x00-\x00s\x00y\x00s\x00t\x00e\x00m\x00-\x00d\x00a\x00t\x00a' @ 32 : 0 .. (end); will stop at (end)

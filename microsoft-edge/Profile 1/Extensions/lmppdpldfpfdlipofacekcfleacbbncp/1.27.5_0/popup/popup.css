@@ -1,0 +1,47 @@
+/**
+ * @license
+ * Copyright (C) 2020, 2021, 2022  WofWca <wofwca@protonmail.com>
+ *
+ * This file is part of Jump Cutter Browser Extension.
+ *
+ * Jump Cutter Browser Extension is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Jump Cutter Browser Extension is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with Jump Cutter Browser Extension.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
+:root {
+  --number-representation-min-width: 6ch;
+}
+
+html, body {
+  font-size: 12px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+
+  /* This is so we can set a border for the popup (see below). I'd be glad to apply it to `html`
+  instead of `body`, but in Chromium there appears to be a bug – the bottom border is not displayed.
+  It appears to be related to the fact that it's truncated because the width of the border is not taken into account
+  when the height of the popup is calculated - try setting `margin-top: -5px;` on html and you'll see it.
+  TODO report/fix it. */
+  margin: 0;
+  padding: 0.625rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  body.better-dark-border {
+    /* Otherwise (at least in Chromium) the border is not enough pronounced on dark-themed websites,
+    which may get fixed later. On light-themed the default is fine though. */
+    border: 1px solid #585858;
+  }
+}

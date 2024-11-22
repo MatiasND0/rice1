@@ -1,0 +1,44 @@
+{
+   "absolute": {
+      "message": "bezwzględna"
+   },
+   "contact": {
+      "message": "Skontaktuj się z nami"
+   },
+   "contentScriptFail": {
+      "message": "Nie udało się uruchomić skryptu na tej stronie"
+   },
+   "enable": {
+      "message": "Włacz"
+   },
+   "extensionDescription": {
+      "message": "Oglądaj wykłady ~1,5x szybciej dzięki szybkiemu przewijaniu długich przerw miedzy zdaniami"
+   },
+   "fileInputLabel": {
+      "message": "Przeciągnij plik / pliki\nalbo naciśnij tutaj aby wybrać"
+   },
+   "noSuitableElement": {
+      "message": "Nie znaleziono odpowiedniego elementu multimedialnego na stronie"
+   },
+   "openLocalFile": {
+      "message": "otwórz lokalny plik"
+   },
+   "relativeToSounded": {
+      "message": "w odniesieniu do prędkości dźwięku"
+   },
+   "resetToDefaults": {
+      "message": "Przywróć domyślne ustawienia"
+   },
+   "silenceSpeed": {
+      "message": "Prędkość ciszy"
+   },
+   "soundedSpeed": {
+      "message": "Prędkość dźwięku"
+   },
+   "useExperimentalAlgorithm": {
+      "message": "Użyj eksperymentalnego algorytmu"
+   },
+   "volumeThreshold": {
+      "message": "Najniższa głośność mowy"
+   }
+}

@@ -1,0 +1,47 @@
+2024/11/09-11:47:00.113 56c Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/09-11:47:00.113 56c Recovering log #10
+2024/11/09-11:47:00.113 56c Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000010.log 
+2024/11/09-11:56:51.848 56d Compacting 1@1 + 1@2 files
+2024/11/09-11:56:51.862 56d Generated table #13@1: 132 keys, 2025 bytes
+2024/11/09-11:56:51.862 56d Compacted 1@1 + 1@2 files => 2025 bytes
+2024/11/09-11:56:51.864 56d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/09-11:56:51.864 56d Delete type=2 #8
+2024/11/09-11:56:51.864 56d Delete type=2 #11
+2024/11/09-12:06:20.435 56d Level-0 table #15: started
+2024/11/09-12:06:20.528 56d Level-0 table #15: 1069107 bytes OK
+2024/11/09-12:06:20.542 56d Delete type=0 #10
+2024/11/09-12:06:23.654 56e Compacting 1@1 + 1@2 files
+2024/11/09-12:06:23.699 56e Generated table #16@1: 2756 keys, 99842 bytes
+2024/11/09-12:06:23.699 56e Compacted 1@1 + 1@2 files => 99842 bytes
+2024/11/09-12:06:23.711 56e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/09-12:06:23.712 56e Delete type=2 #13
+2024/11/09-12:06:23.712 56e Delete type=2 #15
+2024/11/09-12:13:11.156 56c Level-0 table #18: started
+2024/11/09-12:13:11.246 56c Level-0 table #18: 1120507 bytes OK
+2024/11/09-12:13:11.260 56c Delete type=0 #14
+2024/11/09-12:13:27.915 56c Level-0 table #20: started
+2024/11/09-12:13:27.929 56c Level-0 table #20: 10491 bytes OK
+2024/11/09-12:13:27.943 56c Delete type=0 #17
+2024/11/09-12:13:27.943 56c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 70800 : 1
+2024/11/09-12:13:27.943 56c Compacting 1@0 + 1@1 files
+2024/11/09-12:13:27.991 56c Generated table #21@0: 16715 keys, 220820 bytes
+2024/11/09-12:13:27.991 56c Compacted 1@0 + 1@1 files => 220820 bytes
+2024/11/09-12:13:27.994 56c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/09-12:13:27.994 56c Delete type=2 #20
+2024/11/09-12:13:27.994 56c Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 70800 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/09-12:13:44.562 56d Compacting 1@1 + 1@2 files
+2024/11/09-12:13:44.585 56d Generated table #22@1: 5152 keys, 184491 bytes
+2024/11/09-12:13:44.585 56d Compacted 1@1 + 1@2 files => 184491 bytes
+2024/11/09-12:13:44.598 56d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/09-12:13:44.599 56d Delete type=2 #21
+2024/11/09-12:13:44.599 56d Delete type=2 #18
+2024/11/09-12:13:44.599 56d Delete type=2 #16
+2024/11/09-12:21:14.943 56c Level-0 table #24: started
+2024/11/09-12:21:15.032 56c Level-0 table #24: 1102103 bytes OK
+2024/11/09-12:21:15.046 56c Delete type=0 #19
+2024/11/09-12:21:15.967 56d Compacting 1@1 + 1@2 files
+2024/11/09-12:21:16.011 56d Generated table #25@1: 7516 keys, 270467 bytes
+2024/11/09-12:21:16.011 56d Compacted 1@1 + 1@2 files => 270467 bytes
+2024/11/09-12:21:16.023 56d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/09-12:21:16.024 56d Delete type=2 #24
+2024/11/09-12:21:16.024 56d Delete type=2 #22

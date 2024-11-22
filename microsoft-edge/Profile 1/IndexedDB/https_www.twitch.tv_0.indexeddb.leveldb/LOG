@@ -1,0 +1,6 @@
+2024/11/15-21:15:34.452 541 Creating DB /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2024/11/15-21:15:34.479 541 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/15-21:16:06.524 541 Level-0 table #5: started
+2024/11/15-21:16:06.537 541 Level-0 table #5: 856 bytes OK
+2024/11/15-21:16:06.550 541 Delete type=0 #3
+2024/11/15-21:16:06.551 541 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

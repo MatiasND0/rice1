@@ -1,0 +1,13 @@
+2024-11-11 09:25:42.737 [info] update#setState idle
+2024-11-11 09:26:12.605 [info] update#setState checking for updates
+2024-11-11 09:26:12.850 [info] update#setState idle
+2024-11-11 09:44:18.826 [info] Extension host with pid 4336 exited with code: 0, signal: unknown.
+2024-11-11 09:44:19.014 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown
+2024-11-11 09:44:49.561 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown
+2024-11-11 09:44:49.565 [info] Extension host with pid 5143 exited with code: 0, signal: unknown.
+2024-11-11 10:05:39.438 [info] Extension host with pid 5224 exited with code: 0, signal: unknown.
+2024-11-11 10:05:39.504 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown
+2024-11-11 10:26:12.609 [info] update#setState checking for updates
+2024-11-11 10:26:13.663 [info] update#setState idle
+2024-11-11 10:30:58.228 [info] Extension host with pid 5796 exited with code: 0, signal: unknown.
+2024-11-11 10:30:58.306 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown

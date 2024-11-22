@@ -1,0 +1,30 @@
+2024/11/15-19:04:01.144 540 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2024/11/15-19:04:01.144 540 Recovering log #70
+2024/11/15-19:04:01.261 540 Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/000070.log 
+2024/11/15-19:05:48.179 54e Level-0 table #74: started
+2024/11/15-19:05:48.332 54e Level-0 table #74: 2323789 bytes OK
+2024/11/15-19:05:48.339 54e Delete type=0 #70
+2024/11/15-19:13:35.005 541 Level-0 table #76: started
+2024/11/15-19:13:35.096 541 Level-0 table #76: 2326559 bytes OK
+2024/11/15-19:13:35.099 541 Delete type=0 #73
+2024/11/15-19:19:53.220 541 Level-0 table #78: started
+2024/11/15-19:19:53.317 541 Level-0 table #78: 2333181 bytes OK
+2024/11/15-19:19:53.322 541 Delete type=0 #75
+2024/11/15-19:19:53.324 541 Compacting 4@0 + 1@1 files
+2024/11/15-19:19:53.353 541 Generated table #79@0: 1 keys, 212404 bytes
+2024/11/15-19:19:53.354 541 Compacted 4@0 + 1@1 files => 212404 bytes
+2024/11/15-19:19:53.366 541 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/15-19:19:53.367 541 Delete type=2 #68
+2024/11/15-19:19:53.367 541 Delete type=2 #74
+2024/11/15-19:19:53.367 541 Delete type=2 #76
+2024/11/15-19:19:53.367 541 Delete type=2 #78
+2024/11/15-19:19:53.367 541 Delete type=2 #71
+2024/11/15-19:43:36.364 541 Level-0 table #81: started
+2024/11/15-19:43:36.452 541 Level-0 table #81: 2336443 bytes OK
+2024/11/15-19:43:36.465 541 Delete type=0 #77
+2024/11/15-21:10:52.208 541 Level-0 table #83: started
+2024/11/15-21:10:52.304 541 Level-0 table #83: 2339655 bytes OK
+2024/11/15-21:10:52.317 541 Delete type=0 #80
+2024/11/15-21:17:26.853 541 Level-0 table #85: started
+2024/11/15-21:17:26.958 541 Level-0 table #85: 2344695 bytes OK
+2024/11/15-21:17:26.973 541 Delete type=0 #82

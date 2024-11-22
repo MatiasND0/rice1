@@ -1,0 +1,8 @@
+html {
+  width: 262px;
+  min-height: 290px; /* prevents jittering when opening the popup */
+}
+
+body {
+  margin: 0 !important;
+}

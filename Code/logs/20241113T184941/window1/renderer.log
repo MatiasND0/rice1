@@ -1,0 +1,10 @@
+2024-11-13 18:49:46.163 [info] Started local extension host with pid 2363.
+2024-11-13 18:49:48.701 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:49:48.703 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-13 18:49:52.343 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:49:52.344 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-13 18:49:52.416 [info] [perf] Render performance baseline is 128ms
+2024-11-13 18:55:03.647 [info] Extension host (LocalProcess pid: 2363) is unresponsive.
+2024-11-13 18:55:03.815 [info] Extension host (LocalProcess pid: 2363) is responsive.
+2024-11-13 18:55:04.503 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-11-13 18:55:07.279 [info] UNRESPONSIVE extension host: starting to profile NOW

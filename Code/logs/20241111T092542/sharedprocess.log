@@ -1,0 +1,39 @@
+2024-11-11 09:42:19.065 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-11-11 09:42:19.091 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json","path":"/home/hhouse/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"}}
+2024-11-11 09:42:19.567 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2024-11-11 09:42:19.585 [info] Getting Manifest... ms-vscode.remote-explorer
+2024-11-11 09:42:19.690 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json","path":"/home/hhouse/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-11 09:42:19.691 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json","path":"/home/hhouse/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-11 09:42:28.896 [info] Extension signature verification result for ms-vscode.remote-explorer: Success. Executed: true. Duration: 8440ms.
+2024-11-11 09:42:29.071 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: Success. Executed: true. Duration: 8355ms.
+2024-11-11 09:42:29.159 [info] Extension signature verification result for ms-vscode-remote.remote-ssh-edit: Success. Executed: true. Duration: 8495ms.
+2024-11-11 09:42:29.329 [info] Extracted extension to file:///home/hhouse/.vscode/extensions/ms-vscode.remote-explorer-0.4.3: ms-vscode.remote-explorer
+2024-11-11 09:42:29.350 [info] Renamed to /home/hhouse/.vscode/extensions/ms-vscode.remote-explorer-0.4.3
+2024-11-11 09:42:29.524 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-11 09:42:29.847 [info] Extracted extension to file:///home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2024-11-11 09:42:29.873 [info] Renamed to /home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2024-11-11 09:42:29.970 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-11 09:42:30.493 [info] Extracted extension to file:///home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0: ms-vscode-remote.remote-ssh
+2024-11-11 09:42:30.507 [info] Renamed to /home/hhouse/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0
+2024-11-11 09:42:30.624 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json
+2024-11-11 09:42:30.626 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json
+2024-11-11 09:42:30.628 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/hhouse/.vscode/extensions/extensions.json
+2024-11-11 09:42:30.651 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hhouse/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

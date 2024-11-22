@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/pipVideo.png"
+      },
+      "default_title": "__MSG_extName__"
+   },
+   "description": "Video picture in picture",
+   "icons": {
+      "128": "img/pipVideo128.png",
+      "48": "img/pipVideo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6riO3ubMR0AWjVoxMeDzsVzFNw4NxK0GQcmhT8uQzcG0aUVbti7QA9jfluWA+xuwTp5aW3kYLqqX3SvN9Gwm8NdY+giTbyGQXp/yAKcQQrB6CVPuWGOEvu3zp3hbW+uLVg/El9+ziomA8T4QyZPrm6a0XzYHu7cWvFToK25TgRVfDWo07++p5lp9At0z21YsEVW4XtgI4Ua37jhw8+NpKTBc8U30KEWdDKjCOcH7OkZlyF96ynn3FzKCjm/6Wcgu1aTOqAVyVtjrr0UHssT1Dqn9BXuNZgyEHtgNggCYgjZ4OMq6dfXtjh3WFq9A/IkAW4gJpvaayaZCA6XD74f4UQIDAQAB",
+   "manifest_version": 2,
+   "name": "Video picture in picture",
+   "permissions": [ "activeTab", "\u003Call_urls>" ],
+   "short_name": "Video picture in picture",
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.0"
+}

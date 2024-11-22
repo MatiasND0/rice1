@@ -1,0 +1,56 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/icon-big-padded.svg-128.png",
+         "64": "icons/icon.svg-64.png"
+      },
+      "default_popup": "popup/popup.html"
+   },
+   "background": {
+      "service_worker": "background/main.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+Space"
+         }
+      },
+      "toggle_enabled": {
+         "description": "__MSG_toggleExtension__",
+         "suggested_key": {
+            "default": "Alt+Shift+X"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content/main.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "default-src 'none'; script-src 'self'; img-src 'self'; style-src 'unsafe-inline'; media-src blob:"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "icons/icon-big-padded.svg-128.png",
+      "64": "icons/icon.svg-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu/cJ+wo+YwvJ/o2KKXZ8xANoODzO+kcXoo5rcAur3Z3URkZyP1+6g1PJr3SGk65eAeni1pzHyxBN8ikB1lufmTTk/qcufZ+649Xay2eZ3wxxLd/yW94WpOC99GnO++yEGqygzu37n9IOUnukMAZttUdzj2RipHyRu9E5dQps24hECrhCCm9jlgr7FXqW/239I8Grk7mrdQsTRu7gJJWSKMzwNGysrFJ7XQBqNFKSH/hAByUF0CT+2KvlS+n5zFCrwwxELAr8Zcz80FozmTApfWr64pt30+QtkOsXYkyz9QErdqebuFJbHyF9OL9AkQ+LHUZ/bYL2npx5otl6+SwxfwIDAQAB",
+   "manifest_version": 3,
+   "name": "Jump Cutter",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options/index.html"
+   },
+   "permissions": [ "storage", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.27.5",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "content/cloneMediaSources-for-page-world.js", "content/SilenceDetectorProcessor.js", "content/VolumeFilterProcessor.js", "chunks/*.js" ]
+   } ]
+}

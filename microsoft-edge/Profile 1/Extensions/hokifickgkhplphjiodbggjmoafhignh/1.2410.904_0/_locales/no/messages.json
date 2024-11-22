@@ -1,0 +1,184 @@
+{
+   "AccountLabel": {
+      "message": "Konto"
+   },
+   "AppDescription": {
+      "message": "Skriv med selvtillit med Microsoft-redaktør, din intelligente skriveassistent for grammatikk-, stave- og stilkontroll."
+   },
+   "AppLongDescription": {
+      "message": "Bli en bedre forfatter på nettet med Microsoft-redaktør (1), din gratis skriveassistent. Microsoft-redaktør beveger seg med deg på tvers av nettsteder, slik at du kan skrive klare og kortfattede innlegg på nettet. Med denne nettleserutvidelsen får du: \r\n\r\nIntelligent skrivehjelp, slik at du kan mestre det grunnleggende med utrolig grammatikkontroll, stavekontroll og tegnsettingskorrektur helt gratis. Få avansert kontroll av grammatikk og stil når det gjelder klarhet, kortfattethet, formalitet, ordforråd og mye mer, med premium (2). \r\n\r\nFå tilbakemeldinger på nettsteder som LinkedIn, Facebook og mange flere av favorittene dine med denne nettleserutvidelsen. Hvis du vil ha hjelp andre steder enn på nettet, åpner du Word og ser etter Redaktør-ikonet for å finne ut hvordan du kan få hjelp på tvers av dokumenter, e-post og resten av nettet. \r\n\r\nMicrosoft-redaktør er tilgjengelig på flere språk. Få grunnleggende tilbakemeldinger på over 20 språk (og stavekontroll på over 80 språk) for å kunne kommunisere tydelig uansett hvilket språk du skriver på \r\n\r\nSpråktilgjengelighet (3):\r\n– Arabisk\r\n– Dansk\r\n– Engelsk\r\n– Finsk\r\n– Fransk\r\n– Hebraisk (ikke tilgjengelig i Word-skrivebordsprogrammet ennå)\r\n– Italiensk\r\n– Japansk\r\n– Koreansk\r\n– Nederlandsk\r\n– Norsk (bokmål)\r\n– Polsk\r\n– Portugisisk (Brasil)\r\n– Portugisisk (Portugal)\r\n– Russisk\r\n– Spansk\r\n– Svensk\r\n– Tsjekkisk\r\n– Tyrkisk\r\n– Tysk\r\n– Ungarsk\r\n\r\n(1) Tilgjengelig for nettleserne Microsoft Edge og Chrome og krever en Microsoft-konto. Redaktør kobles til en nettbasert Microsoft-tjeneste som tilbyr stavekontroll, grammatikk og forbedringsforslag for skrivingen din på de fleste nettsteder. \r\n (2) Microsoft 365-abonnement kreves for å få tilgang til premiumfunksjoner i Redaktør.\r\n (3) Redaktør sørger for forbedringer i skrivestil på følgende språk. Ikke alle språk har de samme forbedringene. \r\n\r\nVed å installere appen godtar du disse vilkårene og betingelsene: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nPersonvernerklæring: http://aka.ms/privacy"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Skriv med selvtillit med Microsoft-redaktør, din intelligente skriveassistent for grammatikk, stavekontroll og stilkontroll. \r\n\r\nBli en bedre forfatter på nettet med Microsoft-redaktør (1), din gratis skriveassistent. Microsoft-redaktør beveger seg med deg på tvers av nettsteder, slik at du kan skrive klare og kortfattede innlegg på nettet. Med denne nettleserutvidelsen får du: \r\n\r\nIntelligent skrivehjelp, slik at du kan mestre det grunnleggende med utrolig grammatikkontroll, stavekontroll og tegnsettingskorrektur helt gratis. Få avansert kontroll av grammatikk og stil når det gjelder klarhet, kortfattetthet, formalitet, ordforråd og mye mer, med premium (2). \r\n\r\n Få tilbakemeldinger på nettsteder som LinkedIn, Facebook og mange flere av favorittene dine med denne nettleserutvidelsen. Hvis du vil ha hjelp andre steder enn på nettet, åpner du Word og ser etter Redaktør-ikonet for å finne ut hvordan du kan få hjelp på tvers av dokumenter, e-post og resten av nettet. \r\n\r\nMicrosoft-redaktør er tilgjengelig på flere språk. Få grunnleggende tilbakemeldinger på over 20 språk (og stavekontroll på over 80 språk) for å kunne kommunisere tydelig uansett hvilket språk du skriver på \r\n\r\nSpråktilgjengelighet (3):\r\n– Arabisk\r\n– Dansk\r\n– Engelsk\r\n– Finsk\r\n– Fransk\r\n– Hebraisk (ikke tilgjengelig i Word-skrivebordsprogrammet ennå)\r\n– Italiensk\r\n– Japansk\r\n– Koreansk\r\n– Nederlandsk\r\n– Norsk (bokmål)\r\n– Polsk\r\n– Portugisisk (Brasil)\r\n– Portugisisk (Portugal)\r\n– Russisk\r\n– Spansk\r\n– Svensk\r\n– Tsjekkisk\r\n– Tyrkisk\r\n– Tysk\r\n– Ungarsk\r\n\r\n(1) Tilgjengelig for nettleserne Microsoft Edge og Chrome og krever en Microsoft-konto. Microsoft-redaktør kobles til en nettbasert Microsoft-tjeneste som tilbyr rettskrivning, grammatikk og forbedringsforslag for skrivingen din på de fleste nettsteder. \r\n (2) Microsoft 365-abonnement kreves for å få tilgang til premiumfunksjoner i Redaktør.\r\n (3) Redaktør sørger for forbedringer i skrivestil på følgende språk. Ikke alle språk har de samme forbedringene. \r\n\r\nVed å installere appen godtar du disse vilkårene og betingelsene: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nPersonvernerklæring: http://aka.ms/privacy"
+   },
+   "AppName": {
+      "message": "Microsoft-redaktør: stave- og grammatikkontroll"
+   },
+   "AppShortName": {
+      "message": "Redaktør"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Aktiver"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Prøv Redaktør (beta) i Google Docs"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Redaktør er i betaversjon på Google Docs. Gi oss beskjed hvis det oppstår et problem."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Når andre redigeringsutvidelser og Redaktør kjører, kan deres forslag overlappe eller være i konflikt. Vi anbefaler å deaktivere andre redigeringsutvidelser i nettleserens utvidelsesinnstillinger for å få den beste Redaktør-opplevelsen."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Konflikt oppdaget mellom redigeringsutvidelser"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Deaktiver Redaktør på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft-redaktør"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatikk"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Redaktør støttes ikke for tiden for $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Redaktør er for tiden deaktivert på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Redaktør er av."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "nb-NO"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Redaktør er inkludert med $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Korrekturspråk: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "nb-NO"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Korrekturspråk"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Korrekturspråk"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Få avanserte skriveidéer og 1 TB med lagringsplass når du velger premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Presiseringer"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Forbedringer er avanserte skriveforslag som hjelper deg med å gjøre tekstene dine klarere, mer konsise og mer formelle."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Åpne Redigeringsinnstillinger for å velge korrekturspråk."
+   },
+   "EditorSettingsLabel": {
+      "message": "Flere Redaktør-innstillinger"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Stavekontroll"
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ og $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "nb-NO"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "nb-NO"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Aktiver Redaktør på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Vis konto"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Leserutvidelse for Microsoft-redaktør "
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Du har oppgradert til premiumversjonen av Microsoft-redaktør! Utforsk det utvidede funksjonssettet ved å klikke på den blå og lilla understrekingen i teksten."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Gratulerer"
+   },
+   "SettingsLabel": {
+      "message": "Kontoinnstillinger"
+   },
+   "SignInLabel": {
+      "message": "Logg på, eller registrer deg"
+   },
+   "SignOutLabel": {
+      "message": "Logg av"
+   },
+   "SignOutTooltip": {
+      "message": "Når du logger av, tilbakestilles alle innstillingene til standardinnstillingene, og du mister listen over utelatte nettsteder."
+   },
+   "SupportPageLabel": {
+      "message": "Trenger du hjelp med pålog​gingen?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Slå på Redaktør"
+   },
+   "sbx_signInDescription": {
+      "message": "Hvis du vil ha grammatikk- og forbedringforslag på de fleste nettsteder i tillegg til egendefinert ordliste for stavekontroll, må du logge på."
+   }
+}

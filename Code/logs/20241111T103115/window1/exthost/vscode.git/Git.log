@@ -1,0 +1,62 @@
+2024-11-11 10:31:22.728 [info] [main] Log level: Info
+2024-11-11 10:31:22.728 [info] [main] Validating found git in: "git"
+2024-11-11 10:31:22.728 [info] [main] Using git "2.39.5" from "git"
+2024-11-11 10:31:22.728 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-11 10:31:22.728 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-11 10:31:22.728 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-11 10:31:22.728 [info] > git rev-parse --show-toplevel [18ms]
+2024-11-11 10:31:22.777 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-11-11 10:31:22.806 [info] [Model][openRepository] Opened repository: /home/hhouse/workspace/web_unlam/lab_back
+2024-11-11 10:31:22.916 [info] > git rev-parse --show-toplevel [68ms]
+2024-11-11 10:31:22.917 [info] > git config --get commit.template [80ms]
+2024-11-11 10:31:23.014 [info] > git rev-parse --git-dir --git-common-dir [71ms]
+2024-11-11 10:31:23.025 [info] [Model][openRepository] Opened repository: /home/hhouse/workspace/web_unlam/lab_front
+2024-11-11 10:31:23.031 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-11 10:31:23.053 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2024-11-11 10:31:23.057 [info] > git config --get commit.template [15ms]
+2024-11-11 10:31:23.125 [info] > git rev-parse --show-toplevel [73ms]
+2024-11-11 10:31:23.125 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-11 10:31:23.140 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [73ms]
+2024-11-11 10:31:23.152 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+2024-11-11 10:31:23.217 [info] > git status -z -uall [133ms]
+2024-11-11 10:31:23.217 [info] > git status -z -uall [41ms]
+2024-11-11 10:31:23.329 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [123ms]
+2024-11-11 10:31:23.438 [info] > git config --get commit.template [128ms]
+2024-11-11 10:31:23.439 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [169ms]
+2024-11-11 10:31:23.463 [info] > git config --local branch.main.vscode-merge-base [12ms]
+2024-11-11 10:31:23.488 [info] > git config --get commit.template [50ms]
+2024-11-11 10:31:23.488 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [105ms]
+2024-11-11 10:31:23.670 [info] > git config --local branch.main.vscode-merge-base [154ms]
+2024-11-11 10:31:23.688 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [201ms]
+2024-11-11 10:31:23.974 [info] > git check-ignore -v -z --stdin [186ms]
+2024-11-11 10:31:23.979 [info] > git check-ignore -v -z --stdin [175ms]
+2024-11-11 10:31:23.980 [info] > git merge-base refs/heads/main refs/remotes/origin/main [260ms]
+2024-11-11 10:31:23.997 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [309ms]
+2024-11-11 10:31:24.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [356ms]
+2024-11-11 10:31:24.041 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2024-11-11 10:31:24.059 [info] > git diff --name-status -z --diff-filter=ADMR da74d6755010e544cbc42b101f0235b2fdeb3403...refs/remotes/origin/main [62ms]
+2024-11-11 10:31:24.061 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [90ms]
+2024-11-11 10:31:24.139 [info] > git status -z -uall [17ms]
+2024-11-11 10:31:24.139 [info] > git diff --name-status -z --diff-filter=ADMR d0b95825eac1890ed84b2809cc5575efceb19008...refs/remotes/origin/main [81ms]
+2024-11-11 10:31:24.142 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [46ms]
+2024-11-11 10:31:24.144 [info] > git status -z -uall [64ms]
+2024-11-11 10:31:24.172 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+2024-11-11 10:31:24.226 [info] > git show --textconv :DB/testingdb.sql [19ms]
+2024-11-11 10:31:24.243 [info] > git ls-files --stage -- /home/hhouse/workspace/web_unlam/lab_back/DB/testingdb.sql [19ms]
+2024-11-11 10:31:24.270 [info] > git cat-file -s ffe017a354e87202e03eddb119e9af018d21cc81 [14ms]
+2024-11-11 10:31:24.385 [info] > git rev-parse --show-toplevel [14ms]
+2024-11-11 10:31:24.385 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-11 10:31:24.930 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-11 10:31:24.930 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-11 10:31:25.157 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-11 10:31:25.157 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-11 10:31:25.423 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-11 10:31:25.423 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-11 10:31:25.740 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-11 10:31:25.741 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-11 10:32:02.125 [info] > git check-ignore -v -z --stdin [76ms]
+2024-11-11 10:32:02.126 [info] > git show --textconv :controllers/bookingController.js [30ms]
+2024-11-11 10:32:02.233 [info] > git ls-files --stage -- /home/hhouse/workspace/web_unlam/lab_back/controllers/bookingController.js [109ms]
+2024-11-11 10:32:02.297 [info] > git cat-file -s 5c3de393be02564f05592f3405d17ca3e5b66866 [32ms]
+2024-11-11 10:32:04.595 [info] > git rev-parse --show-toplevel [23ms]
+2024-11-11 10:32:04.595 [info] fatal: not a git repository (or any of the parent directories): .git

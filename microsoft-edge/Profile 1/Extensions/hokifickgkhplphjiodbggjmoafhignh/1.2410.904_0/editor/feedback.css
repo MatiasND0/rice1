@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 400px;
+    overflow: hidden;
+}
+
+#obf-TFormTitle {
+  min-height: 40px;
+  visibility: hidden;
+  position: relative;
+}
+
+#obf-TFormCancelButton {
+    background-color: #FFFFFF;
+    border: 1px solid #8A8886;
+    border-radius: 2px;
+    color: #323130;
+}
+
+#obf-TFormCancelButton:hover {
+    color: #201F1E;
+    background-color: #F3F2F1;
+}
+
+#obf-TFormCancelButton:focus, #obf-TFormCancelButton:active {
+    color: #201F1E;
+    background-color: #EDEBE9;
+}
+
+#obf-ToastCancel {
+  padding: 0;
+}
+
+@media only screen and (max-height: 699px) {
+    .obf-ToastZoom {
+        height: calc(100% - 36px);
+        overflow-y: auto;
+    }
+}

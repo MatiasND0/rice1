@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Tili"
+   },
+   "AppDescription": {
+      "message": "Write with confidence with Microsoft Editor, your intelligent grammar, spelling, and style checking writing assistant."
+   },
+   "AppLongDescription": {
+      "message": "Kirjoitusavustaja tarjoaa lisätukea kirjoittamiseen kielioppiin, oikeinkirjoitukseen ja tyyliin liittyvillä ehdotuksilla kaikkialla verkossa (1). Voit kirjoittaa itsevarmasti selkeitä ja ytimekkäitä julkaisuja ja sähköpostiviestejä.\r\n\r\nKirjoita kuin ammattilainen älykkään kirjoitustuen avulla\r\nHallitse perusasiat hyödyntämällä maksutonta kieliopin, edistyneen kieliopin, oikeinkirjoituksen ja pilkutuksen tarkistustoimintoa. Premium-käyttäjänä (vaatii Microsoft 365 -tilauksen) pääset perustasosta seuraavalle selkeyteen, ytimekkyyteen, muodollisuuteen ja sanastoon liittyvien ehdotusten avulla.\r\n\r\nMukauta vastaamaan tarpeitasi\r\nKirjoitusavustaja voi nyt lisätä sanoja käyttäjän sanastoon, joka on sisäänrakennettuna Microsoft 365 -sovelluksiin. Etsi kohta Lisää sanastoon, kun Kirjoitusavustaja tekee oikeinkirjoitusehdotuksen.  Lisäksi Asetukset-toiminnon avulla voit hienosäätää kirjoitusehdotusten asetuksia. Olemme myös helpottaneet kaikkien oikeinkirjoituksen esiintymien ohittamista valitsemalla Ohita kaikki. Hyödyttömät kielioppiehdotukset voi ohittaa valitsemalla Ohita.\r\n\r\nKirjoita missä tahansa\r\nTämän laajennuksen avulla saat kirjoitusapua LinkedInissä, Gmailissa, Facebookissa ja muilla suosikkisivustoillasi. Jos haluat Kirjoitusavustajan apua eniten käyttämissäsi Office-sovelluksissa, avaa Wordin tai Outlookin verkkoversio ja saat ehdotuksia asiakirjojen tai sähköpostien parantamiseen.\r\n\r\nSaatavilla useilla kielillä\r\nMonikielisen tarkistuksen avulla voit tarkistaa jopa kolmen kielen oikeinkirjoitusta ja kielioppia samanaikaisesti. Kirjoitusavustaja tarkistaa oikeinkirjoituksen yli 80 kielellä ja antaa kielioppiin ja kirjoitustyyliin liittyviä ehdotuksia 21 kielellä. Saat lisätietoja kielten saatavuudesta tästä osoitteesta: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nHanki Kirjoitusavustaja Edgelle täältä: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Käytettävissä Microsoft Edge- ja Chrome-selaimissa ja vaatii Microsoft-tilin. Kirjoitusavustaja muodostaa yhteyden Microsoftin online-palveluun, joka tarjoaa oikeinkirjoitukseen, kielioppiin ja hienosäätöön liittyviä kirjoitusehdotuksia useimmilla sivustoilla.\r\n2. Kaikissa kielissä ei ole samoja hienosäätötoimintoja.\r\n\r\nAsentamalla sovelluksen hyväksyt seuraavat ehdot:\r\n\r\nHUOMAUTUS: Tutustu Microsoft-tilin tai Microsoft 365 -tilauksen käyttöoikeusehtoihin soveltuvin osin (\"laajennus\") tunnistaaksesi laajennuksen sinulle myöntävän tahon ja saadaksesi tukitietoja. Microsoft-tilin tai Microsoft 365 -tilauksen käyttöoikeusehdot koskevat soveltuvilta osin tämän laajennuksen käyttöä.\r\n\r\nTietosuojakäytäntö: http://aka.ms/privacy\r\nPalvelun käyttöehdot: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Kirjoitusavustaja tarjoaa lisätukea kirjoittamiseen kielioppiin, oikeinkirjoitukseen ja tyyliin liittyvillä ehdotuksilla kaikkialla verkossa (1). Voit kirjoittaa itsevarmasti selkeitä ja ytimekkäitä julkaisuja ja sähköpostiviestejä.\r\n\r\nKirjoita kuin ammattilainen älykkään kirjoitustuen avulla\r\nHallitse perusasiat hyödyntämällä maksutonta kieliopin, edistyneen kieliopin, oikeinkirjoituksen ja pilkutuksen tarkistustoimintoa. Premium-käyttäjänä (vaatii Microsoft 365 -tilauksen) pääset perustasosta seuraavalle selkeyteen, ytimekkyyteen, muodollisuuteen ja sanastoon liittyvien ehdotusten avulla.\r\n\r\nMukauta vastaamaan tarpeitasi\r\nKirjoitusavustaja voi nyt lisätä sanoja käyttäjän sanastoon, joka on sisäänrakennettuna Microsoft 365 -sovelluksiin. Etsi kohta Lisää sanastoon, kun Kirjoitusavustaja tekee oikeinkirjoitusehdotuksen.  Lisäksi Asetukset-toiminnon avulla voit hienosäätää kirjoitusehdotusten asetuksia. Olemme myös helpottaneet kaikkien oikeinkirjoituksen esiintymien ohittamista valitsemalla Ohita kaikki. Hyödyttömät kielioppiehdotukset voi ohittaa valitsemalla Ohita.\r\n\r\nKirjoita missä tahansa\r\nTämän laajennuksen avulla saat kirjoitusapua LinkedInissä, Gmailissa, Facebookissa ja muilla suosikkisivustoillasi. Jos haluat Kirjoitusavustajan apua eniten käyttämissäsi Office-sovelluksissa, avaa Wordin tai Outlookin verkkoversio ja saat ehdotuksia asiakirjojen tai sähköpostien parantamiseen.\r\n\r\nSaatavilla useilla kielillä\r\nMonikielisen tarkistuksen avulla voit tarkistaa jopa kolmen kielen oikeinkirjoitusta ja kielioppia samanaikaisesti. Kirjoitusavustaja tarkistaa oikeinkirjoituksen yli 80 kielellä ja antaa kielioppiin ja kirjoitustyyliin liittyviä ehdotuksia 21 kielellä. Saat lisätietoja kielten saatavuudesta tästä osoitteesta: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nHanki Kirjoitusavustaja Chromelle täältä: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Käytettävissä Microsoft Edge- ja Chrome-selaimissa ja vaatii Microsoft-tilin. Kirjoitusavustaja muodostaa yhteyden Microsoftin online-palveluun, joka tarjoaa oikeinkirjoitukseen, kielioppiin ja hienosäätöön liittyviä kirjoitusehdotuksia useimmilla sivustoilla.\r\n2. Kaikissa kielissä ei ole samoja hienosäätötoimintoja.\r\n\r\nAsentamalla sovelluksen hyväksyt seuraavat ehdot:\r\n\r\nHUOMAUTUS: Tutustu Microsoft-tilin tai Microsoft 365 -tilauksen käyttöoikeusehtoihin soveltuvin osin (\"laajennus\") tunnistaaksesi laajennuksen sinulle myöntävän tahon ja saadaksesi tukitietoja. Microsoft-tilin tai Microsoft 365 -tilauksen käyttöoikeusehdot koskevat soveltuvilta osin tämän laajennuksen käyttöä.\r\n\r\nTietosuojakäytäntö: http://aka.ms/privacy\r\nPalvelun käyttöehdot: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Microsoft-kirjoitusavustaja: oikeinkirjoituksen ja kieliopin tarkistus"
+   },
+   "AppShortName": {
+      "message": "Kirjoitusavustaja"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Ota käyttöön"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Kokeile kirjoitusavustajaa (beetaversiota) Google Docsissa"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Kirjoitusavustaja on beetaversiossa Google Docsissa. Jos kohtaat ongelman, kerro siitä meille."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Kun toinen muokkauslaajennus ja Kirjoitusavustaja ovat molemmat käytössä, niiden ehdotukset voivat olla päällekkäisiä tai ristiriitaisia. Toiset muokkauslaajennukset kannattaa poistaa käytöstä selaimen laajennusasetuksissa, jotta Kirjoitusavustaja toimii parhaalla mahdollisella tavalla."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Laajennusten muokkauksissa havaittiin ristiriita"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Poista kirjoitusavustaja käytöstä sivulla $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft-kirjoitusavustaja"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Copilot-lisäys"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Copilot-uudelleenkirjoitus"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Kielioppi"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Kirjoitusavustajaa ei tällä hetkellä tueta osoitteessa $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Kirjoitusavustaja on tällä hetkellä poistettu käytöstä sivulla $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Kirjoitusavustaja ei ole käytössä."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1 $",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "fi"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Kirjoitusavustaja sisältyy osoitteeseen $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Tekstintarkistuskieli: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "fi"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Oikolukukieli"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Tekstintarkistuskielet"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Kun siirryt Premium-versioon, saat lisää kirjoitusehdotuksia ja yhden teratavun tallennustilaa."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Hienosäätö"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Tarkennukset ovat edistyneitä kirjoitusehdotuksia, jotka tekevät tekstistä selkeämpää, tiiviimpää ja muodollisempaa."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Avaa Kirjoitusavustajan asetukset valitaksesi tekstintarkistuskielet."
+   },
+   "EditorSettingsLabel": {
+      "message": "Lisää Kirjoitusavustaja-asetuksia"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Oikeinkirjoitus"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Synonyymit (esikatselu)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Saat synonyymit, kun kirjoitat: kaksoisnapsauta sanaa tai valitse se ja paina näppäinyhdistelmää (Alt+Alanuoli)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Saat synonyymit, kun kirjoitat: kaksoisnapsauta sanaa tai valitse se ja paina näppäinyhdistelmää Alt+Alanuoli."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Saat synonyymit, kun kirjoitat: kaksoisnapsauta sanaa tai valitse se ja paina näppäinyhdistelmää Control+Optio+Alanuoli."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Saat synonyymit, kun kirjoitat: kaksoisnapsauta sanaa tai valitse se ja paina näppäinyhdistelmää (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ ja $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1 $",
+            "example": "fi"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "fi"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Ota Kirjoitusavustaja käyttöön osoitteessa $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Näytä tili"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Microsoft-kirjoitusavustaja-selainlaajennus"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Olet päivittänyt Microsoft-kirjoitusavustajan Premium-versioon! Tutustu uusiin ominaisuuksiin napsauttamalla tekstin alla näkyviä sinisiä ja violetteja viivoja."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Onnittelut!"
+   },
+   "SettingsLabel": {
+      "message": "Tilin asetukset"
+   },
+   "SignInLabel": {
+      "message": "Kirjaudu sisään tai rekisteröidy"
+   },
+   "SignOutLabel": {
+      "message": "Kirjaudu ulos"
+   },
+   "SignOutTooltip": {
+      "message": "Uloskirjautuminen palauttaa kaikki asetukset oletusasetuksiksi ja poistaa ohitettavien sivustojen luettelon."
+   },
+   "SupportPageLabel": {
+      "message": "Tarvitsetko kirjautumisapua​?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Ota Kirjoitusavustaja käyttöön"
+   },
+   "addButtonLabel": {
+      "message": "Lisää se"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Luo Copilotilla, näytä vaihtoehdot painamalla Alt + I"
+   },
+   "aiInsertButtonText": {
+      "message": "Luo sisältöä Copilotin avulla"
+   },
+   "aiInsertResultDescription": {
+      "message": "Näin voit tehdä siitä entistä kiinnostavamman"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Kirjoitusavustaja lisäsi kielen $1 oikeinkirjoituksen tarkistuksen kieleksi"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Hallitse oikeinkirjoituksen tarkistuksen kieliä"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Kumoa"
+   },
+   "backToPromptLabel": {
+      "message": "Takaisin"
+   },
+   "closeLabel": {
+      "message": "Sulje"
+   },
+   "contentErrorMessage": {
+      "message": "Microsoft-kirjoitusavustaja ei voinut luoda sisältöä. Valitse toinen teksti tai odota hetki ja yritä uudelleen."
+   },
+   "contentSuggestion": {
+      "message": "Sisältöehdotus"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Korjaus, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Kielioppivirhe, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Tyylin parannusehdotus, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Toistuva sana, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Kirjoitusvirhe, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Tekoälyn luoma sisältö saattaa sisältää epätarkkuuksia tai arkaluonteista materiaalia. Muista tarkistaa tiedot."
+   },
+   "copyButtonText": {
+      "message": "Kopioi"
+   },
+   "defaultWarningMessage": {
+      "message": "Jos haluat käyttää Copilotia, siirry kappaleen loppuun."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Voit ottaa tekstintarkistuksen käyttöön enintään kolmella kielellä samaan aikaan."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "\"$1\" lisättiin sanakirjaan."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Ät-valikon hakutulokset hylätty"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Ehdotus lisättiin. Ät-valikon hakutulokset hylätty"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Merkintäehdotusta napsautettiin. Valikon hakutuloksissa näytetään"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Herätettä napsautettu. Ät-valikon hakutuloksissa näytetään"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "$1-symbolin näppäinpainallus on näyttänyt Ät-valikon hakutulokset"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Avaa CTRL-näppäimellä"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Avaa automaattisen korjauksen asetukset painamalla CTRL-näppäintä"
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Tiedostoehdotukset"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Tiedostot, osat, henkilöt ja paljon muuta"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Lisää"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Paikallisen yrityksen havaitseminen"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Osoitteen havaitseminen"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Lisää linkki tähän osoitteeseen"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Paikka"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Kehitys"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Henkilöehdotukset"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Kohde-ehdotus"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Lisää linkki tähän kohteeseen"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Kohde"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Kohde-ehdotus"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Ajan tunnistus"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Lisää aikavyöhykkeet tähän aikaan"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Aika"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Kehitys"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Merkitse tämä aihe, jotta muut voivat käyttää siihen liittyvää kuvausta, henkilöitä ja resursseja."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Viva Topics -ehdotus"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Viva Topics -ehdotus"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Näytetään heräte-ehdotus: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "Peruuta"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Päivämäärän tunnistus"
+   },
+   "ebx_Dismiss": {
+      "message": "Hylkää"
+   },
+   "ebx_Done": {
+      "message": "Valmis"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Hae tiedostoja"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Etsi henkilöitä"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Aloita haku kirjoittamalla"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Ala kirjoittaa etsiäksesi 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Aloita haku kirjoittamalla"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Aloita haku kirjoittamalla"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Hae Loop-komponentteja"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Aloita haku kirjoittamalla"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Aloita haku kirjoittamalla"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Aloita haku kirjoittamalla"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Hae aiheita"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Henkilöiden / päivämäärän tunnistus"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Lisää päivämäärä"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Lisää päivämääräalue"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Ehdotus: Lisää päivämääräalue"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Lisää päivämäärä ja aika"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Ehdotus: Päivämäärän ja ajan lisääminen"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Ehdotus: Lisää päivämäärä"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Ehdotus: Lisää henkilö"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Lisää aika"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Lisää aikaväli"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Ehdotus: Lisää aikaväli"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Ehdotus: Lisää aika"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Palautteen lähettäminen onnistui."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Kiitos, että kokeilit Kirjoitusavustajan beetaversiota Google Docsissa. Teemme päivityksiä ottaaksemme huomioon Google Docsiin tehdyt muutokset. Tämän vuoksi Kirjoitusavustaja on lakannut toimimasta. Saat ilmoituksen, kun Kirjoitusavustaja on jälleen käyttövalmis."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Kirjoitusavustaja ei ole käytettävissä Google Docsissa"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Kirjoitusavustajan käyttökokemus on parhaimmillaan, kun poistat käytöstä Google Docsin oman oikeinkirjoituksen ja kieliopin tarkistuksen. (Valitse työkaluvalikosta Oikeinkirjoitus ja kielioppi ja poista asetukset käytöstä.)"
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Käytä pelkästään Kirjoitusavustajan tekstintarkistusta"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Saat lisäehdotuksia kirjoittaessasi. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Saat parannusehdotuksia kirjoittamisen aikana. Kirjoitusavustajan parhaan käyttökokemuksen varmistamiseksi Google Docsin oma oikeinkirjoituksen ja kieliopin tarkistus poistetaan käytöstä. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Kokeile kirjoitusavustajan beetaversiota Google Docsissa"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Kielioppiehdotus ohitettiin."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Otsikon tunnistus"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Parantele"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Otsikko 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Otsikko 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Otsikko 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Harkitse vaihtamista ylätunnisteeksi"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Helppokäyttöisyys"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Helppokäyttötoiminnot: harkitse tämän muuttamista ylätunnisteeksi"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Ehdotettu lisäys \"$1\". Lisää painamalla."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Valitut {0} nykyisten selainasetusten perusteella."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Tarkista kolmen kielen oikeinkirjoitus ja kielioppi samanaikaisesti. Valitse kielet Kirjoitusavustajan asetuksista."
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Voit muokata kieliä kirjoitusavustajan asetuksissa."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Valitsimme {0}, {1} ja {2} selainasetusten perusteella."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Kirjoitusavustajan monikielinen oikoluku"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Valitut {0} ja {1} selainasetusten perusteella."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Henkilöiden tunnistus"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Ehdotettu lisäys $1 otettiin käyttöön."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Ehdotettu lisäys \"$1\". Lisää painamalla SARKAINTA."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Tekstintarkistuskielet"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Microsoft 365 -tilaajille tarjotaan kehittyneitä kirjoitusehdotuksia, kun he ovat kirjautuneet sisään."
+   },
+   "ebx_RemoveItem": {
+      "message": "Poista"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Nyt voit lisätä omia sanojasi Kirjoitusavustajan oikeinkirjoitussanakirjaan. Kun Kirjoitusavustaja tarjoaa oikeinkirjoitusehdotuksen, valitse Lisää sanakirjaan -vaihtoehto."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Mukauta omaa oikeinkirjoitussanakirjaasi"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "OK"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Nyt Kirjoitusavustaja voi lisätä sanoja mukautettuun sanakirjaan, joka sisältyy Microsoft 365 -sovelluksiin. Kirjaudu sisään ja valitse Lisää sanastoon, kun Kirjoitusavustaja antaa oikeinkirjoitusehdotuksen."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Kirjautumalla sisään saat mukautetun oikeinkirjoituksen sanakirjan"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Kritiikki $1 on poistettu käytöstä asetuksissa."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Tämä kritiikki on poistettu käytöstä asetuksissa."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Jos haluat saada kirjoitusehdotuksia useimmilla verkkosivustoilla, kirjaudu Microsoft-tiliisi tai Officessa käyttämääsi työpaikan tai oppilaitoksen tiliin."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Kirjaudu sisään tai rekisteröidy"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Kirjaudu sisään ja saa kirjoitusehdotuksia useimmilla verkkosivustoilla. Tallennamme asetuksesi, kuten kirjoituskielesi sekä asiat, joita haluat Kirjoitusavustajalla tarkistaa."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Saat useimmissa sivustoissa apua kieliopin tarkistamiseen, ehdotuksia tekstin hienosäätämiseen ja hyödyt mukautetusta oikeinkirjoitussanakirjasta."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Jos haluat käyttöösi mukautetun oikeinkirjoitussanaston, kirjaudu sisään omaan Microsoft-tiliisi tai Officea varten käyttämääsi työpaikan tai oppilaitoksen tiliin."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Kirjoitusavustaja ei ole vielä käynnissä"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Vinoviivavalikko hylätty"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Ehdotus lisättiin. Vinoviivavalikko hylätty"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Merkinnän ehdotusta napsautettu. Kirjoitusavustaja-valikko näytetään"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Herätettä napsautettu. Vinoviivavalikko näytetään"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "Symbolin $1 painaminen näyttää Vinoviivavalikon"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Oikeinkirjoitusehdotus ohitettiin."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Avaa napsauttamalla hiiren ykköspainikkeella tai painamalla Alt+Alanuoli"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Avaa hiiren ykköspainikkeen napsautuksella tai painamalla Ctrl+Alt+alanuoli"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Avaa napsauttamalla hiiren ykköspainikkeella tai painamalla Ctrl+Optio+Alanuoli"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Automaattinen korjaus"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+Alanuoli)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl + Alt + alanuolinäppäin)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Kieliopin korjaus"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Tekstin parannus"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Kirjoitusvirheen korjaus"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Avaa napsauttamalla hiiren ykköspainikkeella"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Viva Topics -ehdotus"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Ehdotuksen $1 hyväksyminen onnistui."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Tehtävän tunnistus"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Luo tehtävä"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Ehdotus: Tehtävän luominen"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Sarkain"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Napauta"
+   },
+   "ebx_TurnItOn": {
+      "message": "Ota käyttöön"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Lisää toinen sivusto"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Lisää toinen sivusto"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Peruuta sivuston lisääminen estettyjen sivustojen luetteloon."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Lisää sivusto estettyjen sivustojen luetteloon"
+   },
+   "ebx_addButton": {
+      "message": "Lisää"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Lisää kieliopin tarkistus"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Peruuta kielen lisääminen tekstintarkistuskielten luetteloon"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Lisää kieli tekstintarkistuskielten luetteloon"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Lisää toinen kieli"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Lisää sanastoon"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Salli Kirjoitusavustajan tunnistaa ja lisätä uusia tekstintarkistuskieliä automaattisesti kirjoittamisesi perusteella."
+   },
+   "ebx_appDescription": {
+      "message": "Kirjoita itsevarmasti hyödyntämällä Microsoft-kirjoitusavustajaa, älykästä kirjoittamisapulaistasi."
+   },
+   "ebx_appLongDescription": {
+      "message": "Kirjoitusavustaja tarjoaa lisätukea kirjoittamiseen kielioppiin, oikeinkirjoitukseen ja tyyliin liittyvillä ehdotuksilla kaikkialla verkossa (1). Voit kirjoittaa itsevarmasti selkeitä ja ytimekkäitä julkaisuja ja sähköpostiviestejä.\r\n\r\nKirjoita kuin ammattilainen älykkään kirjoitustuen avulla\r\nHallitse perusasiat hyödyntämällä maksutonta kieliopin, edistyneen kieliopin, oikeinkirjoituksen ja pilkutuksen tarkistustoimintoa. Premium-käyttäjänä (vaatii Microsoft 365 -tilauksen) pääset perustasosta seuraavalle selkeyteen, ytimekkyyteen, muodollisuuteen ja sanastoon liittyvien ehdotusten avulla.\r\n\r\nMukauta vastaamaan tarpeitasi\r\nKirjoitusavustaja voi nyt lisätä sanoja käyttäjän sanastoon, joka on sisäänrakennettuna Microsoft 365 -sovelluksiin. Etsi kohta Lisää sanastoon, kun Kirjoitusavustaja tekee oikeinkirjoitusehdotuksen.  Lisäksi Asetukset-toiminnon avulla voit hienosäätää kirjoitusehdotusten asetuksia. Olemme myös helpottaneet kaikkien oikeinkirjoituksen esiintymien ohittamista valitsemalla Ohita kaikki. Hyödyttömät kielioppiehdotukset voi ohittaa valitsemalla Ohita.\r\n\r\nKirjoita missä tahansa\r\nTämän laajennuksen avulla saat kirjoitusapua LinkedInissä, Gmailissa, Facebookissa ja muilla suosikkisivustoillasi. Jos haluat Kirjoitusavustajan apua eniten käyttämissäsi Office-sovelluksissa, avaa Wordin tai Outlookin verkkoversio ja saat ehdotuksia asiakirjojen tai sähköpostien parantamiseen.\r\n\r\nSaatavilla useilla kielillä\r\nMonikielisen tarkistuksen avulla voit tarkistaa jopa kolmen kielen oikeinkirjoitusta ja kielioppia samanaikaisesti. Kirjoitusavustaja tarkistaa oikeinkirjoituksen yli 80 kielellä ja antaa kielioppiin ja kirjoitustyyliin liittyviä ehdotuksia 21 kielellä. Saat lisätietoja kielten saatavuudesta tästä osoitteesta: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nHanki Kirjoitusavustaja Edgelle täältä: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Käytettävissä Microsoft Edge- ja Chrome-selaimissa ja vaatii Microsoft-tilin. Kirjoitusavustaja muodostaa yhteyden Microsoftin online-palveluun, joka tarjoaa oikeinkirjoitukseen, kielioppiin ja hienosäätöön liittyviä kirjoitusehdotuksia useimmilla sivustoilla.\r\n2. Kaikissa kielissä ei ole samoja hienosäätötoimintoja.\r\n\r\nAsentamalla sovelluksen hyväksyt seuraavat ehdot:\r\n\r\nHUOMAUTUS: Tutustu Microsoft-tilin tai Microsoft 365 -tilauksen käyttöoikeusehtoihin soveltuvin osin (\"laajennus\") tunnistaaksesi laajennuksen sinulle myöntävän tahon ja saadaksesi tukitietoja. Microsoft-tilin tai Microsoft 365 -tilauksen käyttöoikeusehdot koskevat soveltuvilta osin tämän laajennuksen käyttöä.\r\n\r\nTietosuojakäytäntö: http://aka.ms/privacy\r\nPalvelun käyttöehdot: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Tekstin korjaustoiminnot tarjoavat lisäapua kielioppi-, oikeinkirjoitus- ja tyyliehdotuksiin verkossa (1), joten voit kirjoittaa selkeitä ja ytimekkäitä viestejä ja sähköpostiviestejä.\r\n\r\nKirjoita kuin ammattilainen älykkään kirjoitustuen avulla\r\nOsu naulan kantaan ilmaisilla kieliopin, kehittyneen kieliopin, oikeinkirjoituksen ja välimerkkien tarkistustyökaluilla. Voit käyttää myös perusasioiden lisäksi edistynyttä tyylin tarkistusta esimerkiksi selkeyden, ytimekkyyden, muodollisuuden, sanaston ja paljon muun tarkistamiseksi Premiumin avulla (edellyttää Microsoft 365 -tilausta).\r\n\r\nMukauta se tarpeisiisi\r\nEditori voi nyt lisätä sanoja mukautettuun sanastoon, joka on valmiina Microsoft 365 -sovelluksissasi. Etsi Lisää sanastoon -vaihtoehto, kun Editori tekee oikeinkirjoitusehdotuksen. Lisäksi Asetukset-toiminnolla voit hienosäätää ehdotusten kirjoitusasetuksia.  Olemme myös helpottaneet oikeinkirjoituksen korjauksen kaikkien esiintymien ohittamista valitsemalla Ohita kaikki tai ohittamalla ei-toivotut kielioppiehdotukset valitsemalla Ohita.\r\n\r\nKirjoita mihin tahansa\r\nSaat kirjoitusapua sivustoihin, kuten LinkedIniin, Gmailiin, Facebookiin ja muihin suosikkeihin tämän selainlaajennuksen avulla. Jos haluat tekstin korjaustoimintojen apua Office-sovelluksissa, joihin kirjoitat eniten, avaa Word tai Outlookin verkkoversio ja hanki ehdotuksia asiakirjojen ja sähköpostin parantamiseksi.\r\n\r\nSaat apua useilla kielillä\r\nTarkista oikeinkirjoitus ja kielioppi enintään kolmelle kielelle samanaikaisesti monikielisen tekstintarkistustyökalun avulla. Tekstin korjaustoiminnot tarkistavat oikeinkirjoituksen yli 80 kielellä ja tarjoavat kieliopin tarkistuksen ja kirjoitustyylin hienosäätöjä 21 kielellä. Lisätietoja kielten saatavuudesta on täällä: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nHanki Chromen editori täältä: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Käytettävissä Microsoft Edge- tai Chrome-selaimissa ja edellyttää Microsoft-tiliä. Tekstin korjaustoiminnot muodostavat yhteyden Microsoftin verkkopalveluun, joka tarjoaa oikeinkirjoitus-, kielioppi- ja hienosäätöehdotuksia kirjoittamiseen useimmilla sivustoilla.\r\n2. Kaikilla kielillä ei ole samoja hienosäätöjä.\r\n\r\nAsentamalla sovelluksen hyväksyt nämä käyttöehdot:\r\n\r\nHUOMAA: Tarkista Microsoft-tilisi tai Microsoft 365 -tilauksesi käyttöoikeussopimuksen ehdot soveltuvin osin (\"laajennus\"), jotta voit tunnistaa entiteetin, joka myöntää tämän laajennuksen sinulle, sekä tukitietoja. Tämän laajennuksen käyttöön sovelletaan Microsoft-tilin tai Microsoft 365 -tilauksen käyttöoikeusehtoja.\r\n\r\nTietosuojakäytäntö: http://aka.ms/privacy\r\nPalveluehdot: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Microsoft-kirjoitusavustaja: oikeinkirjoituksen ja kieliopin tarkistus"
+   },
+   "ebx_appShortName": {
+      "message": "Editori"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, samankaltainen kuin: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, samanlainen kuin: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Korvaa toiminnalla"
+   },
+   "ebx_asInSynonyms": {
+      "message": "samankaltainen kuin"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "$1, automaattinen korjaus kumottu."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Palauta $1"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, korjattu automaattisesti."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Saat automaattisen korjauksen asetukset näkyviin painamalla Control-näppäintä."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "{0} on lisätty"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Paina oikeaa nuolinäppäintä päästäksesi Poista-painikkeeseen."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Tämä luettelo on tyhjä."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "{0} on poistettu"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft-kirjoitusavustaja"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft-kirjoitusavustaja -logo"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Selaa tätä tietokonetta"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Muuta kaikki"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Kirjoitusavustajan asetukset..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Tarkista hienosäädöt"
+   },
+   "ebx_checkGrammar": {
+      "message": "Tarkista kielioppi"
+   },
+   "ebx_checkSpelling": {
+      "message": "Oikeinkirjoituksen tarkistus"
+   },
+   "ebx_close": {
+      "message": "Sulje"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Tulossa pian"
+   },
+   "ebx_copilotInsert": {
+      "message": "Lisää"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Copilot-uudelleenkirjoitus"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Poista toistettu sana"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Lopeta tämän tarkistus"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Lopeta tämän tarkistus. Kirjoitusavustaja ottaa tämän asetuksen käyttöön, kunnes muutat sitä."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Kirjoitusavustaja käyttää tätä asetusta, kunnes muutat sitä."
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Poista Kirjoitusavustaja käytöstä sivulla {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Näyttöasetukset"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Tämä sivusto on jo estettyjen sivustojen luettelossa"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Kirjoitusavustajalla on $1 lisää kirjoitusehdotusta tähän viestiin."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Editoria ei tueta tällä hetkellä osoitteessa {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Kirjoitusavustajan ponnahdusikkuna"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Ei käytössä"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Käytössä"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Näytä Kirjoitusavustaja-painike kentissä, jotka tukevat Kirjoitusavustaja-ponnahdusikkunaa"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Microsoft Office -selainlaajennus sisältää nyt Microsoft-kirjoitusavustajan. Se on älykäs kirjoitusavustaja, jonka avulla voit kirjoittaa verkossa parhaalla mahdollisella tavalla. Microsoft-kirjoitusavustaja muodostaa yhteyden verkkopalveluun ja tarjoaa oikeinkirjoitukseen, kielioppiin ja tyyliin liittyviä ehdotuksia."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft-kirjoitusavustaja (esikatselu) on nyt käytössä"
+   },
+   "ebx_editorFeature": {
+      "message": "Microsoft-kirjoitusavustaja"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Ei käytössä"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Poista Kirjoitusavustaja käytöstä"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Käytössä"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Kirjoitusavustaja-ominaisuus"
+   },
+   "ebx_editorIsOff": {
+      "message": "Kirjoitusavustaja on poissa käytöstä"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Kirjoitusavustaja on tällä hetkellä poissa käytöstä sivulla {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Kirjoitusavustaja sisältyy sivulle {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Lisää Kirjoitusavustaja-asetuksia"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Hakua vastaavia kieliä ei löytynyt"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Ota Kirjoitusavustaja käyttöön sivulla {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " ja "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Kirjoitusavustajalla on $1 lisää kirjoitusehdotusta tähän viestiin."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Editori on $1 tämän viestin lisä tietojen kirjoittamisen."
+   },
+   "ebx_excludedSites": {
+      "message": "Pois jätetyt sivustot"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Raportoi tästä ehdotuksesta"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Kerro meille, miksi valitsit tämän vastauksen."
+   },
+   "ebx_feedbackLink": {
+      "message": "palaute"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Auta meitä parantamaan Editoria antamalla"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Erittäin negatiivinen"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Erittäin negatiivinen"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Jokseenkin negatiivinen"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Jokseenkin negatiivinen"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Ei negatiivinen eikä positiivinen"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Ei negatiivinen eikä positiivinen"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Jokseenkin positiivinen"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Jokseenkin positiivinen"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Erittäin positiivinen"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Erittäin positiivinen"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Miten kuvailisit käyttökokemustasi Microsoft-kirjoitusavustajan kanssa"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Minkälainen kokemuksesi on yleisesti ottaen, kun käytät Microsoft-kirjoitusavustajaa oikeinkirjoituksen, kieliopin, ennusteiden ja muiden kirjoitusehdotusten saamiseen?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Anna Microsoftille palautetta Kirjoitusavustajasta"
+   },
+   "ebx_giveFeedback": {
+      "message": "Anna palautetta"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Hanki lisäideoita kirjoittamiseen Kirjoitusavustajan avulla, 1 teratavu OneDrive-tallennustilaa ja kaikkien Microsoft 365 -sovelluksien Premium-ominaisuudet."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Hanki lisäideoita kirjoittamiseen Kirjoitusavustajan avulla, 1 teratavu OneDrive-tallennustilaa ja kaikkien Microsoft 365 -sovelluksien Premium-ominaisuudet."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Kokeile kirjoittamisen lisäideoita Editorissa."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Aloita Premium-version käyttö"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "aloita Premium-version käyttö"
+   },
+   "ebx_goToSettings": {
+      "message": "Siirry Kirjoitusavustajan asetuksiin"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Lisätietoja on Kirjoitusavustajan asetuksissa"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Docs"
+   },
+   "ebx_grammar": {
+      "message": "Kielioppi"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Piilota synonyymit"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ohita kaikki"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Ohita"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Avaa Tekstin korjaustoiminnot tai näytä lisää vaihtoehtoja napsauttamalla hiiren kakkospainiketta"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Näytä kaikki ehdotukset Kirjoitusavustajassa tai katso lisää vaihtoehtoja napsauttamalla hiiren kakkospainiketta"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Tässä rivillä on havaittu $1 tarkistus ongelmia"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Tässä rivillä löytyi $1 tarkistus ongelma"
+   },
+   "ebx_languageAdded": {
+      "message": "{0} on lisätty"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" siirrettiin yksi sijainti alas luettelossa"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" siirtäminen luettelon yläosaan onnistui"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" siirrettiin yksi sijainti ylöspäin luettelossa"
+   },
+   "ebx_languageRemoved": {
+      "message": "{0} on poistettu"
+   },
+   "ebx_learnMore": {
+      "message": "Lisätietoja"
+   },
+   "ebx_manageLanguages": {
+      "message": "Hallitse kieliä..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Hallitse oikeinkirjoituksen tarkistuksen kieliä"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Lisää komentoja kohteelle {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Siirrä alas"
+   },
+   "ebx_moveToTop": {
+      "message": "Siirrä ylimmäiseksi"
+   },
+   "ebx_moveUp": {
+      "message": "Siirrä ylös"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Seuraava ehdotus, $1 jäljellä"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Avaa Kirjoitusavustaja"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Kirjoitusavustajan asetukset"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Koska teit tämän kirjoitusvirheen muutaman kerran, olemme lisänneet sanan $1 Automaattisen korjauksen luetteloon."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1 päivää jäljellä esikatselussa. Saat rajattomasti ehdotuksia päivittämällä:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "$1 päivä jäljellä esikatselussa. Saat rajattomasti ehdotuksia päivittämällä:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Saa kirjoittamisen lisäideoita Kirjoitusavustajassa."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1 ehdotusta jäljellä esikatselussa. Saat rajattomasti ehdotuksia päivittämällä:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1 ehdotus jäljellä esikatselussa. Saat rajattomasti ehdotuksia päivittämällä:"
+   },
+   "ebx_preview": {
+      "message": "(Esikatselu)"
+   },
+   "ebx_previewLabel": {
+      "message": "ESIKATSELU"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Edellinen ehdotus, $1 jäljellä"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Lähetä valinnaiset diagnostiikkatiedot automaattisesti tätä online-palvelua käyttäessäsi, niin voit auttaa meitä parantamaan tuotteitamme."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Lisätietoja diagnostiikkatiedoista"
+   },
+   "ebx_privacyOptions": {
+      "message": "Tietosuoja-asetukset"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Tekstin tarkistuskieli"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Paina oikeaa nuolinäppäintä päästäksesi Lisää komentoja -painikkeeseen."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Oikeinkirjoituksen tarkistuskieli"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Voit ottaa tekstintarkistuksen käyttöön enintään kolmella kielellä samaan aikaan."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Valitse tekstin tarkistuskieli"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Tekstintarkistuskielet"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Valitse enintään kolme kieltä. Ensisijainen kieli on ylimpänä."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Tekstintarkistuskielet"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Onko Kirjoitusavustajasta sinulle hyötyä?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Meillä on sinulle vain kaksi kysymystä"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Anna palautetta"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Ikävä kuulla. Kerro meille, miten voimme parantaa Kirjoitusavustajaa."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "En"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Ei kiitos"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Hienoa! Haluaisitko arvioida sovelluksen?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Jos pidät Kirjoitusavustajasta, haluaisitko arvioida sen?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Toki"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Kyllä"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Palautetta Microsoft-kirjoitusavustajasta"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Palautettasi arvostetaan"
+   },
+   "ebx_refinements": {
+      "message": "Hienosäätö"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Tarkennukset ovat edistyneitä kirjoitusehdotuksia, jotka tekevät tekstistä selkeämpää, tiiviimpää ja muodollisempaa."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Tämä sana on toistuva"
+   },
+   "ebx_settings": {
+      "message": "Asetukset"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Avaa kirjoitusavustajan asetukset"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Avaa Kirjoitusavustajan asetukset valitaksesi tekstintarkistuskielet."
+   },
+   "ebx_settingsLabel": {
+      "message": "Tilin asetukset"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Microsoft-kirjoitusavustajan asetukset"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Kielikohtaiset asetukset"
+   },
+   "ebx_showBeta": {
+      "message": "Beetaversio sivustolla $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Näytä synonyymit"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Näytä synonyymit oikeinkirjoitusvihjeissä"
+   },
+   "ebx_signInDescription": {
+      "message": "Kirjaudu sisään, jos haluat tarkistaa kirjoittaessasi kieliopin ja saada mukautettuja oikeinkirjoitus- ja parannusehdotuksia useimmissa verkkosivustoissa."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Tarvitsetko apua sisäänkirjautumisessa?"
+   },
+   "ebx_signInLabel": {
+      "message": "Kirjaudu sisään tai rekisteröidy"
+   },
+   "ebx_signInToAccess": {
+      "message": "Käytä kirjautumalla sisään"
+   },
+   "ebx_signIntoEditor": {
+      "message": "kirjaudu sisään Kirjoitusavustajaan"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Jos haluat tarkistaa kirjoittaessasi kieliopin ja saada parannusehdotuksia useimmissa verkkosivustoissa, kirjaudu sisään."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Mukautettua oikeinkirjoitusta"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Saat mukautetun oikeinkirjoituksen sanakirjan kirjautumalla sisään."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Jos haluat tarkistaa kirjoittaessasi kieliopin ja saada parannusehdotuksia useimmissa verkkosivustoissa, kirjaudu sisään."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Kirjaudu sisään, jos haluat tarkistaa kirjoittaessasi kieliopin ja saada mukautettuja oikeinkirjoitus- ja parannusehdotuksia useimmissa verkkosivustoissa."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Kirjaudu sisään Kirjoitusavustajaan"
+   },
+   "ebx_signOutLabel": {
+      "message": "Kirjaudu ulos"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Uloskirjautuminen palauttaa kaikki asetukset oletusasetuksiksi ja poistaa ohitettavien sivustojen luettelon."
+   },
+   "ebx_spelling": {
+      "message": "Oikeinkirjoituksen tarkistus"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Tarkista, onko tämä oikein"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Lisää toimintoja"
+   },
+   "ebx_synonyms": {
+      "message": "Synonyymit"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonyms not available]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Hanki synonyymeja kirjoitettaessa: kaksoisnapsauta sanaa tai valitse ja paina (Alt+Alanuoli)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Saat synonyymit, kun kirjoitat: kaksoisnapsauta sanaa tai valitse se ja paina näppäinyhdistelmää (⌃ + ⌥ + ↓)."
+   },
+   "ebx_toggleOff": {
+      "message": "Ei käytössä"
+   },
+   "ebx_toggleOn": {
+      "message": "Käytössä"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Kyllä, kiitos"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Tarjoamme nyt ehdotuksia, jotka auttavat kirjoituksen tyylissä. Haluatko tutustua siihen?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Hylkää"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Ei juuri nyt"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Tee muutoksia Kirjoitusavustajan asetuksissa"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Älä koskaan näytä tyyliehdotuksia"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Tyylin tunnistus on nyt poistettu käytöstä."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Tyylin tunnistus"
+   },
+   "ebx_toneLabel": {
+      "message": "Ääni"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Merkitse tämä aihe, jotta muut voivat käyttää siihen liittyvää kuvausta, henkilöitä ja resursseja."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Viva Topics -ehdotus"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Kokeile kirjoittamisen lisäideoita Editorissa"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Kokeile nyt"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Poista Kirjoitusavustaja käytöstä"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Editor muodostaa yhteyden Microsoftin verkkopalveluun, joka tarjoaa oikeinkirjoitus-, kielioppi- ja tyyliehdotuksia kirjoittaessasi useimmilla verkkosivustoilla."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Ota Kirjoitusavustaja käyttöön"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Kumoa"
+   },
+   "ebx_undoButtonText": {
+      "message": "Kumoa"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Automaattisen korjauksen asetukset"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Estetyt sivustot"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Virheellinen URL. Anna URL-osoite seuraavassa muodossa: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Virheellinen URL-osoite {0} rivillä {1}."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Olet poistanut Kirjoitusavustajan käytöstä alla luetelluista sivustoista. Kirjoitusavustaja-ominaisuus on saatettu poistaa käytöstä automaattisesti sivustoista, joilla on arkaluonteista sisältöä tai jotka latautuvat hitaasti."
+   },
+   "ebx_viewAccount": {
+      "message": "Näytä tili"
+   },
+   "editor": {
+      "message": "Kirjoitusavustaja"
+   },
+   "editorButtonText": {
+      "message": "Kirjoitusavustaja"
+   },
+   "emailWarningMessage": {
+      "message": "Jos haluat käyttää Copilotia, siirry sähköpostiviestin loppuun."
+   },
+   "emptyStateMessage": {
+      "message": "Valitse uudelleenkirjoitettava teksti"
+   },
+   "errorLabel": {
+      "message": "Virhe"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "oma sanakirja"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Linkitä sisältöön kirjoittamalla erikoismerkki, vinoviiva (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Sisällön merkitseminen"
+   },
+   "esdk_autocorrect": {
+      "message": "Automaattinen korjaus"
+   },
+   "esdk_cancelButton": {
+      "message": "Peruuta"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Asetukset"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, valitsin, ei käytössä."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, valitsin, käytössä."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Kuulet luokan tila painamalla sarkainta"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Laajenna luokka oikealla nuolinäppäimellä."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Yksityiskohtaiset asetukset eivät ole käytössä."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Anna yksityiskohtaiset asetukset oikealla nuolinäppäimellä."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} poistettu käytöstä"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Kaikkien tämän luokan yksityiskohtaisten asetusten valinta on nyt poistettu."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Kaikki tämän luokan yksityiskohtaiset asetukset on nyt valittu."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "{0}:n yksityiskohtaiset asetukset"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Vaihda luokan tilaa painamalla välilyöntiä tai Enter-näppäintä."
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Kirjoitusavustaja ei merkitse tätä ongelmaa, ellet avaa Kirjoitusavustajan ruutua"
+   },
+   "esdk_closeButton": {
+      "message": "Sulje"
+   },
+   "esdk_copilotInsert": {
+      "message": "Lisää"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot tukee tällä hetkellä vain englantia"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Kirjoita uudelleen"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Korjaukset"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Palaa asetuksiin vasemmalla nuolinäppäimellä"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Siirry yksityiskohtaisiin asetuksiin oikealla nuolinäppäimellä"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Luokan on oltava käytössä, jotta valintaruudun arvoa voi muuttaa"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Muuta, miten Kirjoitusavustaja korjaa ja ehdottaa parannuksia tekstiin tässä sovelluksessa."
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Microsoft-kirjoitusavustajan asetukset"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Ota oikeinkirjoitus käyttöön käyttääksesi automaattista korjausta"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Parannukset"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Editorin asetusten lataaminen epäonnistui"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Aloita Premium-version käyttö"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Kun siirryt Premium-versioon, saat lisää kirjoitusehdotuksia ja yhden teratavun tallennustilaa."
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Kuuntele tila painamalla sarkainta"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Suoramuokkaus"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Tekstin tarkistuskieli"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Asetukset"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Kirjoitusavustaja havaitsee, kun teksti viittaa tiedostoon tai tietoihin, ja tarjoaa linkin luomista."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Linkkiehdotukset"
+   },
+   "esdk_okButton": {
+      "message": "OK"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Kutista tarkistusasetukset."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Valitse, mitä Kirjoitusavustaja tarkistaa."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Valitse enintään kolme kieltä. Ensisijainen kieli on ylimpänä."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Muokkaa kieliä"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Laajenna tarkistusasetukset."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Tarkistusasetukset"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Tekstintarkistuskielen asetukset"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Tarkistusasetukset"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Muokkaa kieliä"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Valitse enintään kolme kieltä. Ensisijainen kieli on ylimpänä."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Tarkistusasetukset"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Tekstintarkistuskielen asetukset"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Hienosäätö"
+   },
+   "esdk_resetToDefault": {
+      "message": "Palauta oletukseksi"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Kokeile Kirjoitusavustajan kehittyneitä kirjoitusehdotuksia."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Lataa tiedot"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Kaikilla kielillä ei ole samoja kirjoitusohjeita. Lataamalla tämän asiakirjan voit tarkastella valitun kielen kielioppi- ja tarkennusasetuksia."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Lisätietoja"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Joka kielessä ei ole samoja kirjoitusohjeita. Seuraa tätä linkkiä ja lue lisätietoja kielioppi- ja hienosäätöasetuksista, jotka ovat käytettävissä kaikissa Kirjoitusavustajan kielissä."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Joka kielessä ei ole samoja kirjoitusohjeita. {Lue lisätietoja} kielioppi- ja hienosäätöasetuksista, jotka ovat käytettävissä kaikissa Kirjoitusavustajan kielissä."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Oikeinkirjoituksen asetusten muutokset koskevat kaikkia käytössä olevia kieliä"
+   },
+   "esdk_synonyms": {
+      "message": "Synonyymit (esikatselu)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Kirjoitusavustaja ennakoi seuraavia sanoja sekä tiedostoja tai muita objekteja joita lisätä samalla kun kirjoitat."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Ennakoiva tekstinsyöttö"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Editori nopeuttaa kirjoittamista ennakoimalla seuraavat sanat tai lauseet kirjoittaessasi."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Oppimisvihje"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Esimerkkejä"
+   },
+   "explanationTableAfter": {
+      "message": "Harkitse:"
+   },
+   "explanationTableBefore": {
+      "message": "Sen sijaan:"
+   },
+   "explanationTableSeparator": {
+      "message": "tai"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Kirjoita viesti matkastani Eiffel-torniin"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Jos haluat käyttää Copilotia, siirry julkaisun loppuun."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Seuraava sivu"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "VINKIT $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Edellinen sivu"
+   },
+   "generalErrorMessage": {
+      "message": "Microsoft-kirjoitusavustaja havaitsi ongelman eikä voinut luoda sisältöä."
+   },
+   "generateButtonLabel": {
+      "message": "Luo"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Anna palautetta"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Kirjoita kokouspyyntösähköposti"
+   },
+   "inputName": {
+      "message": "Kuvaile, mitä haluat kirjoitusavustajan kirjoittavan..."
+   },
+   "inputPlaceholder": {
+      "message": "Kuvaile, mitä haluat kirjoittaa"
+   },
+   "languageErrorMessage": {
+      "message": "Valitsemasi kielen uudelleenkirjoitukset eivät ole vielä käytettävissä."
+   },
+   "limitErrorMessage": {
+      "message": "Jos haluat kirjoittaa uudelleen, valitse alle 100 sanaa."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Sisällönluontivihjeitä"
+   },
+   "loadingLabel": {
+      "message": "Odota hetki. Valmistelemme jotain sinulle..."
+   },
+   "loadingText": {
+      "message": "Ladataan: "
+   },
+   "modalDescribeBy": {
+      "message": "Luo muita tapoja kirjoittaa valittu teksti"
+   },
+   "moreButtonLabel": {
+      "message": "Lisää asetuksia"
+   },
+   "moreButtonText": {
+      "message": "Lisää"
+   },
+   "moreOptionsLabel": {
+      "message": "Lisää vaihtoehtoja"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "lisää toinen oikeinkirjoituksen tarkistuksen kieli."
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Lisää oikeinkirjoituksen tarkistuksen kieli."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Jos haluat saada olennaisia kirjoitusehdotuksia,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Lisää Kirjoitusavustajaan toinen kieli"
+   },
+   "nextSuggestion": {
+      "message": "Seuraava ehdotus"
+   },
+   "nudgeTextForEmails": {
+      "message": "Kirjoita $1 löytääksesi sähköposteja"
+   },
+   "nudgeTextForFile": {
+      "message": "Kirjoita $1 löytääksesi tiedostoja ja muuta sisältöä"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Kirjoita $1 löytääksesi kokouksia"
+   },
+   "nudgeTextForPeople": {
+      "message": "Kirjoita $1 löytääksesi henkilöitä"
+   },
+   "prevSuggestion": {
+      "message": "Edellinen ehdotus"
+   },
+   "preview": {
+      "message": "ESIKATSELU"
+   },
+   "previewText": {
+      "message": "ESIKATSELU"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Paina CTRL + ALT + I, jos haluat käyttää tätä ominaisuutta aina, kun olet uudella rivillä."
+   },
+   "promptSuggestButtonText": {
+      "message": "Jatka kirjoittamista "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+oikea nuoli"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Lue alkuperäinen virke ääneen"
+   },
+   "regenerateLabel": {
+      "message": "Luo uudelleen"
+   },
+   "replaceLabel": {
+      "message": "Korvaa"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Raportin luoma sisältö"
+   },
+   "reportOutput": {
+      "message": "Raportin tuloste"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Tekoälyn luoma sisältö saattaa sisältää epätarkkuuksia tai arkaluonteista materiaalia. Muista tarkistaa tiedot."
+   },
+   "retry": {
+      "message": "Yritä uudelleen"
+   },
+   "rewriteBrand": {
+      "message": "Kirjoita uudelleen"
+   },
+   "rewriteWithCopilot": {
+      "message": "Kirjoita uudelleen"
+   },
+   "sbx_signInDescription": {
+      "message": "Kirjaudu sisään, jos haluat tarkistaa kirjoittaessasi kieliopin ja saada mukautettuja oikeinkirjoitus- ja parannusehdotuksia useimmissa verkkosivustoissa."
+   },
+   "shareFeedback": {
+      "message": "Jaa palautetta"
+   },
+   "showHeaderMessage": {
+      "message": "Tässä on joitakin muita tapoja kirjoittaa tämä"
+   },
+   "submitButtonTooltip": {
+      "message": "Luo (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Jos haluat käyttää Copilotia, siirry kappaleen loppuun."
+   },
+   "suggestionCountSeparator": {
+      "message": "/"
+   },
+   "suggestionHint": {
+      "message": "Hyväksy painamalla ENTER"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Yritä uudelleen"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Luo uudelleen"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Kirjoita motivoiva twiitti"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Jos haluat käyttää Copilotia, siirry twiitin loppuun."
+   }
+}

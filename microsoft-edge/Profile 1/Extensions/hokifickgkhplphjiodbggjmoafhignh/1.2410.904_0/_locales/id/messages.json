@@ -1,0 +1,205 @@
+{
+   "AccountLabel": {
+      "message": "Akun"
+   },
+   "AppDescription": {
+      "message": "Menulis dengan percaya diri dengan Microsoft Editor, asisten penulisan cerdas yang memeriksa tata bahasa, ejaan, dan gaya Anda."
+   },
+   "AppLongDescription": {
+      "message": "Jadilah penulis yang lebih baik di web dengan Microsoft Editor (1), asisten penulisan gratis Anda. Editor dapat digunakan di berbagai situs sehingga Anda dapat menulis postingan yang ringkas dan jelas secara online. Dengan ekstensi browser ini, Anda mendapatkan: \r\n\r\nBantuan penulisan cerdas: kuasai dasar-dasar penulisan dengan pemeriksaan tata bahasa, ejaan, dan tanda baca canggih yang tersedia secara gratis. Dapatkan pemeriksaan gaya dan tata bahasa tingkat lanjut untuk kejelasan, efektivitas, formalitas, kosakata, dan banyak lagi dengan versi fitur premium (2). \r\n\r\nKemampuan penulisan di mana saja: dapatkan umpan balik di situs seperti LinkedIn, Facebook, dan favorit Anda lainnya dengan ekstensi browser ini. Jika memerlukan bantuan Editor di luar web, buka Word dan cari ikon Editor untuk mengetahui bagaimana Editor dapat membantu pada dokumen, email, dan bagian web lainnya. \r\n\r\nFitur dalam berbagai bahasa: dapatkan umpan balik standar dalam 20+ bahasa (dan pemeriksaan ejaan khusus dalam 80+ bahasa) untuk berkomunikasi dengan jelas, apa pun bahasa yang Anda gunakan untuk menulis \r\n\r\nKetersediaan Bahasa (3):\r\n– Arab\r\n– Belanda\r\n– Ceko\r\n– Dansk\r\n– Hungaria\r\n– Ibrani (belum tersedia di aplikasi Word desktop)\r\n– Inggris\r\n– Italia\r\n– Jepang\r\n– Jerman\r\n– Korea\r\n– Norwegia (Bokmål)\r\n– Polski\r\n– Portugis (Brasil)\r\n– Portugis (Portugal)\r\n– Prancis\r\n– Rusia\r\n– Spanyol\r\n– Suomi\r\n– Swedia\r\n– Turki\r\n\r\n(1) Tersedia untuk browser Microsoft Edge atau Chrome dan memerlukan Akun Microsoft. Editor terhubung ke layanan online Microsoft yang menawarkan saran ejaan, tata bahasa, dan perbaikan untuk tulisan di sebagian besar situs web. \r\n (2) Langganan Microsoft 365 diperlukan untuk mengakses fitur Editor premium \r\n (3) Editor menyediakan perbaikan gaya penulisan dalam bahasa berikut; setiap bahasa menyediakan rangkaian perbaikan yang berbeda. \r\n\r\nDengan menginstal aplikasi, Anda menyetujui syarat dan ketentuan berikut: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nKebijakan Privasi: http://aka.ms/privacy"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Buat tulisan dengan percaya diri menggunakan Microsoft Editor, asisten penulisan cerdas untuk memeriksa tata bahasa, ejaan, dan gaya. \r\n\r\nJadilah penulis yang lebih baik di web dengan Microsoft Editor (1), asisten penulisan gratis Anda. Editor dapat digunakan di berbagai situs sehingga Anda dapat menulis postingan yang ringkas dan jelas secara online. Dengan ekstensi browser ini, Anda mendapatkan: \r\n\r\nBantuan penulisan cerdas: kuasai dasar-dasar penulisan dengan pemeriksaan tata bahasa, ejaan, dan tanda baca canggih yang tersedia secara gratis. Dapatkan pemeriksaan gaya dan tata bahasa tingkat lanjut untuk kejelasan, efektivitas, formalitas, kosakata, dan banyak lagi dengan fitur premium (2). \r\n\r\nKemampuan penulisan di mana saja: dapatkan umpan balik di situs seperti LinkedIn, Facebook, dan favorit Anda lainnya dengan ekstensi browser ini. Jika memerlukan bantuan Editor di luar web, buka Word dan cari ikon Editor untuk mengetahui bagaimana Editor dapat membantu pada dokumen, email, dan bagian web lainnya. \r\n\r\nFitur dalam berbagai bahasa: dapatkan umpan balik standar dalam 20+ bahasa (dan pemeriksaan ejaan khusus dalam 80+ bahasa) untuk berkomunikasi dengan jelas, apa pun bahasa yang Anda gunakan untuk menulis \r\n\r\nKetersediaan Bahasa (3):\r\n– Arab\r\n– Belanda\r\n– Ceko\r\n– Dansk\r\n– Hungaria\r\n– Ibrani (belum tersedia di aplikasi Word desktop)\r\n– Inggris\r\n– Italia\r\n– Jepang\r\n– Jerman\r\n– Korea\r\n– Norwegia (Bokmål)\r\n– Polski\r\n– Portugis (Brasil)\r\n– Portugis (Portugal)\r\n– Prancis\r\n– Rusia\r\n– Spanyol\r\n– Suomi\r\n– Swedia\r\n– Turki\r\n\r\n(1) Tersedia untuk browser Microsoft Edge atau Chrome dan memerlukan Akun Microsoft. Editor terhubung ke layanan online Microsoft yang menawarkan saran ejaan, tata bahasa, dan perbaikan untuk tulisan di sebagian besar situs web. \r\n (2) Langganan Microsoft 365 diperlukan untuk mengakses fitur Editor premium \r\n (3) Editor menyediakan perbaikan gaya penulisan dalam bahasa berikut; setiap bahasa menyediakan rangkaian perbaikan yang berbeda. \r\n\r\nDengan menginstal aplikasi, Anda menyetujui syarat dan ketentuan berikut: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nKebijakan Privasi: http://aka.ms/privacy"
+   },
+   "AppName": {
+      "message": "Microsoft Editor: Pemeriksa Ejaan & Tata Bahasa"
+   },
+   "AppShortName": {
+      "message": "Editor"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Aktifkan"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Coba Editor (beta) di Google Docs"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Editor masih dalam versi Beta di Google Docs. Jika mengalami masalah, beri tahu kami."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Ketika Editor dan ekstensi pengeditan lainnya sama-sama berjalan, sarannya dapat tumpang tindih atau berbenturan. Untuk pengalaman Editor terbaik, kami sarankan untuk menonaktifkan ekstensi pengeditan lainnya di pengaturan ekstensi browser."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Konflik terdeteksi antara ekstensi pengeditan"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Nonaktifkan Editor di $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft Editor"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Sisipan Copilot"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Penulisan Ulang Copilot"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Tata Bahasa"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor saat ini tidak didukung pada $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor saat ini dinonaktifkan di $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor tidak aktif."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "id"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor disertakan dengan $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Bahasa Pemeriksaan: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "id"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Bahasa Pemeriksa"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Bahasa Pemeriksa ejaan"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Dapatkan ide penulisan tingkat lanjut dan penyimpanan 1 TB jika Anda membeli paket premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Penyempurnaan"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Penyempurnaan adalah saran penulisan tingkat lanjut untuk membantu membuat tulisan Anda lebih jelas, padat, atau lebih formal."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Buka Pengaturan Editor untuk memilih bahasa pemeriksa bahasa."
+   },
+   "EditorSettingsLabel": {
+      "message": "Pengaturan Editor lainnya"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Ejaan"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Sinonim (Pratinjau)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Dapatkan sinonim saat Anda menulis: klik dua kali kata, atau pilih kata lalu tekan (Alt+Panah Bawah)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Dapatkan sinonim saat Anda menulis: klik dua kali kata, atau pilih kata lalu tekan Alt+Panah Bawah."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Dapatkan sinonim saat Anda menulis: klik dua kali kata, atau pilih kata lalu tekan Control+Option+Panah Bawah."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Dapatkan sinonim saat Anda menulis: klik dua kali kata, atau pilih kata lalu tekan (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ dan $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "id"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "id"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Aktifkan Editor pada $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Tampilkan akun"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Ekstensi Browser Microsoft Editor"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Anda berhasil meningkatkan ke versi premium Microsoft Editor! Jelajahi rangkaian fitur yang diperluas dengan mengklik garis bawah biru dan ungu pada tulisan Anda."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Selamat"
+   },
+   "SettingsLabel": {
+      "message": "Pengaturan akun"
+   },
+   "SignInLabel": {
+      "message": "Masuk atau daftar"
+   },
+   "SignOutLabel": {
+      "message": "Keluar"
+   },
+   "SignOutTooltip": {
+      "message": "Jika Anda keluar, semua pengaturan akan diatur ulang ke default dan daftar situs yang dikecualikan akan hilang."
+   },
+   "SupportPageLabel": {
+      "message": "Perlu bantuan untuk masuk​?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Aktifkan Editor"
+   },
+   "sbx_signInDescription": {
+      "message": "Untuk mendapatkan saran tata bahasa dan penyempurnaan di sebagian besar situs web, serta kamus ejaan yang dipersonalisasi, masuk ke akun Anda."
+   }
+}

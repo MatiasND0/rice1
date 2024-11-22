@@ -1,0 +1,438 @@
+{
+   "about": {
+      "message": "關於"
+   },
+   "absolute": {
+      "message": "絕對倍數"
+   },
+   "absoluteSilenceSpeedClarification": {
+      "message": " (也稱為相對於正常媒體速度(標準播放速度))"
+   },
+   "action": {
+      "message": "動作"
+   },
+   "addBinding": {
+      "message": "新增快捷鍵"
+   },
+   "advance": {
+      "message": "快進(秒)"
+   },
+   "alsoSearchFor": {
+      "message": "同時搜索$type$元素",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "alwaysShowOpenLocalFileLink": {
+      "message": "顯示\"$openLocalFileLabel$\"連結",
+      "placeholders": {
+         "openLocalFileLabel": {
+            "content": "$1"
+         }
+      }
+   },
+   "applyTo": {
+      "message": "插件生效的元素"
+   },
+   "applyToBoth": {
+      "message": "影片與音頻元素"
+   },
+   "applyToOnly": {
+      "message": "只用於$type$ 元素",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "audio": {
+      "message": "音頻"
+   },
+   "autofocusEnabledInput": {
+      "message": "彈出窗口打開時，自動設置焦點為\"$enableCheckboxLabel$\"多選框",
+      "placeholders": {
+         "enableCheckboxLabel": {
+            "content": "$1"
+         }
+      }
+   },
+   "badgeWhatSettingToDisplayByDefault": {
+      "message": "預設情況下顯示的設置值"
+   },
+   "changeElementSearchCriteria": {
+      "message": "更改搜索條件…"
+   },
+   "chart": {
+      "message": "音量圖"
+   },
+   "chartHeightPx": {
+      "message": "高度(像素)"
+   },
+   "chartJumpPeriod": {
+      "message": "跳躍長度百分比(%)。表示為音量圖長度的一小部分。設置為0可以平滑移動(無跳躍)。"
+   },
+   "chartLengthInSeconds": {
+      "message": "長度(以秒為單位)"
+   },
+   "chartSpeed": {
+      "message": "移動速度"
+   },
+   "chartSpeedIntrinsicTime": {
+      "message": "與當前影片速度相同"
+   },
+   "chartSpeedRealTime": {
+      "message": "固定值(實時)"
+   },
+   "chartSpeedSoundedSpeedTime": {
+      "message": "當前影片速度與有聲片段速度關係相同"
+   },
+   "chartWidthPx": {
+      "message": "寬度(像素)"
+   },
+   "chat": {
+      "message": "聊天"
+   },
+   "comparedToIntrinsic": {
+      "message": "相比於正常(1x標準播放速度)"
+   },
+   "comparedToSounded": {
+      "message": "相比有聲片段"
+   },
+   "contact": {
+      "message": "聯絡我們"
+   },
+   "contentScriptFail": {
+      "message": "無法在此頁面上執行內容腳本"
+   },
+   "couldGetMuted": {
+      "message": "如果對其使用本插件，可能會導致沒有聲音"
+   },
+   "decreaseVolume": {
+      "message": "降低音量(%)"
+   },
+   "disableHotkeysWhileInputFocused": {
+      "message": "當被調整的項目處於焦點時，禁用快捷鍵"
+   },
+   "doNothingWheneverPlaybackRateChanges": {
+      "message": "以上都不是。忽略來自其他腳本的播放速度變化。"
+   },
+   "donate": {
+      "message": "捐助"
+   },
+   "downloadFromSync": {
+      "message": "套用同步儲存中的設定"
+   },
+   "edit": {
+      "message": "編輯"
+   },
+   "enable": {
+      "message": "啟用"
+   },
+   "enableDesyncCorrection": {
+      "message": "自動糾正音畫不同步問題(副作用:在大多數情況下，每分鐘左右就有一次輕微的卡頓)"
+   },
+   "enableHotkeys": {
+      "message": "啟用快捷鍵"
+   },
+   "extensionDescription": {
+      "message": "透過快進句子之間的長時間停頓，觀看影片的速度提高約 1.5 倍"
+   },
+   "fileInputLabel": {
+      "message": "將一個或多個文件拖放在此處\n或點擊此處選擇文件"
+   },
+   "general": {
+      "message": "通用設置"
+   },
+   "hasErrors": {
+      "message": "發現錯誤"
+   },
+   "helpTranslate": {
+      "message": "幫助翻譯"
+   },
+   "hotkey": {
+      "message": "快捷鍵"
+   },
+   "hotkeys": {
+      "message": "快捷鍵"
+   },
+   "hotkeysNotes": {
+      "message": "支持組合鍵(Ctrl, Shift等)。\n可以將多個操作綁定到單一個鍵，用來創建\"配置文件\"。\n\"$switch$\"和\"=\"(也稱為\"設置\")操作之間的區別在於，\"$switch$\"切換前一個值和快捷鍵的參數之間的值，而\"設置\"總是將其設置為參數的值。\n當彈出窗口打開時，快捷鍵也處於啟動狀態。",
+      "placeholders": {
+         "switch": {
+            "content": "$1"
+         }
+      }
+   },
+   "iconBadge": {
+      "message": "擴充功能的圖示徽章"
+   },
+   "increaseVolume": {
+      "message": "提高音量(%)"
+   },
+   "input": {
+      "message": "輸入項目"
+   },
+   "license": {
+      "message": "許可協議"
+   },
+   "loading": {
+      "message": "載入中"
+   },
+   "marginAfter": {
+      "message": "語音片段後間隔"
+   },
+   "marginAfterTooltip": {
+      "message": "這類似於「語音片段前間隔」。當處於有聲片段播放狀態並即將切換至無聲片段時，需要等待多少秒才能加快播放速率(切換到無聲片段速度)。\n這主要是為了保留語音中正常的停頓(至少是在一定程度上)，這樣單詞就不會混疊在一起，並確保你能清楚地聽到句子中的最後一個字母。\n不似「語音片段前間隔」，無論此處設置為任何值，都不會導致音頻失真和延遲(但這並不意味這兩個設置可以相互替代)。"
+   },
+   "marginBefore": {
+      "message": "語音片段前間隔"
+   },
+   "marginBeforeTooltip": {
+      "message": "當處於無聲片段播放狀態並即將切換至有聲片段時，需要在有聲片段到來前多少秒來放慢速度(切換到有聲片段速度)。\n這主要是為了確保你能清楚地聽到有聲片段剛開始的第一個字母。\n\n⚠️請注意:當從無聲片段切換到有聲片段速度時，將此項設置為非0值將導致音頻失真，並將添加與此設置的值相當的恆定音頻延遲。使用「實驗性演算法」並不存在此缺點。"
+   },
+   "max": {
+      "message": "最大值"
+   },
+   "mediaUnsupported": {
+      "message": "此媒體檔案 **可能** 不受支持 — $consequences$.",
+      "placeholders": {
+         "consequences": {
+            "content": "$1"
+         }
+      }
+   },
+   "meta": {
+      "message": "設置同步與導出"
+   },
+   "min": {
+      "message": "最小值"
+   },
+   "more": {
+      "message": "更多"
+   },
+   "noSuitableElement": {
+      "message": "頁面上無法找到合適的媒體HTML元素"
+   },
+   "none": {
+      "message": "無"
+   },
+   "numbersMeanings": {
+      "message": "數值的含義(按次序):"
+   },
+   "omitMutedElements": {
+      "message": "不應用在已靜音的媒體元素"
+   },
+   "openLocalFile": {
+      "message": "打開本機檔案"
+   },
+   "openPopup": {
+      "message": "打開彈出窗口"
+   },
+   "or": {
+      "message": "或者"
+   },
+   "overTheLast": {
+      "message": "在過去的$duration$內",
+      "placeholders": {
+         "duration": {
+            "content": "$1"
+         }
+      }
+   },
+   "overrideWebsiteHotkeys": {
+      "message": "覆寫網站設置的快捷鍵"
+   },
+   "popup": {
+      "message": "彈出窗口"
+   },
+   "popupSpecificHotkeys": {
+      "message": "彈出窗口相關的快捷鍵"
+   },
+   "preventOtherScriptsFromChangingPlaybackRate": {
+      "message": "在我瀏覽的一些網站上，播放速度總是被意外改變。不要讓這些網站更改本插件設置的播放速率。"
+   },
+   "rangeSlidersAttributes": {
+      "message": "范圍滑塊的屬性值"
+   },
+   "rangeSlidersAttributesNote": {
+      "message": "請注意:瀏覽器不支持高於特定限制的播放速率。\n在本插件測試時，Chromium 內核的瀏覽器(如Chrome, Edge)版本是16，Gecko內核的瀏覽器(如Firefox)版本是8。"
+   },
+   "refreshIfMuted": {
+      "message": "如果影片播放時沒有聲音，請重新載入網頁"
+   },
+   "relativeToSounded": {
+      "message": "相對有聲片段的速度"
+   },
+   "removeBinding": {
+      "message": "刪除綁定"
+   },
+   "resetToDefaults": {
+      "message": "重設為預設值"
+   },
+   "retry": {
+      "message": "重試"
+   },
+   "rewind": {
+      "message": "快退(秒)"
+   },
+   "runSnowflakeBridge": {
+      "message": "通過簡單地安裝(其他)插件來幫助其他人繞過審查"
+   },
+   "saved": {
+      "message": "已儲存"
+   },
+   "saving": {
+      "message": "正在儲存…"
+   },
+   "showErrors": {
+      "message": "顯示錯誤"
+   },
+   "silenceSkippingWontWork": {
+      "message": "無法正常跳過無聲片段"
+   },
+   "silenceSpeed": {
+      "message": "無聲片段的速度"
+   },
+   "silenceSpeedSpecificationMethod": {
+      "message": "無聲片段速度的指定方法"
+   },
+   "silenceSpeedTooltip": {
+      "message": "播放無聲影片的速度。\n在音量圖中，以此速度下播放的片段會以紅色🟥背景顯示。$relativeNote$\n⚠️注意:如此值過大(超過~4)，有聲片段的開頭的句子可能開始被跳過(就好像「 語音片段前間隔 」設置得較小時的情況)。",
+      "placeholders": {
+         "relativeNote": {
+            "content": "$1"
+         }
+      }
+   },
+   "silenceSpeedTooltipRelativeNote": {
+      "message": "\n請注意，此設置被指定為有聲片段速度的倍數，因此，如有聲片段速率為1.5，無聲片段速率為2，無聲片段將會以1.5*2=3倍速度播放。您可以在選項頁面上更改此行為。"
+   },
+   "soundedSpeed": {
+      "message": "正常速度"
+   },
+   "soundedSpeedTooltip": {
+      "message": "此值代表在當前時刻被識別為有聲片段時播放影片的速度，即「正常」速度。\n在音量圖上，以此速度播放的片段會以綠色🟩背景顯示。"
+   },
+   "step": {
+      "message": "間距"
+   },
+   "suggestOpenLocalFile": {
+      "message": "是否要 **開啟本機檔案**?",
+      "placeholders": {
+         "openLocalFile": {
+            "content": "$1"
+         }
+      }
+   },
+   "switch": {
+      "message": "切換"
+   },
+   "timeSaved": {
+      "message": "節省時間資訊"
+   },
+   "timeSavedAveragingMethod": {
+      "message": "平均算法"
+   },
+   "timeSavedAveragingMethodAllTime": {
+      "message": "全歷史平均值(無更新衰退)"
+   },
+   "timeSavedAveragingMethodExponential": {
+      "message": "只考慮最新數據(按指數衰減更新)"
+   },
+   "timeSavedAveragingWindowLength": {
+      "message": "只考慮最後播放的N秒"
+   },
+   "timeSavedComparedToIntrinsic": {
+      "message": "與正常速度(1x標準播放速度)相比，影片的平均有效播放速度要快多少"
+   },
+   "timeSavedComparedToIntrinsicAbs": {
+      "message": "已節省的時間(與完全以1x標準播放速度的時間相比)"
+   },
+   "timeSavedComparedToSounded": {
+      "message": "與有聲片段速度相比，影片的有效播放速度平均快多少"
+   },
+   "timeSavedComparedToSoundedAbs": {
+      "message": "已節省的時間(與只播放有聲片段速度的時間相比)"
+   },
+   "timeSavedDataWeightDecayTimeConstant": {
+      "message": "結果數據權重半衰期:$length$秒",
+      "placeholders": {
+         "length": {
+            "content": "$1"
+         }
+      }
+   },
+   "timeSavedExponentialAveragingLatestDataWeight": {
+      "message": "最後播放周期的平均權重"
+   },
+   "timeSavedPercentage": {
+      "message": "相等節省時間百分比:"
+   },
+   "toggleExtension": {
+      "message": "啟用/關閉本插件"
+   },
+   "toggleMute": {
+      "message": "靜音/取消靜音"
+   },
+   "togglePause": {
+      "message": "暫停/播放"
+   },
+   "tryAttachAnyway": {
+      "message": "無論如何嘗試應用本插件"
+   },
+   "tryOpeningDirectly": {
+      "message": "嘗試直接打開影片"
+   },
+   "updateSoundedSpeedWheneverItChangesOnWebsite": {
+      "message": "我想以網頁介面或其他瀏覽器插件控制播放速率(有聲片段速度)。此設置將會使每當播放速率發生變化時自動更新聲音速度。"
+   },
+   "uploadToSync": {
+      "message": "將設置上傳到同步儲存"
+   },
+   "useExperimentalAlgorithm": {
+      "message": "使用實驗性演算法"
+   },
+   "useExperimentalAlgorithmTooltip": {
+      "message": "➕ 🆕 Now works on most websites!\n➕ 允許完全跳過無聲部分，而不是以更快的速度播放它們。\n➕ 不會有音頻失真、延遲或音畫不同步的問題。\n➖ May break playback-related functionality on some websites.\n➖音量圖不會顯示無聲部分的實際音量(只會顯示為0)。"
+   },
+   "useSeparateMarginSettingsForDifferentAlgorithms": {
+      "message": "對不同的演算法使用單獨的\"$marginBeforeLabel$\"和\"$marginAfterLabel$\"(與\"$useExperimentalAlgorithmLabel$\"設置相關)",
+      "placeholders": {
+         "marginAfterLabel": {
+            "content": "$2"
+         },
+         "marginBeforeLabel": {
+            "content": "$1"
+         },
+         "useExperimentalAlgorithmLabel": {
+            "content": "$3"
+         }
+      }
+   },
+   "value": {
+      "message": "值"
+   },
+   "video": {
+      "message": "影片"
+   },
+   "volume": {
+      "message": "音量\n這不是當前時刻音頻的響度，而是其放大倍數，就像電視那樣"
+   },
+   "volumeThreshold": {
+      "message": "有聲片段的最低響度"
+   },
+   "volumeThresholdTooltip": {
+      "message": "當當前影片音量低於此值時，加速影片。\n在音量圖中，此值音量被標記為紅色🟥水平線。藍色🟦線為當前音量。因此當藍色線低於紅色水平線時，該時段會被認為是無聲片段。"
+   },
+   "wheneverPlaybackRateChangesFromOtherScripts": {
+      "message": "每當播放速度被其他腳本更改時"
+   },
+   "wouldHaveLastedIfSpeedWasIntrinsic": {
+      "message": "在不跳過無聲片段的情況下，以1x標準播放速度播放需要多長時間"
+   },
+   "wouldHaveLastedIfSpeedWasSounded": {
+      "message": "在不跳過無聲片段的情況下，以有聲片段速度播放所需的時間"
+   }
+}

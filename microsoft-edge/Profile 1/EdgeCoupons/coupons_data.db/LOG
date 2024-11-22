@@ -1,0 +1,6 @@
+2024/11/16-00:53:01.177 815c Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/11/16-00:53:01.177 815c Recovering log #36
+2024/11/16-00:53:01.177 815c Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/EdgeCoupons/coupons_data.db/000036.log 
+2024/11/16-00:53:02.561 815b Level-0 table #40: started
+2024/11/16-00:53:02.596 815b Level-0 table #40: 640265 bytes OK
+2024/11/16-00:53:02.599 815b Delete type=0 #36

@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Tài khoản"
+   },
+   "AppDescription": {
+      "message": "Tự tin viết với Trình soạn thảo Microsoft, trợ lý viết thông minh kiểm tra ngữ pháp, chính tả và văn phong của bạn."
+   },
+   "AppLongDescription": {
+      "message": "Trở thành một người viết tốt hơn trên web với Trình soạn thảo Microsoft (1) – trợ lý viết miễn phí của bạn. Trình soạn thảo đồng hành cùng bạn trên các trang web, do đó bạn có thể tự tin viết những bài đăng trực tuyến một cách rõ ràng, súc tích. Với tiện ích bổ sung của trình duyệt này, bạn sẽ nhận được: \r\n\r\nHỗ trợ viết thông minh – nắm bắt những kiến thức cơ bản với tính năng kiểm tra chính tả, ngữ pháp và tra soát dấu câu vượt trội hoàn toàn miễn phí. Nhận kiểm tra ngữ pháp và văn phong nâng cao về tính rõ ràng, ngắn gọn, hình thức, từ vựng và nhiều tính năng khác với phiên bản cao cấp (2). \r\n\r\nMọi lúc, mọi nơi bạn viết – Nhận phản hồi trên các trang web như LinkedIn, Gmail, Facebook và nhiều trang yêu thích khác của bạn với tiện ích bổ sung của trình duyệt này. Nếu bạn muốn nhận hỗ trợ của Trình soạn thảo bên ngoài web, hãy mở Word và tìm biểu tượng Trình soạn thảo để xem cách Trình soạn thảo có thể trợ giúp bạn trên các tài liệu, email và các phần khác của web. \r\n\r\nCó sẵn nhiều ngôn ngữ – nhận phản hồi cơ bản bằng hơn 20 ngôn ngữ (và kiểm tra chính tả cụ thể cho hơn 80 ngôn ngữ) để giao tiếp một cách rõ ràng, bất kể bạn đang viết bằng ngôn ngữ nào \r\n\r\nNgôn ngữ có sẵn (3):\r\n– Tiếng Ả Rập\r\n– Tiếng Séc\r\n– Tiếng Đan Mạch\r\n– Tiếng Hà Lan\r\n– Tiếng Anh\r\n– Tiếng Phần Lan\r\n– Tiếng Pháp\r\n– Tiếng Đức\r\n– Tiếng Do Thái (chưa có trên ứng dụng Word trên máy tính để bàn)\r\n– Tiếng Hungary\r\n– Tiếng Ý\r\n– Tiếng Nhật\r\n– Tiếng Hàn\r\n– Tiếng Na Uy (Bokmål)\r\n– Tiếng Ba Lan\r\n– Tiếng Bồ Đào Nha (Brazil)\r\n– Tiếng Bồ Đào Nha (Bồ Đào Nha)\r\n– Tiếng Nga\r\n– Tiếng Tây Ban Nha\r\n– Tiếng Thụy Điển\r\n– Tiếng Thổ Nhĩ Kỳ\r\n\r\n(1) Có sẵn cho trình duyệt Microsoft Edge hoặc Chrome và cần có Tài khoản Microsoft. Trình soạn thảo kết nối với một dịch vụ trực tuyến của Microsoft cung cấp các đề xuất chính tả, ngữ pháp và tinh chỉnh cho văn bản của bạn trên hầu hết các trang web. \r\n (2) Bạn cần có gói đăng ký Microsoft 365 để truy cập vào các tính năng cao cấp của Trình soạn thảo \r\n (3) Trình soạn thảo cung cấp tính năng tinh chỉnh văn phong viết bằng các ngôn ngữ sau; các ngôn ngữ khác nhau có các bộ tinh chỉnh khác nhau. \r\n\r\nBằng cách cài đặt ứng dụng, bạn đồng ý với các điều khoản và điều kiện sau: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nChính sách về quyền riêng tư: http://aka.ms/privacy"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Tự tin viết lách với Trình soạn thảo Microsoft – trợ lý ngữ pháp, chính tả và kiểm tra văn phong viết thông minh của bạn. \r\n\r\nTrở thành một người viết tốt hơn trên web với Trình soạn thảo Microsoft (1) – trợ lý viết miễn phí của bạn. Trình soạn thảo đồng hành cùng bạn trên các trang web, do đó bạn có thể tự tin viết những bài đăng trực tuyến một cách rõ ràng, súc tích. Với tiện ích bổ sung của trình duyệt này, bạn sẽ nhận được: \r\n\r\nHỗ trợ viết thông minh – nắm bắt những kiến thức cơ bản với tính năng kiểm tra chính tả, ngữ pháp và tra soát dấu câu vượt trội hoàn toàn miễn phí. Nhận kiểm tra ngữ pháp và văn phong nâng cao về tính rõ ràng, ngắn gọn, hình thức, từ vựng và nhiều tính năng khác với phiên bản cao cấp (2). \r\n\r\nMọi lúc, mọi nơi bạn viết – Nhận phản hồi trên các trang web như LinkedIn, Gmail, Facebook và nhiều trang yêu thích khác của bạn với tiện ích bổ sung của trình duyệt này. Nếu bạn muốn nhận hỗ trợ của Trình soạn thảo bên ngoài web, hãy mở Word và tìm biểu tượng Trình soạn thảo để xem cách Trình soạn thảo có thể trợ giúp bạn trên các tài liệu, email và các phần khác của web. \r\n\r\nCó sẵn nhiều ngôn ngữ – nhận phản hồi cơ bản bằng hơn 20 ngôn ngữ (và kiểm tra chính tả cụ thể cho hơn 80 ngôn ngữ) để giao tiếp một cách rõ ràng, bất kể bạn đang viết bằng ngôn ngữ nào \r\n\r\nNgôn ngữ có sẵn (3):\r\n– Tiếng Ả Rập\r\n– Tiếng Séc\r\n– Tiếng Đan Mạch\r\n– Tiếng Hà Lan\r\n– Tiếng Anh\r\n– Tiếng Phần Lan\r\n– Tiếng Pháp\r\n– Tiếng Đức\r\n– Tiếng Do Thái (chưa có trên ứng dụng Word trên máy tính để bàn)\r\n– Tiếng Hungary\r\n– Tiếng Ý\r\n– Tiếng Nhật\r\n– Tiếng Hàn\r\n– Tiếng Na Uy (Bokmål)\r\n– Tiếng Ba Lan\r\n– Tiếng Bồ Đào Nha (Brazil)\r\n– Tiếng Bồ Đào Nha (Bồ Đào Nha)\r\n– Tiếng Nga\r\n– Tiếng Tây Ban Nha\r\n– Tiếng Thụy Điển\r\n– Tiếng Thổ Nhĩ Kỳ\r\n\r\n(1) Có sẵn cho trình duyệt Microsoft Edge hoặc Chrome và cần có Tài khoản Microsoft. Trình soạn thảo kết nối với một dịch vụ trực tuyến của Microsoft cung cấp các đề xuất chính tả, ngữ pháp và tinh chỉnh cho văn bản của bạn trên hầu hết các trang web. \r\n (2) Bạn cần có gói đăng ký Microsoft 365 để truy cập vào các tính năng cao cấp của Trình soạn thảo \r\n (3) Trình soạn thảo cung cấp tính năng tinh chỉnh văn phong viết bằng các ngôn ngữ sau; các ngôn ngữ có các bộ tinh chỉnh khác nhau. \r\n\r\nBằng cách cài đặt ứng dụng, bạn đồng ý với các điều khoản và điều kiện sau: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nChính sách về quyền riêng tư: http://aka.ms/privacy"
+   },
+   "AppName": {
+      "message": "Trình soạn thảo Microsoft: Kiểm tra Chính tả và Ngữ pháp"
+   },
+   "AppShortName": {
+      "message": "Trình soạn thảo"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Bật nó lên"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Dùng thử Trình soạn thảo (beta) trong Google Tài liệu"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Trình soạn thảo đang ở phiên bản Beta trên Google Tài liệu. Nếu bạn đang gặp phải sự cố, vui lòng cho chúng tôi biết."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Khi Trình soạn thảo và các tiện ích bổ sung tương tự đều đang chạy, đề xuất có thể bị chồng chéo hoặc mâu thuẫn. Để có trải nghiệm tốt nhất với Trình soạn thảo, chúng tôi khuyên bạn nên tắt các tiện ích bổ sung tương tự trong phần cài đặt tiện ích bổ sung của trình duyệt."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Phát hiện xung đột giữa các phần mở rộng chỉnh sửa"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Tắt Trình chỉnh sửa trên $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Trình soạn thảo Microsoft"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Chèn Copilot"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Viết lại Copilot"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Ngữ pháp"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Trình soạn thảo hiện không được hỗ trợ trên $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Trình chỉnh sửa hiện đang bị tắt trên $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Trình soạn thảo đã tắt."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "vi"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Trình soạn thảo có trong $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Ngôn ngữ kiểm lỗi: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "vi"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Ngôn ngữ kiểm lỗi"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Ngôn ngữ kiểm lỗi"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Nhận ý tưởng viết nâng cao và dung lượng lưu trữ 1 TB khi bạn chuyển sang phiên bản cao cấp."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Tinh chỉnh"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Tinh chỉnh là những đề xuất viết nâng cao giúp bài viết của bạn trở nên rõ ràng, bớt dài dòng hoặc thêm phần trịnh trọng."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Mở phần cài đặt Trình soạn thảo để chọn ngôn ngữ kiểm lỗi."
+   },
+   "EditorSettingsLabel": {
+      "message": "Xem thêm Cài đặt Trình soạn thảo"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Chính tả"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Từ đồng nghĩa (Bản xem trước)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Nhận các từ đồng nghĩa khi bạn viết: bấm đúp vào một từ hoặc chọn và nhấn (Alt+Mũi tên xuống)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Nhận các từ đồng nghĩa khi bạn viết: bấm đúp vào một từ hoặc chọn và nhấn Alt+Mũi tên Xuống."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Nhận các từ đồng nghĩa khi bạn viết: bấm đúp vào một từ hoặc chọn và nhấn Điều khiển+Tùy chọn+Mũi tên xuống."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Nhận các từ đồng nghĩa khi bạn viết: bấm đúp vào một từ hoặc chọn và nhấn (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ và $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "vi"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "vi"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Bật Trình soạn thảo trên $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Xem tài khoản"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Tiện ích bổ sung của trình duyệt: Trình soạn thảo Microsoft"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Bạn đã nâng cấp thành công lên phiên bản cao cấp của Trình soạn thảo Microsoft! Khám phá bộ tính năng mở rộng bằng cách nhấp vào các đường gạch dưới màu xanh lam và tím trong bài viết của bạn."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Xin chúc mừng"
+   },
+   "SettingsLabel": {
+      "message": "Thiết đặt tài khoản"
+   },
+   "SignInLabel": {
+      "message": "Đăng nhập hoặc đăng ký"
+   },
+   "SignOutLabel": {
+      "message": "Đăng xuất"
+   },
+   "SignOutTooltip": {
+      "message": "Việc đăng xuất sẽ đặt lại tất cả cài đặt về mặc định và mất danh sách các trang web bị loại trừ."
+   },
+   "SupportPageLabel": {
+      "message": "Bạn cần trợ giúp đăng nhập vào ​?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Bật Trình soạn thảo"
+   },
+   "addButtonLabel": {
+      "message": "Thêm"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Tạo bằng Copilot, nhấn alt+i để hiển thị các tùy chọn"
+   },
+   "aiInsertButtonText": {
+      "message": "Tạo nội dung với Copilot"
+   },
+   "aiInsertResultDescription": {
+      "message": "Đây là một cách để làm cho nội dung hấp dẫn hơn"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Biên tập viên đã thêm $1 làm ngôn ngữ kiểm tra chính tả"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Quản lý ngôn ngữ kiểm tra chính tả"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Hoàn tác"
+   },
+   "backToPromptLabel": {
+      "message": "Quay lại"
+   },
+   "closeLabel": {
+      "message": "Đóng"
+   },
+   "contentErrorMessage": {
+      "message": "Trình soạn thảo Microsoft thể tạo nội dung. Vui lòng chọn văn bản khác hoặc đợi trong giây lát và thử lại."
+   },
+   "contentSuggestion": {
+      "message": "Đề xuất nội dung"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Điều chỉnh, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Lỗi ngữ pháp, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Tinh chỉnh phong cách, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Từ Lặp lại, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Sai chính tả, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Nội dung do AI tạo ra có thể chứa thông tin không chính xác hoặc tài liệu nhạy cảm. Hãy chắc chắn để xác minh thông tin."
+   },
+   "copyButtonText": {
+      "message": "Sao chép"
+   },
+   "defaultWarningMessage": {
+      "message": "Để sử dụng Copilot, hãy đi đến cuối đoạn văn."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Bạn chỉ có thể bật kiểm lỗi cho tối đa ba ngôn ngữ cùng một lúc."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "\"$1\" đã được thêm vào từ điển."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Đã bỏ kết quả tìm kiếm menu tại"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Đã chèn đề xuất. Đã bỏ kết quả tìm kiếm menu tại"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Đã bấm vào đề xuất cờ. Tại menu kết quả tìm kiếm được hiển thị"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Đã nhấp nhích. Tại menu kết quả tìm kiếm hiển thị"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "Nhấn phím biểu tượng \"$1\" đã hiển thị kết quả tìm kiếm menu Tại"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Mở bằng nút điều khiển"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Nhấn control để biết các tùy chọn Tự động Sửa."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Đề xuất tệp"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Tệp, thành phần, mọi người và nhiều nội dung khác"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Chèn"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Phát hiện doanh nghiệp địa phương"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Phát hiện Địa chỉ"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Thêm liên kết đến địa chỉ này"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Vị trí"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Sự nâng cao"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Đề xuất về người"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Đề xuất Thực thể"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Thêm liên kết đến thực thể này"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Thực thể"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Đề xuất thực thể"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Phát hiện Thời gian"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Thêm múi giờ vào thời điểm này"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Thời gian"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Sự cải tiến"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Gắn thẻ chủ đề này để giúp người khác truy nhập mô tả, mọi người và tài nguyên được kết nối với chủ đề đó."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Đề xuất của Viva Topics"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Đề xuất của Viva Topics"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Đã hiển thị đề xuất lời nhắc: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "Hủy bỏ"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Nhận dạng ngày"
+   },
+   "ebx_Dismiss": {
+      "message": "Bỏ qua"
+   },
+   "ebx_Done": {
+      "message": "Hoàn tất"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Tìm kiếm tệp"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Tìm kiếm mọi người"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Bắt đầu nhập để tìm kiếm"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Bắt đầu nhập để tìm kiếm 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Bắt đầu nhập để tìm kiếm"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Bắt đầu nhập để tìm kiếm"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Thành phần Loop Tìm kiếm"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Bắt đầu nhập để tìm kiếm"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Bắt đầu nhập để tìm kiếm"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Bắt đầu nhập để tìm kiếm"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Tìm kiếm chủ đề"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Nhận dạng Mọi người / Ngày"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Chèn ngày"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Chèn phạm vi ngày"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Đề xuất: Chèn phạm vi ngày"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Chèn ngày tháng và thời gian"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Đề xuất: Chèn ngày tháng và thời gian"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Đề xuất: Chèn Ngày"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Đề xuất: Chèn Người"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Chèn giờ"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Chèn phạm vi thời gian"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Đề xuất: Chèn phạm vi thời gian"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Đề xuất: Chèn thời gian"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Phản hồi đã được gửi thành công."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Cảm ơn bạn đã dùng thử Trình chỉnh sửa (beta) trong Google Tài liệu. Chúng tôi đang thực hiện các bản cập nhật để phù hợp với những thay đổi đối với Google Tài liệu khiến Trình chỉnh sửa ngừng hoạt động. Chúng tôi sẽ cho bạn biết khi Trình chỉnh sửa sẵn sàng để sử dụng lại."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Trình soạn thảo trong Google Tài liệu không sẵn có"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Để có trải nghiệm Trình chỉnh sửa tốt nhất, hãy thử tắt tính năng kiểm tra chính tả và ngữ pháp tích hợp sẵn của Google Tài liệu. (Trên menu Công cụ, đi tới Chính tả và ngữ pháp và tắt các tùy chọn)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Chỉ sử dụng kiểm lỗi Trình chỉnh sửa"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Nhận các đề xuất nâng cao trong khi bạn viết. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Nhận đề xuất nâng cao trong khi bạn viết. Để có trải nghiệm tốt nhất cho Trình chỉnh sửa, tính năng kiểm tra chính tả và ngữ pháp tích hợp sẵn của Google Tài liệu sẽ bị tắt."
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Dùng thử Trình soạn thảo (beta) trong Google Tài liệu"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Đề xuất ngữ pháp đã bị bỏ qua."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Phát hiện Tiêu đề"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Nâng cao"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Đầu đề 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Đầu đề 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Đầu đề 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Cân nhắc thay đổi thành tiêu đề"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Trợ năng"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Trợ năng: Xem xét thay đổi thành tiêu đề"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Đề xuất chèn \"$1\". Nhấn để chèn."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Chúng tôi đã chọn {0} dựa trên cài đặt trình duyệt hiện tại của bạn."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Kiểm tra chính tả và ngữ pháp cho ba ngôn ngữ cùng lúc. Chọn ngôn ngữ của bạn trong Cài đặt Trình soạn thảo."
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Bạn có thể chỉnh sửa ngôn ngữ của mình trong cài đặt Trình chỉnh sửa."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Chúng tôi đã chọn {0}, {1} và {2} dựa trên cài đặt trình duyệt hiện tại của bạn."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Soát lỗi đa ngôn ngữ bằng Trình soạn thảo"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Chúng tôi đã chọn {0} và {1} dựa trên cài đặt trình duyệt hiện tại của bạn."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Nhận dạng con người"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Chèn đề xuất \"$1\" đã được áp dụng thành công."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Đề xuất chèn \"$1\". Nhấn TAB để chèn."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Các ngôn ngữ hiệu đính"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Người đăng ký Microsoft 365 nhận được đề xuất viết nâng cao khi họ đăng nhập."
+   },
+   "ebx_RemoveItem": {
+      "message": "Xóa"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Giờ đây, bạn có thể thêm từ của mình vào từ điển chính tả của Trình soạn thảo. Tìm kiếm \"Thêm vào từ điển\" khi Trình soạn thảo đưa ra đề xuất chính tả."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Cá nhân hóa từ điển chính tả của bạn"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "OK"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Giờ đây, Trình soạn thảo có thể thêm từ vào từ điển tùy chỉnh được tích hợp sẵn trong các ứng dụng Microsoft 365 của bạn. Đăng nhập và tìm \"Thêm vào từ điển\" khi Trình soạn thảo đưa ra đề xuất chính tả."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Đăng nhập đối với từ điển chính tả được cá nhân hóa"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Phê bình \"$1\" đã bị vô hiệu hóa trong cài đặt."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Phê bình này đã bị vô hiệu hóa trong cài đặt."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Để nhận văn bản đề xuất trên hầu hết các trang web, hãy đăng nhập vào tài khoản Microsoft của bạn hoặc tài khoản cơ quan hoặc trường học mà bạn sử dụng cho Office."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Đăng nhập hoặc đăng ký"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Đăng nhập để nhận văn bản đề xuất trên hầu hết các trang web. Chúng tôi sẽ lưu cài đặt của bạn, chẳng hạn như ngôn ngữ bạn viết và các loại sự cố mà bạn muốn Trình soạn thảo kiểm tra."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Tận hưởng các đề xuất ngữ pháp và tinh chỉnh trên hầu hết các trang web, cũng như từ điển chính tả được cá nhân hóa."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Để có từ điển chính tả được cá nhân hóa, hãy đăng nhập vào tài khoản Microsoft của bạn hoặc tài khoản cơ quan hoặc trường học mà bạn sử dụng cho Office."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Trình soạn thảo chưa chạy"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Đã bỏ menu dấu sổ chéo"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Đã chèn đề xuất. Đã bỏ qua menu sổ chéo"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Đã nhấp vào đề xuất gắn cờ. Đã hiển thị menu dấu sổ chéo"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Đã bấm vào lời nhắc. Đã hiển thị menu dấu sổ chéo"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "Nhấn phím biểu tượng \"$1\" đã hiển thị menu Dấu sổ chéo"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Đề xuất chính tả đã bị bỏ qua."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Mở bằng cách bấm chuột trái hoặc Alt+Mũi tên xuống"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Mở bằng cách bấm chuột trái hoặc Ctrl+Alt+Mũi tên xuống"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Mở bằng cách bấm chuột trái hoặc Control+Option+Mũi tên xuống"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Tự động sửa lỗi"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+Mũi tên xuống)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl+Alt+Mũi tên xuống)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Sửa ngữ pháp"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Tinh chỉnh cách viết"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Sửa lỗi chính tả"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Mở bằng cách bấm chuột trái"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Đề xuất của Viva Topics"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Đề xuất \"$1\" đã được chấp nhận thành công."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Nhận dạng Tác vụ"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Tạo tác vụ"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Đề xuất: Tạo một tác vụ"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Tab"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Nhấn"
+   },
+   "ebx_TurnItOn": {
+      "message": "Bật tính năng"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Thêm một trang web khác"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Thêm site khác"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Hủy bỏ việc thêm site vào danh sách site bị chặn."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Thêm site vào danh sách site bị chặn"
+   },
+   "ebx_addButton": {
+      "message": "Thêm"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Để thêm tính năng kiểm tra ngữ pháp"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Hủy bỏ việc thêm ngôn ngữ vào danh sách ngôn ngữ kiểm lỗi"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Thêm ngôn ngữ vào danh sách ngôn ngữ kiểm lỗi"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Thêm một ngôn ngữ khác"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Thêm vào Từ điển"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Cho phép Trình soạn thảo tự động phát hiện và thêm ngôn ngữ kiểm lỗi mới dựa trên văn bản của bạn."
+   },
+   "ebx_appDescription": {
+      "message": "Tự tin viết với Trình soạn thảo Microsoft: trợ lý viết thông minh của bạn"
+   },
+   "ebx_appLongDescription": {
+      "message": "Trình soạn thảo cung cấp hỗ trợ viết nâng cao với các đề xuất về ngữ pháp, chính tả và văn phong trên web (1) để bạn có thể tự tin viết các bài đăng và email rõ ràng, súc tích.\r\n\r\nViết như một người chuyên nghiệp với sự hỗ trợ viết thông minh\r\nNắm vững kiến thức cơ bản với ngữ pháp miễn phí, ngữ pháp nâng cao, chính tả và kiểm tra dấu câu. Vượt ra ngoài những điều cơ bản với tính năng kiểm tra kiểu nâng cao cho các vấn đề như tính rõ ràng, ngắn gọn, hình thức, từ vựng, v.v. với tính năng cao cấp (yêu cầu đăng ký Microsoft 365).\r\n\r\nCá nhân hóa theo nhu cầu của bạn\r\nGiờ đây, Trình soạn thảo có thể thêm từ vào từ điển tùy chỉnh được tích hợp sẵn trong các ứng dụng Microsoft 365 của bạn. Tìm kiếm \"Thêm vào từ điển\" khi Trình soạn thảo đưa ra đề xuất chính tả. Ngoài ra, Cài đặt cung cấp cho bạn cách tinh chỉnh tùy chọn của mình để viết đề xuất. Chúng tôi cũng đã giúp bạn dễ dàng bỏ qua tất cả các lần sửa lỗi chính tả bằng cách chọn Bỏ qua tất cả hoặc bỏ qua các đề xuất ngữ pháp không mong muốn bằng cách chọn Bỏ qua.\r\n\r\nViết ở bất cứ đâu\r\nNhận hỗ trợ viết trên các trang web như LinkedIn, Gmail, Facebook và các mục yêu thích khác với tiện ích mở rộng trình duyệt này. Nếu bạn muốn có sự trợ giúp của Trình soạn thảo trong các ứng dụng Office mà bạn viết nhiều nhất, hãy mở Word hoặc Outlook trên web và nhận các đề xuất để cải thiện tài liệu và email của bạn.\r\n\r\nNhận hỗ trợ bằng nhiều ngôn ngữ\r\nKiểm tra chính tả và ngữ pháp cho tối đa ba ngôn ngữ cùng lúc với tính năng soát lỗi đa ngôn ngữ. Trình chỉnh sửa kiểm tra chính tả trong hơn 80 ngôn ngữ và cung cấp tính năng kiểm tra ngữ pháp cũng như tinh chỉnh phong cách viết trong 21 ngôn ngữ. Bạn có thể tìm thêm thông tin về tính khả dụng của ngôn ngữ tại đây: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nTải Trình soạn thảo cho Edge ở đây: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Khả dụng cho trình duyệt Microsoft Edge hoặc Chrome và yêu cầu phải có Tài khoản Microsoft. Trình chỉnh sửa kết nối với một dịch vụ trực tuyến của Microsoft cung cấp các đề xuất chính tả, ngữ pháp và sàng lọc cho bài viết của bạn trên hầu hết các trang web.\r\n2. Không phải tất cả các ngôn ngữ đều có cùng một bộ sàng lọc.\r\n\r\nBằng cách cài đặt ứng dụng, bạn đồng ý với các điều khoản và điều kiện này:\r\n\r\nXIN LƯU Ý: Tham khảo các điều khoản cấp phép cho Tài khoản Microsoft hoặc đăng ký Microsoft 365 của bạn nếu có (\"tiện ích mở rộng\") để xác định tổ chức cấp phép tiện ích mở rộng này cho bạn và để biết thông tin hỗ trợ. Các điều khoản cấp phép cho Tài khoản Microsoft hoặc đăng ký Microsoft 365 nếu có sẽ áp dụng cho việc bạn sử dụng tiện ích mở rộng này.\r\n\r\nChính sách về Quyền riêng tư: http://aka.ms/privacy\r\nĐiều khoản Dịch vụ: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Trình chỉnh sửa cung cấp hỗ trợ viết nâng cao với các đề xuất về ngữ pháp, chính tả và văn phong trên web (1) để bạn có thể tự tin viết các bài đăng và email rõ ràng, súc tích.\r\n\r\nViết như một người chuyên nghiệp với tính năng hỗ trợ viết thông minh\r\nNắm vững kiến thức cơ bản với ngữ pháp miễn phí, ngữ pháp nâng cao, chính tả và kiểm tra dấu câu. Vượt ra ngoài những điều cơ bản với tính năng kiểm tra kiểu nâng cao cho các vấn đề như tính rõ ràng, ngắn gọn, hình thức, từ vựng, v.v. với tính năng cao cấp (yêu cầu đăng ký Microsoft 365).\r\n\r\nCá nhân hóa nó theo nhu cầu của bạn\r\nGiờ đây, trình soạn thảo có thể thêm từ vào từ điển tùy chỉnh được tích hợp sẵn trong các ứng dụng Microsoft 365 của bạn. Tìm kiếm \"Thêm vào từ điển\" khi Trình soạn thảo đưa ra đề xuất chính tả. Ngoài ra, Cài đặt cung cấp cho bạn cách tinh chỉnh tùy chọn của mình để viết đề xuất. Chúng tôi cũng đã giúp bạn dễ dàng bỏ qua tất cả các lần sửa lỗi chính tả bằng cách chọn Bỏ qua tất cả hoặc bỏ qua các đề xuất ngữ pháp không mong muốn bằng cách chọn Bỏ qua.\r\n\r\nViết ở bất cứ đâu\r\nNhận hỗ trợ viết trên các trang web như LinkedIn, Gmail, Facebook và các mục yêu thích khác với tiện ích mở rộng trình duyệt này. Nếu bạn muốn có sự trợ giúp của Trình soạn thảo trong các ứng dụng Office mà bạn viết nhiều nhất, hãy mở Word hoặc Outlook trên web và nhận các đề xuất để cải thiện tài liệu và email của bạn.\r\n\r\nNhận hỗ trợ bằng nhiều ngôn ngữ\r\nKiểm tra chính tả và ngữ pháp cho tối đa ba ngôn ngữ cùng lúc với tính năng soát lỗi đa ngôn ngữ. Trình chỉnh sửa kiểm tra chính tả trong hơn 80 ngôn ngữ và cung cấp tính năng kiểm tra ngữ pháp cũng như tinh chỉnh phong cách viết trong 21 ngôn ngữ. Bạn có thể tìm thêm thông tin về tính khả dụng của ngôn ngữ tại đây: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nTải Trình soạn thảo cho Chrome ở đây: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Có sẵn cho trình duyệt Microsoft Edge hoặc Chrome và yêu cầu phải có Tài khoản Microsoft. Trình chỉnh sửa kết nối với một dịch vụ trực tuyến của Microsoft cung cấp các đề xuất chính tả, ngữ pháp và sàng lọc cho bài viết của bạn trên hầu hết các trang web.\r\n2. Không phải ngôn ngữ nào cũng có bộ tinh chỉnh giống nhau.\r\n\r\nBằng cách cài đặt ứng dụng, bạn đồng ý với các điều khoản và điều kiện này:\r\n\r\nXIN LƯU Ý: Tham khảo các điều khoản cấp phép cho Tài khoản Microsoft hoặc đăng ký Microsoft 365 của bạn nếu có (\"tiện ích mở rộng\") để xác định tổ chức cấp phép tiện ích mở rộng này cho bạn và để biết thông tin hỗ trợ. Các điều khoản cấp phép cho Tài khoản Microsoft hoặc đăng ký Microsoft 365 nếu có sẽ áp dụng cho việc bạn sử dụng tiện ích mở rộng này.\r\n\r\nChính sách về Quyền riêng tư: http://aka.ms/privacy\r\nĐiều khoản Dịch vụ: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Trình soạn thảo Microsoft: Trình kiểm tra chính tả và ngữ pháp"
+   },
+   "ebx_appShortName": {
+      "message": "Trình soạn thảo"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, tương tự như: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2,tương tự như: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Thay thế bằng"
+   },
+   "ebx_asInSynonyms": {
+      "message": "tương tự như"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "\"$1\", hoàn tác Tự Sửa."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Hoàn nguyên về \"$1\""
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, đã tự sửa."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Nhấn control để xem các tùy chọn tự sửa."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "\"{0}\" đã được thêm thành công"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Nhấn phím Mũi tên Phải để truy nhập nút Loại bỏ."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Danh sách trống."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "Đã loại bỏ thành công \"{0}\""
+   },
+   "ebx_brandText": {
+      "message": "Trình soạn thảo Microsoft"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Logo Trình soạn thảo Microsoft"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Duyệt máy tính này"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Thay đổi tất cả"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Cài đặt Trình soạn thảo..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Kiểm tra các sàng lọc"
+   },
+   "ebx_checkGrammar": {
+      "message": "Kiểm tra ngữ pháp"
+   },
+   "ebx_checkSpelling": {
+      "message": "Kiểm tra chính tả"
+   },
+   "ebx_close": {
+      "message": "Đóng"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Sắp ra mắt"
+   },
+   "ebx_copilotInsert": {
+      "message": "Chèn"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Viết lại Copilot"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Xóa từ lặp lại"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Ngừng kiểm tra điều này"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Ngừng kiểm tra điều này. Trình soạn thảo sẽ áp dụng cài đặt này cho đến khi bạn thay đổi nó."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Trình soạn thảo sẽ áp dụng cài đặt này cho đến khi bạn thay đổi nó"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Tắt Trình chỉnh sửa trên {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Tùy chọn hiển thị"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Trang web này đã có trong danh sách các trang web bị chặn"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Trình soạn thảo $1 các ý tưởng viết nâng cao cho thư này."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Trình soạn thảo hiện không được hỗ trợ trên {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Cửa sổ bật ra của Trình soạn thảo"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Tắt"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Bật"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Hiện nút trình soạn thảo trong trường hỗ trợ bật trình soạn thảo"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Tiện ích bổ sung Microsoft Office dành cho trình duyệt hiện bao gồm cả Trình soạn thảo Microsoft, trợ lý viết thông minh giúp bạn đưa những bài viết tốt nhất của mình lên web. Trình soạn thảo Microsoft kết nối tới một dịch vụ trực tuyến để cung cấp các gợi ý về chính tả, ngữ pháp và văn phong cho bạn."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Trình soạn thảo Microsoft (Bản xem trước) hiện đang chạy"
+   },
+   "ebx_editorFeature": {
+      "message": "Trình soạn thảo Microsoft"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Tắt"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Tắt Trình soạn thảo"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Bật"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Tính năng của Trình soạn thảo"
+   },
+   "ebx_editorIsOff": {
+      "message": "Trình soạn thảo đã tắt"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Trình chỉnh sửa hiện đang tắt trên {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Trình soạn thảo có trong {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Thêm cài đặt Trình chỉnh sửa"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Không có ngôn ngữ nào phù hợp với tìm kiếm của bạn"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Bật Trình soạn thảo trên {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " và "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Trình soạn thảo $1 ý tưởng ghi nâng cao cho thư này."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Trình soạn thảo có $1 ý tưởng viết nâng cao cho email này."
+   },
+   "ebx_excludedSites": {
+      "message": "Các trang bị loại trừ"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Báo cáo nội dung đề xuất này"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Vui lòng cho chúng tôi biết lý do bạn chọn câu trả lời đó."
+   },
+   "ebx_feedbackLink": {
+      "message": "phản hồi"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Giúp chúng tôi cải thiện Editor bằng cách cung cấp"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Rất tiêu cực"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Cực kỳ tiêu cực"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Hơi tiêu cực"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Hơi tiêu cực"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Không tích cực nhưng cũng không tiêu cực"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Không tích cực cũng không tiêu cực"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Hơi tích cực"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Hơi tích cực"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Rất tích cực"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Cực kỳ tích cực"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Nhìn chung, bạn sẽ mô tả trải nghiệm của mình khi sử dụng Trình soạn thảo Microsoft như thế nào?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Nhìn chung, bạn cảm thấy thế nào khi sử dụng Trình soạn thảo Microsoft để nhận các đề xuất về chính tả, ngữ pháp, dự đoán và các đề xuất khác để tinh chỉnh bài viết của bạn?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Cung cấp phản hồi cho Microsoft về Trình soạn thảo"
+   },
+   "ebx_giveFeedback": {
+      "message": "Gửi phản hồi"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Nhận ý tưởng viết nâng cao của Trình soạn thảo, 1 TB dung lượng lưu trữ OneDrive và các tính năng cao cấp trong tất cả ứng dụng Microsoft 365."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Nhận ý tưởng viết nâng cao của Trình soạn thảo, 1 TB dung lượng lưu trữ OneDrive và các tính năng cao cấp trong tất cả ứng dụng Microsoft 365."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Hãy thử các ý tưởng viết nâng cao của Trình soạn thảo."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Nâng cấp lên bản cao cấp"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "chuyển sang phiên bản cao cấp"
+   },
+   "ebx_goToSettings": {
+      "message": "Đi đến cài đặt Trình soạn thảo"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Vào cài đặt Trình soạn thảo để tìm hiểu thêm"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Tài liệu"
+   },
+   "ebx_grammar": {
+      "message": "Ngữ pháp"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Ẩn từ đồng nghĩa"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Bỏ qua tất cả"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Bỏ qua"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Mở Trình chỉnh sửa hoặc nhấp chuột phải để có thêm tùy chọn"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Xem tất cả các đề xuất trong Trình chỉnh sửa hoặc nhấp chuột phải để có thêm tùy chọn"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Có \"$1\" sự cố kiểm lỗi được tìm thấy trên dòng này"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Đã tìm thấy \"$1\" sự cố kiểm lỗi trên dòng này"
+   },
+   "ebx_languageAdded": {
+      "message": "\"{0}\" đã được thêm thành công"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" đã được di chuyển thành công xuống một vị trí trong danh sách"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" được di chuyển thành công lên đầu danh sách"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" đã được di chuyển thành công lên một vị trí trong danh sách"
+   },
+   "ebx_languageRemoved": {
+      "message": "Đã loại bỏ thành công \"{0}\""
+   },
+   "ebx_learnMore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "ebx_manageLanguages": {
+      "message": "Quản lý ngôn ngữ..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Quản lý ngôn ngữ kiểm tra chính tả"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Xem thêm lệnh cho {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Di chuyển xuống"
+   },
+   "ebx_moveToTop": {
+      "message": "Di chuyển lên đầu"
+   },
+   "ebx_moveUp": {
+      "message": "Di chuyển lên"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Đề xuất tiếp theo, còn lại $1 vấn đề"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Mở Trình soạn thảo"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Cài đặt Trình chỉnh sửa"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Vì bạn đã thực hiện lỗi đánh máy này một vài lần, chúng tôi đã thêm \"$1\" vào danh sách Tự Sửa của bạn."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "Còn lại $1 ngày trong bản xem trước này. Hãy nâng cấp để nhận đề xuất không giới hạn:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "Còn lại $1 ngày trong bản xem trước này. Hãy nâng cấp để nhận gợi ý không giới hạn:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Lấy các ý tưởng viết nâng cao của Trình soạn thảo."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "Còn lại $1 đề xuất trong bản xem trước này. Hãy nâng cấp để nhận đề xuất không giới hạn:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "Còn lại $1 đề xuất trong bản xem trước này. Hãy nâng cấp để nhận đề xuất không giới hạn:"
+   },
+   "ebx_preview": {
+      "message": "(Bản xem trước)"
+   },
+   "ebx_previewLabel": {
+      "message": "BẢN XEM TRƯỚC"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Đề xuất trước đó, còn lại $1 vấn đề"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Tự động gửi dữ liệu chẩn đoán tùy chọn khi sử dụng dịch vụ trực tuyến này để giúp chúng tôi cải thiện sản phẩm của mình."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Tìm hiểu thêm về dữ liệu chẩn đoán"
+   },
+   "ebx_privacyOptions": {
+      "message": "Tùy chọn quyền riêng tư"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Ngôn ngữ hiệu đính"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Nhấn phím mũi tên Phải để truy cập nút Xem thêm lệnh."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Ngôn ngữ kiểm lỗi"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Bạn chỉ có thể bật kiểm lỗi cho tối đa ba ngôn ngữ cùng một lúc."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Chọn một ngôn ngữ soát lỗi"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Các ngôn ngữ hiệu đính"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Chọn tối đa ba ngôn ngữ. Ngôn ngữ ưa thích của bạn sẽ ở trên cùng."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Ngôn ngữ Kiểm lỗi"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Bạn có thấy Trình soạn thảo hữu ích không?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Chúng tôi chỉ có 2 câu hỏi dành cho bạn"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Cung cấp Phản hồi"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Chúng tôi rất tiếc khi được biết điều đó. Vui lòng cho chúng tôi biết cách chúng tôi có thể cải thiện Trình chỉnh sửa."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Không"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Không, cảm ơn"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Tuyệt, bạn có muốn đánh giá nó không?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Nếu bạn vẫn thích sử dụng Trình soạn thảo, bạn có muốn xếp hạng trình soạn thảo không?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Chắc chắn"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Có"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Góp ý về Trình soạn thảo Microsoft"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Chúng tôi rất thích phản hồi của bạn"
+   },
+   "ebx_refinements": {
+      "message": "Sàng lọc"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Cải tiến là những gợi ý viết nâng cao nhằm giúp bài viết của bạn rõ ràng hơn, ít dài dòng hơn hoặc trang trọng hơn."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Từ này được lặp lại"
+   },
+   "ebx_settings": {
+      "message": "Cài đặt"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Mở Cài đặt Trình soạn thảo"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Mở Cài đặt Trình chỉnh sửa để chọn ngôn ngữ kiểm lỗi."
+   },
+   "ebx_settingsLabel": {
+      "message": "Cài đặt tài khoản"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Cài đặt Trình soạn thảo Microsoft"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Thiết đặt cho từng ngôn ngữ"
+   },
+   "ebx_showBeta": {
+      "message": "Beta trên $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Hiển thị từ đồng nghĩa"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Hiển thị từ đồng nghĩa cho đề xuất về chính tả"
+   },
+   "ebx_signInDescription": {
+      "message": "Để nhận các đề xuất ngữ pháp và tinh chỉnh trên hầu hết các website cũng như từ điển chính tả được cá nhân hóa, xin vui lòng đăng nhập."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Bạn cần trợ giúp đăng nhập?"
+   },
+   "ebx_signInLabel": {
+      "message": "Đăng nhập hoặc đăng ký"
+   },
+   "ebx_signInToAccess": {
+      "message": "Đăng nhập để truy nhập"
+   },
+   "ebx_signIntoEditor": {
+      "message": "đăng nhập vào Trình soạn thảo"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Để nhận đề xuất về ngữ pháp và tinh chỉnh trên hầu hết các trang web, vui lòng đăng nhập."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Dành cho chính tả được cá nhân hóa"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Để có từ điển chính tả được cá nhân hóa, vui lòng đăng nhập."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Để nhận đề xuất về ngữ pháp và tinh chỉnh trên hầu hết các trang web, vui lòng đăng nhập."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Để nhận các đề xuất ngữ pháp và tinh chỉnh trên hầu hết các website cũng như từ điển chính tả được cá nhân hóa, xin vui lòng đăng nhập."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Đăng nhập vào Trình soạn thảo"
+   },
+   "ebx_signOutLabel": {
+      "message": "Đăng xuất"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Việc đăng xuất sẽ đặt lại tất cả cài đặt về mặc định và mất danh sách các trang web bị loại trừ."
+   },
+   "ebx_spelling": {
+      "message": "Chính tả"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Kiểm tra kỹ xem điều này có đúng không"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Xem thêm hành động"
+   },
+   "ebx_synonyms": {
+      "message": "Từ đồng nghĩa"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Từ đồng nghĩa không có sẵn]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Nhận từ đồng nghĩa khi bạn viết: bấm đúp vào một từ hoặc chọn và nhấn (Alt+Mũi tên Xuống)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Nhận từ đồng nghĩa khi bạn viết: nhấp đúp vào một từ hoặc chọn và nhấn (⌃ + ⌥ + ↓)."
+   },
+   "ebx_toggleOff": {
+      "message": "Tắt"
+   },
+   "ebx_toggleOn": {
+      "message": "Bật"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Vâng, rất vui lòng"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Giờ đây, chúng tôi đưa ra những gợi ý để giúp bạn hoàn thiện bài viết của mình. Bạn có muốn dùng thử không?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Bỏ"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Không phải bây giờ"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Thực hiện các thay đổi trong cài đặt Trình chỉnh sửa"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Không bao giờ hiển thị đề xuất âm báo"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Tính năng phát hiện âm báo hiện đã bị tắt."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Việc phát hiện âm báo"
+   },
+   "ebx_toneLabel": {
+      "message": "Tín hiệu"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Gắn thẻ chủ đề này để giúp người khác truy nhập mô tả, mọi người và tài nguyên được kết nối với chủ đề đó."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Đề xuất của Viva Topics"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Hãy thử các ý tưởng viết nâng cao của Trình soạn thảo"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Dùng thử ngay"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Tắt Trình chỉnh sửa"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Trình soạn thảo kết nối với dịch vụ trực tuyến của Microsoft cung cấp các đề xuất về chính tả, ngữ pháp và văn phong cho bài viết của bạn trên hầu hết các trang web."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Bật Trình soạn thảo"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Hoàn tác"
+   },
+   "ebx_undoButtonText": {
+      "message": "Hoàn tác"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Tùy chọn tự sửa"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Các trang web bị chặn"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "URL không hợp lệ. Vui lòng cung cấp URL theo định dạng sau: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Url không hợp lệ \"{0}\" tại dòng {1}."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Bạn đã tắt Trình soạn thảo trên các trang web được liệt kê dưới đây. Trình soạn thảo có thể bị tắt tự động trên các trang web bổ sung có nội dung nhạy cảm hoặc tốc độ tải chậm."
+   },
+   "ebx_viewAccount": {
+      "message": "Xem tài khoản"
+   },
+   "editor": {
+      "message": "Trình soạn thảo văn bản"
+   },
+   "editorButtonText": {
+      "message": "Trình soạn thảo"
+   },
+   "emailWarningMessage": {
+      "message": "Để sử dụng Copilot, hãy chuyển đến cuối email."
+   },
+   "emptyStateMessage": {
+      "message": "Chọn một số văn bản để viết lại"
+   },
+   "errorLabel": {
+      "message": "Lỗi"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "Từ điển của bạn"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Liên kết đến nội dung bằng cách nhập ký tự đặc biệt, dấu sổ chéo (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Đang gắn thẻ nội dung"
+   },
+   "esdk_autocorrect": {
+      "message": "Tự động sửa"
+   },
+   "esdk_cancelButton": {
+      "message": "Hủy"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Cài đặt"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, chuyển đổi, Tắt."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, chuyển đổi, Bật."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Nhấn tab để nghe trạng thái danh mục"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Mũi tên Phải để mở rộng danh mục."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Cài đặt chi tiết bị tắt."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Mũi tên Phải để nhập Cài đặt chi tiết."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "Đã tắt {0}"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Tất cả cài đặt chi tiết trong danh mục này hiện đã được bỏ chọn."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Tất cả các cài đặt chi tiết trong danh mục này hiện đã được kiểm tra."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "Cài đặt chi tiết cho {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Phím cách hoặc Enter để chuyển đổi trạng thái danh mục,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Trình soạn thảo sẽ không gắn cờ sự cố này trừ khi bạn mở cửa sổ Trình soạn thảo"
+   },
+   "esdk_closeButton": {
+      "message": "Đóng"
+   },
+   "esdk_copilotInsert": {
+      "message": "Chèn"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot hiện chỉ hỗ trợ tiếng Anh"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Viết lại"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Đính chính"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Mũi tên trái để quay lại cài đặt"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Mũi tên phải để cài đặt chi tiết"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Phải bật danh mục để thay đổi giá trị của hộp kiểm"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Thay đổi cách Trình soạn thảo chỉnh sửa và đề xuất các cải tiến cho văn bản trong ứng dụng này"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Cài đặt Trình soạn thảo Microsoft"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Bật Chính tả để sử dụng Tự động sửa"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Cải tiến"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Không tải được cài đặt trình chỉnh sửa"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Chuyển sang phiên bản cao cấp"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Nhận ý tưởng viết nâng cao và 1 TB dung lượng khi chuyển sang phiên bản cao cấp"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Nhấn tab để nghe trạng thái"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Chỉnh sửa Nội tuyến"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Ngôn ngữ hiệu đính"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Cài đặt cho"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Trình soạn thảo phát hiện khi văn bản tham chiếu đến tệp hoặc dữ liệu và gói đăng ký để tạo liên kết."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Đề xuất liên kết"
+   },
+   "esdk_okButton": {
+      "message": "OK"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Thu gọn tùy chọn soát lỗi."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Chọn những gì Trình soạn thảo kiểm tra."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Chọn tối đa ba ngôn ngữ. Ngôn ngữ ưa thích của bạn sẽ ở trên cùng."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Sửa Ngôn ngữ"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Mở rộng tùy chọn kiểm lỗi."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Mở rộng tùy chọn kiểm lỗi."
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Cài đặt ngôn ngữ soát lỗi"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Cài đặt Soát lỗi"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Sửa ngôn ngữ"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Chọn tối đa ba ngôn ngữ. Ngôn ngữ ưa thích của bạn sẽ ở trên cùng."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Cài đặt kiểm lỗi"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Cài đặt ngôn ngữ kiểm lỗi"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Sàng lọc"
+   },
+   "esdk_resetToDefault": {
+      "message": "Đặt lại về Mặc định"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Hãy thử các đề xuất viết nâng cao của Trình soạn thảo."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Chi tiết tải xuống"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Không phải tất cả ngôn ngữ đều có cùng hướng dẫn viết. Tải xuống tài liệu này để xem chi tiết về các thiết đặt ngữ pháp và tinh chỉnh sẵn dùng cho ngôn ngữ đã chọn."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Tìm hiểu thêm"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Không phải tất cả ngôn ngữ đều có cùng hướng dẫn viết. Truy nhập theo liên kết này để tìm hiểu thêm về cài đặt ngữ pháp và tinh chỉnh có sẵn cho tất cả ngôn ngữ Trình soạn thảo."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Không phải tất cả ngôn ngữ đều có cùng hướng dẫn viết. {Learn more} cài đặt ngữ pháp và tinh chỉnh có sẵn cho tất cả ngôn ngữ Trình soạn thảo."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Thay đổi đối với các tùy chọn chính tả áp dụng cho tất cả các ngôn ngữ được bật"
+   },
+   "esdk_synonyms": {
+      "message": "Từ đồng nghĩa (Bản xem trước)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Trình soạn thảo dự đoán các từ tiếp theo, cũng như các tệp hoặc đối tượng khác, để chèn khi bạn nhập."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Dự đoán văn bản"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Để giúp bạn viết nhanh hơn, Trình soạn thảo có thể xác định các tiếp theo và đề xuất từ hoặc cụm từ khi nhập."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Mẹo Học tập"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Ví dụ"
+   },
+   "explanationTableAfter": {
+      "message": "Xem xét:"
+   },
+   "explanationTableBefore": {
+      "message": "Thay vì:"
+   },
+   "explanationTableSeparator": {
+      "message": "hoặc"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Viết bài đăng về chuyến đi của tôi đến tháp Eiffel"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Để sử dụng Copilot, hãy chuyển đến cuối bài đăng."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Trang tiếp"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "MẸO $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Trang trước"
+   },
+   "generalErrorMessage": {
+      "message": "Trình soạn thảo Microsoft gặp sự cố và không thể tạo nội dung."
+   },
+   "generateButtonLabel": {
+      "message": "Tạo"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Cung cấp Phản hồi"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Viết email yêu cầu họp"
+   },
+   "inputName": {
+      "message": "Mô tả những gì bạn muốn Trình soạn thảo viết..."
+   },
+   "inputPlaceholder": {
+      "message": "Mô tả nội dung bạn muốn viết"
+   },
+   "languageErrorMessage": {
+      "message": "Chưa có viết lại cho ngôn ngữ bạn đã chọn."
+   },
+   "limitErrorMessage": {
+      "message": "Để viết lại, vui lòng chọn ít hơn 100 từ."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Mẹo sáng tạo nội dung"
+   },
+   "loadingLabel": {
+      "message": "Chờ một chút, tôi nấu món gì đó cho bạn..."
+   },
+   "loadingText": {
+      "message": "Đang tải: "
+   },
+   "modalDescribeBy": {
+      "message": "Tạo các cách viết khác cho văn bản đã chọn"
+   },
+   "moreButtonLabel": {
+      "message": "Các tùy chọn khác"
+   },
+   "moreButtonText": {
+      "message": "Xem thêm"
+   },
+   "moreOptionsLabel": {
+      "message": "Các tùy chọn khác"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "thêm một ngôn ngữ kiểm tra chính tả khác"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Thêm ngôn ngữ kiểm tra chính tả."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Để nhận các đề xuất bằng văn bản có liên quan,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Thêm ngôn ngữ khác vào Trình chỉnh sửa"
+   },
+   "nextSuggestion": {
+      "message": "Đề xuất tiếp theo"
+   },
+   "nudgeTextForEmails": {
+      "message": "Nhập $1 để tìm email"
+   },
+   "nudgeTextForFile": {
+      "message": "Nhập $1 để tìm tệp và nội dung khác"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Nhập $1 để tìm cuộc họp"
+   },
+   "nudgeTextForPeople": {
+      "message": "Nhập $1 để tìm người"
+   },
+   "prevSuggestion": {
+      "message": "Đề xuất trước đó"
+   },
+   "preview": {
+      "message": "XEM TRƯỚC"
+   },
+   "previewText": {
+      "message": "BẢN XEM TRƯỚC"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Nhấn CTRL + ALT + I để sử dụng tính năng này bất cứ khi nào bạn ở trên dòng mới."
+   },
+   "promptSuggestButtonText": {
+      "message": "Tiếp tục viết "
+   },
+   "promptSuggestShortcut": {
+      "message": "||Alt+Mũi tên Phải"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Đọc to câu gốc"
+   },
+   "regenerateLabel": {
+      "message": "Tạo lại"
+   },
+   "replaceLabel": {
+      "message": "Thay thế"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Nội dung đã tạo báo cáo"
+   },
+   "reportOutput": {
+      "message": "Báo cáo kết quả"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Nội dung do AI tạo ra có thể chứa thông tin không chính xác hoặc tài liệu nhạy cảm. Hãy chắc chắn để xác minh thông tin."
+   },
+   "retry": {
+      "message": "Thử lại"
+   },
+   "rewriteBrand": {
+      "message": "Viết lại"
+   },
+   "rewriteWithCopilot": {
+      "message": "Viết lại"
+   },
+   "sbx_signInDescription": {
+      "message": "Để nhận các đề xuất ngữ pháp và tinh chỉnh trên hầu hết các website cũng như từ điển chính tả được cá nhân hóa, vui lòng đăng nhập."
+   },
+   "shareFeedback": {
+      "message": "Chia sẻ ý kiến phản hồi"
+   },
+   "showHeaderMessage": {
+      "message": "Dưới đây là một số cách khác để viết này"
+   },
+   "submitButtonTooltip": {
+      "message": "Tạo (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Để sử dụng Copilot, hãy đi đến cuối đoạn văn."
+   },
+   "suggestionCountSeparator": {
+      "message": "của"
+   },
+   "suggestionHint": {
+      "message": "ENTER để Chấp nhận"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Thử lại"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Tạo lại"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Viết tweet truyền cảm hứng"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Để sử dụng Copilot, hãy đi đến cuối tweet."
+   }
+}

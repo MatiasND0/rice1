@@ -1,0 +1,251 @@
+{
+   "absolute": {
+      "message": "absolue"
+   },
+   "action": {
+      "message": "Action"
+   },
+   "addBinding": {
+      "message": "Ajouter un nouveau raccourci"
+   },
+   "advance": {
+      "message": "Avance rapide (en secondes)"
+   },
+   "alsoSearchFor": {
+      "message": "Rechercher également les éléments $type$",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "applyTo": {
+      "message": "Appliquer à"
+   },
+   "applyToBoth": {
+      "message": "Éléments vidéo et audio"
+   },
+   "applyToOnly": {
+      "message": "éléments $type$ uniquement",
+      "placeholders": {
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "audio": {
+      "message": "audio"
+   },
+   "changeElementSearchCriteria": {
+      "message": "Modifier le critère de recherche…"
+   },
+   "chart": {
+      "message": "Graphique"
+   },
+   "comparedToIntrinsic": {
+      "message": "par rapport à la normale (intrinsèque)"
+   },
+   "comparedToSounded": {
+      "message": "par rapport au son"
+   },
+   "contact": {
+      "message": "Nous contacter"
+   },
+   "contentScriptFail": {
+      "message": "Impossible d'exécuter le script de contenu sur cette page"
+   },
+   "decreaseVolume": {
+      "message": "Baisser le volume (en %)"
+   },
+   "edit": {
+      "message": "Modifier"
+   },
+   "enable": {
+      "message": "Activer"
+   },
+   "enableHotkeys": {
+      "message": "Activer les raccourcis"
+   },
+   "extensionDescription": {
+      "message": "Sauter les parties silencieuses des vidéos, en temps réel"
+   },
+   "fileInputLabel": {
+      "message": "Déposez un ou plusieurs fichiers ici\nou cliquez pour sélectionner"
+   },
+   "general": {
+      "message": "Général"
+   },
+   "hasErrors": {
+      "message": "Des erreurs ont été trouvées"
+   },
+   "hotkey": {
+      "message": "Raccourci"
+   },
+   "hotkeys": {
+      "message": "Raccourcis"
+   },
+   "increaseVolume": {
+      "message": "Augmenter le volume (en %)"
+   },
+   "loading": {
+      "message": "Chargement"
+   },
+   "marginAfter": {
+      "message": "Marge après"
+   },
+   "marginBefore": {
+      "message": "Marge avant"
+   },
+   "marginBeforeTooltip": {
+      "message": "Délai, en secondes, avant le retour à la vitesse standard si nous rencontrons une séquence sonore lors d'un silence.\nCela vise à garantir que vous puissiez entendre correctement les premières lettres prononcées.\n\n⚠️ Notez que des valeurs non nulles entraîneront une distortion audio lors du passage de la vitesse silencieuse à la vitesse sonore, et ajouteront un retard audio constant équivalent à la valeur de ce paramètre. Ces inconvénients ne s'appliquent pas si vous utilisez l'algorithme expérimental."
+   },
+   "mediaUnsupported": {
+      "message": "Ce média est **probablement** non pris en charge — $consequences$.",
+      "placeholders": {
+         "consequences": {
+            "content": "$1"
+         }
+      }
+   },
+   "noSuitableElement": {
+      "message": "Impossible de trouver un élément multimédia approprié sur la page"
+   },
+   "none": {
+      "message": "Aucun"
+   },
+   "numbersMeanings": {
+      "message": "Significations des nombres (dans l’ordre) :"
+   },
+   "omitMutedElements": {
+      "message": "Ne pas appliquer aux éléments de média dont le son a été coupé"
+   },
+   "openLocalFile": {
+      "message": "ouvrir un fichier local"
+   },
+   "or": {
+      "message": "Ou"
+   },
+   "overTheLast": {
+      "message": "Au cours des dernières $duration$",
+      "placeholders": {
+         "duration": {
+            "content": "$1"
+         }
+      }
+   },
+   "overrideWebsiteHotkeys": {
+      "message": "Écraser les raccourcis du site Web"
+   },
+   "refreshIfMuted": {
+      "message": "Actualisez la page si le son du média est coupé"
+   },
+   "relativeToSounded": {
+      "message": "Relative à la vitesse avec le son"
+   },
+   "removeBinding": {
+      "message": "Retirer l'association"
+   },
+   "resetToDefaults": {
+      "message": "Réinitialiser les valeurs par défaut"
+   },
+   "retry": {
+      "message": "Réessayer"
+   },
+   "rewind": {
+      "message": "Retour arrière (en secondes)"
+   },
+   "showErrors": {
+      "message": "Afficher les erreurs"
+   },
+   "silenceSpeed": {
+      "message": "Vitesse du silence"
+   },
+   "silenceSpeedTooltip": {
+      "message": "La vitesse à laquelle on joue les parties muettes.\nSur le graphique, les parties qui ont été lues à cette vitesse ont un fond rouge 🟥.$relativeNote$\n⚠️ Si cette valeur est très élevée (> ; ~4), les débuts de phrases peuvent aussi commencer à être sautés (c’est comme si « Marge avant » était plus petit).",
+      "placeholders": {
+         "relativeNote": {
+            "content": "$1"
+         }
+      }
+   },
+   "silenceSpeedTooltipRelativeNote": {
+      "message": "\nNotez que cette valeur comme un multiplicateur de la vitesse sonore. Par exemple, si la vitesse sonore est de 1,5 et la vitesse de silence est de 2, la valeur absolue résultante sera de 3. Vous pouvez modifier ce comportement dans la page des options."
+   },
+   "soundedSpeed": {
+      "message": "Vitesse standard"
+   },
+   "soundedSpeedTooltip": {
+      "message": "La vitesse à laquelle nous lisons la vidéo quand le son n'est PAS coupé, la vitesse « normale ».\nSur le graphique, les parties qui ont été jouées à cette vitesse ont un fond vert 🟩."
+   },
+   "suggestOpenLocalFile": {
+      "message": "Voulez-vous **$openLocalFile$** ?",
+      "placeholders": {
+         "openLocalFile": {
+            "content": "$1"
+         }
+      }
+   },
+   "switch": {
+      "message": "Activer/Désactiver"
+   },
+   "timeSaved": {
+      "message": "Infos sur le temps gagné"
+   },
+   "timeSavedComparedToIntrinsic": {
+      "message": "en moyenne, la vitesse de lecture effective de la vidéo par rapport à la vitesse normale (intrinsèque)"
+   },
+   "timeSavedComparedToIntrinsicAbs": {
+      "message": "temps gagné par rapport à la lecture de la vidéo à la vitesse normale (intrinsèque)"
+   },
+   "timeSavedComparedToSounded": {
+      "message": "en moyenne la vitesse de lecture effective de la vidéo par rapport à la vitesse sondée"
+   },
+   "timeSavedComparedToSoundedAbs": {
+      "message": "gain de temps par rapport à la lecture de la vidéo à vitesse normale"
+   },
+   "timeSavedPercentage": {
+      "message": "Pourcentage de temps gagné équivalent :"
+   },
+   "toggleExtension": {
+      "message": "Activer/Désactiver"
+   },
+   "toggleMute": {
+      "message": "Activer/Couper le son"
+   },
+   "togglePause": {
+      "message": "Mettre en pause/Lire"
+   },
+   "tryAttachAnyway": {
+      "message": "Essayer quand même"
+   },
+   "tryOpeningDirectly": {
+      "message": "Essayez de l'ouvrir directement"
+   },
+   "useExperimentalAlgorithm": {
+      "message": "Utiliser l'algorithme expérimental"
+   },
+   "useExperimentalAlgorithmTooltip": {
+      "message": "➕ 🆕 Fonctionne désormais sur la majorité des sites\n➕ Autoriser le saut de morceaux silencieux au lieu de les lire à une vitesse supérieure.\n➕ Pas de retard, de délai ou de désynchronisation.\n➖ Peut perturber la lecture sur certains sites.\n➖ Le graphique n'affichera pas le volume réel sur les morceaux silencieux (il indiquera simplement 0)."
+   },
+   "value": {
+      "message": "Valeur"
+   },
+   "video": {
+      "message": "vidéo"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "volumeThreshold": {
+      "message": "Seuil de volume"
+   },
+   "volumeThresholdTooltip": {
+      "message": "Lorsque le volume audio actuel est inférieur à cette valeur, accélérer.\nSur le graphique, il s'agit de la ligne horizontale rouge 🟥. La ligne bleue 🟦 représente le volume courant, de sorte que lorsque la ligne bleue est inférieure à la rouge, on considère que cela correspond au silence."
+   },
+   "wouldHaveLastedIfSpeedWasIntrinsic": {
+      "message": "le temps que prendrait la lecture à la vitesse normale (intrinsèque) SANS sauter de silence"
+   },
+   "wouldHaveLastedIfSpeedWasSounded": {
+      "message": "le temps que prendrait la lecture à la vitesse du son SANS sauter de silence"
+   }
+}

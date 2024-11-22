@@ -1,0 +1,12 @@
+2024/11/16-00:52:59.287 815a Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/Local Extension Settings/hokifickgkhplphjiodbggjmoafhignh/MANIFEST-000001
+2024/11/16-00:52:59.287 815a Recovering log #4
+2024/11/16-00:52:59.297 815a Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/Local Extension Settings/hokifickgkhplphjiodbggjmoafhignh/000004.log 
+2024/11/16-02:18:08.769 815b Level-0 table #8: started
+2024/11/16-02:18:08.837 815b Level-0 table #8: 1018767 bytes OK
+2024/11/16-02:18:08.842 815b Delete type=0 #4
+2024/11/16-02:33:08.833 815b Compacting 1@1 + 1@2 files
+2024/11/16-02:33:08.856 815b Generated table #9@1: 46 keys, 5703 bytes
+2024/11/16-02:33:08.856 815b Compacted 1@1 + 1@2 files => 5703 bytes
+2024/11/16-02:33:08.858 815b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/16-02:33:08.858 815b Delete type=2 #5
+2024/11/16-02:33:08.858 815b Delete type=2 #8

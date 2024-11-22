@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Cont"
+   },
+   "AppDescription": {
+      "message": "Scrieți cu încredere cu Editor Microsoft, asistentul inteligent de scriere pentru verificarea gramaticii, ortografiei și stilului."
+   },
+   "AppLongDescription": {
+      "message": "Editorul oferă asistență avansată de scriere cu sugestii de gramatică, ortografie și stil pe web (1), astfel încât să puteți scrie cu încredere postări și e-mailuri clare și concise.\r\n\r\nScrieți ca un profesionist cu asistență inteligentă la scriere\r\nBifați elementele de bază cu ajutorul verificării gratuite a gramaticii, a gramaticii avansate, a ortografiei și punctuației. Treceți dincolo de noțiunile de bază cu verificarea de stil avansată pentru probleme precum claritatea, concizia, formalitatea, vocabularul și multe altele cu Premium (necesită un abonament Microsoft 365).\r\n\r\nPersonalizați-l conform nevoilor dvs.\r\nEditorul poate adăuga acum cuvinte în dicționarul particularizat încorporat în aplicațiile dvs. Microsoft 365. Căutați „Adăugare la dicționar” atunci când Editorul face o sugestie de ortografie. În plus, Setările vă oferă o modalitate de a ajusta fin preferințele pentru sugestiile de scriere. De asemenea, am simplificat ignorarea tuturor aparițiilor unei corecții ortografice, selectând Ignorați tot sau ignorarea sugestiilor gramaticale nedorite selectând Ignorați.\r\n\r\nScrieți oriunde\r\nObțineți asistență la scriere pe site-uri precum LinkedIn, Gmail, Facebook și alte site-uri preferate, cu această extensie de browser. Dacă doriți asistență din partea Editorului în aplicațiile Office în care scrieți cel mai mult, deschideți Word sau Outlook pe web și obțineți sugestii pentru a vă îmbunătăți documentele și e-mailul.\r\n\r\nObțineți asistență în mai multe limbi\r\nVerificați ortografia și gramatica pentru până la trei limbi simultan cu verificarea multilingvă. Editorul verifică ortografia în mai mult de 80 de limbi și furnizează verificări ale gramaticii și rafinări ale stilului de scriere în 21 de limbi. Puteți găsi mai multe informații despre disponibilitatea limbilor aici: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nObțineți Editorul pentru Microsoft Edge aici: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Disponibil pentru browserele Microsoft Edge sau Chrome și necesită un cont Microsoft. Editorul se conectează la un serviciu online Microsoft care oferă sugestii de ortografie, gramatică și rafinare pentru scrierea dvs. pe majoritatea site-urilor.\r\n2. Nu toate limbile au același set de rafinări.\r\n\r\nPrin instalarea aplicației, sunteți de acord cu acești termeni și condiții:\r\n\r\nOBSERVAȚIE: Consultați termenii licenței pentru contul Microsoft sau abonamentul Microsoft 365, după caz („extensia”) pentru a identifica entitatea care licențiază această extensie pentru dvs. și pentru informații de asistență. Termenii licenței pentru contul Microsoft sau abonamentul Microsoft 365, după caz, se aplică la utilizarea acestei extensii.\r\n\r\nPolitică de confidențialitate: http://aka.ms/privacy\r\nCondiții de utilizare a serviciului: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Editorul oferă asistență avansată de scriere cu sugestii de gramatică, ortografie și stil pe web (1), astfel încât să puteți scrie cu încredere postări și e-mailuri clare și concise.\r\n\r\nScrieți ca un profesionist cu asistență inteligentă la scriere\r\nBifați elementele de bază cu ajutorul verificării gratuite a gramaticii, a gramaticii avansate, a ortografiei și punctuației. Treceți dincolo de noțiunile de bază cu verificarea de stil avansată pentru probleme precum claritatea, concizia, formalitatea, vocabularul și multe altele cu Premium (necesită un abonament Microsoft 365).\r\n\r\nPersonalizați-l conform nevoilor dvs.\r\nEditorul poate adăuga acum cuvinte în dicționarul particularizat încorporat în aplicațiile dvs. Microsoft 365. Căutați „Adăugare la dicționar” atunci când Editorul face o sugestie de ortografie. În plus, Setările vă oferă o modalitate de a ajusta fin preferințele pentru sugestiile de scriere. De asemenea, am simplificat ignorarea tuturor aparițiilor unei corecții ortografice, selectând Ignorați tot sau ignorarea sugestiilor gramaticale nedorite selectând Ignorați.\r\n\r\nScrieți oriunde\r\nObțineți asistență la scriere pe site-uri precum LinkedIn, Gmail, Facebook și alte site-uri preferate, cu această extensie de browser. Dacă doriți asistență din partea Editorului în aplicațiile Office în care scrieți cel mai mult, deschideți Word sau Outlook pe web și obțineți sugestii pentru a vă îmbunătăți documentele și e-mailul.\r\n\r\nObțineți asistență în mai multe limbi\r\nVerificați ortografia și gramatica pentru până la trei limbi simultan cu verificarea multilingvă. Editorul verifică ortografia în mai mult de 80 de limbi și furnizează verificări ale gramaticii și rafinări ale stilului de scriere în 21 de limbi. Puteți găsi mai multe informații despre disponibilitatea limbilor aici: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nObțineți Editorul pentru Chrome aici: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Disponibil pentru browserele Microsoft Edge sau Chrome și necesită un cont Microsoft. Editorul se conectează la un serviciu online Microsoft care oferă sugestii de ortografie, gramatică și rafinare pentru scrierea dvs. pe majoritatea site-urilor.\r\n2. Nu toate limbile au același set de rafinări.\r\n\r\nPrin instalarea aplicației, sunteți de acord cu acești termeni și condiții:\r\n\r\nOBSERVAȚIE: Consultați termenii licenței pentru contul Microsoft sau abonamentul Microsoft 365, după caz („extensia”) pentru a identifica entitatea care licențiază această extensie pentru dvs. și pentru informații de asistență. Termenii licenței pentru contul Microsoft sau abonamentul Microsoft 365, după caz, se aplică la utilizarea acestei extensii.\r\n\r\nPolitică de confidențialitate: http://aka.ms/privacy\r\nCondiții de utilizare a serviciului: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Editor Microsoft: Verificator corectare ortografică și gramaticală"
+   },
+   "AppShortName": {
+      "message": "Editor"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Activați-o"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Încercați Editor (beta) în Google Docs"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Editorul este în versiunea Beta pe Google Docs. Dacă întâmpinați o problemă, vă rugăm să ne anunțați."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Atunci când alte extensii de editare și Editor sunt în execuție, sugestiile lor se pot suprapune sau pot intra în conflict. Pentru cea mai bună experiență Editor, vă recomandăm să dezactivați alte extensii de editare din setările de extindere ale browserului."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "S-a detectat un conflict între extensiile de editare"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Dezactivați Editorul pe $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Editor Microsoft"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Inserare Copilot"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Rescriere Copilot"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Gramatică"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editorul nu este acceptat în prezent pe $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editorul este dezactivat în prezent pe $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editorul este dezactivat."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1$",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "ro"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editorul este inclus în $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Limba de verificare: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "ro"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Limbă de verificare"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Limbi de verificare"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Obțineți idei de scriere avansate și 1 TB de spațiu de stocare atunci când treceți la versiunea premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Rafinări"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Rafinamentele sunt sugestii de scriere avansate care vă ajută să faceți scrisul mai clar, mai concis sau mai formal."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Deschideți Setările Editorului pentru a selecta limbile de verificare."
+   },
+   "EditorSettingsLabel": {
+      "message": "Mai multe setări pentru Editor"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Verificare ortografică"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Sinonime (previzualizare)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Obțineți sinonime atunci când scrieți: faceți dublu clic pe un cuvânt sau selectați și apăsați (Alt+săgeată în jos)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Obțineți sinonime atunci când scrieți: faceți dublu clic pe un cuvânt sau selectați și apăsați Alt+săgeată în jos."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Obțineți sinonime atunci când scrieți: faceți dublu clic pe un cuvânt sau selectați și apăsați Control+Opțiune+săgeată în jos."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Obțineți sinonime atunci când scrieți: faceți dublu clic pe un cuvânt sau selectați și apăsați (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ și $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "1$",
+            "example": "ro"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "ro"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Activare Editor pe $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Vedeți contul"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Extensie browser Microsoft Editor"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Ați efectuat upgrade cu succes la versiunea premium de Editor Microsoft! Explorați setul de caracteristici extinse, făcând clic pe sublinierile albastre și violet din scrisul dvs."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Felicitări"
+   },
+   "SettingsLabel": {
+      "message": "Setări cont"
+   },
+   "SignInLabel": {
+      "message": "Conectați-vă sau înregistrați-vă"
+   },
+   "SignOutLabel": {
+      "message": "Deconectare"
+   },
+   "SignOutTooltip": {
+      "message": "Deconectarea va reseta toate setările la valoarea implicită și lista de site-uri excluse se va pierde."
+   },
+   "SupportPageLabel": {
+      "message": "Aveți nevoie de ajutor la conectare​?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Activați Editorul"
+   },
+   "addButtonLabel": {
+      "message": "Adăugați-o"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Creați cu Copilot, apăsați alt+i pentru a afișa opțiunile"
+   },
+   "aiInsertButtonText": {
+      "message": "Creați conținut cu Copilot"
+   },
+   "aiInsertResultDescription": {
+      "message": "Iată o modalitate de a o face mai captivantă"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Editorul a adăugat $1 ca limbă de verificare ortografică"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Gestionați limbile de verificare ortografică"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Anulați"
+   },
+   "backToPromptLabel": {
+      "message": "Înapoi"
+   },
+   "closeLabel": {
+      "message": "Închideți"
+   },
+   "contentErrorMessage": {
+      "message": "Editor Microsoft nu a putut crea conținut. Selectați alt text sau așteptați câteva momente și încercați din nou."
+   },
+   "contentSuggestion": {
+      "message": "Sugestie de conținut"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Corecție, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Eroare gramaticală, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Rafinarea stilului, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Cuvânt repetat, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Eroare de ortografie, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Conținutul generat de inteligența artificială poate conține inadvertențe sau materiale sensibile. Asigurați-vă că verificați informațiile."
+   },
+   "copyButtonText": {
+      "message": "Copiați"
+   },
+   "defaultWarningMessage": {
+      "message": "Pentru a utiliza Copilot, mergeți la sfârșitul paragrafului."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Puteți activa verificarea pentru cel mult trei limbi odată."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "„$1” a fost adăugat la dicționar."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Rezultatele căutării în meniul At au fost respinse"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Sugestia a fost inserată. Rezultatele căutării în meniu au fost respinse"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "S-a făcut clic pe sugestia de semnalizare. Rezultate de căutare în meniu afișate"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "S-a făcut clic pe atenționare. Rezultate de căutare în meniu afișate"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "Simbolul de apăsare a tastei „$1” a afișat rezultatele căutării în meniul At"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Deschideți cu butonul control"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Apăsați control pentru opțiunile de corectare automată."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Sugestii de fișiere"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Fișiere, componente, persoane și altele"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Inserați"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Detectare de firme locale"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Detectarea adresei"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Adăugați link la această adresă"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Locație"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Îmbunătățire"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Sugestii de persoane"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Sugestie de entitate"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Adăugați linkul la această entitate"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Entitate"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Sugestie de entitate"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Detectare de timp"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Adăugați fusuri orare la această oră"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Oră"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Îmbunătățire"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Etichetați acest subiect pentru a-i ajuta pe ceilalți să acceseze o descriere, persoane și resurse conectate la acesta."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Sugestie Viva Topics"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Sugestie Viva Topics"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Sugestie de atenționare afișată: „$1”"
+   },
+   "ebx_Cancel": {
+      "message": "Anulați"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Recunoașterea datei"
+   },
+   "ebx_Dismiss": {
+      "message": "Respingeți"
+   },
+   "ebx_Done": {
+      "message": "Finalizat"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Căutați fișiere"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Căutați persoane"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Începeți să tastați pentru a căuta"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Începeți să tastați pentru a căuta 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Începeți să tastați pentru a căuta"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Începeți să tastați pentru a căuta"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Căutați componente Loop"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Începeți să tastați pentru a căuta"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Începeți să tastați pentru a căuta"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Începeți să tastați pentru a căuta"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Căutați subiecte"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Persoane/Recunoașterea datei"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Inserați data"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Inserați intervalul de date"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Sugestie: inserați un interval de date"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Inserați data și ora"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Sugestie: inserați data și ora"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Sugestie: inserați o dată"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Sugestie: inserați o persoană"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Inserați ora"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Inserați intervalul de timp"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Sugestie: inserați un interval de timp"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Sugestie: inserați o oră"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Feedbackul a fost remis cu succes."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Vă mulțumim pentru că încercați Editor (beta) în Google Docs. Facem actualizări pentru a acomoda modificările din Google Docs care au făcut ca Editor să nu mai funcționeze. Vă vom anunța când puteți utiliza din nou acest instrument."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Editor din Google Docs nu este disponibil"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Pentru cea mai bună experiență cu Editor, încercați să dezactivați verificarea ortografică și gramaticală încorporată în Google Docs. (În meniul Instrumente, deplasați-vă la Corectare ortografică și gramaticală și dezactivați opțiunile)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Utilizați numai verificarea Editor"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Obțineți sugestii avansate în timp ce scrieți. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Obțineți sugestii avansate în timp ce scrieți. Pentru cea mai bună experiență cu Editor, verificarea ortografică și gramaticală încorporată în Google Docs va fi dezactivată. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Încercați Editor (beta) în Google Docs"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Sugestia gramaticală a fost ignorată."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Detectarea titlului"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Îmbunătățiți"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Titlu 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Titlu 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Titlu 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Vă recomandăm să schimbați în antet"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Accesibilitate"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Accesibilitate: vă recomandăm să schimbați în antet"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Inserare sugerată „$1”. Apăsați pentru a insera."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Am selectat {0} pe baza setărilor curente ale browserului."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Verificați ortografia și gramatica pentru trei limbi în același timp. Alegeți limbile în Setări Editor"
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Puteți edita limbile în setările Editorului."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Am selectat {0}, {1} și {2} pe baza setărilor curente ale browserului."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Verificare în mai multe limbi cu Microsoft Editor"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Am selectat {0} și {1} pe baza setărilor curente ale browserului."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Recunoașterea persoanelor"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Inserarea sugerată „$1” a fost aplicată cu succes."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Inserare sugerată „$1”. Apăsați TAB pentru a insera."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Limbi de verificare"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Abonații Microsoft 365 primesc sugestii avansate de scriere când sunt conectați."
+   },
+   "ebx_RemoveItem": {
+      "message": "Ștergeți"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Acum puteți adăuga propriile cuvinte în dicționarul de ortografie al Editor. Căutați „Adăugare la dicționar” atunci când Editor face o sugestie de ortografie."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Personalizați dicționarul de ortografie"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "OK"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Acum, Editorul poate adăuga cuvinte în dicționarul particularizat încorporat în aplicațiile Microsoft 365. Conectați-vă și căutați „Adăugați la dicționar” atunci când Editorul face o sugestie de ortografie."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Conectați-vă pentru a accesa dicționarul de ortografie personalizat"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Critică \"$1\" a fost dezactivată în Setări."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Această critică a fost dezactivată în Setări."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Pentru a obține sugestii de scriere pe majoritatea site-urilor web, conectați-vă la contul Microsoft sau la contul de la locul de muncă sau de la școală pe care îl utilizați pentru Office."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Conectați-vă sau înregistrați-vă"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Conectați-vă pentru a obține sugestii de scriere pe majoritatea site-urilor web. Vă vom salva setările, cum ar fi limbile în care scrieți și tipurile de probleme pe care doriți să le verifice programul de completare Editor."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Bucurați-vă de sugestii de gramatică și rafinament pe majoritatea site-urilor web, precum și de un dicționar de ortografie personalizat."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Pentru un dicționar de ortografie personalizat, conectați-vă la contul Microsoft sau la contul de la locul de muncă sau de la școală pe care îl utilizați pentru Office."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Editorul nu rulează încă"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Meniu Bară oblică îndepărtat"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Sugestia a fost inserată. Meniu Bară oblică îndepărtat"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "S-a făcut clic pe atenționare. Meniul Bară oblică afișat"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "S-a făcut clic pe atenționare. Meniul Bară oblică afișat"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "Simbolul de apăsare a tastei „$1” a afișat meniul Bară oblică"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Sugestia de ortografie a fost ignorată."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Deschideți cu clic stânga sau cu Alt+săgeată în jos"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Deschideți cu clic stânga sau Ctrl+Alt+Săgeată în jos"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Deschideți cu clic stânga sau cu Control + Opțiune + Săgeată în jos"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Corectare automată"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt+săgeată în jos)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl+Alt+Săgeată în jos)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Corecție gramaticală"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Rafinarea scrierii"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Corecție ortografică"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Deschideți cu clic stânga"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Sugestie Viva Topics"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Sugestia „$1” a fost acceptată cu succes."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Recunoașterea activității"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Creați activitatea"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Sugestie: creați o activitate"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Tab"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Atingeți"
+   },
+   "ebx_TurnItOn": {
+      "message": "Activați-l"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Adăugați alt site"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Adăugați alt site"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Anulați adăugarea site-ului în lista de site-uri blocate."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Adăugați site-ul în lista de site-uri blocate"
+   },
+   "ebx_addButton": {
+      "message": "Adăugați"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Pentru a adăuga verificarea gramaticală"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Anulați adăugarea limbii la lista de limbi de verificare"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Adăugați limba la lista de limbi de verificare"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Adăugați altă limbă"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Adăugare la dicționar"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Permiteți editorului să detecteze și să adauge automat noi limbi de verificare pe baza scrierii."
+   },
+   "ebx_appDescription": {
+      "message": "Scrieți cu încredere cu Editor Microsoft, asistentul inteligent de scriere"
+   },
+   "ebx_appLongDescription": {
+      "message": "Editorul oferă asistență avansată de scriere cu sugestii de gramatică, ortografie și stil pe web (1), astfel încât să puteți scrie cu încredere postări și e-mailuri clare și concise.\r\n\r\nScrieți ca un profesionist cu asistență inteligentă la scriere\r\nBifați elementele de bază cu ajutorul verificării gratuite a gramaticii, a gramaticii avansate, a ortografiei și punctuației. Treceți dincolo de noțiunile de bază cu verificarea de stil avansată pentru probleme precum claritatea, concizia, formalitatea, vocabularul și multe altele cu Premium (necesită un abonament Microsoft 365).\r\n\r\nPersonalizați-l conform nevoilor dvs.\r\nEditorul poate adăuga acum cuvinte în dicționarul particularizat încorporat în aplicațiile dvs. Microsoft 365. Căutați „Adăugare la dicționar” atunci când Editorul face o sugestie de ortografie. În plus, Setările vă oferă o modalitate de a ajusta fin preferințele pentru sugestiile de scriere. De asemenea, am simplificat ignorarea tuturor aparițiilor unei corecții ortografice, selectând Ignorați tot, sau ignorarea sugestiilor gramaticale nedorite, selectând Ignorați.\r\n\r\nScrieți oriunde\r\nObțineți asistență la scriere pe site-uri precum LinkedIn, Gmail, Facebook și alte site-uri preferate, cu această extensie de browser. Dacă doriți asistență din partea Editorului în aplicațiile Office în care scrieți cel mai mult, deschideți Word sau Outlook pe web și obțineți sugestii pentru a vă îmbunătăți documentele și e-mailul.\r\n\r\nObțineți asistență în mai multe limbi\r\nVerificați ortografia și gramatica pentru până la trei limbi simultan cu verificarea multilingvă. Editorul verifică ortografia în mai mult de 80 de limbi și furnizează verificări ale gramaticii și rafinări ale stilului de scriere în 21 de limbi. Puteți găsi mai multe informații despre disponibilitatea limbilor aici: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nObțineți Editorul pentru Microsoft Edge aici: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Disponibil pentru browserele Microsoft Edge sau Chrome și necesită un cont Microsoft. Editorul se conectează la un serviciu online Microsoft care oferă sugestii de ortografie, gramatică și rafinare pentru scrierea dvs. pe majoritatea site-urilor.\r\n2. Nu toate limbile au același set de rafinări.\r\n\r\nPrin instalarea aplicației, sunteți de acord cu acești termeni și condiții:\r\n\r\nOBSERVAȚIE: Consultați termenii licenței pentru contul Microsoft sau abonamentul Microsoft 365, după caz („extensia”) pentru a identifica entitatea care licențiază această extensie pentru dvs. și pentru informații de asistență. Termenii licenței pentru contul Microsoft sau abonamentul Microsoft 365, după caz, se aplică la utilizarea acestei extensii.\r\n\r\nPolitica de confidențialitate: http://aka.ms/privacy\r\nCondiții de utilizare a serviciului: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Editorul oferă asistență avansată de scriere cu sugestii de gramatică, ortografie și stil pe web (1), astfel încât să puteți scrie cu încredere postări și e-mailuri clare și concise.\r\n\r\nScrieți ca un profesionist cu asistență inteligentă la scriere\r\nBifați elementele de bază cu ajutorul verificării gratuite a gramaticii, a gramaticii avansate, a ortografiei și punctuației. Treceți dincolo de noțiunile de bază cu verificarea de stil avansată pentru probleme precum claritatea, concizia, formalitatea, vocabularul și multe altele cu Premium (necesită un abonament Microsoft 365).\r\n\r\nPersonalizați-l conform nevoilor dvs.\r\nEditorul poate adăuga acum cuvinte în dicționarul particularizat încorporat în aplicațiile dvs. Microsoft 365. Căutați „Adăugare la dicționar” atunci când Editorul face o sugestie de ortografie. În plus, Setările vă oferă o modalitate de a ajusta fin preferințele pentru sugestiile de scriere.  De asemenea, am simplificat ignorarea tuturor aparițiilor unei corecții ortografice, selectând Ignorați tot, sau ignorarea sugestiilor gramaticale nedorite, selectând Ignorați.\r\n\r\nScrieți oriunde\r\nObțineți asistență la scriere pe site-uri precum LinkedIn, Gmail, Facebook și alte site-uri preferate, cu această extensie de browser. Dacă doriți asistență din partea Editorului în aplicațiile Office în care scrieți cel mai mult, deschideți Word sau Outlook pe web și obțineți sugestii pentru a vă îmbunătăți documentele și e-mailul.\r\n\r\nObțineți asistență în mai multe limbi\r\nVerificați ortografia și gramatica pentru până la trei limbi simultan cu verificarea multilingvă. Editorul verifică ortografia în mai mult de 80 de limbi și furnizează verificări ale gramaticii și rafinări ale stilului de scriere în 21 de limbi. Puteți găsi mai multe informații despre disponibilitatea limbilor aici: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nObțineți Editorul pentru Chrome aici: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Disponibil pentru browserele Microsoft Edge sau Chrome și necesită un cont Microsoft. Editorul se conectează la un serviciu online Microsoft care oferă sugestii de ortografie, gramatică și rafinare pentru scrierea dvs. pe majoritatea site-urilor.\r\n2. Nu toate limbile au același set de rafinări.\r\n\r\nPrin instalarea aplicației, sunteți de acord cu acești termeni și condiții:\r\n\r\nOBSERVAȚIE: Consultați termenii licenței pentru contul Microsoft sau abonamentul Microsoft 365, după caz („extensia”) pentru a identifica entitatea care licențiază această extensie pentru dvs. și pentru informații de asistență. Termenii licenței pentru contul Microsoft sau abonamentul Microsoft 365, după caz, se aplică la utilizarea acestei extensii.\r\n\r\nPolitica de confidențialitate: http://aka.ms/privacy\r\nCondițiile de utilizare a serviciului: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Editor Microsoft: Verificator ortografic și gramatical"
+   },
+   "ebx_appShortName": {
+      "message": "Editor"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, similar cu: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, similar cu: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Înlocuire cu"
+   },
+   "ebx_asInSynonyms": {
+      "message": "similar cu"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "„$1”, Corectarea automată a fost anulată."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Reveniți la „$1”"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, corectat automat."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Apăsați tasta Ctrl pentru opțiunile de corectare automată."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "{0} a fost adăugat cu succes"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Apăsați tasta săgeată la dreapta pentru a accesa butonul Eliminare."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Lista este goală."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "{0} a fost eliminat cu succes"
+   },
+   "ebx_brandText": {
+      "message": "Editor Microsoft"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Sigla Editor Microsoft"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Navigați pe acest computer"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Modificare totală"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Setări Editor..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Căutare rafinări"
+   },
+   "ebx_checkGrammar": {
+      "message": "Verificare gramatică"
+   },
+   "ebx_checkSpelling": {
+      "message": "Verificare ortografie"
+   },
+   "ebx_close": {
+      "message": "Închidere"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Disponibilitate apropiată"
+   },
+   "ebx_copilotInsert": {
+      "message": "Inserați"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Rescriere Copilot"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Ștergeți cuvântul repetat"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Opriți verificarea pentru acest lucru"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Opriți verificarea pentru acest lucru. Editorul va aplica această setare până când o modificați."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Editorul va aplica această setare până când o modificați"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Dezactivați Editorul pe {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Opțiuni de afișare"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Acest site se află deja în lista de site-uri blocate"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Editorul a $1 idei de scriere avansate pentru acest mesaj."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Editorul nu este acceptat în prezent pe {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Fereastră Editor"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Dezactivat"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Activat"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Afișați butonul Editor în câmpurile care acceptă fereastra Editor"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Extensia de browser Microsoft Office include acum Editor Microsoft, asistentul de scriere inteligent care vă va ajuta să scrieți pe web la o calitate înaltă. Editor Microsoft se conectează la un serviciu online pentru a vă oferi sugestii de ortografie, gramatică și stil."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Editor Microsoft (previzualizare) rulează acum"
+   },
+   "ebx_editorFeature": {
+      "message": "Editor Microsoft"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Dezactivat"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Dezactivare Editor"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Activat"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Caracteristica Editor"
+   },
+   "ebx_editorIsOff": {
+      "message": "Editorul este dezactivat"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Editorul este dezactivat în prezent pe {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Editorul este inclus cu {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Mai multe setări pentru Editor"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Nicio limbă nu corespunde căutării dvs."
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Activați Editorul pe {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " și "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Editorul are $1 idei de scriere complexe pentru acest mesaj."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Editorul are $1 idee de scriere avansată pentru acest mesaj."
+   },
+   "ebx_excludedSites": {
+      "message": "Site-uri excluse"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Raportați această sugestie"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Vă rugăm să ne spuneți de ce ați ales acel răspuns."
+   },
+   "ebx_feedbackLink": {
+      "message": "feedback"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Ajutați-ne să îmbunătățim Editorul furnizând"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Foarte negativă"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Extrem de negativ"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Oarecum negativă"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Oarecum negativă"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Nici negativă, nici pozitivă"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Nici negativ, nici pozitiv"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Oarecum pozitivă"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Oarecum pozitivă"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Foarte pozitivă"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Extrem de pozitivă"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "În general, cum ați descrie experiența pe care ați avut-o utilizând Editorul Microsoft?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "În general, ce părere aveți despre utilizarea Editorului Microsoft pentru a obține ortografie, gramatică, predicții și alte sugestii pentru rafinarea scrisului?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Oferiți feedback la Microsoft despre Editor"
+   },
+   "ebx_giveFeedback": {
+      "message": "Oferiți feedback"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Obțineți idei avansate de scriere de la Editor, 1 TB de spațiu de stocare OneDrive și caracteristici premium în toate aplicațiile Microsoft 365."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Obțineți idei avansate de scriere de la Editor, 1 TB de spațiu de stocare OneDrive și caracteristici premium în toate aplicațiile Microsoft 365."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Încercați ideile avansate de scriere din Editor."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Treceți la versiunea premium"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "treceți la Premium"
+   },
+   "ebx_goToSettings": {
+      "message": "Accesați setările Editorului"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Accesați setările Editorului pentru a afla mai multe"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Docs"
+   },
+   "ebx_grammar": {
+      "message": "Gramatică"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Ascundere sinonime"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ignorați tot"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Ignorare"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Deschideți Editorul sau faceți clic dreapta pentru mai multe opțiuni"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Vedeți toate sugestiile în Editor sau faceți clic dreapta pentru mai multe opțiuni"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Există probleme de verificare a \"$1\" în această linie"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Există o problemă de verificare \"$1\" găsită în această linie"
+   },
+   "ebx_languageAdded": {
+      "message": "{0} a fost adăugată cu succes"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" a fost mutată cu succes cu o poziție mai jos în listă"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" a fost mutat cu succes în partea de sus a listei"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" a fost mutată cu succes cu o poziție mai sus în listă"
+   },
+   "ebx_languageRemoved": {
+      "message": "{0} a fost eliminată cu succes"
+   },
+   "ebx_learnMore": {
+      "message": "Aflați mai multe"
+   },
+   "ebx_manageLanguages": {
+      "message": "Gestionați limbile..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Gestionați limbile de verificare ortografică"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Mai multe comenzi pentru {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Mutare în jos"
+   },
+   "ebx_moveToTop": {
+      "message": "Mutare în partea de sus"
+   },
+   "ebx_moveUp": {
+      "message": "Mutare în sus"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Următoarea sugestie, $1 rămase"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Deschideți Editorul"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Setări Editor"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Deoarece ați tastat greșit de câteva ori, am adăugat \"$1\" la lista Corectare automată."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1 zile rămase pentru această previzualizare. Faceți upgrade pentru sugestii nelimitate:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "$1 zi rămasă pentru această previzualizare. Faceți upgrade pentru sugestii nelimitate:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Obțineți idei avansate de scriere din Editor."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1 sugestii rămase pentru această previzualizare. Faceți upgrade pentru sugestii nelimitate:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1 sugestie rămasă pentru această previzualizare. Faceți upgrade pentru sugestii nelimitate:"
+   },
+   "ebx_preview": {
+      "message": "(Previzualizare)"
+   },
+   "ebx_previewLabel": {
+      "message": "PREVIZUALIZARE"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Sugestia anterioară, $1 rămase"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Trimiteți automat date de diagnosticare opționale în timp ce utilizați acest serviciu online, pentru a ne ajuta să ne îmbunătățim produsele."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Aflați mai multe despre datele de diagnosticare"
+   },
+   "ebx_privacyOptions": {
+      "message": "Opțiuni confidențialitate"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Limbă de verificare"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Apăsați tasta săgeată la dreapta pentru a accesa butonul Mai multe comenzi."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Limbă de verificare"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Puteți activa verificarea pentru cel mult trei limbi odată."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Selectați o limbă de verificare"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Limbi de verificare"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Selectați până la trei limbi. Limba preferată va fi în partea de sus."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Limbi de verificare"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Vi se pare util Editor?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Avem doar două întrebări pentru dvs."
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Oferiți feedback"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Ne pare rău să auzim acest lucru. Spuneți-ne cum putem îmbunătăți Editorul."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Nu"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Nu, mulțumesc"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Minunat! Doriți să o evaluați?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Dacă vă place să folosiți în continuare Editor, doriți să-l evaluați?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Desigur"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Da"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Feedback despre Editor Microsoft"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Ne-ar plăcea să vă aflăm părerea"
+   },
+   "ebx_refinements": {
+      "message": "Rafinări"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Rafinările sunt sugestii de scriere avansate care vă ajută să faceți scrisul mai clar, mai concis sau mai formal."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Acest cuvânt se repetă"
+   },
+   "ebx_settings": {
+      "message": "Setări"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Deschideți setările pentru Editor"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Deschideți Setările Editorului pentru a selecta limbile de verificare."
+   },
+   "ebx_settingsLabel": {
+      "message": "Setări cont"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Setări Editor Microsoft"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Setări per limbă"
+   },
+   "ebx_showBeta": {
+      "message": "Beta pe $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Afișare sinonime"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Afișare sinonime pentru sugestii ortografice"
+   },
+   "ebx_signInDescription": {
+      "message": "Pentru a obține sugestii gramaticale și de perfecționare pe majoritatea site-urilor web, precum și un dicționar de ortografie personalizat, conectați-vă."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Aveți nevoie de ajutor pentru conectare?"
+   },
+   "ebx_signInLabel": {
+      "message": "Conectați-vă sau înregistrați-vă"
+   },
+   "ebx_signInToAccess": {
+      "message": "Conectați-vă pentru a accesa"
+   },
+   "ebx_signIntoEditor": {
+      "message": "conectați-vă la Editor"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Pentru a obține sugestii de gramatică și rafinament pe majoritatea site-urilor web, conectați-vă."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Pentru ortografie personalizată"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Pentru a accesa dicționarul de ortografie personalizat, trebuie să vă conectați."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Pentru a obține sugestii de gramatică și rafinament pe majoritatea site-urilor web, conectați-vă."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Pentru a obține sugestii gramaticale și de perfecționare pe majoritatea site-urilor web, precum și un dicționar de ortografie personalizat, conectați-vă."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Conectați-vă la Editor"
+   },
+   "ebx_signOutLabel": {
+      "message": "Deconectați-vă"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Deconectarea va reseta toate setările la valorile implicite și va pierde lista de site-uri excluse."
+   },
+   "ebx_spelling": {
+      "message": "Ortografie"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Verificați din nou dacă acest lucru este corect"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Mai multe acțiuni"
+   },
+   "ebx_synonyms": {
+      "message": "Sinonime"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Nu sunt disponibile sinonime]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Obțineți sinonime când scrieți: faceți dublu clic pe un cuvânt sau selectați și apăsați (Alt+Săgeată în jos)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Obțineți sinonime atunci când scrieți: faceți dublu clic pe un cuvânt sau selectați și apăsați (⌃ + ⌥ + ↓)."
+   },
+   "ebx_toggleOff": {
+      "message": "Dezactivat"
+   },
+   "ebx_toggleOn": {
+      "message": "Activat"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Da, vă rog"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Acum vă oferim sugestii pentru a vă ajuta cu tonul scrierii dvs. Doriți să le verificați?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Dezactivați"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Nu acum"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Faceți modificări în setările editorului"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Nu se afișează niciodată sugestii de ton"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Detectarea tonului este acum dezactivată."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Detectare ton"
+   },
+   "ebx_toneLabel": {
+      "message": "Ton"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Etichetați acest subiect pentru a-i ajuta pe ceilalți să acceseze o descriere, persoane și resurse conectate la acesta."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Sugestie Viva Topics"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Încercați ideile avansate de scriere din Editor"
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Încercați acum"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Dezactivare Editor"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Editorul se conectează la un serviciu online Microsoft care oferă sugestii de ortografie, gramatică și stiluri pentru scrierea pe majoritatea site-urilor web."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Activați Editorul"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Anulați"
+   },
+   "ebx_undoButtonText": {
+      "message": "Anulați"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Opțiuni de corectare automată"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Site-uri blocate"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "URL nevalid. Furnizați URL-ul în următorul format: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "URL nevalid „{0}” la linia {1}."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Ați dezactivat editorul pe site-urile listate mai jos. Este posibil ca editorul să fie dezactivat automat pe site-uri suplimentare, cu conținut sensibil sau cu încărcare lentă a viteze."
+   },
+   "ebx_viewAccount": {
+      "message": "Vedeți contul"
+   },
+   "editor": {
+      "message": "Editor"
+   },
+   "editorButtonText": {
+      "message": "Editor"
+   },
+   "emailWarningMessage": {
+      "message": "Pentru a utiliza Copilot, mergeți la sfârșitul e-mailului."
+   },
+   "emptyStateMessage": {
+      "message": "Selectați un text de rescris"
+   },
+   "errorLabel": {
+      "message": "Eroare"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "dicționarul dvs."
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Creați o legătură la conținut tastând caracterul special, bara oblică (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Se etichetează conținutul"
+   },
+   "esdk_autocorrect": {
+      "message": "Corectare automată"
+   },
+   "esdk_cancelButton": {
+      "message": "Revocare"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Setări"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, comutator, dezactivat."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, comutator, activat."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Apăsați Tab pentru a auzi starea categoriei"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Săgeată la dreapta pentru a extinde categoria."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Setările detaliate sunt dezactivate"
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Săgeată la dreapta pentru a introduce setările detaliate."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} - dezactivat"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Toate setările detaliate din această categorie sunt acum debifate."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Toate setările detaliate din această categorie sunt acum verificate."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "Setări detaliate pentru {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Spațiu sau Enter pentru a comuta starea categoriei,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Editorul nu va semnaliza această problemă decât dacă deschideți panoul Editor"
+   },
+   "esdk_closeButton": {
+      "message": "Închidere"
+   },
+   "esdk_copilotInsert": {
+      "message": "Inserați"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot acceptă în prezent doar limba engleză"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Rescrieți"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Corecturi"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Săgeată la stânga pentru a reveni la setări"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Săgeată la dreapta pentru setări detaliate"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Categoria trebuie să fie activată pentru a modifica valoarea casetei de selectare"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Modificați modul în care Editor corectează și sugerează rafinările pentru textul din această aplicație"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Setări Editor Microsoft"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Activați Corectarea ortografică pentru a utiliza Corectarea automată"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Îmbunătățiri"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Nu s-au putut încărca Setările Editorului"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Treceți la versiunea premium"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Obțineți idei de scriere avansate și 1 TB de spațiu de stocare atunci când treceți la versiunea premium"
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Apăsați Tab pentru a auzi starea"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Editare în linie"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Limbă de verificare"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Setări pentru"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Editorul detectează când textul face referire la un fișier sau la date și oferă crearea unui link."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Sugestii de linkuri"
+   },
+   "esdk_okButton": {
+      "message": "OK"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Restrângeți preferințele de verificare ortografică."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Alegeți ce verifică Editorul."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Selectați până la trei limbi. Limba preferată va fi în partea de sus."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Editați limbile"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Extindeți preferințele de verificare ortografică."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Preferințe de verificare ortografică"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Setări limbă de verificare"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Setări de verificare"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Editați limbile"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Selectați până la trei limbi. Limba preferată va fi în partea de sus."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Setări de verificare ortografică"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Setări ale limbii de verificare ortografică"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Rafinări"
+   },
+   "esdk_resetToDefault": {
+      "message": "Resetare la valorile implicite"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Încercați sugestiile complexe de scriere din Editor."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Descărcare detalii"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Nu toate limbile au aceleași îndrumări de scriere. Descărcați acest document pentru a vedea detaliile despre setările gramaticale și de rafinare disponibile pentru limba selectată."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Aflați mai multe"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Nu toate limbile au aceleași îndrumări de scriere. Urmați acest link pentru a afla mai multe despre setările gramaticale și rafinare disponibile pentru toate limbile editor."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Nu toate limbile au aceleași îndrumări de scriere. {Learn more} despre setările de gramatică și de rafinare disponibile pentru toate limbile din Editor."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Modificările opțiunilor de ortografie se aplică la toate limbile activate"
+   },
+   "esdk_synonyms": {
+      "message": "Sinonime (previzualizare)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Editorul anticipează cuvintele următoare, precum și fișierele sau alte obiecte, de inserat pe măsură ce tastați."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Predicții text"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Pentru a vă ajuta să scrieți mai rapid, editorul vă anticipează următoarele cuvinte și sugerează cuvinte sau expresii pe măsură ce tastați."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Sfat pentru învățare"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Exemple"
+   },
+   "explanationTableAfter": {
+      "message": "Să luăm:"
+   },
+   "explanationTableBefore": {
+      "message": "În loc de:"
+   },
+   "explanationTableSeparator": {
+      "message": "sau"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Scrieți o postare despre călătoria mea la Turnul Eiffel"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Pentru a utiliza Copilot, mergeți la sfârșitul postării."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Pagina următoare"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "SFATURI $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Pagina anterioară"
+   },
+   "generalErrorMessage": {
+      "message": "Editor Microsoft a întâmpinat o problemă și nu a putut genera conținut."
+   },
+   "generateButtonLabel": {
+      "message": "Generați"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Trimiteți Feedback"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Scrieți un e-mail cu o solicitare de întâlnire"
+   },
+   "inputName": {
+      "message": "Descrieți ceea ce doriți să scrie Editorul..."
+   },
+   "inputPlaceholder": {
+      "message": "Descrieți ce doriți să scrieți"
+   },
+   "languageErrorMessage": {
+      "message": "Rescrierile nu sunt încă disponibile pentru limba selectată."
+   },
+   "limitErrorMessage": {
+      "message": "Pentru a rescrie, selectați mai puțin de 100 de cuvinte."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Sfaturi pentru crearea de conținut"
+   },
+   "loadingLabel": {
+      "message": "Așteptați puțin, pregătim ceva pentru dvs..."
+   },
+   "loadingText": {
+      "message": "Se încarcă: "
+   },
+   "modalDescribeBy": {
+      "message": "Generează alte modalități de scriere a textului selectat"
+   },
+   "moreButtonLabel": {
+      "message": "Mai multe opțiuni"
+   },
+   "moreButtonText": {
+      "message": "Mai multe"
+   },
+   "moreOptionsLabel": {
+      "message": "Mai multe opțiuni"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "adăugați o altă limbă de verificare ortografică"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Adăugați limba verificării ortografice."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Pentru a obține sugestii de scriere relevante,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Adăugați altă limbă la Editor"
+   },
+   "nextSuggestion": {
+      "message": "Următoarea sugestie"
+   },
+   "nudgeTextForEmails": {
+      "message": "Tastați $1 pentru a găsi emailuri"
+   },
+   "nudgeTextForFile": {
+      "message": "Tastați $1 pentru a găsi fișiere și multe altele"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Tastați $1 pentru a găsi întâlniri"
+   },
+   "nudgeTextForPeople": {
+      "message": "Tastați $1 pentru a găsi persoane"
+   },
+   "prevSuggestion": {
+      "message": "Sugestia anterioară"
+   },
+   "preview": {
+      "message": "PREVIZUALIZAȚI"
+   },
+   "previewText": {
+      "message": "PREVIZUALIZARE"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Apăsați CTRL + ALT + I pentru a utiliza această caracteristică ori de câte ori sunteți pe o linie nouă."
+   },
+   "promptSuggestButtonText": {
+      "message": "Continuați să scrieți "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+Săgeată la dreapta"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Citiți cu voce tare propoziția inițială"
+   },
+   "regenerateLabel": {
+      "message": "Regenerați"
+   },
+   "replaceLabel": {
+      "message": "Înlocuiți"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Conținut generat de raport"
+   },
+   "reportOutput": {
+      "message": "Ieșire raport"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Conținutul generat de inteligența artificială poate conține inadvertențe sau materiale sensibile. Asigurați-vă că verificați informațiile."
+   },
+   "retry": {
+      "message": "Reîncercați"
+   },
+   "rewriteBrand": {
+      "message": "Rescrieți"
+   },
+   "rewriteWithCopilot": {
+      "message": "Rescrieți"
+   },
+   "sbx_signInDescription": {
+      "message": "Pentru a obține sugestii gramaticale și de perfecționare pe majoritatea site-urilor web, precum și un dicționar de ortografie personalizat, conectați-vă."
+   },
+   "shareFeedback": {
+      "message": "Partajați feedback"
+   },
+   "showHeaderMessage": {
+      "message": "Iată alte câteva modalități de a scrie acest lucru"
+   },
+   "submitButtonTooltip": {
+      "message": "Generare (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Pentru a utiliza Copilot, mergeți la sfârșitul paragrafului."
+   },
+   "suggestionCountSeparator": {
+      "message": "din"
+   },
+   "suggestionHint": {
+      "message": "ENTER pentru a accepta"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Încercați din nou"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Regenerați"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Scrieți un tweet motivațional"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Pentru a utiliza Copilot, mergeți la sfârșitul Tweetului."
+   }
+}

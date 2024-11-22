@@ -1,0 +1,12 @@
+2024/11/15-19:06:02.858 543 Reusing MANIFEST /home/hhouse/.config/microsoft-edge/Profile 1/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/15-19:06:02.859 543 Recovering log #4
+2024/11/15-19:06:02.868 543 Reusing old log /home/hhouse/.config/microsoft-edge/Profile 1/WebStorage/5/IndexedDB/indexeddb.leveldb/000004.log 
+2024/11/15-19:06:24.052 54e Level-0 table #8: started
+2024/11/15-19:06:24.202 54e Level-0 table #8: 1896691 bytes OK
+2024/11/15-19:06:24.227 54e Delete type=0 #4
+2024/11/15-19:06:24.249 542 Compacting 1@1 + 1@2 files
+2024/11/15-19:06:24.391 542 Generated table #9@1: 4766 keys, 1653477 bytes
+2024/11/15-19:06:24.391 542 Compacted 1@1 + 1@2 files => 1653477 bytes
+2024/11/15-19:06:24.396 542 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/15-19:06:24.397 542 Delete type=2 #5
+2024/11/15-19:06:24.397 542 Delete type=2 #8

@@ -1,0 +1,18 @@
+2024-11-14 12:06:23.515 [info] update#setState idle
+2024-11-14 12:06:52.826 [info] update#setState checking for updates
+2024-11-14 12:06:53.143 [info] update#setState idle
+2024-11-14 12:16:47.282 [error] CodeWindow: renderer process gone (reason: crashed, code: 4)
+2024-11-14 12:16:47.512 [info] Extension host with pid 2471 exited with code: 0, signal: unknown.
+2024-11-14 12:16:48.331 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 2482]: crashed with code 11 and reason 'crashed'
+2024-11-14 13:06:52.830 [info] update#setState checking for updates
+2024-11-14 13:06:53.847 [info] update#setState idle
+2024-11-14 14:06:52.837 [info] update#setState checking for updates
+2024-11-14 14:06:53.300 [info] update#setState idle
+2024-11-14 15:06:52.841 [info] update#setState checking for updates
+2024-11-14 15:06:53.896 [info] update#setState idle
+2024-11-14 16:06:52.846 [info] update#setState checking for updates
+2024-11-14 16:06:53.283 [info] update#setState idle
+2024-11-14 17:06:52.856 [info] update#setState checking for updates
+2024-11-14 17:06:53.256 [info] update#setState idle
+2024-11-14 18:06:52.866 [info] update#setState checking for updates
+2024-11-14 18:06:53.200 [info] update#setState available for download

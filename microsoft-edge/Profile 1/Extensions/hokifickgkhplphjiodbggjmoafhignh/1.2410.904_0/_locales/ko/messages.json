@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "계정"
+   },
+   "AppDescription": {
+      "message": "지능형 문법, 맞춤법 및 스타일 검사 문서 작성 도우미인 Microsoft 편집기로 글쓰기에 자신감을 가지세요."
+   },
+   "AppLongDescription": {
+      "message": "편집기는 웹 전체에서 문법, 맞춤법 및 스타일 제안에 대한 고급 쓰기 지원을 제공하므로(1) 명확하고 간결한 게시물과 전자 메일을 자신 있게 작성할 수 있습니다.\r\n\r\n지능형 쓰기 지원 기능으로 전문가처럼 작성하세요.\r\n무료 문법, 고급 문법, 철자법 및 구두점 교정을 통해 기본 사항을 익힙니다. 프리미엄(Microsoft 365 구독 필요)으로 명확성, 간결성, 형식, 어휘 등과 같은 문제에 대한 고급 스타일 검사를 통해 기본 수준을 뛰어넘습니다.\r\n\r\n필요에 맞게 개인 설정하세요.\r\n이제 편집기는 Microsoft 365 앱에 기본 설정된 사용자 지정 사전에 단어를 추가할 수 있습니다. 편집기가 맞춤법을 제안할 때 \"사전에 추가\"를 찾으세요. 또한 설정은 제안 작성에 대한 기본 설정을 미세 조정할 수 있는 방법을 제공합니다. 또한 모두 무시를 선택하여 맞춤법 수정 항목을 모두 건너뛰거나 무시를 선택하여 원치 않는 문법 제안을 건너뛸 수 있도록 했습니다.\r\n\r\n어디에서나 쓰기\r\n가져오기 이 브라우저 확장으로 LinkedIn, Gmail, Facebook 및 기타 즐겨찾기와 같은 사이트에서 글쓰기 지원. 가장 많이 작성하는 Office 앱에서 편집자의 지원을 받고 싶다면 웹용 Word 또는 Outlook을 열고 문서와 전자 메일을 개선하기 위한 제안을 받으세요.\r\n\r\n여러 언어로 지원 받기\r\n다국어 교정으로 동시에 최대 3개 언어의 맞춤법과 문법을 검사합니다. 편집기는 80개 이상의 언어로 맞춤법을 검사하고 21개 언어에서 문법 검사 및 쓰기 스타일 개선 기능을 제공합니다. 다음 주소에서 사용할 수 있는 언어에 대한 자세한 정보를 확인할 수 있습니다. https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n 여기에서 Edge용 편집기를 다운로드하세요: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Microsoft Edge 또는 Chrome 브라우저에서 사용할 수 있으며 Microsoft 계정이 필요합니다. 편집기는 대부분의 웹사이트에서 쓰기에 대한 맞춤법, 문법 및 구체화 제안을 제공하는 Microsoft 온라인 서비스에 연결합니다.\r\n2. 모든 언어에 동일한 상세 설정이 있는 것은 아닙니다.\r\n\r\n앱을 설치하면 다음 사용 약관에 동의하는 것으로 간주됩니다.\r\n\r\n참고: 이 확장에 대한 라이선스를 귀하에게 부여하고 지원 정보를 확인하려면 해당하는 경우 Microsoft 계정 또는 Microsoft 365 구독(\"확장\")에 대한 라이선스 조건을 참조하세요. 이 확장 프로그램 사용에는 해당되는 Microsoft 계정 또는 Microsoft 365 구독에 대한 라이선스 조건이 적용됩니다.\r\n\r\n개인정보 보호정책: http://aka.ms/privacy\r\n서비스 약관: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "편집기는 웹 전체에서 문법, 맞춤법 및 스타일 제안에 대한 고급 쓰기 지원을 제공하므로(1) 명확하고 간결한 게시물과 전자 메일을 자신 있게 작성할 수 있습니다.\r\n\r\n지능형 쓰기 지원 기능으로 전문가처럼 작성하세요.\r\n무료 문법, 고급 문법, 철자법 및 구두점 교정을 통해 기본 사항을 익힙니다. 프리미엄(Microsoft 365 구독 필요)으로 명확성, 간결성, 형식, 어휘 등과 같은 문제에 대한 고급 스타일 검사를 통해 기본 수준을 뛰어넘습니다.\r\n\r\n필요에 맞게 개인 설정하세요.\r\n이제 편집기는 Microsoft 365 앱에 기본 설정된 사용자 지정 사전에 단어를 추가할 수 있습니다. 편집기가 맞춤법을 제안할 때 \"사전에 추가\"를 찾으세요. 또한 설정은 제안 작성에 대한 기본 설정을 미세 조정할 수 있는 방법을 제공합니다. 또한 모두 무시를 선택하여 맞춤법 수정 항목을 모두 건너뛰거나 무시를 선택하여 원치 않는 문법 제안을 건너뛸 수 있도록 했습니다.\r\n\r\n어디에서나 쓰기\r\n가져오기 이 브라우저 확장으로 LinkedIn, Gmail, Facebook 및 기타 즐겨찾기와 같은 사이트에서 글쓰기 지원. 가장 많이 작성하는 Office 앱에서 편집자의 지원을 받고 싶다면 웹용 Word 또는 Outlook을 열고 문서와 전자 메일을 개선하기 위한 제안을 받으세요.\r\n\r\n여러 언어로 지원 받기\r\n다국어 교정으로 동시에 최대 3개 언어의 맞춤법과 문법을 검사합니다. 편집기는 80개 이상의 언어로 맞춤법을 검사하고 21개 언어에서 문법 검사 및 쓰기 스타일 개선 기능을 제공합니다. 다음 주소에서 사용할 수 있는 언어에 대한 자세한 정보를 확인할 수 있습니다. https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n 여기에서 Chrome용 편집기를 다운로드하세요: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Microsoft Edge 또는 Chrome 브라우저에서 사용할 수 있으며 Microsoft 계정이 필요합니다. 편집기는 대부분의 웹사이트에서 쓰기에 대한 맞춤법, 문법 및 구체화 제안을 제공하는 Microsoft 온라인 서비스에 연결합니다.\r\n2. 모든 언어에 동일한 상세 설정이 있는 것은 아닙니다.\r\n\r\n앱을 설치하면 다음 사용 약관에 동의하는 것으로 간주됩니다.\r\n\r\n참고: 이 확장에 대한 라이선스를 귀하에게 부여하고 지원 정보를 확인하려면 해당하는 경우 Microsoft 계정 또는 Microsoft 365 구독(\"확장\")에 대한 라이선스 조건을 참조하세요. 이 확장 프로그램 사용에는 해당되는 Microsoft 계정 또는 Microsoft 365 구독에 대한 라이선스 조건이 적용됩니다.\r\n\r\n개인정보 보호정책: http://aka.ms/privacy\r\n서비스 약관: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Microsoft 편집기: 맞춤법 및 문법 검사기"
+   },
+   "AppShortName": {
+      "message": "편집기"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "켜기"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Google Docs에서 편집기(베타) 사용해 보기"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "편집기는 Google Docs의 베타에 있습니다. 문제가 발생하는 경우 알려주세요."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "다른 편집 확장 프로그램과 편집기가 모두 실행 중인 경우 제안이 중복되거나 충돌할 수 있습니다. 최고의 편집 환경을 위해 브라우저의 확장 프로그램 설정에서 다른 편집 확장 프로그램을 끄는 것이 좋습니다."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "편집 중인 확장명 사이에 충돌이 검색됨"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$에서 편집기 끄기",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft 편집기"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Copilot 삽입"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Copilot 다시 쓰기"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "문법"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "편집기는 현재 $host$에서 지원되지 않습니다.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "편집기가 현재 $host$에서 꺼져 있습니다.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "편집기가 꺼져 있습니다."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "ko"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "편집기는 $host$에 포함되어 있습니다",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "교정 언어: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "ko"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "언어 교정 언어"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "교정 언어"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "프리미엄으로 전환하는 경우 고급 쓰기 아이디어와 1TB 스토리지를 사용할 수 있습니다."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "구체화"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "구체화 기능은 명확하며 간결하고 격식있게 글을 쓸 수 있도록 도와주는 고급 쓰기 제안입니다."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "편집기 설정을 열어 언어 교정 언어를 선택합니다."
+   },
+   "EditorSettingsLabel": {
+      "message": "편집기 추가 설정"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "맞춤법 검사"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "동의어(미리 보기)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "작성 시 동의어를 가져옵니다. 단어를 두 번 클릭하거나 선택 후 (Alt+아래쪽 화살표)를 누르세요."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "작성 시 동의어를 가져옵니다. 단어를 두 번 클릭하거나 선택 후 Alt+아래쪽 화살표를 누르세요."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "작성 시 동의어를 가져옵니다. 단어를 두 번 클릭하거나 선택 후 Control+Option+아래쪽 화살표를 누르세요."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "작성 시 동의어를 가져옵니다. 단어를 두 번 클릭하거나 선택 후 (⌃ + ⌥ + ↓)를 누르세요."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ 및 $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "ko"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "ko"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$에서 편집기 사용",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "계정 보기"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Microsoft 편집기 브라우저 확장 프로그램"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Microsoft 편집기의 프리미엄 버전으로 업그레이드했습니다! 작성한 문서에서 파란색과 보라색 밑줄을 클릭하여 확장된 기능 세트를 탐색할 수 있습니다."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "축하합니다"
+   },
+   "SettingsLabel": {
+      "message": "계정 설정"
+   },
+   "SignInLabel": {
+      "message": "로그인 또는 등록"
+   },
+   "SignOutLabel": {
+      "message": "로그아웃"
+   },
+   "SignOutTooltip": {
+      "message": "로그아웃하면 모든 설정이 기본값으로 재설정되고 제외 사이트 목록이 손실됩니다."
+   },
+   "SupportPageLabel": {
+      "message": "로그인하는 데 도움이 필요하세요?​"
+   },
+   "TurnOnEditorLabel": {
+      "message": "편집기 켜기"
+   },
+   "addButtonLabel": {
+      "message": "추가"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Copilot를 사용하여 생성하기, Alt+I를 눌러 옵션 표시"
+   },
+   "aiInsertButtonText": {
+      "message": "Copilot을 사용하여 콘텐츠 만들기"
+   },
+   "aiInsertResultDescription": {
+      "message": "더 참여도를 높일 수 있는 방법은 다음과 같습니다."
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "편집기에서 $1를 맞춤법 검사 언어로 추가했습니다."
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "맞춤법 검사 언어 관리"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "실행 취소"
+   },
+   "backToPromptLabel": {
+      "message": "뒤로"
+   },
+   "closeLabel": {
+      "message": "닫기"
+   },
+   "contentErrorMessage": {
+      "message": "Microsoft 편집기 콘텐츠를 만들 수 없습니다. 다른 텍스트를 선택하거나 잠시 기다린 후 다시 시도하세요."
+   },
+   "contentSuggestion": {
+      "message": "콘텐츠 제안"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "수정, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "문법 오류, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "스타일 구체화, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "$1, $2, 반복된 단어"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "철자 오류, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "AI가 생성한 콘텐츠에는 정확하지 않거나 민감한 자료가 포함될 수 있습니다. 정보를 검증해야 합니다."
+   },
+   "copyButtonText": {
+      "message": "복사"
+   },
+   "defaultWarningMessage": {
+      "message": "Copilot을 사용하려면 단락의 끝으로 이동하세요."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "한 번에 최대 3개의 언어에 대해 언어 교정을 설정할 수 있습니다."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "\"$1\"이(가) 사전에 추가되었습니다."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "메뉴의 검색 결과를 해제합니다."
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "제안을 삽입했습니다. 메뉴의 검색 결과를 해제합니다."
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "플래그 제안을 클릭했습니다. 메뉴의 검색 결과를 표시합니다."
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "넛지를 클릭했습니다. 메뉴의 검색 결과를 표시합니다."
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "\"$1\" 기호 키프레스에서 메뉴의 검색 결과를 표시합니다."
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "컨트롤 단추로 열기"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "자동 고침 옵션을 보려면 Control을 누릅니다."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "파일 제안"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "파일, 구성 요소, 사람 등"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "삽입"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "지역 비즈니스 검색"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "주소 감지"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "이 주소에 링크 추가"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "위치"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "향상"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "사용자 추천"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "엔터티 제안"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "이 엔터티에 대한 링크 추가"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "엔터티"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "엔터티 제안"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "시간 검색"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "이 시간에 표준 시간대 추가"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "시간"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "향상"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "다른 사용자가 설명, 사람 및 연결된 리소스에 액세스할 수 있도록 이 항목에 태그를 지정합니다."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Viva Topics 추천"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Viva Topics 추천"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "조금 이동 제안 표시: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "취소"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "날짜 인식"
+   },
+   "ebx_Dismiss": {
+      "message": "해제"
+   },
+   "ebx_Done": {
+      "message": "완료"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "파일 검색"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "사람 검색"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "검색을 위해 입력 시작"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "검색을 위해 입력 시작 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "검색을 위해 입력 시작"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "검색을 위해 입력 시작"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "검색 Loop 구성 요소"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "검색을 위해 입력 시작"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "검색을 위해 입력 시작"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "검색을 위해 입력 시작"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Topics 검색"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "사람/날짜 인식"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "날짜 삽입"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "날짜 범위 삽입"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "추천: 날짜 범위 삽입"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "날짜 및 시간 삽입"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "제안: 날짜 및 시간 삽입"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "추천: 날짜 삽입"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "추천: 사용자 삽입"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "시간 삽입"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "시간 범위 삽입"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "추천: 시간 범위 삽입"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "추천: 시간 삽입"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "피드백이 제출되었습니다."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Google Docs에서 편집기(베타)를 사용해 주셔서 감사합니다. 편집기 작동을 중지시킨 Google Docs의 변경 내용을 수용하기 위해 업데이트를 만들고 있습니다. 편집기를 다시 사용할 준비가 되면 알려드리겠습니다."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Google Docs의 편집기를 사용할 수 없음"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "최상의 편집기 환경을 위해 Google Docs의 기본 제공 맞춤법 및 문법 검사를 끄세요(도구 메뉴에서 맞춤법 및 문법으로 이동하고 옵션을 끕니다)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "편집자 교정만 사용"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "작성하는 동안 고급 제안을 받습니다. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "작성하는 동안 고급 추천을 받습니다. 최상의 편집기 환경을 위해 Google Docs의 기본 제공 맞춤법 및 문법 검사가 해제됩니다. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Google Docs에서 편집기(베타) 사용해 보기"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "문법 제안이 무시되었습니다."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "제목 감지"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "향상"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "제목 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "제목 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "제목 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "머리글로 변경 고려"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "접근성"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "접근성: 머리글로 변경 고려"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "추천된 삽입 ‘$1’입니다. 삽입하려면 누르세요."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "현재 브라우저 설정에 따라 {0} 선택했습니다."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "맞춤법 및 문법 검사에서 세 가지 언어를 동시에 확인합니다. 편집기 설정에서 언어 선택"
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "편집기 설정에서 언어를 편집할 수 있습니다."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "현재 브라우저 설정에 따라 {0}, {1} 및 {2} 선택했습니다."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "편집기로 다국어 교정 보기"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "현재 브라우저 설정에 따라 {0} 및 {1} 선택했습니다."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "사람 인식"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "추천된 \"$1\" 삽입을 적용했습니다."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "추천된 \"$1\" 삽입. 삽입하려면 Tab 키를 누르세요."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "언어 교정"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Microsoft 365 구독자는 로그인할 때 고급 쓰기 제안을 받습니다."
+   },
+   "ebx_RemoveItem": {
+      "message": "삭제"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "이제 편집기의 맞춤법 사전에 고유한 단어를 추가할 수 있습니다. 편집기에서 맞춤법 검사를 제안할 때 \"사전에 추가\"를 찾습니다."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "맞춤법 검사 사전 개인 설정"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "확인"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "이제 편집기에서 Microsoft 365 앱에 기본 제공되는 사용자 지정 사전에 단어를 추가할 수 있습니다. 로그인하고 편집기에서 맞춤법을 제안하면 \"사전에 추가\"를 찾으세요."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "개인 설정된 맞춤법 검사 사전 로그인"
+   },
+   "ebx_RuleIgnored": {
+      "message": "설정에서 critique \"$1\"가 사용되지 않도록 설정되었습니다."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "이 의견은 설정에서 사용하지 않도록 설정되었습니다."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "대부분의 웹 사이트에서 작성 제안을 받으려면 Microsoft 계정이나 Office에서 사용하는 회사 또는 학교 계정으로 로그인합니다."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "로그인 또는 등록"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "로그인하여 대부분의 웹 사이트에서 쓰기 관련 제안을 받으세요. 작성한 언어 및 편집기가 검사하려는 문제의 유형과 같은 설정을 저장합니다."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "대부분의 웹 사이트에서 문법 및 구체화 제안과 개인 설정된 맞춤법 사전을 즐기세요."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "맞춤법 사전을 개인 설정하려면 Microsoft 계정에 로그인하거나 Office를 사용하기 위해 이용하는 회사 또는 학교 계정에 로그인하세요."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "아직 편집기가 실행되지 않습니다."
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "슬래시 메뉴를 해제합니다."
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "제안을 삽입했습니다. 슬래시 메뉴를 해제합니다."
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "플래그 제안을 클릭했습니다. 슬래시 메뉴를 표시합니다."
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "넛지를 클릭했습니다. 슬래시 메뉴를 표시합니다."
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "\"$1\" 기호 키프레스에서 슬래시 메뉴를 표시합니다."
+   },
+   "ebx_SpellingIgnored": {
+      "message": "맞춤법 제안이 무시되었습니다."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "마우스 왼쪽 클릭 또는 &lt;Alt+아래쪽 화살표&gt;로 열기"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "마우스 왼쪽 클릭 또는 Ctrl+Alt+아래쪽 화살표로 열기"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "마우스 왼쪽 클릭 또는 Control+Option+아래쪽 화살표로 열기"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "자동 고침"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt + 아래쪽 화살표)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl+Alt+아래쪽 화살표)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "문법 교정"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "쓰기 구체화"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "맞춤법 수정"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "왼쪽 마우스 클릭으로 열기"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Viva Topics 추천"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "제안 \"$1\"이(가) 수락되었습니다."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "작업 인식"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "작업 만들기"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "추천: 작업 만들기"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "탭"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "탭"
+   },
+   "ebx_TurnItOn": {
+      "message": "설정"
+   },
+   "ebx_addAnotherSite": {
+      "message": "다른 사이트 추가"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "다른 사이트 추가"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "차단된 사이트 목록에 사이트 추가를 취소합니다."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "차단된 사이트 목록에 사이트 추가"
+   },
+   "ebx_addButton": {
+      "message": "추가"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "문법 검사를 추가하려면"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "교정 언어 목록에 언어 추가 취소"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "교정 언어 목록에 언어 추가"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "다른 언어 추가"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "사전에 추가"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "편집기에서 사용자의 글에 따라 새 언어 교정 언어를 자동으로 검색하고 추가할 수 있도록 허용합니다."
+   },
+   "ebx_appDescription": {
+      "message": "Microsoft 편집기를 사용하여 자신있게 쓰기: 지능형 쓰기 도우미"
+   },
+   "ebx_appLongDescription": {
+      "message": "편집기는 웹 전체에서 문법, 맞춤법 및 스타일 제안에 대한 고급 쓰기 지원을 제공하므로(1) 명확하고 간결한 게시물과 전자 메일을 자신 있게 작성할 수 있습니다.\r\n\r\n지능형 쓰기 지원 기능으로 전문가처럼 작성\r\n무료 문법, 고급 문법, 철자법 및 구두점 교정을 통해 기본 사항을 익힙니다. 프리미엄(Microsoft 365 구독 필요)으로 명확성, 간결성, 형식, 어휘 등과 같은 문제에 대한 고급 스타일 검사를 통해 기본 수준을 뛰어넘습니다.\r\n\r\n필요에 맞게 개인 설정\r\n이제 편집기에서 Microsoft 365 앱에 기본 설정된 사용자 지정 사전에 단어를 추가할 수 있습니다. 편집기가 맞춤법을 제안할 때 \"사전에 추가\"를 찾으세요. 또한 설정은 제안 작성에 대한 기본 설정을 미세 조정할 수 있는 방법을 제공합니다. 또한 모두 무시를 선택하여 맞춤법 수정 항목을 모두 건너뛰거나 무시를 선택하여 원치 않는 문법 제안을 건너뛸 수 있도록 했습니다.\r\n\r\n어디에서나 쓰기\r\n이 브라우저 확장으로 LinkedIn, Gmail, Facebook 및 기타 즐겨찾기와 같은 사이트에서 글쓰기 지원을 받으세요. 가장 많이 작성하는 Office 앱에서 편집기의 지원을 받고 싶다면 웹용 Word 또는 Outlook을 열고 문서와 전자 메일을 개선하기 위한 제안을 받으세요.\r\n\r\n여러 언어로 지원 받기\r\n다국어 교정으로 동시에 최대 3개 언어의 맞춤법과 문법을 검사할 수 있습니다. 편집기는 80개 이상의 언어로 맞춤법을 검사하고 21개 언어에서 문법 검사 및 쓰기 스타일 개선 기능을 제공합니다. 다음 주소에서 사용할 수 있는 언어에 대한 자세한 정보를 확인할 수 있습니다. https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n여기에서 Edge용 편집기를 다운로드하세요: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Microsoft Edge 또는 Chrome 브라우저에서 사용할 수 있으며 Microsoft 계정이 필요합니다. 편집기는 대부분의 웹사이트에서 쓰기에 대한 맞춤법, 문법 및 구체화 제안을 제공하는 Microsoft 온라인 서비스에 연결합니다.\r\n2. 모든 언어에 동일한 상세 설정이 있는 것은 아닙니다.\r\n\r\n앱을 설치하면 다음 사용 약관에 동의하는 것으로 간주됩니다.\r\n\r\n참고: 이 확장에 대한 라이선스를 귀하에게 부여하고 지원 정보를 확인하려면 해당하는 경우 Microsoft 계정 또는 Microsoft 365 구독(\"확장\")에 대한 라이선스 조건을 참조하세요. 이 확장 프로그램 사용에는 해당되는 Microsoft 계정 또는 Microsoft 365 구독에 대한 라이선스 조건이 적용됩니다.\r\n\r\n개인정보처리방침: http://aka.ms/privacy\r\n서비스 약관: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "편집기는 웹 전체에서 문법, 맞춤법, 스타일 제안에 대한 고급 쓰기 지원을 제공하므로(1) 명확하고 간결한 게시물과 전자 메일을 자신 있게 작성할 수 있습니다.\r\n\r\n지능형 쓰기 지원 기능으로 전문가처럼 작성\r\n무료 문법, 고급 문법, 철자법 및 구두점 교정을 통해 기본 사항을 익힐 수 있습니다. 프리미엄(Microsoft 365 구독 필요)으로 명확성, 간결성, 형식, 어휘 등과 같은 문제에 대한 고급 스타일 검사를 통해 기본 수준을 뛰어넘습니다.\r\n\r\n필요에 맞게 개인 설정\r\n이제 편집기에서 Microsoft 365 앱에 기본 설정된 사용자 지정 사전에 단어를 추가할 수 있습니다. 편집기가 맞춤법을 제안할 때 \"사전에 추가\"를 찾으세요. 또한 설정은 제안 작성에 대한 기본 설정을 미세 조정할 수 있는 방법을 제공합니다. 또한 모두 무시를 선택하여 맞춤법 수정 항목을 모두 건너뛰거나 무시를 선택하여 원치 않는 문법 제안을 건너뛸 수 있도록 했습니다.\r\n\r\n어디에서나 쓰기\r\n이 브라우저 확장으로 LinkedIn, Gmail, Facebook 및 기타 즐겨찾기와 같은 사이트에서 글쓰기 지원을 받으세요. 가장 많이 작성하는 Office 앱에서 편집기의 지원을 받고 싶다면 웹용 Word 또는 Outlook을 열고 문서와 전자 메일을 개선하기 위한 제안을 받으세요.\r\n\r\n여러 언어로 지원 받기\r\n다국어 교정으로 동시에 최대 3개 언어의 맞춤법과 문법을 검사합니다. 편집기는 80개 이상의 언어로 맞춤법을 검사하고 21개 언어에서 문법 검사 및 쓰기 스타일 개선 기능을 제공합니다. 다음 주소에서 사용할 수 있는 언어에 대한 자세한 정보를 확인할 수 있습니다. https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\n여기에서 Chrome용 편집기를 다운로드하세요. https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Microsoft Edge 또는 Chrome 브라우저에서 사용할 수 있으며 Microsoft 계정이 필요합니다. 편집기는 대부분의 웹사이트에서 쓰기에 대한 맞춤법, 문법 및 구체화 제안을 제공하는 Microsoft 온라인 서비스에 연결합니다.\r\n2. 모든 언어에 동일한 상세 설정이 있는 것은 아닙니다.\r\n\r\n앱을 설치하면 다음 사용 약관에 동의하는 것으로 간주됩니다.\r\n\r\n참고: 이 확장에 대한 라이선스를 부여하고 지원 정보를 확인하려면 해당하는 경우 Microsoft 계정 또는 Microsoft 365 구독(\"확장\")에 대한 라이선스 조건을 참조하세요. 이 확장 프로그램 사용에는 해당되는 Microsoft 계정 또는 Microsoft 365 구독에 대한 라이선스 조건이 적용됩니다.\r\n\r\n개인정보처리방침: http://aka.ms/privacy\r\n서비스 약관: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Microsoft 편집기: 맞춤법 및 문법 검사기"
+   },
+   "ebx_appShortName": {
+      "message": "편집기"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1은(는) 다음과 유사: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2은(는) 다음과 유사: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "다음으로 대체"
+   },
+   "ebx_asInSynonyms": {
+      "message": "유사함"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "\"$1\", 자동 고침 취소"
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "“$1”(으)로 되돌리기"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1 자동으로 수정됩니다."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "자동 고침 옵션을 보려면 Control을 누릅니다."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "\"{0}\"을(를) 추가했습니다."
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "제거 단추에 액세스하려면 오른쪽 화살표 키를 누르세요."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "목록이 비었습니다."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "\"{0}\"을(를) 제거했습니다."
+   },
+   "ebx_brandText": {
+      "message": "Microsoft 편집기"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft 편집기 로고"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "이 컴퓨터 찾아보기"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "모두 변경"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "편집기 설정..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "구체화 확인"
+   },
+   "ebx_checkGrammar": {
+      "message": "문법 검사"
+   },
+   "ebx_checkSpelling": {
+      "message": "맞춤법 검사"
+   },
+   "ebx_close": {
+      "message": "닫기"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "지원 예정"
+   },
+   "ebx_copilotInsert": {
+      "message": "삽입"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Copilot 다시 쓰기"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "반복되는 단어 삭제"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "에 대한 확인 중지"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "이 경우, 확인을 중지합니다. 변경할 때까지 편집기에서 이 설정을 적용합니다."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "편집기는 이 설정을 변경하지 때까지 적용됩니다."
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "{0}에서 편집기 끄기"
+   },
+   "ebx_displayOptions": {
+      "message": "표시 옵션"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "이 사이트는 차단된 사이트 목록에 이미 있습니다."
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "편집기에서 이 메시지에 대한 고급 쓰기 아이디어를 $1."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "편집기는 현재 {0}에서 지원되지 않습니다."
+   },
+   "ebx_editorCanvas": {
+      "message": "편집기 팝아웃"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "끄기"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "켜기"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "편집기 팝업을 지원하는 필드에 편집기 단추 표시"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "이제 Microsoft Office 브라우저 확장에 지능형 문서 작성 도우미인 Microsoft 편집기가 포함되어 웹에서 최상의 수준으로 문서를 작성할 수 있도록 도와줍니다. Microsoft 편집기는 온라인 서비스에 연결되어 맞춤법, 문법 및 스타일을 제안합니다."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft 편집기(미리 보기) 지금 실행 중"
+   },
+   "ebx_editorFeature": {
+      "message": "Microsoft 편집기"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "끄기"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "편집기 끄기"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "켜기"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "편집기 기능"
+   },
+   "ebx_editorIsOff": {
+      "message": "편집기가 꺼져 있습니다."
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "편집기가 현재 {0}에서 꺼져 있습니다."
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "편집기는 {0}에 포함되어 있습니다"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "편집기 추가 설정"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "검색과 일치하는 언어가 없습니다."
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "{0}에서 편집기 사용"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " 및 "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "편집기는 이 메시지에 대한 고급 쓰기 아이디어가 $1."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "편집기는 이 메시지에 대한 고급 기록 아이디어가 $1."
+   },
+   "ebx_excludedSites": {
+      "message": "제외된 사이트"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "이 제안 보고"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "해당 답변을 선택한 이유를 알려 주세요."
+   },
+   "ebx_feedbackLink": {
+      "message": "피드백"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Editor를 개선할 수 있도록"
+   },
+   "ebx_feedbackRating1": {
+      "message": "매우 부정적"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "매우 부정적"
+   },
+   "ebx_feedbackRating2": {
+      "message": "다소 부정적"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "다소 부정적"
+   },
+   "ebx_feedbackRating3": {
+      "message": "긍정도 부정도 아님"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "부정적이거나 긍정적이지 않음"
+   },
+   "ebx_feedbackRating4": {
+      "message": "다소 긍정적"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "다소 긍정적"
+   },
+   "ebx_feedbackRating5": {
+      "message": "매우 긍정적"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "매우 긍정적"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "전반적으로 Microsoft 편집기 사용 경험을 어떻게 평가하시나요?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "전반적으로 Microsoft 편집기의 맞춤법 검사, 문법 검사, 예측, 기타 제안을 사용하여 글을 가다듬는 것에 대해 어떻게 생각하시나요?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Microsoft에 편집기에 대한 피드백 제공"
+   },
+   "ebx_giveFeedback": {
+      "message": "피드백 제공"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "모든 Microsoft 365 앱에서 Editor의 고급 쓰기 아이디어, 1TB의 OneDrive 저장소 및 프리미엄 기능을 다운로드하세요."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "모든 Microsoft 365 앱에서 Editor의 고급 쓰기 아이디어, 1TB의 OneDrive 저장소 및 프리미엄 기능을 다운로드하세요."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Editor의 고급 글쓰기 아이디어를 사용해 보세요."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "프리미엄으로 전환"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "프리미엄으로 전환"
+   },
+   "ebx_goToSettings": {
+      "message": "편집기 설정으로 이동"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "자세한 내용은 편집기 설정으로 이동"
+   },
+   "ebx_googleDocs": {
+      "message": "Google 문서"
+   },
+   "ebx_grammar": {
+      "message": "문법"
+   },
+   "ebx_hideSynonyms": {
+      "message": "동의어 숨기기"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "모두 무시"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "무시"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "편집기를 열거나 마우스 오른쪽 단추를 클릭하여 추가 옵션 보기"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "편집기에서 모든 제안을 보거나 마우스 오른쪽 단추를 클릭하여 추가 옵션 보기"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "이 줄에서 \"$1\" 언어 교정 문제가 있습니다."
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "이 줄에서 \"$1\" 언어 교정 문제발견"
+   },
+   "ebx_languageAdded": {
+      "message": "\"{0}\"을(를) 추가했습니다."
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" 목록에서 한 위치를 아래로 이동했습니다."
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" 목록 맨 위로 이동했습니다."
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" 목록에서 한 위치 위로 이동했습니다."
+   },
+   "ebx_languageRemoved": {
+      "message": "\"{0}\"을(를) 제거했습니다."
+   },
+   "ebx_learnMore": {
+      "message": "자세히 알아보기"
+   },
+   "ebx_manageLanguages": {
+      "message": "언어 관리..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "맞춤법 검사 언어 관리"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "{0}에 대한 추가 명령"
+   },
+   "ebx_moveDown": {
+      "message": "아래로 이동"
+   },
+   "ebx_moveToTop": {
+      "message": "맨 위로 이동"
+   },
+   "ebx_moveUp": {
+      "message": "위로 이동"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "다음 제안, 남은 $1"
+   },
+   "ebx_openEditorLabel": {
+      "message": "편집기 열기"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "편집기 설정"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "이 오타를 몇 번 했기 때문에 자동 고침 목록에 \"$1\" 추가했습니다."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "이 미리 보기에 $1일이 남았습니다. 무제한 제안을 위해 업그레이드하세요."
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "이 미리 보기에 $1일이 남았습니다. 무제한 제안을 위해 업그레이드하세요."
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "편집기의 고급 글쓰기 아이디어를 다운 받으세요."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "이 미리 보기에 $1개의 제안이 남았습니다. 무제한 제안을 위해 업그레이드하세요."
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "이 미리 보기에 $1개의 제안이 남았습니다. 무제한 제안을 위해 업그레이드하세요."
+   },
+   "ebx_preview": {
+      "message": "(미리 보기)"
+   },
+   "ebx_previewLabel": {
+      "message": "미리 보기"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "다음 제안, 남은 $1"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "이 온라인 서비스를 사용하는 동안 선택적 진단 데이터를 자동으로 전송하여 제품 개선을 지원합니다."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "진단 데이터에 대해 더 알아보기"
+   },
+   "ebx_privacyOptions": {
+      "message": "개인 정보 옵션"
+   },
+   "ebx_proofingLanguage": {
+      "message": "언어 교정"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "추가 명령 단추에 액세스하려면 오른쪽 화살표 키를 누르세요."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "언어 교정 언어"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "한 번에 최대 3개의 언어에 대해 언어 교정을 설정할 수 있습니다."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "교정할 언어 선택"
+   },
+   "ebx_proofingLanguages": {
+      "message": "언어 교정"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "최대 3개의 언어를 선택하세요. 선호하는 언어가 맨 위에 표시됩니다."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "교정 언어"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "편집기가 유용하다고 생각하시나요?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "두 가지 질문에만 답해주세요."
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "피드백 보내기"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "죄송합니다. 편집기를 개선할 방법에 대한 의견을 알려주세요."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "아니요"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "아니요"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "감사합니다! 확장을 평가해 주시겠어요?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "여전히 편집기를 잘 사용하고 있다면 편집기를 평가해 주시겠어요?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "예"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "예"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Microsoft 편집기에 대한 피드백"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "여러분의 의견을 기다리고 있습니다."
+   },
+   "ebx_refinements": {
+      "message": "개선 사항"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "구체화 기능은 명확하며 간결하고 격식있게 글을 쓸 수 있도록 도와주는 고급 쓰기 제안입니다."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "단어가 반복되었습니다."
+   },
+   "ebx_settings": {
+      "message": "설정"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "편집기 설정 열기"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "편집기 설정을 열어 언어 교정 언어를 선택합니다."
+   },
+   "ebx_settingsLabel": {
+      "message": "계정 설정"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Microsoft 편집기 설정"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "언어당 설정"
+   },
+   "ebx_showBeta": {
+      "message": "$1의 베타"
+   },
+   "ebx_showSynonyms": {
+      "message": "동의어 표시"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "맞춤법 제안을 위한 동의어 표시"
+   },
+   "ebx_signInDescription": {
+      "message": "개인 설정된 맞춤법 사전 외에 대부분의 웹 사이트에서 문법 및 구체화 제안을 받으려면 로그인하세요."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "로그인하는 데 도움이 필요하십니까?"
+   },
+   "ebx_signInLabel": {
+      "message": "로그인 또는 등록"
+   },
+   "ebx_signInToAccess": {
+      "message": "액세스하려면 로그인하세요."
+   },
+   "ebx_signIntoEditor": {
+      "message": "편집기에 로그인"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "대부분의 웹 사이트에서 문법 및 구체화 제안을 받으려면 로그인하세요."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "개인 설정된 맞춤법 검사용"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "개인 설정된 맞춤법 검사 사전을 사용하려면 로그인하세요."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "대부분의 웹 사이트에서 문법 및 구체화 제안을 받으려면 로그인하세요."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "개인 설정된 맞춤법 사전 외에 대부분의 웹 사이트에서 문법 및 구체화 제안을 받으려면 로그인하세요."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "편집기에 로그인"
+   },
+   "ebx_signOutLabel": {
+      "message": "로그아웃"
+   },
+   "ebx_signOutTooltip": {
+      "message": "로그아웃하면 모든 설정이 기본값으로 다시 설정되고 제외된 사이트 목록이 손실됩니다."
+   },
+   "ebx_spelling": {
+      "message": "맞춤법"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "맞는지 두 번 확인"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "더 많은 행동"
+   },
+   "ebx_synonyms": {
+      "message": "동의어"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonyms not available]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "작성 시 동의어를 가져옵니다. 단어를 두 번 클릭하거나 선택 후 (Alt+아래쪽 화살표)를 누르세요."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "작성 시 동의어를 가져옵니다. 단어를 두 번 클릭하거나 선택 후 (⌃ + ⌥ + ↓)를 누르세요."
+   },
+   "ebx_toggleOff": {
+      "message": "끄기"
+   },
+   "ebx_toggleOn": {
+      "message": "켜기"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "예, 좋습니다"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "이제 글의 톤에 도움이 되는 제안을 제공합니다. 확인 하시겠습니까?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "해제"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "다음에"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "편집기 설정 변경"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "톤 제안 표시 안 함"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "이제 톤 감지가 꺼져 있습니다."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "톤 감지"
+   },
+   "ebx_toneLabel": {
+      "message": "톤"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "다른 사용자가 설명, 사람 및 연결된 리소스에 액세스할 수 있도록 이 항목에 태그를 지정합니다."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Viva Topics 추천"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "편집기의 고급 글쓰기 아이디어를 사용해 보세요."
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "지금 사용해 보기"
+   },
+   "ebx_turnOffEditor": {
+      "message": "편집기 끄기"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "대부분웹 사이트에서 쓰기에 대한 맞춤법, 문법 및 스타일 제안을 제공하는 Microsoft 온라인 서비스에 연결합니다."
+   },
+   "ebx_turnOnEditor": {
+      "message": "편집기 켜기"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "실행 취소"
+   },
+   "ebx_undoButtonText": {
+      "message": "실행 취소"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "자동 수정 옵션"
+   },
+   "ebx_userBlockedSites": {
+      "message": "차단된 사이트"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "잘못된 URL입니다. 다음 형식으로 URL을 제공하세요. https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "{1} 행에 잘못된 URL \"{0}\""
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "아래 나열된 사이트에서 편집기를 껐습니다. 민감한 내용을 담은 사이트나 로딩 속도가 느린 사이트에서는 편집기가 자동으로 꺼질 수 있습니다."
+   },
+   "ebx_viewAccount": {
+      "message": "계정 보기"
+   },
+   "editor": {
+      "message": "편집기"
+   },
+   "editorButtonText": {
+      "message": "편집기"
+   },
+   "emailWarningMessage": {
+      "message": "Copilot을 사용하려면 메일의 끝으로 이동하세요."
+   },
+   "emptyStateMessage": {
+      "message": "다시 작성할 텍스트를 선택하세요."
+   },
+   "errorLabel": {
+      "message": "오류"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "사용자 사전"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "특수 문자인 슬래시(/)를 입력하여 콘텐츠에 연결합니다."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "콘텐츠에 태그 지정"
+   },
+   "esdk_autocorrect": {
+      "message": "자동 고침"
+   },
+   "esdk_cancelButton": {
+      "message": "취소"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "설정"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, 전환, 꺼짐."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, 전환, 켜짐."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. 범주의 상태를 들으려면 Tab 키를 누릅니다."
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "오른쪽 화살표를 눌러 범주를 확장합니다."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "세부 설정을 사용하지 않습니다."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "오른쪽 화살표를 눌러 자세한 설정을 입력합니다."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} 사용 안 함"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "이 범주의 모든 세부 설정이 선택 취소되었습니다."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "이 범주의 모든 세부 설정이 이제 검사됩니다."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "{0}용 세부 설정"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "스페이스바 또는 Enter 키를 눌러 범주 상태를 토글합니다."
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "편집기 창을 열지 않으면 편집기에서 이 문제에 플래그를 지정하지 않습니다."
+   },
+   "esdk_closeButton": {
+      "message": "닫기"
+   },
+   "esdk_copilotInsert": {
+      "message": "삽입"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot은 현재 영어만 지원합니다."
+   },
+   "esdk_copilotRewrite": {
+      "message": "다시 작성"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "수정 사항"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "설정으로 돌아가려면 왼쪽 화살표"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "세부 설정을 표시하는 오른쪽 화살표"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "확인란의 값을 변경하려면 범주를 사용하도록 설정해야 합니다."
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "편집기에서 이 앱의 텍스트를 수정하고 구체화하는 방법을 변경합니다."
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Microsoft 편집기 설정"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "자동 고침을 사용하려면 맞춤법 검사 켜기"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "고급 기능"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "편집기 설정을 로드하지 못했습니다"
+   },
+   "esdk_goPremiumButton": {
+      "message": "프리미엄으로 전환"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "프리미엄으로 전환하면 고급 문서 작성 아이디어와 1TB 스토리지를 이용할 수 있습니다."
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. 상태를 들으려면 Tab 키를 누르세요."
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "인라인 편집"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "언어 교정"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "설정"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "편집기는 텍스트가 파일 또는 데이터를 참조하는 경우를 감지하고 링크를 만들도록 제안합니다."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "링크 제안"
+   },
+   "esdk_okButton": {
+      "message": "확인"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "언어 교정 기본 설정을 축소합니다."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "편집기에서 검사할 항목을 선택합니다."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "최대 3개의 언어를 선택하세요. 선호하는 언어가 맨 위에 표시됩니다."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "언어 편집"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "언어 교정 기본 설정을 확장합니다."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "언어 교정 기본 설정"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "언어 교정 설정"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "교정 설정"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "언어 편집"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "최대 3개의 언어를 선택하세요. 선호하는 언어가 맨 위에 표시됩니다."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "교정 설정"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "언어 교정 설정"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "개선 사항"
+   },
+   "esdk_resetToDefault": {
+      "message": "기본값으로 초기화"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "편집기의 고급 필기 제안을 사용해 보세요."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "다운로드 세부 정보"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "일부 언어에 동일한 쓰기 지침이 있는 것은 아닙니다. 선택한 언어에 사용할 수 있는 문법 및 구체화 설정에 대한 세부 정보를 보려면 이 문서를 다운로드하세요."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "자세한 정보"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "모든 언어에 동일한 쓰기 지침이 있는 것은 아닙니다. 모든 편집기 언어에 사용할 수 있는 문법 및 구체화 설정에 대한 {자세한 정보}"
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "모든 언어에 동일한 쓰기 지침이 있는 것은 아닙니다. 모든 편집기 언어에 사용할 수 있는 문법 및 구체화 설정에 대한 {자세한 정보}"
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "맞춤법 검사 옵션의 변경 사항은 사용 가능한 모든 언어에 적용"
+   },
+   "esdk_synonyms": {
+      "message": "동의어(미리 보기)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "편집기는 입력할 때 삽입할 다음 단어와 파일 또는 기타 개체를 예상합니다."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "텍스트 예측"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "작성 속도를 높이기 위해, 편집기에서 다음 단어를 예상하여 입력할 단어 또는 구를 추천합니다."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "학습 팁"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "예"
+   },
+   "explanationTableAfter": {
+      "message": "고려 내용:"
+   },
+   "explanationTableBefore": {
+      "message": "다음 대신:"
+   },
+   "explanationTableSeparator": {
+      "message": "또는"
+   },
+   "facebookInputPlaceholder": {
+      "message": "내 에펠탑 여행에 관한 게시물 작성"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Copilot을 사용하려면 게시물의 끝으로 이동하세요."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "다음 페이지"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "팁 $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "이전 페이지"
+   },
+   "generalErrorMessage": {
+      "message": "Microsoft 편집기 문제가 발생하여 콘텐츠를 생성할 수 없습니다."
+   },
+   "generateButtonLabel": {
+      "message": "생성"
+   },
+   "giveFeedbackButtonText": {
+      "message": "피드백 보내기"
+   },
+   "gmailInputPlaceholder": {
+      "message": "모임 요청 이메일 작성"
+   },
+   "inputName": {
+      "message": "편집기에게 작성하도록 할 내용 설명..."
+   },
+   "inputPlaceholder": {
+      "message": "작성할 내용 설명"
+   },
+   "languageErrorMessage": {
+      "message": "선택한 언어에 대한 재작성은 아직 사용할 수 없습니다."
+   },
+   "limitErrorMessage": {
+      "message": "다시 작성하려면 100개 미만의 단어를 선택하세요."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "콘텐츠 제작 팁"
+   },
+   "loadingLabel": {
+      "message": "잠시만 기다려 주세요. 준비 중..."
+   },
+   "loadingText": {
+      "message": "로드 중... "
+   },
+   "modalDescribeBy": {
+      "message": "선택한 텍스트를 쓰는 다른 방법을 생성합니다."
+   },
+   "moreButtonLabel": {
+      "message": "기타 옵션"
+   },
+   "moreButtonText": {
+      "message": "자세히"
+   },
+   "moreOptionsLabel": {
+      "message": "추가 옵션"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "맞춤법 검사 언어 추가"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "맞춤법 검사 언어를 추가하세요."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "관련 쓰기 제안을 받으려면"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "편집기에 다른 언어 추가"
+   },
+   "nextSuggestion": {
+      "message": "다음 제안"
+   },
+   "nudgeTextForEmails": {
+      "message": "전자 메일을 찾으려면 $1을(를) 입력하세요."
+   },
+   "nudgeTextForFile": {
+      "message": "파일 등을 찾으려면 $1을(를) 입력하세요."
+   },
+   "nudgeTextForMeetings": {
+      "message": "모임을 찾으려면 $1을(를) 입력하세요."
+   },
+   "nudgeTextForPeople": {
+      "message": "사용자를 찾으려면 $1을(를) 입력하세요."
+   },
+   "prevSuggestion": {
+      "message": "이전 제안"
+   },
+   "preview": {
+      "message": "미리 보기"
+   },
+   "previewText": {
+      "message": "미리 보기"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "새 줄에 있을 때마다 이 기능을 사용하려면 CTRL + ALT + I 누르세요."
+   },
+   "promptSuggestButtonText": {
+      "message": "계속 쓰기 "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+오른쪽 화살표"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "원래 문장 소리내어 읽기"
+   },
+   "regenerateLabel": {
+      "message": "다시 생성"
+   },
+   "replaceLabel": {
+      "message": "바꾸기"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "생성된 콘텐츠 보고"
+   },
+   "reportOutput": {
+      "message": "보고서 출력"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "AI가 생성한 콘텐츠에는 정확하지 않거나 민감한 자료가 포함될 수 있습니다. 정보를 검증해야 합니다."
+   },
+   "retry": {
+      "message": "다시 시도"
+   },
+   "rewriteBrand": {
+      "message": "다시 쓰기"
+   },
+   "rewriteWithCopilot": {
+      "message": "다시 쓰기"
+   },
+   "sbx_signInDescription": {
+      "message": "개인 설정된 맞춤법 사전 외에 대부분의 웹 사이트에서 문법 및 구체화 제안을 받으려면 로그인하세요."
+   },
+   "shareFeedback": {
+      "message": "피드백 공유"
+   },
+   "showHeaderMessage": {
+      "message": "이 항목을 작성하는 다른 몇 가지 방법은 다음과 같습니다."
+   },
+   "submitButtonTooltip": {
+      "message": "생성(Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Copilot을 사용하려면 단락의 끝으로 이동하세요."
+   },
+   "suggestionCountSeparator": {
+      "message": "/"
+   },
+   "suggestionHint": {
+      "message": "수락하려면 ENTER 키 누르기"
+   },
+   "tryAgainButtonLabel": {
+      "message": "다시 시도"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "다시 생성"
+   },
+   "twitterInputPlaceholder": {
+      "message": "동기 부여 트윗 작성"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Copilot을 사용하려면 트윗의 끝으로 이동하세요."
+   }
+}

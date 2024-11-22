@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Konto"
+   },
+   "AppDescription": {
+      "message": "Skriv med selvtillit med Microsoft-redaktør, din intelligente skriveassistent for grammatikk-, stave- og stilkontroll."
+   },
+   "AppLongDescription": {
+      "message": "Bli en bedre forfatter på nettet med Microsoft-redaktør (1), din gratis skriveassistent. Microsoft-redaktør beveger seg med deg på tvers av nettsteder, slik at du kan skrive klare og kortfattede innlegg på nettet. Med denne nettleserutvidelsen får du: \r\n\r\nIntelligent skrivehjelp, slik at du kan mestre det grunnleggende med utrolig grammatikkontroll, stavekontroll og tegnsettingskorrektur helt gratis. Få avansert kontroll av grammatikk og stil når det gjelder klarhet, kortfattethet, formalitet, ordforråd og mye mer, med premium (2). \r\n\r\nFå tilbakemeldinger på nettsteder som LinkedIn, Facebook og mange flere av favorittene dine med denne nettleserutvidelsen. Hvis du vil ha hjelp andre steder enn på nettet, åpner du Word og ser etter Redaktør-ikonet for å finne ut hvordan du kan få hjelp på tvers av dokumenter, e-post og resten av nettet. \r\n\r\nMicrosoft-redaktør er tilgjengelig på flere språk. Få grunnleggende tilbakemeldinger på over 20 språk (og stavekontroll på over 80 språk) for å kunne kommunisere tydelig uansett hvilket språk du skriver på \r\n\r\nSpråktilgjengelighet (3):\r\n– Arabisk\r\n– Dansk\r\n– Engelsk\r\n– Finsk\r\n– Fransk\r\n– Hebraisk (ikke tilgjengelig i Word-skrivebordsprogrammet ennå)\r\n– Italiensk\r\n– Japansk\r\n– Koreansk\r\n– Nederlandsk\r\n– Norsk (bokmål)\r\n– Polsk\r\n– Portugisisk (Brasil)\r\n– Portugisisk (Portugal)\r\n– Russisk\r\n– Spansk\r\n– Svensk\r\n– Tsjekkisk\r\n– Tyrkisk\r\n– Tysk\r\n– Ungarsk\r\n\r\n(1) Tilgjengelig for nettleserne Microsoft Edge og Chrome og krever en Microsoft-konto. Redaktør kobles til en nettbasert Microsoft-tjeneste som tilbyr stavekontroll, grammatikk og forbedringsforslag for skrivingen din på de fleste nettsteder. \r\n (2) Microsoft 365-abonnement kreves for å få tilgang til premiumfunksjoner i Redaktør.\r\n (3) Redaktør sørger for forbedringer i skrivestil på følgende språk. Ikke alle språk har de samme forbedringene. \r\n\r\nVed å installere appen godtar du disse vilkårene og betingelsene: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nPersonvernerklæring: http://aka.ms/privacy"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Skriv med selvtillit med Microsoft-redaktør, din intelligente skriveassistent for grammatikk, stavekontroll og stilkontroll. \r\n\r\nBli en bedre forfatter på nettet med Microsoft-redaktør (1), din gratis skriveassistent. Microsoft-redaktør beveger seg med deg på tvers av nettsteder, slik at du kan skrive klare og kortfattede innlegg på nettet. Med denne nettleserutvidelsen får du: \r\n\r\nIntelligent skrivehjelp, slik at du kan mestre det grunnleggende med utrolig grammatikkontroll, stavekontroll og tegnsettingskorrektur helt gratis. Få avansert kontroll av grammatikk og stil når det gjelder klarhet, kortfattetthet, formalitet, ordforråd og mye mer, med premium (2). \r\n\r\n Få tilbakemeldinger på nettsteder som LinkedIn, Facebook og mange flere av favorittene dine med denne nettleserutvidelsen. Hvis du vil ha hjelp andre steder enn på nettet, åpner du Word og ser etter Redaktør-ikonet for å finne ut hvordan du kan få hjelp på tvers av dokumenter, e-post og resten av nettet. \r\n\r\nMicrosoft-redaktør er tilgjengelig på flere språk. Få grunnleggende tilbakemeldinger på over 20 språk (og stavekontroll på over 80 språk) for å kunne kommunisere tydelig uansett hvilket språk du skriver på \r\n\r\nSpråktilgjengelighet (3):\r\n– Arabisk\r\n– Dansk\r\n– Engelsk\r\n– Finsk\r\n– Fransk\r\n– Hebraisk (ikke tilgjengelig i Word-skrivebordsprogrammet ennå)\r\n– Italiensk\r\n– Japansk\r\n– Koreansk\r\n– Nederlandsk\r\n– Norsk (bokmål)\r\n– Polsk\r\n– Portugisisk (Brasil)\r\n– Portugisisk (Portugal)\r\n– Russisk\r\n– Spansk\r\n– Svensk\r\n– Tsjekkisk\r\n– Tyrkisk\r\n– Tysk\r\n– Ungarsk\r\n\r\n(1) Tilgjengelig for nettleserne Microsoft Edge og Chrome og krever en Microsoft-konto. Microsoft-redaktør kobles til en nettbasert Microsoft-tjeneste som tilbyr rettskrivning, grammatikk og forbedringsforslag for skrivingen din på de fleste nettsteder. \r\n (2) Microsoft 365-abonnement kreves for å få tilgang til premiumfunksjoner i Redaktør.\r\n (3) Redaktør sørger for forbedringer i skrivestil på følgende språk. Ikke alle språk har de samme forbedringene. \r\n\r\nVed å installere appen godtar du disse vilkårene og betingelsene: \r\n\r\nhttps://aka.ms/editorchromeextensionterms\r\n\r\nPersonvernerklæring: http://aka.ms/privacy"
+   },
+   "AppName": {
+      "message": "Microsoft-redaktør: stave- og grammatikkontroll"
+   },
+   "AppShortName": {
+      "message": "Redaktør"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Aktiver"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Prøv Redaktør (beta) i Google Docs"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "Redaktør er i betaversjon på Google Docs. Gi oss beskjed hvis det oppstår et problem."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Når andre redigeringsutvidelser og Redaktør kjører, kan deres forslag overlappe eller være i konflikt. Vi anbefaler å deaktivere andre redigeringsutvidelser i nettleserens utvidelsesinnstillinger for å få den beste Redaktør-opplevelsen."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "Konflikt oppdaget mellom redigeringsutvidelser"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Deaktiver Redaktør på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Microsoft-redaktør"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Copilot-innsetting"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Copilot-omskriving"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatikk"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Redaktør støttes ikke for tiden for $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Redaktør er for øyeblikket deaktivert på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Redaktør er av."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "nb-NO"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Redaktør er inkludert med $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Korrekturspråk: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "nb-NO"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Korrekturspråk"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Korrekturspråk"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Få avanserte skriveidéer og 1 TB med lagringsplass når du velger premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Presiseringer"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Forbedringer er avanserte skriveforslag som hjelper deg med å gjøre tekstene dine klarere, mer konsise og mer formelle."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Åpne Redigeringsinnstillinger for å velge korrekturspråk."
+   },
+   "EditorSettingsLabel": {
+      "message": "Flere Redaktør-innstillinger"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Stavekontroll"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Synonymer (forhåndsversjon)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Få synonymer når du skriver: Dobbeltklikk på et ord, eller merk ordet og trykk på (Alt+Pil ned)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Få synonymer når du skriver: Dobbeltklikk på et ord, eller merk ordet og trykk på Alt+Pil ned."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Få synonymer når du skriver: Dobbeltklikk på et ord, eller merk ordet og trykk på Ctrl+Tilvalg+Pil ned."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Få synonymer når du skriver: Dobbeltklikk på et ord, eller merk ordet og trykk på (⌃+⌥+↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ og $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "nb-NO"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "nb-NO"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Aktiver Redaktør på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Vis konto"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Leserutvidelse for Microsoft-redaktør "
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Du har oppgradert til premiumversjonen av Microsoft-redaktør! Utforsk det utvidede funksjonssettet ved å klikke på den blå og lilla understrekingen i teksten."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Gratulerer"
+   },
+   "SettingsLabel": {
+      "message": "Kontoinnstillinger"
+   },
+   "SignInLabel": {
+      "message": "Logg på, eller registrer deg"
+   },
+   "SignOutLabel": {
+      "message": "Logg av"
+   },
+   "SignOutTooltip": {
+      "message": "Når du logger av, tilbakestilles alle innstillingene til standardinnstillingene, og du mister listen over utelatte nettsteder."
+   },
+   "SupportPageLabel": {
+      "message": "Trenger du hjelp med pålog​gingen?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Slå på Redaktør"
+   },
+   "addButtonLabel": {
+      "message": "Legg den til"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Opprett med Copilot, trykk alt+i for å vise alternativer"
+   },
+   "aiInsertButtonText": {
+      "message": "Skap innhold med Copilot"
+   },
+   "aiInsertResultDescription": {
+      "message": "Her er en måte å gjøre den mer engasjerende på"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "Redaktør la til $1 som språk for stavekontroll"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Administrer språk for stavekontroll"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Angre"
+   },
+   "backToPromptLabel": {
+      "message": "Tilbake"
+   },
+   "closeLabel": {
+      "message": "Lukk"
+   },
+   "contentErrorMessage": {
+      "message": "Microsoft-redaktør kan ikke opprette innhold. Velg en annen tekst, eller vent litt, og prøv på nytt."
+   },
+   "contentSuggestion": {
+      "message": "Innholdsforslag"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Rettelse, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Grammatisk feil, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Forbedring av stil, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Gjentatt ord, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Feilstavet, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "Innhold generert av kunstig intelligens kan inneholde unøyaktigheter eller sensitivt materiale. Pass på å bekrefte informasjon."
+   },
+   "copyButtonText": {
+      "message": "Kopier"
+   },
+   "defaultWarningMessage": {
+      "message": "Hvis du vil bruke Copilot, går du til slutten av avsnittet."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Du kan bare aktivere korrektur for opptil tre språk om gangen."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "«$1» ble lagt til i ordlisten."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "Søkeresultatene for På-meny ble lukket"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "Forslaget ble satt inn. Søkeresultatene for På-menyen ble lukket"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "Flaggforslag klikket. Søkeresultatene for På-menyen vises"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "Dulting ble klikket på. Søkeresultatene for På-menyen vises"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "Symboltastetrykket «$1» har vist søkeresultatene for På-menyen"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Åpne med kontrollknappen"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Trykk på Kontroll for alternativer for autokorrektur."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Filforslag"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Filer, komponenter, personer og mer"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Sett inn"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Lokal forretningsgjenkjenning"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Adressegjenkjenning"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Legg til kobling til denne adressen"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Plassering"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Forbedring"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Forslag til personer"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Enhetsforslag"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Legg til kobling til denne enheten"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Enhet"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Enhetsforslag"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Tidsregistrering"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Legg til tidssoner for dette tidspunktet"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Klokkeslett"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Forbedring"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Merk dette emnet for å hjelpe andre med å få tilgang til en beskrivelse, personer og ressurser som er koblet til den."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Viva Topics-forslag"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Viva Topics-forslag"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "Nudge-forslag vist: $1"
+   },
+   "ebx_Cancel": {
+      "message": "Avbryt"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Datogjenkjenning"
+   },
+   "ebx_Dismiss": {
+      "message": "Lukk"
+   },
+   "ebx_Done": {
+      "message": "Fullført"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Søk etter filer"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Søk etter personer"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Begynn å skrive for å søke"
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Begynn å skrive for å søke 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Begynn å skrive for å søke"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Begynn å skrive for å søke"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Søk etter Loop-komponenter"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Begynn å skrive for å søke"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Begynn å skrive for å søke"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Begynn å skrive for å søke"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Søk etter emner"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Personer/datogjenkjenning"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Sett inn dato"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Sett inn datointervall"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Forslag: sett inn datointervall"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Sett inn dato og klokkeslett"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Forslag: sett inn dato og klokkeslett"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Forslag: sett inn dato"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Forslag: sett inn person"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Sett inn klokkeslett"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Sett inn tidsintervall"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Forslag: sett inn tidsintervall"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Forslag: sett inn klokkeslett"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Tilbakemeldingen er sendt inn."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Takk for at du prøver Redaktør (beta) i Google Docs. Vi gjør oppdateringer for å imøtekomme endringer i Google Docs som førte til at Redaktør sluttet å fungere. Vi gir deg beskjed når Redaktør er klar til bruk igjen."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "Redaktør i Google Docs er ikke tilgjengelig"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Hvis du vil ha den beste redigeringsopplevelsen, kan du prøve å deaktivere den innebygde stave- og grammatikkontrollen i Google Docs. (Gå til Stavekontroll og grammatikk på Verktøy-menyen, og slå av alternativene)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Bruk bare korrekturverktøy for Redaktør"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Få avanserte forslag mens du skriver. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Få avanserte forslag mens du skriver. For å få den beste redigeringsopplevelsen blir Google Dokumenters innebygde stave- og grammatikkontroll slått av. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Prøv Redaktør (beta) i Google Docs"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "Grammatikkforslag ble ignorert."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Overskriftsgjenkjenning"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Forbedre"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Overskrift 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Overskrift 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Overskrift 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Vurder å endre til en topptekst"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Tilgjengelighet"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Tilgjengelighet: Vurder å endre til en topptekst"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Foreslår å sette inn $1. Trykk for å sette inn."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Vi valgte {0} basert på gjeldende nettleserinnstillinger."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Kontroller staving og grammatikk for tre språk samtidig. Velg språkene dine i Redigeringsinnstillinger"
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Du kan redigere språkene i innstillingene for Redaktør."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Vi har valgt {0}, {1} og {2} basert på gjeldende nettleserinnstillinger."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Flerspråklig korrekturlesing med Redaktør"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Vi valgte {0} og {1} basert på gjeldende nettleserinnstillinger."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Persongjenkjenning"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "Tok i bruk forslaget $1."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "$1 foreslås å settes inn. Trykk på Tab for å sette inn."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Korrekturspråk"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Microsoft 365-abonnenter får avanserte skriveforslag når de er logget på."
+   },
+   "ebx_RemoveItem": {
+      "message": "Slett"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Nå kan du legge til dine egne ord i Redaktørs ordliste for stavekontroll. Se etter Legg til i ordliste når Redaktør oppretter et forslag til stavemåte."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Tilpass ordlisten for stavekontroll"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "OK"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Nå kan Redaktør legge til ord i den egendefinerte ordlisten som er innebygd i Microsoft 365-appene. Logg på, og se etter Legg til i ordlisten når Redaktør kommer med et forslag til stavekontroll."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Logg på for å få egendefinert ordliste for stavekontroll"
+   },
+   "ebx_RuleIgnored": {
+      "message": "Kritikk \"$1\" er deaktivert i innstillingene."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Denne kritikk er deaktivert i innstillingene."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Logg på Microsoft-kontoen eller jobb- eller skolekontoen du bruker for Office, for å få skriveforslag på de fleste nettsteder."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Logg på, eller registrer deg"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Logg på for å skrive forslag på de fleste nettsteder. Vi lagrer innstillingene dine, for eksempel språkene du skriver på, og hvilke typer problemer du vil at redigeringsprogrammet skal se etter."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Gled deg over grammatikk- og forbedringsforslag på de fleste nettsteder, i tillegg til en tilpasset ordliste for stavekontroll."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Hvis du vil ha en tilpasset ordliste for stavekontroll, logger du på Microsoft-kontoen din eller jobb- eller skolekontoen du bruker for Office."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "Redaktør kjører ikke ennå"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "Lukket skråstrekmenyen"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "Forslaget ble satt inn. Skråstrekmenyen er lukket"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "Flaggforslag ble klikket på. Skråstrekmenyen vises"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "Dulting klikket på. Skråstrekmenyen vises"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "Symboltastetrykket «$1» har vist Skråstrekmenyen"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "Forslag til staving ble ignorert."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Åpne med venstreklikk eller ALT+PIL NED"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Åpne med venstreklikk eller Ctrl+Alt+pil ned"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Åpne med venstreklikk eller CTRL+TILVALG+ PIL NED"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Autokorrektur"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(ALT+PIL NED)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Ctrl + Alt + pil ned)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Korrigering av grammatikk"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Presisering av tekst"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Stavekorrigering"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Åpne med venstreklikk"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Viva Topics-forslag"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "Forslaget «$1» er godtatt."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Oppgavegjenkjenning"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Opprette oppgave"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Forslag: opprett en oppgave"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Fane"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Trykk"
+   },
+   "ebx_TurnItOn": {
+      "message": "Aktiver"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Legg til et annet nettsted"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Legg til et annet nettsted"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Avbryt å legge til området i listen over blokkerte nettsteder."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Legg til området i listen over blokkerte nettsteder"
+   },
+   "ebx_addButton": {
+      "message": "Legg til"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Slik legger du til kontroll av grammatikk"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Avbryt tillegging av språk i listen over korrekturspråk"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Legg til språk i listen over korrekturspråk"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Legg til et annet språk"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Legg til i ordliste"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Tillat at Redaktør automatisk oppdager og legger til nye korrekturspråk basert på skrivingen din."
+   },
+   "ebx_appDescription": {
+      "message": "Skriv selvsikkert med Microsoft-redaktør, den intelligente skriveassistenten din."
+   },
+   "ebx_appLongDescription": {
+      "message": "Redaktør gir avansert skrivehjelp med grammatikk-, stave- og stilforslag på nettet (1), slik at du trygt kan skrive klare, konsise innlegg og e-postmeldinger.\r\n\r\nSkriv som en proff med intelligent skrivehjelp\r\nFå det grunnleggende i orden med gratis korrekturlesing av grammatikk, avansert grammatikk, staving og tegnsetting. Gå utover det grunnleggende med avansert stilkontroll for problemer med klarhet, kortfattethet, formalitet, ordforråd og mye mer med Premium (krever et Microsoft 365 abonnement).\r\n\r\nTilpass det til dine behov\r\nRedaktør kan nå legge til ord i den egendefinerte ordlisten som er innebygd i Microsoft 365-apper. Se etter Legg til i ordliste når Redaktør kommer med et forslag til stavemåte. I tillegg kan du finjustere innstillingene for skriveforslag i Innstillinger. Vi har også gjort det enkelt å hoppe over alle forekomster av en stavekontroll ved å velge Ignorer alle, eller hoppe over uønskede grammatikkforslag ved å velge Ignorer.\r\n\r\nSkriv hvor som helst\r\nFå skrivehjelp på nettsteder som LinkedIn, Gmail, Facebook og andre favoritter med denne nettleserutvidelsen. Hvis du vil ha hjelp fra Redaktør i Office-appene der du skriver mest, åpner du Word eller Outlook på nettet og får forslag til hvordan du kan forbedre dokumenter og e-post.\r\n\r\nFå hjelp på flere språk\r\nKontroller staving og grammatikk for opptil tre språk samtidig med flerspråklig korrektur. Redaktør kontrollerer staving på mer enn 80 språk og leverer kontroll av grammatikk og hjelp med skrivestil på 21 språk. Du finner mer informasjon om tilgjengelige språk her: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nFå Redaktør for Edge her: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Tilgjengelig for Edge- eller Chrome-nettlesere og krever en Microsoft-konto. Redaktør kobler til en nettbasert Microsoft-tjeneste som tilbyr grammatikk- og stavekontroll og forbedringsforslag for skriving på de fleste nettsteder.\r\n2. Ikke alle språk har samme sett med forbedringer.\r\n\r\nVed å installere appen godtar du disse vilkårene og betingelsene:\r\n\r\nObs! Se lisensvilkårene for Microsoft-kontoen eller Microsoft 365 abonnementet som gjelder (“utvidelsen”) for å identifisere enheten som lisensierer denne utvidelsen til deg og for støtteinformasjon. Lisensvilkårene for Microsoft-kontoen eller Microsoft 365-abonnementet gjelder for bruken din av denne utvidelsen.\r\n\r\nPersonvernerklæring: http://aka.ms/privacy\r\nVilkår for bruk: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Redaktør gir avansert skrivehjelp med grammatikk-, stave- og stilforslag på nettet (1), slik at du trygt kan skrive klare, konsise innlegg og e-postmeldinger.\r\n\r\nSkriv som en proff med intelligent skrivehjelp\r\nFå det grunnleggende i orden med gratis korrekturlesing av grammatikk, avansert grammatikk, staving og tegnsetting. Gå utover det grunnleggende med avansert stilkontroll for problemer med klarhet, kortfattethet, formalitet, ordforråd og mye mer med Premium (krever et Microsoft 365 abonnement).\r\n\r\nTilpass det til dine behov\r\nRedaktør kan nå legge til ord i den egendefinerte ordlisten som er innebygd i Microsoft 365-apper. Se etter Legg til i ordliste når Redaktør kommer med et forslag til stavemåte. I tillegg kan du finjustere innstillingene for skriveforslag i Innstillinger. Vi har også gjort det enkelt å hoppe over alle forekomster av en stavekontroll ved å velge Ignorer alle, eller hoppe over uønskede grammatikkforslag ved å velge Ignorer.\r\n\r\nSkriv hvor som helst\r\nFå skrivehjelp på nettsteder som LinkedIn, Gmail, Facebook og andre favoritter med denne nettleserutvidelsen. Hvis du vil ha hjelp fra Redaktør i Office-appene der du skriver mest, åpner du Word eller Outlook på nettet og får forslag til hvordan du kan forbedre dokumenter og e-post.\r\n\r\nFå hjelp på flere språk\r\nKontroller staving og grammatikk for opptil tre språk samtidig med flerspråklig korrektur. Redaktør kontrollerer staving på mer enn 80 språk og leverer kontroll av grammatikk og hjelp med skrivestil på 21 språk. Du finner mer informasjon om tilgjengelige språk her: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nFå Redaktør for Chrome her: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Tilgjengelig for Edge- eller Chrome-nettlesere og krever en Microsoft-konto. Redaktør kobler til en nettbasert Microsoft-tjeneste som tilbyr grammatikk- og stavekontroll og forbedringsforslag for skriving på de fleste nettsteder.\r\n2. Ikke alle språk har samme sett med forbedringer.\r\n\r\nVed å installere appen godtar du disse vilkårene og betingelsene:\r\n\r\nObs! Se lisensvilkårene for Microsoft-kontoen eller Microsoft 365 abonnementet som gjelder (“utvidelsen”) for å identifisere enheten som lisensierer denne utvidelsen til deg og for støtteinformasjon. Lisensvilkårene for Microsoft-kontoen eller Microsoft 365-abonnementet gjelder for bruken din av denne utvidelsen.\r\n\r\nPersonvernerklæring: http://aka.ms/privacy\r\nVilkår for bruk: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Microsoft-redaktør: stave- og grammatikkontroll"
+   },
+   "ebx_appShortName": {
+      "message": "Redaktør"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, ligner på: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, ligner på: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Erstatt med"
+   },
+   "ebx_asInSynonyms": {
+      "message": "ligner på"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "«$1», Autokorrektur angret."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Gå tilbake til $1"
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, autokorrigert."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Trykk på Kontroll for alternativer for autokorrektur."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "{0} er lagt til"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Trykk pil høyre for å få tilgang til Fjern-knappen."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "Listen er tom."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "{0} ble fjernet"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft-redaktør"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft-redaktør-logo"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Bla gjennom denne datamaskinen"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Endre alle"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Innstillinger for Redaktør..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Se etter presiseringer"
+   },
+   "ebx_checkGrammar": {
+      "message": "Kontroller grammatikk"
+   },
+   "ebx_checkSpelling": {
+      "message": "Stavekontroll"
+   },
+   "ebx_close": {
+      "message": "Lukk"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Kommer snart"
+   },
+   "ebx_copilotInsert": {
+      "message": "Sett inn"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Copilot-omskriving"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Slett gjentatt ord"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Slutt å se etter dette"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Slutt å se etter dette. Redigering vil bruke denne innstillingen til du endrer den."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "Redigering vil bruke denne innstillingen til du endrer den"
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Slå av Redaktør på {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Visningsalternativer"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Dette området er allerede i listen over blokkerte områder"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "Redaktør har $1 avanserte skriveidéer for denne meldingen."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "Redaktør støttes ikke for tiden på {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Redaktør i eget vindu"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Av"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "På"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Vis redigerings knappen i felt som støtter popup-redigeringsprogrammet"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Microsoft Office-leserutvidelsen inneholder nå Microsoft-redaktør, din intelligente skriveassistent som hjelper deg med å få ut den beste skrivingen din på Internett. Microsoft-redaktør kobles til en nettbasert tjeneste for å tilby stave-, grammatikk- og stilforslag for deg."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft-redaktør (forhåndsversjon) kjører nå"
+   },
+   "ebx_editorFeature": {
+      "message": "Microsoft-redaktør"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Av"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Slå av Redaktør"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "På"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Redaktør-funksjon"
+   },
+   "ebx_editorIsOff": {
+      "message": "Redaktør er av"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Redaktør er for øyeblikket deaktivert på {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "Redaktør er inkludert i {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Flere Redaktør-innstillinger"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Ingen språk samsvarer med søket"
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Aktiver Redaktør på {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " og "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "Redaktør har $1 avanserte skrive idéer for denne meldingen."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "Redaktør har $1 avansert skrive idé for denne meldingen."
+   },
+   "ebx_excludedSites": {
+      "message": "Ekskluderte nettsteder"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Rapporter dette forslaget"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Fortell oss hvorfor du valgte det svaret."
+   },
+   "ebx_feedbackLink": {
+      "message": "tilbakemelding"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Hjelp oss med å forbedre Redaktør ved å gi"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Svært negativ"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Ekstremt negativ"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Litt negativ"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Litt negativ"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Verken positiv eller negativ"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Verken negativ eller positiv"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Litt positiv"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Litt positiv"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Svært positiv"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Ekstremt positiv"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "Hvordan vil du generelt sett beskrive opplevelsen din med Microsoft-redaktør?"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "Hva synes du om Microsoft-redaktør til å få stavekontroll, alternativer for grammatikk og andre forslag til å presisere skrivingen, sånn generelt?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Gi tilbakemelding til Microsoft om Redaktør"
+   },
+   "ebx_giveFeedback": {
+      "message": "Gi tilbakemelding"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Få avanserte skriveideer i Redaktør, 1 TB med OneDrive-lagringsplass og premiumfunksjoner i alle Microsoft 365-apper."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Få avanserte skriveideer i Redaktør, 1 TB med OneDrive-lagringsplass og premiumfunksjoner i alle Microsoft 365-apper."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Prøv de avanserte skriveideene i Redaktør."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Velg premium"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "kan du skaffe deg premium"
+   },
+   "ebx_goToSettings": {
+      "message": "Gå til innstillinger for Redaktør"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Gå til innstillinger for Redaktør for å finne ut mer"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Docs"
+   },
+   "ebx_grammar": {
+      "message": "Grammatikk"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Skjul synonymer"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ignorer alle"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Ignorer"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Åpne Redaktør, eller høyreklikk for å få flere alternativer"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Se alle forslag i Redaktør, eller høyreklikk for flere alternativer"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Det er et «$1»-korrekturproblem på denne linjen"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Det er et «$1»-korrekturproblem på denne linjen"
+   },
+   "ebx_languageAdded": {
+      "message": "{0} er lagt til"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" ble flyttet én plassering nedover i listen"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" ble flyttet til toppen av listen"
+   },
+   "ebx_languageMovedUp": {
+      "message": "{0} ble flyttet én posisjon opp i listen"
+   },
+   "ebx_languageRemoved": {
+      "message": "{0} ble fjernet"
+   },
+   "ebx_learnMore": {
+      "message": "Finn ut mer"
+   },
+   "ebx_manageLanguages": {
+      "message": "Administrer språk..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Administrer språk for stavekontroll"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Flere kommandoer for {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Flytt ned"
+   },
+   "ebx_moveToTop": {
+      "message": "Flytt til toppen"
+   },
+   "ebx_moveUp": {
+      "message": "Flytt opp"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Neste forslag, $1 gjenstår"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Åpne redigeringsprogram"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Innstillinger for Redaktør"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Siden du gjorde denne skrivefeilen et par ganger, har vi lagt til \"$1\" i Autokorrektur-listen."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1 gjenværende dager i denne forhåndsversjonen. Oppgrader for ubegrensede forslag:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "$1 gjenværende dager i denne forhåndsversjonen. Oppgrader for ubegrensede forslag:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Skaff deg de avanserte skriveidéene i Redaktør."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1 gjenværende forslag i forhåndsversjonen. Oppgrader for ubegrensede forslag:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1 gjenværende forslag i denne forhåndsversjonen. Oppgrader for ubegrensede forslag:"
+   },
+   "ebx_preview": {
+      "message": "(forhåndsversjon)"
+   },
+   "ebx_previewLabel": {
+      "message": "FORHÅNDSVISNING"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Forrige forslag, $1 gjenstår"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Send valgfrie diagnosedata automatisk når du bruker denne nettbasert tjenesten, for å hjelpe oss med å forbedre produktene våre."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Finn ut mer om diagnosedata"
+   },
+   "ebx_privacyOptions": {
+      "message": "Personvernalternativer"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Korrekturspråk"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Trykk «pil høyre»-tasten for å få tilgang til Flere kommandoer-knappen."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Korrekturspråk"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Du kan bare aktivere korrektur for opptil tre språk om gangen."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Velg et korrekturspråk"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Korrekturspråk"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Velg opptil tre språk. Ditt foretrukne språk vil være øverst."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Korrekturspråk"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Synes du at Redaktør er nyttig?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Vi ønsker å stille deg to spørsmål."
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Gi tilbakemelding"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Vi beklager at vi kan høre det. Fortell oss hvordan vi kan forbedre Redaktør."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "Nei"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "Nei, takk"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Flott, vil du rangere det?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Hvis du fortsatt vil bruke Redaktør, vil du vurdere det?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "Greit"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Ja"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Tilbakemelding om Microsoft-redaktør"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Vi setter pris på tilbakemeldingen din"
+   },
+   "ebx_refinements": {
+      "message": "Presiseringer"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Forbedringer er avanserte skriveforslag som hjelper deg med å gjøre tekstene dine klarere, mer konsise og mer formelle."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Dette ordet gjentas"
+   },
+   "ebx_settings": {
+      "message": "Innstillinger"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Åpne Editor-innstillinger"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Åpne Redigeringsinnstillinger for å velge korrekturspråk."
+   },
+   "ebx_settingsLabel": {
+      "message": "Kontoinnstillinger"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Innstillinger for Microsoft-redaktør"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Innstillinger per språk"
+   },
+   "ebx_showBeta": {
+      "message": "Beta på $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Vis synonymer"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Vis synonymer for staveforslag"
+   },
+   "ebx_signInDescription": {
+      "message": "Hvis du vil ha grammatikk- og forbedringforslag på de fleste nettsteder i tillegg til egendefinert ordliste for stavekontroll, må du logge på."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Trenger du hjelp med å logge på?"
+   },
+   "ebx_signInLabel": {
+      "message": "Logg på, eller registrer deg"
+   },
+   "ebx_signInToAccess": {
+      "message": "Logg på for å få tilgang"
+   },
+   "ebx_signIntoEditor": {
+      "message": "logg på Redaktør"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Hvis du vil ha grammatikk- og forbedringsforslag på de fleste nettsteder, må du logge deg på."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "For tilpasset stavemåte"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Logg på hvis du vil ha en personlig ordliste for stavekontroll."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Hvis du vil ha grammatikk- og forbedringsforslag på de fleste nettsteder, må du logge deg på."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Hvis du vil ha grammatikk- og forbedringforslag på de fleste nettsteder i tillegg til egendefinert ordliste for stavekontroll, må du logge på."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Logg på Redaktør"
+   },
+   "ebx_signOutLabel": {
+      "message": "Logg av"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Når du logger av, tilbakestilles alle innstillingene til standardinnstillingene, og du mister listen over utelatte nettsteder."
+   },
+   "ebx_spelling": {
+      "message": "Stavekontroll"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Dobbeltsjekk om dette er riktig"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Flere handlinger"
+   },
+   "ebx_synonyms": {
+      "message": "Synonymer"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonymer er ikke tilgjengelig]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Få synonymer når du skriver: Dobbeltklikk på et ord, eller merk ordet og trykk på (Alt+Pil ned)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Få synonymer når du skriver: Dobbeltklikk på et ord, eller merk ordet og trykk på (⌃+⌥+↓)."
+   },
+   "ebx_toggleOff": {
+      "message": "Av"
+   },
+   "ebx_toggleOn": {
+      "message": "På"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Ja takk"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Vi tilbyr nå forslag for å hjelpe deg med tonen du skrev. Vil du sjekke det ut?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Lukk"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Ikke nå"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Gjør endringer i redigeringsinnstillingene"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "Vis aldri toneforslag"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "Tonegjenkjenning er nå deaktivert."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Tonegjenkjenning"
+   },
+   "ebx_toneLabel": {
+      "message": "Tone"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Merk dette emnet for å hjelpe andre med å få tilgang til en beskrivelse, personer og ressurser som er koblet til den."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Viva Topics-forslag"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Prøv de avanserte skriveideene i Redaktør."
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Prøv nå"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Slå av Redaktør"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Redaktør kobler til en Microsoft-nettjeneste som tilbyr stave-, grammatikk- og stilforslag for håndskrift på de fleste nettsteder."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Slå på Redaktør"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Angre"
+   },
+   "ebx_undoButtonText": {
+      "message": "Angre"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Alternativer for autokorrektur"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Blokkerte nettsteder"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Ugyldig nett adresse. Angi URL-adressen i følgende format: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Ugyldig URL-adresse {0} på linje {1}."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Du har deaktivert Editor på områdene som er oppført nedenfor. Editor kan automatisk deaktiveres på flere nettsteder med sensitivt innhold eller trege innlastingshastigheter."
+   },
+   "ebx_viewAccount": {
+      "message": "Vis konto"
+   },
+   "editor": {
+      "message": "Redaktør"
+   },
+   "editorButtonText": {
+      "message": "Redaktør"
+   },
+   "emailWarningMessage": {
+      "message": "Hvis du vil bruke Copilot, går du til slutten av e-postmeldingen."
+   },
+   "emptyStateMessage": {
+      "message": "Velg tekst som skal skrives på nytt"
+   },
+   "errorLabel": {
+      "message": "Feil"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "ordlisten"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Kobling til innhold ved å skrive inn spesialtegnet, skråstrek (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "Tagging av innhold"
+   },
+   "esdk_autocorrect": {
+      "message": "Autokorrektur"
+   },
+   "esdk_cancelButton": {
+      "message": "Avbryt"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Innstillinger"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, bryter, Av."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, bryter, På."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Trykk på TAB for å høre statusen til kategorien"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Pil høyre for å utvide kategori."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "Detaljerte innstillinger er deaktivert."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Pil høyre for å angi detaljerte innstillinger."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "{0} er deaktivert"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Alle detaljerte innstillinger i denne kategorien er nå ikke merket."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Alle detaljerte innstillinger i denne kategorien er nå kontrollert."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "Detaljerte innstillinger for {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Mellomrom eller Enter for å aktivere/deaktivere kategoritilstand,"
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "Redaktør flagger ikke dette problemet med mindre du åpner Redigering-ruten"
+   },
+   "esdk_closeButton": {
+      "message": "Lukk"
+   },
+   "esdk_copilotInsert": {
+      "message": "Sett inn"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Copilot støtter for øyeblikket bare engelsk"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Skriv på nytt"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Korrigeringer"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Venstrepil for å gå tilbake til innstillinger"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Høyrepil for detaljerte innstillinger"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "Kategori må være aktivert for å endre verdien for avmerkingsboksen"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Endre hvordan skriveassistenten retter og foreslår forbedringer av tekst i denne appen"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Innstillinger for Microsoft-redaktør"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Aktiver Stavekontroll for å bruke autokorrektur"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Forbedringer"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "Kan ikke laste inn innstillinger for redigeringsprogram"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Velg premium"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Få avanserte skriveidéer og 1 TB med lagringsplass når du velger premium."
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Trykk på TAB for å høre tilstanden"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Innebygd redigering"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Korrekturspråk"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Innstillinger for"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "Redigeringsprogrammet oppdager når tekst refererer til en fil eller data og tilbyr seg å opprette en kobling."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Koblingsforslag"
+   },
+   "esdk_okButton": {
+      "message": "OK"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Skjul korrekturinnstillinger."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Velg hva Redaktør ser etter."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Velg opptil tre språk. Ditt foretrukne språk vil være øverst."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Rediger språk"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Utvid korrekturinnstillinger."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Korrekturinnstillinger"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Innstillinger for korrekturspråk"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Korrekturinnstillinger"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Rediger språk"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Velg opptil tre språk. Ditt foretrukne språk vil være øverst."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Korrekturinnstillinger"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Innstillinger for korrekturspråk"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Presiseringer"
+   },
+   "esdk_resetToDefault": {
+      "message": "Tilbakestill til standard"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Prøv de avanserte skriveforslagene i Redaktør."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Nedlastingsdetaljer"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "Ikke alle språk har samme skriveveiledning. Last ned dette dokumentet for å vise detaljer om grammatikk- og presiseringsinnstillinger som er tilgjengelige for det valgte språket."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Finn ut mer"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "Ikke alle språk har samme skriveveiledning. Følg denne koblingen for å lære mer om grammatikk- og presiseringsinnstillinger som er tilgjengelige for alle redigeringsspråk."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "Ikke alle språk har samme skriveveiledning. {Learn more} om grammatikk- og presiseringsinnstillinger som er tilgjengelige for alle redigeringsspråk."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Endringer i alternativene for stavekontroll brukes på alle aktiverte språk"
+   },
+   "esdk_synonyms": {
+      "message": "Synonymer (forhåndsversjon)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "Redaktør forventer at de neste ordene, i tillegg til filer eller andre objekter, settes inn mens du skriver."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Tekstforutsigelse"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "For å hjelpe deg med å skrive raskere kan redigeringprogrammet forutse de neste ordene og foreslå ord eller uttrykk mens du skriver. "
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Læretips"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Eksempler"
+   },
+   "explanationTableAfter": {
+      "message": "Vurder:"
+   },
+   "explanationTableBefore": {
+      "message": "i stedet for:"
+   },
+   "explanationTableSeparator": {
+      "message": "eller"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Skriv et innlegg om reisen min til Eiffeltårnet"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Hvis du vil bruke Copilot, går du til slutten av innlegget."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Neste side"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "TIPS $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Forrige side"
+   },
+   "generalErrorMessage": {
+      "message": "Microsoft-redaktør støtte på et problem og kunne ikke generere innhold."
+   },
+   "generateButtonLabel": {
+      "message": "Generer"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Gi tilbakemelding"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Skrive en e-post med en møteinnkallelse"
+   },
+   "inputName": {
+      "message": "Beskriv hva du vil at Redaktør skal skrive..."
+   },
+   "inputPlaceholder": {
+      "message": "Beskriv hva du vil skrive"
+   },
+   "languageErrorMessage": {
+      "message": "Omskrivinger er ikke tilgjengelige for språket du valgte ennå."
+   },
+   "limitErrorMessage": {
+      "message": "Hvis du vil skrive på nytt, må du velge færre enn 100 ord."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Tips til oppretting av innhold"
+   },
+   "loadingLabel": {
+      "message": "Vent litt, lager noe for deg ..."
+   },
+   "loadingText": {
+      "message": "Laster inn: "
+   },
+   "modalDescribeBy": {
+      "message": "Genererer andre måter å skrive den merkede teksten på"
+   },
+   "moreButtonLabel": {
+      "message": "Flere alternativer"
+   },
+   "moreButtonText": {
+      "message": "Mer"
+   },
+   "moreOptionsLabel": {
+      "message": "Flere alternativer"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "legg til et annet stavekontrollspråk"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Legg til språk for stavekontroll."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Hvis du vil ha relevante skriveforslag,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Legg til et annet språk i Redigering"
+   },
+   "nextSuggestion": {
+      "message": "Neste forslag"
+   },
+   "nudgeTextForEmails": {
+      "message": "Skriv inn $1 for å finne e-postmeldinger"
+   },
+   "nudgeTextForFile": {
+      "message": "Skriv inn $1 for å finne filer og mer"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Skriv inn $1 for å finne møter"
+   },
+   "nudgeTextForPeople": {
+      "message": "Skriv inn $1 for å finne personer"
+   },
+   "prevSuggestion": {
+      "message": "Forrige forslag"
+   },
+   "preview": {
+      "message": "FORHÅNDSVISNING"
+   },
+   "previewText": {
+      "message": "FORHÅNDSVISNING"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Trykk CTRL + ALT + I for å bruke denne funksjonen når du er på en ny linje."
+   },
+   "promptSuggestButtonText": {
+      "message": "Bare fortsett å skrive "
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+Pil høyre"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Les opprinnelig setning høyt"
+   },
+   "regenerateLabel": {
+      "message": "Generer på nytt"
+   },
+   "replaceLabel": {
+      "message": "Erstatt"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Rapportgenerert innhold"
+   },
+   "reportOutput": {
+      "message": "Rapportutdata"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "Innhold generert av kunstig intelligens kan inneholde unøyaktigheter eller sensitivt materiale. Pass på å bekrefte informasjon."
+   },
+   "retry": {
+      "message": "Prøv på nytt"
+   },
+   "rewriteBrand": {
+      "message": "Skriv på nytt"
+   },
+   "rewriteWithCopilot": {
+      "message": "Skriv på nytt"
+   },
+   "sbx_signInDescription": {
+      "message": "Hvis du vil ha grammatikk- og forbedringforslag på de fleste nettsteder i tillegg til egendefinert ordliste for stavekontroll, må du logge på."
+   },
+   "shareFeedback": {
+      "message": "Del tilbakemelding"
+   },
+   "showHeaderMessage": {
+      "message": "Her er noen andre måter å skrive dette på"
+   },
+   "submitButtonTooltip": {
+      "message": "Generer (Enter)"
+   },
+   "substackWarningMessage": {
+      "message": "Hvis du vil bruke Copilot, går du til slutten av avsnittet."
+   },
+   "suggestionCountSeparator": {
+      "message": "av"
+   },
+   "suggestionHint": {
+      "message": "Enter-tasten for å godta"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Prøv på nytt"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Generer på nytt"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Skriv en motiverende tweet"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Hvis du vil bruke Copilot, går du til slutten av tweeten."
+   }
+}

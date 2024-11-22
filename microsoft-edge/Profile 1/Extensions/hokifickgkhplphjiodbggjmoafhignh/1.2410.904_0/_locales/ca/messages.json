@@ -1,0 +1,1672 @@
+{
+   "AccountLabel": {
+      "message": "Compte"
+   },
+   "AppDescription": {
+      "message": "Write with confidence with Microsoft Editor, your intelligent grammar, spelling, and style checking writing assistant."
+   },
+   "AppLongDescription": {
+      "message": "L'Editor proporciona assistència avançada d’escriptura proposant suggeriments de gramàtica, ortografia i estil al web(1) perquè puguis escriure còmodament publicacions i correus electrònics clars i concisos.\r\n\r\nEscriu com els professionals gràcies a l’assistència intel·ligent per a l’escriptura\r\nDomina els aspectes bàsics amb la correcció gratuïta de gramàtica, ortografia i puntuació i amb opcions gramaticals avançades. Ves més enllà dels aspectes bàsics amb la comprovació d’estil avançada per corregir aspectes com la claredat, la concisió, la formalitat, el vocabulari i molt més amb l’opció prèmium (cal tenir una subscripció al Microsoft 365).\r\n\r\nPersonalitza'l segons les teves necessitats\r\nL’Editor ara pot afegir paraules al diccionari personalitzat que incorporen les aplicacions del Microsoft 365. Busca \"Afegeix-ho al diccionari\" quan l’Editor faci un suggeriment d’ortografia. A més a més, a la Configuració pots indicar les teves preferències pel que fa als suggeriments d’escriptura. També hem facilitat que es puguin ometre les repeticions d’una correcció ortogràfica seleccionant Ignora-ho tot, o bé els suggeriments de gramàtica que no t’interessin seleccionant Ignora.\r\n\r\nEscriu siguis on siguis\r\nObtén assistència mentre escrius en llocs com LinkedIn, Gmail, Facebook i molts altres amb aquesta extensió del navegador. Si vols gaudir de l’ajuda de l’Editor en les aplicacions de l’Office on més escrius, obre el Word o l’Outlook al web i rebràs suggeriments per millorar els teus documents i correus.\r\n\r\nObtén ajuda per a diferents idiomes\r\nRevisa l’ortografia i la gramàtica de fins a tres llengües alhora amb la correcció multilingüística. L’Editor revisa l’ortografia de més de 80 idiomes. A més, realitza comprovacions gramaticals i poleix l’estil de 21 idiomes. En aquest enllaç trobaràs més informació sobre els idiomes disponibles: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nPots aconseguir l'Editor per a l'Microsoft Edge aquí: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Disponible per als navegadors Microsoft Edge o Chrome. Cal tenir un compte de Microsoft. L’Editor es connecta a un servei en línia de Microsoft que proporciona suggeriments d’ortografia, gramàtica i estil mentre escrius en la majoria de llocs web.\r\n2. No tots els idiomes disposen dels mateixos tipus de millores.\r\n\r\nEn instal·lar l’aplicació, acceptes aquests termes i condicions:\r\n\r\nIMPORTANT: Consulta els termes de la llicència del teu compte de Microsoft o de la teva subscripció al Microsoft 365, segons correspongui (\"l’extensió\"), per identificar l’entitat que et concedeix la llicència d’aquesta extensió i per obtenir informació d’assistència. Aquests termes de la llicència del compte de Microsoft o de la subscripció al Microsoft 365, segons correspongui, s’apliquen a l’ús que facis d’aquesta extensió.\r\n\r\nDeclaració de privadesa: http://aka.ms/privacy\r\nCondicions del servei: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "L'Editor proporciona assistència avançada d’escriptura proposant suggeriments de gramàtica, ortografia i estil al web(1) perquè puguis escriure còmodament publicacions i correus electrònics clars i concisos.\r\n\r\nEscriu com els professionals gràcies a l’assistència intel·ligent per a l’escriptura\r\nDomina els aspectes bàsics amb la correcció gratuïta de gramàtica, ortografia i puntuació i amb opcions gramaticals avançades. Ves més enllà dels aspectes bàsics amb la comprovació d’estil avançada per corregir aspectes com la claredat, la concisió, la formalitat, el vocabulari i molt més amb l’opció prèmium (cal tenir una subscripció al Microsoft 365).\r\n\r\nPersonalitza'l segons les teves necessitats\r\nL’Editor ara pot afegir paraules al diccionari personalitzat que incorporen les aplicacions del Microsoft 365. Busca \"Afegeix-ho al diccionari\" quan l’Editor faci un suggeriment d’ortografia. A més a més, a la Configuració pots indicar les teves preferències pel que fa als suggeriments d’escriptura. També hem facilitat que es puguin ometre les repeticions d’una correcció ortogràfica seleccionant Ignora-ho tot, o bé els suggeriments de gramàtica que no t’interessin seleccionant Ignora.\r\n\r\nEscriu siguis on siguis\r\nObtén assistència mentre escrius en llocs com LinkedIn, Gmail, Facebook i molts altres amb aquesta extensió del navegador. Si vols gaudir de l’ajuda de l’Editor en les aplicacions de l’Office on més escrius, obre el Word o l’Outlook al web i rebràs suggeriments per millorar els teus documents i correus.\r\n\r\nObtén ajuda per a diferents idiomes\r\nRevisa l’ortografia i la gramàtica de fins a tres llengües alhora amb la correcció multilingüística. L’Editor revisa l’ortografia de més de 80 idiomes. A més, realitza comprovacions gramaticals i poleix l’estil de 21 idiomes. En aquest enllaç trobaràs més informació sobre els idiomes disponibles: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nPots aconseguir l'Editor per al Chrome aquí: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Disponible per als navegadors Microsoft Edge o Chrome. Cal tenir un compte de Microsoft. L’Editor es connecta a un servei en línia de Microsoft que proporciona suggeriments d’ortografia, gramàtica i estil mentre escrius en la majoria de llocs web.\r\n2. No tots els idiomes disposen dels mateixos tipus de millores.\r\n\r\nEn instal·lar l’aplicació, acceptes aquests termes i condicions:\r\n\r\nIMPORTANT: Consulta els termes de la llicència del teu compte de Microsoft o de la teva subscripció al Microsoft 365, segons correspongui (\"l’extensió\"), per identificar l’entitat que et concedeix la llicència d’aquesta extensió i per obtenir informació d’assistència. Aquests termes de la llicència del compte de Microsoft o de la subscripció al Microsoft 365, segons correspongui, s’apliquen a l’ús que facis d’aquesta extensió.\r\n\r\nDeclaració de privadesa: http://aka.ms/privacy\r\nCondicions del servei: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "AppName": {
+      "message": "Editor de Microsoft: corrector ortogràfic i gramatical"
+   },
+   "AppShortName": {
+      "message": "Editor"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "BetaGDocsOptInButton": {
+      "message": "Activa-ho"
+   },
+   "BetaGDocsOptInLabel": {
+      "message": "Proveu l'Editor (beta) al Google Docs"
+   },
+   "BetaMessageForGoogleDocs": {
+      "message": "L'Editor és una versió beta del Google Docs. Si us plau, feu-nos-ho saber si trobeu qualsevol problema."
+   },
+   "ConflictDetectedAnnouncementText": {
+      "message": "Quan altres extensions d'edició i l'Editor estan en execució, els seus suggeriments es poden superposar o entrar en conflicte. Per gaudir de la millor experiència amb l'Editor, us recomanem que desactiveu altres extensions d'edició a la configuració de l'extensió del navegador."
+   },
+   "ConflictDetectedAnnouncementTitle": {
+      "message": "S'ha detectat un conflicte entre les extensions d'edició"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Desactiva l'Editor a $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorBrandText": {
+      "message": "Editor de Microsoft"
+   },
+   "EditorCopilotInsertToggleLabel": {
+      "message": "Insereix copilot"
+   },
+   "EditorCopilotRewriteToggleLabel": {
+      "message": "Reescriptura del Copilot"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Gramàtica"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "L'Editor no és compatible actualment amb $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Actualment l’editor està desactivat a $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "L'Editor està desactivat."
+   },
+   "EditorMultipleProofingLanguagesLabel": {
+      "message": "$firstLanguage$, $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "en-US"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "ca"
+         }
+      }
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "L'Editor s'inclou amb $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorProofingLanguageAriaLabel": {
+      "message": "Llenguatge de correcció: $languageId$",
+      "placeholders": {
+         "languageId": {
+            "content": "$1",
+            "example": "ca"
+         }
+      }
+   },
+   "EditorProofingLanguageLabel": {
+      "message": "Llengua de correcció"
+   },
+   "EditorProofingLanguagesLabel": {
+      "message": "Llengües de correcció"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Obtén idees d'escriptura avançada i 1 TB d'emmagatzematge quan canviïs a prèmium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Millores"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Els refinaments són suggeriments d'escriptura avançada per ajudar a fer que la teva redacció sigui més clara, menys prolixa o més formal."
+   },
+   "EditorSettingsForProofingLanguages": {
+      "message": "Obriu la configuració de l'editor per seleccionar les llengües de correcció."
+   },
+   "EditorSettingsLabel": {
+      "message": "Més opcions de configuració de l'Editor"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Ortografia"
+   },
+   "EditorSynonymsToggleLabel": {
+      "message": "Sinònims (visualització prèvia)"
+   },
+   "EditorSynonymsTooltip": {
+      "message": "Obtén sinònims quan escriguis: fes doble clic en una paraula o selecciona i prem (Alt+Fletxa avall)."
+   },
+   "EditorSynonymsTooltipAriaText": {
+      "message": "Obtén sinònims quan escriguis: fes doble clic en una paraula o selecciona i prem Alt+Fletxa avall."
+   },
+   "EditorSynonymsTooltipAriaTextMac": {
+      "message": "Obtén sinònims quan escriguis: fes doble clic en una paraula o selecciona i prem Control+Opció+Fletxa avall."
+   },
+   "EditorSynonymsTooltipMac": {
+      "message": "Obtén sinònims quan escriguis: fes doble clic en una paraula o selecciona i prem (⌃ + ⌥ + ↓)."
+   },
+   "EditorTwoProofingLanguagesLabel": {
+      "message": "$firstLanguage$ i $secondLanguage$",
+      "placeholders": {
+         "firstLanguage": {
+            "content": "$1",
+            "example": "ca"
+         },
+         "secondLanguage": {
+            "content": "$2",
+            "example": "ca"
+         }
+      }
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Habilita l'Editor a $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "MyAccountLabel": {
+      "message": "Visualitzeu el compte"
+   },
+   "PopupGroupAriaLabel": {
+      "message": "Extensió per al navegador de l'Editor de Microsoft"
+   },
+   "PostUpsellAnnouncementText": {
+      "message": "Has actualitzat correctament la versió prèmium de l'Editor de Microsoft. Explora el conjunt ampliat de característiques fent clic a les línies de color blau i porpra quan escrius."
+   },
+   "PostUpsellAnnouncementTitle": {
+      "message": "Felicitats!"
+   },
+   "SettingsLabel": {
+      "message": "Configuració del compte"
+   },
+   "SignInLabel": {
+      "message": "Inicia la sessió o registra't"
+   },
+   "SignOutLabel": {
+      "message": "Tanca la sessió"
+   },
+   "SignOutTooltip": {
+      "message": "En tancar la sessió es restabliran els valors per defecte de la configuració i perdreu la llista de llocs exclosos."
+   },
+   "SupportPageLabel": {
+      "message": "Necessiteu ajuda per iniciar​la sessió?"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Activa l'Editor"
+   },
+   "addButtonLabel": {
+      "message": "Afegeix-lo"
+   },
+   "aiInsertButtonAriaLabel": {
+      "message": "Creeu amb el Copilot, premeu alt+i per mostrar les opcions"
+   },
+   "aiInsertButtonText": {
+      "message": "Crea contingut amb el Copilot"
+   },
+   "aiInsertResultDescription": {
+      "message": "Aquesta és una manera de fer-ho més atractiu"
+   },
+   "aiInsertShortcut": {
+      "message": "Alt+I"
+   },
+   "autoDetectionFRE_HeadingText": {
+      "message": "L'editor ha afegit $1 com a llengua de correcció ortogràfica"
+   },
+   "autoDetectionFRE_ManageLanguagesText": {
+      "message": "Administreu els idiomes de la correcció ortogràfica"
+   },
+   "autoDetectionFRE_UndoButtonText": {
+      "message": "Desfés"
+   },
+   "backToPromptLabel": {
+      "message": "Enrere"
+   },
+   "closeLabel": {
+      "message": "Tanca"
+   },
+   "contentErrorMessage": {
+      "message": "Editor de Microsoft pogut crear contingut. Selecciona un altre text o espera un moment i torna-ho a provar."
+   },
+   "contentSuggestion": {
+      "message": "Suggeriment de contingut"
+   },
+   "contextAccessibilityLabelForCorrection": {
+      "message": "Correcció, $1, $2"
+   },
+   "contextAccessibilityLabelForGrammar": {
+      "message": "Error gramatical, $1, $2"
+   },
+   "contextAccessibilityLabelForRefinement": {
+      "message": "Perfeccionament d'estil, $1, $2"
+   },
+   "contextAccessibilityLabelForRepeatedWord": {
+      "message": "Paraula repetida, $1, $2"
+   },
+   "contextAccessibilityLabelForSpelling": {
+      "message": "Mal escrit, $1, $2"
+   },
+   "copilotTooltipMessage": {
+      "message": "El contingut que genera l'IA i pot contenir imprecisions o material confidencial. Assegureu-vos de verificar la informació."
+   },
+   "copyButtonText": {
+      "message": "Copia"
+   },
+   "defaultWarningMessage": {
+      "message": "Per utilitzar el Copilot, aneu al final del paràgraf."
+   },
+   "ebx_AddLanguageBlockedTooltip": {
+      "message": "Només podeu activar la correcció de fins a tres idiomes alhora."
+   },
+   "ebx_AddedToDictionary": {
+      "message": "S'ha afegit \"$1\" al diccionari."
+   },
+   "ebx_AtMenuClosedAriaLabel": {
+      "message": "S'han descartat els resultats de la cerca al menú"
+   },
+   "ebx_AtMenuClosedViaInsertionAriaLabel": {
+      "message": "S'ha inserit el suggeriment. S'han descartat els resultats de la cerca al menú"
+   },
+   "ebx_AtMenuOpenedByFlagAriaLabel": {
+      "message": "S'ha fet clic al suggeriment de l'indicador. Es mostren als resultats de la cerca al menú"
+   },
+   "ebx_AtMenuOpenedByNudgeAriaLabel": {
+      "message": "S'ha fet clic en un toc. Es mostren els resultats de la cerca al menú"
+   },
+   "ebx_AtMenuOpenedByUserTypingAriaLabel": {
+      "message": "En prémer la tecla de símbol \"$1\" s’han mostrat els resultats de la cerca al menú"
+   },
+   "ebx_AutoCorrectTooltipAriaText": {
+      "message": "Obriu amb el botó Control"
+   },
+   "ebx_AutoCorrectTooltipText": {
+      "message": "Premeu Control per obtenir les opcions de correcció automàtica."
+   },
+   "ebx_CIQFlagFileTooltipTitle": {
+      "message": "Suggeriments de fitxers"
+   },
+   "ebx_CIQFlagInsertSubtitle": {
+      "message": "Fitxers, components, persones i molt més"
+   },
+   "ebx_CIQFlagInsertTitle": {
+      "message": "Insereix"
+   },
+   "ebx_CIQFlagLocalBusinessCategoryTitle": {
+      "message": "Detecció d'empreses locals"
+   },
+   "ebx_CIQFlagLocationCategoryTitle": {
+      "message": "Detecció d'adreces"
+   },
+   "ebx_CIQFlagLocationSubtitle": {
+      "message": "Afegiu un enllaç a aquesta adreça"
+   },
+   "ebx_CIQFlagLocationTitle": {
+      "message": "Ubicació"
+   },
+   "ebx_CIQFlagLocationTooltipTitle": {
+      "message": "Millores"
+   },
+   "ebx_CIQFlagPeopleTooltipTitle": {
+      "message": "Suggeriments de persones"
+   },
+   "ebx_CIQFlagSatoriEntityCategoryTitle": {
+      "message": "Suggeriment d'entitat"
+   },
+   "ebx_CIQFlagSatoriEntitySubtitle": {
+      "message": "Afegeix un enllaç a aquesta entitat"
+   },
+   "ebx_CIQFlagSatoriEntityTitle": {
+      "message": "Entitat"
+   },
+   "ebx_CIQFlagSatoriEntityTooltipTitle": {
+      "message": "Suggeriment d'entitat"
+   },
+   "ebx_CIQFlagTimeCategoryTitle": {
+      "message": "Detecció de temps"
+   },
+   "ebx_CIQFlagTimeSubtitle": {
+      "message": "Afegiu fusos horaris a aquesta hora"
+   },
+   "ebx_CIQFlagTimeTitle": {
+      "message": "Hora"
+   },
+   "ebx_CIQFlagTimeTooltipTitle": {
+      "message": "Millores"
+   },
+   "ebx_CIQFlagTopicCategoryTitle": {
+      "message": "Viva Topics"
+   },
+   "ebx_CIQFlagTopicSubtitle": {
+      "message": "Etiqueteu aquest tema per ajudar els altres usuaris a accedir a la descripció, les persones i els recursos que hi estan connectats."
+   },
+   "ebx_CIQFlagTopicTitle": {
+      "message": "Suggeriment del Viva Topics"
+   },
+   "ebx_CIQFlagTopicTooltipTitle": {
+      "message": "Suggeriment del Viva Topics"
+   },
+   "ebx_CIQNudgeDisplayed": {
+      "message": "S'ha mostrat el suggeriment de productivitat: \"$1\""
+   },
+   "ebx_Cancel": {
+      "message": "Cancel·la"
+   },
+   "ebx_DateEntityRecognitionCategoryTitle": {
+      "message": "Reconeixement de dates"
+   },
+   "ebx_Dismiss": {
+      "message": "Ignora"
+   },
+   "ebx_Done": {
+      "message": "Fet"
+   },
+   "ebx_ECCSearchFileButtonLabel": {
+      "message": "Cerca fitxers"
+   },
+   "ebx_ECCSearchPeopleButtonLabel": {
+      "message": "Cerca persones"
+   },
+   "ebx_ECCZeroQueryBizChatHintText": {
+      "message": "Comenceu a escriure per fer una cerca."
+   },
+   "ebx_ECCZeroQueryHintText": {
+      "message": "Comenceu a escriure per cercar 🔍"
+   },
+   "ebx_ECCZeroQueryHintTextFile": {
+      "message": "Comenceu a escriure per cercar"
+   },
+   "ebx_ECCZeroQueryHintTextFilePersonMeeting": {
+      "message": "Comenceu a escriure per cercar"
+   },
+   "ebx_ECCZeroQueryHintTextLoopComponents": {
+      "message": "Components del Loop de cerca"
+   },
+   "ebx_ECCZeroQueryHintTextMeeting": {
+      "message": "Comenceu a escriure per cercar"
+   },
+   "ebx_ECCZeroQueryHintTextMore": {
+      "message": "Comenceu a escriure per cercar"
+   },
+   "ebx_ECCZeroQueryHintTextPeople": {
+      "message": "Comenceu a escriure per cercar"
+   },
+   "ebx_ECCZeroQueryHintTextTopic": {
+      "message": "Cerca de temes"
+   },
+   "ebx_EntityRecognitionCategoryTitle": {
+      "message": "Reconeixement de dates/persones"
+   },
+   "ebx_EntityRecognitionInsertDateLabel": {
+      "message": "Insereix la data"
+   },
+   "ebx_EntityRecognitionInsertDateRangeLabel": {
+      "message": "Insereix un interval de dates"
+   },
+   "ebx_EntityRecognitionInsertDateRangeTooltipTitle": {
+      "message": "Suggeriment: inseriu un interval de dates"
+   },
+   "ebx_EntityRecognitionInsertDateTimeLabel": {
+      "message": "Inseriu la data i l'hora"
+   },
+   "ebx_EntityRecognitionInsertDateTimeTooltipTitle": {
+      "message": "Suggeriment: inseriu la data i l'hora"
+   },
+   "ebx_EntityRecognitionInsertDateTooltipTitle": {
+      "message": "Suggeriment: inseriu la data"
+   },
+   "ebx_EntityRecognitionInsertPersonTooltipTitle": {
+      "message": "Suggeriment: inseriu una persona"
+   },
+   "ebx_EntityRecognitionInsertTimeLabel": {
+      "message": "Insereix l'hora"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeLabel": {
+      "message": "Insereix un interval de temps"
+   },
+   "ebx_EntityRecognitionInsertTimeRangeTooltipTitle": {
+      "message": "Suggeriment: inseriu un interval de temps"
+   },
+   "ebx_EntityRecognitionInsertTimeTooltipTitle": {
+      "message": "Suggeriment: inseriu una hora"
+   },
+   "ebx_FeedbackSubmitted": {
+      "message": "Els comentaris s'han enviat correctament."
+   },
+   "ebx_GDocsEndOfSupportBody": {
+      "message": "Gràcies per provar l'Editor (beta) al Google Docs. Estem fent actualitzacions per acomodar els canvis al Google Docs que feien que l'Editor deixés de funcionar. T’avisarem quan l'Editor estigui llest per ser utilitzat de nou."
+   },
+   "ebx_GDocsEndOfSupportTitle": {
+      "message": "L'Editor de Documents de Google no està disponible"
+   },
+   "ebx_GDocsNativeSquigglesBody": {
+      "message": "Per obtenir la millor experiència de l'Editor, proveu de desactivar la revisió gramatical i ortogràfica del Google Docs. (Al menú Eines, aneu a Ortografia i gramàtica i desactiveu les opcions)."
+   },
+   "ebx_GDocsNativeSquigglesTitle": {
+      "message": "Utilitzeu només la correcció de l'Editor"
+   },
+   "ebx_GoogleDocsBetaBody": {
+      "message": "Obteniu suggeriments avançats mentre escriviu. "
+   },
+   "ebx_GoogleDocsBetaBodyNativeSuppressed": {
+      "message": "Obteniu suggeriments avançats mentre escriviu. Per obtenir la millor experiència amb l'Editor, es desactivarà la revisió ortogràfica i gramatical integrada del Google Docs. "
+   },
+   "ebx_GoogleDocsBetaTitle": {
+      "message": "Proveu l'Editor (beta) al Google Docs"
+   },
+   "ebx_GrammarIgnored": {
+      "message": "S'ha ignorat el suggeriment de gramàtica."
+   },
+   "ebx_HeadingDetectionCategoryTitle": {
+      "message": "Detecció de títols"
+   },
+   "ebx_HeadingDetectionEnhanceLabel": {
+      "message": "Millora"
+   },
+   "ebx_HeadingDetectionHeading1": {
+      "message": "Títol 1"
+   },
+   "ebx_HeadingDetectionHeading2": {
+      "message": "Títol 2"
+   },
+   "ebx_HeadingDetectionHeading3": {
+      "message": "Títol 3"
+   },
+   "ebx_HeadingDetectionSubtitle": {
+      "message": "Considereu la possibilitat de canviar a una capçalera"
+   },
+   "ebx_HeadingDetectionTitle": {
+      "message": "Accessibilitat"
+   },
+   "ebx_HeadingDetectionTooltipTitle": {
+      "message": "Accessibilitat: considereu la possibilitat de canviar a una capçalera"
+   },
+   "ebx_MobilePredictionAvailableMessage": {
+      "message": "Inserció suggerida \"$1\". Premeu per inserir-la."
+   },
+   "ebx_MultiLanguageAnnouncementSelectedLanguage": {
+      "message": "Hem seleccionat {0} en funció de la configuració actual del navegador."
+   },
+   "ebx_MultiLanguageAnnouncementText": {
+      "message": "Comproveu l’ortografia i la gramàtica de tres idiomes alhora. Trieu els idiomes a Configuració de l'Editor."
+   },
+   "ebx_MultiLanguageAnnouncementTextEditSettings": {
+      "message": "Podeu editar els idiomes a la configuració de l'Editor."
+   },
+   "ebx_MultiLanguageAnnouncementThreeSelectedLanguages": {
+      "message": "Hem seleccionat esta {0}, {1} i {2} en funció de la configuració actual del navegador."
+   },
+   "ebx_MultiLanguageAnnouncementTitle": {
+      "message": "Correcció en diversos idiomes amb l'Editor"
+   },
+   "ebx_MultiLanguageAnnouncementTwoSelectedLanguages": {
+      "message": "Hem seleccionat esta {0} i {1} en funció de la configuració actual del navegador."
+   },
+   "ebx_PersonEntityRecognitionCategoryTitle": {
+      "message": "Reconeixement de persones"
+   },
+   "ebx_PredictionAppliedMessage": {
+      "message": "La inserció suggerida \"$1\" s'ha aplicat correctament."
+   },
+   "ebx_PredictionAvailableMessage": {
+      "message": "Inserció suggerida \"$1\". Premeu el tabulador per inserir-la."
+   },
+   "ebx_ProofingLanguages": {
+      "message": "Llengües de correcció"
+   },
+   "ebx_RefinementTooltip": {
+      "message": "Els subscriptors del Microsoft 365 reben suggeriments d'escriptura avançada quan tenen la sessió iniciada."
+   },
+   "ebx_RemoveItem": {
+      "message": "Suprimeix"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementText": {
+      "message": "Ara podeu afegir les vostres pròpies paraules al diccionari d'ortografia de l'Editor. Cerqueu \"Afegeix al diccionari\" quan l'Editor faci un suggeriment d'ortografia."
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementTitle": {
+      "message": "Personalitzeu el vostre diccionari ortogràfic"
+   },
+   "ebx_RoamingDictionaryLoggedInAnnouncementnDismiss": {
+      "message": "D'acord"
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementText": {
+      "message": "Ara l'Editor pot afegir paraules al diccionari personalitzat incorporat a les vostres aplicacions del Microsoft 365. Inicieu la sessió i cerqueu \"Afegeix-ho al diccionari\" quan l'Editor faci un suggeriment d'ortografia."
+   },
+   "ebx_RoamingDictionaryLoggedOutAnnouncementTitle": {
+      "message": "Per veure un diccionari ortogràfic personalitzat, inicieu la sessió."
+   },
+   "ebx_RuleIgnored": {
+      "message": "La crítica \"$1\" s'ha inhabilitat a la configuració."
+   },
+   "ebx_RuleIgnoredNoLabel": {
+      "message": "Aquesta crítica s'ha inhabilitat a la configuració."
+   },
+   "ebx_SignInAnnouncementAlternativeText": {
+      "message": "Per rebre suggeriments d'escriptura en la majoria de llocs web, inicieu la sessió al vostre compte Microsoft o al compte laboral o acadèmic que utilitzeu per a l'Office."
+   },
+   "ebx_SignInAnnouncementSignIn": {
+      "message": "Inicia la sessió o registra't"
+   },
+   "ebx_SignInAnnouncementText": {
+      "message": "Inicieu la sessió per obtenir suggeriments de redacció a la majoria dels llocs web. Desarem la vostra configuració, com ara els idiomes en què escriviu i el tipus d’incidències que voleu que us revisi l'Editor."
+   },
+   "ebx_SignInAnnouncementTextUserDictionary": {
+      "message": "Gaudiu de suggeriments de gramàtica i de refinament a la majoria de llocs web, així com un diccionari ortogràfic personalitzat."
+   },
+   "ebx_SignInAnnouncementTextUserDictionaryNoGrammar": {
+      "message": "Per obtenir un diccionari d’ortografia personalitzat, inicieu la sessió al vostre compte de Microsoft o bé al compte de la feina o d'un centre educatiu que utilitzeu per a l'Office."
+   },
+   "ebx_SignInAnnouncementTitle": {
+      "message": "L'Editor encara no s'està executant"
+   },
+   "ebx_SlashMenuClosedAriaLabel": {
+      "message": "S’ha descartat el menú de la barra inclinada"
+   },
+   "ebx_SlashMenuClosedViaInsertionAriaLabel": {
+      "message": "S'ha inserit un suggeriment. S’ha descartat el menú de la barra inclinada"
+   },
+   "ebx_SlashMenuOpenedByFlagAriaLabel": {
+      "message": "S'ha fet clic al suggeriment d'indicador. Es mostra el menú de barra inclinada"
+   },
+   "ebx_SlashMenuOpenedByNudgeAriaLabel": {
+      "message": "S'ha fet clic en un toc. Es mostra el menú de barra inclinada"
+   },
+   "ebx_SlashMenuOpenedByUserTypingAriaLabel": {
+      "message": "En prémer la tecla de símbol \"$1\" s’ha mostrat el menú de la barra inclinada"
+   },
+   "ebx_SpellingIgnored": {
+      "message": "S'ha ignorat el suggeriment ortogràfic."
+   },
+   "ebx_SquiggleTooltipAriaText": {
+      "message": "Obriu-ho amb un clic del botó esquerre o Alt + fletxa avall"
+   },
+   "ebx_SquiggleTooltipAriaTextAlt": {
+      "message": "Obriu amb un clic del botó esquerre o Ctrl+Alt+Fletxa avall"
+   },
+   "ebx_SquiggleTooltipAriaTextMac": {
+      "message": "Obriu amb un clic del botó esquerre o Control + Opció + fletxa avall"
+   },
+   "ebx_SquiggleTooltipAutoCorrectTitle": {
+      "message": "Correcció automàtica"
+   },
+   "ebx_SquiggleTooltipCombination": {
+      "message": "(Alt + fletxa avall)"
+   },
+   "ebx_SquiggleTooltipCombinationAlt": {
+      "message": "(Control + Alt + fletxa avall)"
+   },
+   "ebx_SquiggleTooltipCombinationMac": {
+      "message": "(⌃ + ⌥ + ↓)"
+   },
+   "ebx_SquiggleTooltipGrammarTitle": {
+      "message": "Correcció gramatical"
+   },
+   "ebx_SquiggleTooltipRefinementTitle": {
+      "message": "Refinament d'escriptura"
+   },
+   "ebx_SquiggleTooltipSpellingTitle": {
+      "message": "Correcció ortogràfica"
+   },
+   "ebx_SquiggleTooltipText": {
+      "message": "Obriu amb un clic del botó esquerre"
+   },
+   "ebx_SquiggleTooltipTopicTitle": {
+      "message": "Suggeriment del Viva Topics"
+   },
+   "ebx_SuggestionAppliedMessage": {
+      "message": "El suggeriment \"$1\" s'ha acceptat correctament."
+   },
+   "ebx_TaskRecognition_CategoryTitle": {
+      "message": "Reconeixement de tasques"
+   },
+   "ebx_TaskRecognition_CreateTask": {
+      "message": "Creeu una tasca"
+   },
+   "ebx_TaskRecognition_TooltipTitle": {
+      "message": "Suggeriment: creeu una tasca"
+   },
+   "ebx_TextPredictionTabLabel": {
+      "message": "Tabulador"
+   },
+   "ebx_TextPredictionTapLabel": {
+      "message": "Toca"
+   },
+   "ebx_TurnItOn": {
+      "message": "Activa'l"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Afegeix un altre lloc web"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Afegiu un altre lloc web"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Cancel·leu l'addició del lloc a la llista de llocs bloquejats."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Afegeix el lloc a la llista de llocs bloquejats"
+   },
+   "ebx_addButton": {
+      "message": "Afegeix"
+   },
+   "ebx_addGrammarChecking": {
+      "message": "Per afegir el corrector gramatical"
+   },
+   "ebx_addLanguageCancel": {
+      "message": "Cancel·leu l'addició de l'idioma a la llista de llengües de correcció"
+   },
+   "ebx_addLanguageSubmit": {
+      "message": "Afegiu un idioma a la llista de llengües de correcció"
+   },
+   "ebx_addProofingLanguage": {
+      "message": "Afegeix un altre idioma"
+   },
+   "ebx_addToDictionaryButtonLabel": {
+      "message": "Afegeix-ho al diccionari"
+   },
+   "ebx_allowLanguageDetection": {
+      "message": "Permeteu que l'Editor detecti i afegeixi automàticament nous idiomes de correcció en funció de la vostra escriptura."
+   },
+   "ebx_appDescription": {
+      "message": "Escriviu amb confiança amb l'Editor de Microsoft, el vostre assistent de redacció intel·ligent"
+   },
+   "ebx_appLongDescription": {
+      "message": "L'Editor proporciona assistència avançada d’escriptura proposant suggeriments de gramàtica, ortografia i estil al web(1) perquè pugueu escriure còmodament publicacions i correus electrònics clars i concisos.\r\n\r\nEscriviu com els professionals gràcies a l’assistència intel·ligent per a l’escriptura\r\nDomineu els aspectes bàsics amb la correcció gratuïta de gramàtica, ortografia i puntuació i amb opcions gramaticals avançades. Aneu més enllà dels aspectes bàsics amb la comprovació d’estil avançada per corregir aspectes com la claredat, la concisió, la formalitat, el vocabulari i molt més amb l’opció prèmium (cal tenir una subscripció al Microsoft 365).\r\n\r\nPersonalitzeu-lo segons les vostres necessitats\r\nL’Editor ara pot afegir paraules al diccionari personalitzat que incorporen les aplicacions del Microsoft 365. Busqueu \"Afegeix-ho al diccionari\" quan l’Editor faci un suggeriment d’ortografia. A més a més, a la Configuració podeu indicar les vostres preferències pel que fa als suggeriments d’escriptura. També hem facilitat que es puguin ometre les repeticions d’una correcció ortogràfica seleccionant Ignora-ho tot, o bé els suggeriments de gramàtica que no us interessin seleccionant Ignora.\r\n\r\nEscriviu sigueu on sigueu\r\nObteniu assistència mentre escriviu en llocs com LinkedIn, Gmail, Facebook i molts altres amb aquesta extensió del navegador. Si voleu gaudir de l’ajuda de l’Editor en les aplicacions de l’Office on més escriviu, obriu el Word o l’Outlook al web i rebreu suggeriments per millorar els vostres documents i correus.\r\n\r\nObteniu ajuda per a diferents idiomes\r\nReviseu l’ortografia i la gramàtica de fins a tres llengües alhora amb la correcció multilingüística. L’Editor revisa l’ortografia de més de 80 idiomes. A més, realitza comprovacions gramaticals i poleix l’estil de 21 idiomes. En aquest enllaç trobareu més informació sobre els idiomes disponibles: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nPodeu aconseguir l'Editor per al Microsoft Edge aquí: https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh?\r\n\r\n1. Disponible per als navegadors Microsoft Edge o Chrome. Cal tenir un compte de Microsoft. L’Editor es connecta a un servei en línia de Microsoft que proporciona suggeriments d’ortografia, gramàtica i estil mentre escriviu en la majoria de llocs web.\r\n2.  No tots els idiomes disposen dels mateixos tipus de millores.\r\n\r\nEn instal·lar l’aplicació, accepteu aquests termes i condicions:\r\n\r\nIMPORTANT: Consulteu els termes de la llicència del compte de Microsoft o de la subscripció al Microsoft 365, segons correspongui (\"l’extensió\"), per identificar l’entitat que us concedeix la llicència d’aquesta extensió i per obtenir informació d’assistència. Aquests termes de la llicència del compte de Microsoft o de la subscripció al Microsoft 365, segons correspongui, s’apliquen a l’ús que feu d’aquesta extensió.\r\n\r\nDeclaració de privadesa: http://aka.ms/privacy\r\nTerms of Service: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "L'Editor proporciona assistència avançada d’escriptura proposant suggeriments de gramàtica, ortografia i estil al web (1) perquè pugueu escriure còmodament publicacions i correus electrònics clars i concisos.\r\n\r\nEscriviu com els professionals gràcies a l’assistència intel·ligent per a l’escriptura\r\nDomineu els aspectes bàsics amb la correcció gratuïta de gramàtica, ortografia i puntuació i amb opcions gramaticals avançades. Aneu més enllà dels aspectes bàsics amb la comprovació d’estil avançada per corregir aspectes com la claredat, la concisió, la formalitat, el vocabulari i molt més amb l’opció prèmium (cal tenir una subscripció al Microsoft 365).\r\n\r\nPersonalitzeu-lo segons les vostres necessitats\r\nL’Editor ara pot afegir paraules al diccionari personalitzat que incorporen les aplicacions del Microsoft 365. Busqueu \"Afegeix-ho al diccionari\" quan l’Editor faci un suggeriment d’ortografia. A més a més, a la Configuració podeu indicar les vostres preferències pel que fa als suggeriments d’escriptura. També hem facilitat que es puguin ometre les repeticions d’una correcció ortogràfica seleccionant Ignora-ho tot, o bé els suggeriments de gramàtica que no us interessin seleccionant Ignora.\r\n\r\nEscriviu sigueu on sigueu\r\nObteniu assistència mentre escriviu en llocs com LinkedIn, Gmail, Facebook i molts altres amb aquesta extensió del navegador. Si voleu gaudir de l’ajuda de l’Editor en les aplicacions de l’Office on més escriviu, obriu el Word o l’Outlook al web i rebreu suggeriments per millorar els vostres documents i correus.\r\n\r\nObteniu ajuda per a diferents idiomes\r\nReviseu l’ortografia i la gramàtica de fins a tres llengües alhora amb la correcció multilingüística. L’Editor revisa l’ortografia de més de 80 idiomes. A més, realitza comprovacions gramaticals i poleix l’estil de 21 idiomes. En aquest enllaç trobareu més informació sobre els idiomes disponibles: https://support.microsoft.com/office/editor-s-spelling-grammar-and-refinement-availability-by-language-ecd60e9f-6b2e-4070-b30c-42efa6cff55a\r\n\r\nPodeu aconseguir l'Editor per al Chrome aquí: https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?authuser=2\r\n\r\n1. Disponible per als navegadors Microsoft Edge o Chrome. Cal tenir un compte de Microsoft. L’Editor es connecta a un servei en línia de Microsoft que proporciona suggeriments d’ortografia, gramàtica i estil mentre escriviu en la majoria de llocs web.\r\n2. No tots els idiomes disposen dels mateixos tipus de millores.\r\n\r\nEn instal·lar l’aplicació, accepteu aquests termes i condicions:\r\n\r\nIMPORTANT: Consulteu els termes de la llicència del compte de Microsoft o de la subscripció al Microsoft 365, segons correspongui (\"l’extensió\"), per identificar l’entitat que us concedeix la llicència d’aquesta extensió i per obtenir informació d’assistència. Aquests termes de la llicència del compte de Microsoft o de la subscripció al Microsoft 365, segons correspongui, s’apliquen a l’ús que feu d’aquesta extensió.\r\n\r\nDeclaració de privadesa: http://aka.ms/privacy\r\nCondicions del servei: http://go.microsoft.com/fwlink/?LinkID=530144"
+   },
+   "ebx_appName": {
+      "message": "Editor de Microsoft: corrector ortogràfic i gramatical"
+   },
+   "ebx_appShortName": {
+      "message": "Editor"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for your Microsoft Account or Microsoft 365 subscription as applicable (the \"extension\") to identify the entity licensing this extension to you and for support information.  The license terms for the Microsoft Account or Microsoft 365 subscription as applicable apply to your use of this extension."
+   },
+   "ebx_ariaLabelForSynonyms": {
+      "message": "$1, és similar a: $2"
+   },
+   "ebx_ariaLabelMultilingual": {
+      "message": "$1, $2"
+   },
+   "ebx_ariaLabelMultilingualWithSynonyms": {
+      "message": "$1, $2, és similar a: $3"
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Substituïu per"
+   },
+   "ebx_asInSynonyms": {
+      "message": "similar a"
+   },
+   "ebx_autoCorrectIgnored": {
+      "message": "\"$1\", desfà la correcció automàtica."
+   },
+   "ebx_autoCorrectRevertTo": {
+      "message": "Torna a \"$1\""
+   },
+   "ebx_autoCorrected": {
+      "message": "$1, corregit automàticament."
+   },
+   "ebx_autoCorrectedKeyboardAccess": {
+      "message": "Premeu Control per obtenir les opcions de correcció automàtica."
+   },
+   "ebx_blockedSiteAdded": {
+      "message": "\"{0}\" s'ha afegit correctament"
+   },
+   "ebx_blockedSiteEntryHint": {
+      "message": "Premeu la tecla de fletxa dreta per a accedir al botó Suprimeix."
+   },
+   "ebx_blockedSiteListEmpty": {
+      "message": "La llista està buida."
+   },
+   "ebx_blockedSiteRemoved": {
+      "message": "\"{0}\" s'ha suprimit correctament"
+   },
+   "ebx_brandText": {
+      "message": "Editor de Microsoft"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Logotip de l'Editor de Microsoft"
+   },
+   "ebx_browseThisComputerLabel": {
+      "message": "Navega per aquest ordinador"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Canvia-ho tot"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Configuració de l'Editor..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Comprova si hi ha millores"
+   },
+   "ebx_checkGrammar": {
+      "message": "Revisa la gramàtica"
+   },
+   "ebx_checkSpelling": {
+      "message": "Revisa l'ortografia"
+   },
+   "ebx_close": {
+      "message": "Tanca"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Pròximament"
+   },
+   "ebx_copilotInsert": {
+      "message": "Insereix"
+   },
+   "ebx_copilotRewriteLong": {
+      "message": "Reescriptura del Copilot"
+   },
+   "ebx_critiqueCalloutAriaLabel": {
+      "message": "$1, $2, $3, $4."
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "Suprimeix la paraula repetida"
+   },
+   "ebx_disableCritiqueButton": {
+      "message": "Deixa de comprovar això"
+   },
+   "ebx_disableCritiqueButtonAriaLabel": {
+      "message": "Deixeu de comprovar això. L'editor aplicarà aquesta configuració fins que la canvieu."
+   },
+   "ebx_disableCritiqueTooltip": {
+      "message": "L'editor aplicarà aquesta configuració fins que la canvieu."
+   },
+   "ebx_disableEditorOnThisSite": {
+      "message": "Desactiva l'Editor a {0}"
+   },
+   "ebx_displayOptions": {
+      "message": "Opcions de visualització"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Aquest lloc ja és a la llista de llocs bloquejats"
+   },
+   "ebx_editorAdvancedCritiquesLabel": {
+      "message": "L'editor ha $1 idees avançades d'escriptura per a aquest missatge."
+   },
+   "ebx_editorBlockedOnThisSite": {
+      "message": "L'Editor no és compatible actualment amb {0}"
+   },
+   "ebx_editorCanvas": {
+      "message": "Finestra emergent de l'editor"
+   },
+   "ebx_editorCanvasFeatureOffText": {
+      "message": "Desactivada"
+   },
+   "ebx_editorCanvasFeatureOnText": {
+      "message": "Activada"
+   },
+   "ebx_editorCanvasToggleTextBoxCaption": {
+      "message": "Mostra el botó Editor als camps que admeten la finestra emergent de l'editor."
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "L'extensió del navegador del Microsoft Office ara inclou l'Editor de Microsoft, l'assistent d'escriptura intel·ligent que us ajudarà a portar el vostre millor escrit al web. L'Editor de Microsoft es connecta a un servei en línia per oferir-vos suggeriments d'ortografia, gramàtica i estil."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Editor de Microsoft (versió preliminar) en execució"
+   },
+   "ebx_editorFeature": {
+      "message": "Editor de Microsoft"
+   },
+   "ebx_editorFeatureOffText": {
+      "message": "Desactivada"
+   },
+   "ebx_editorFeatureOfficeBx": {
+      "message": "Desactiva l'Editor"
+   },
+   "ebx_editorFeatureOnText": {
+      "message": "Activada"
+   },
+   "ebx_editorFeatureToggleLabel": {
+      "message": "Característica Editor"
+   },
+   "ebx_editorIsOff": {
+      "message": "L'Editor està desactivat"
+   },
+   "ebx_editorIsOffDescription": {
+      "message": "Actualment l’Editor està desactivat a {0}"
+   },
+   "ebx_editorNativeSupportOnThisSite": {
+      "message": "L'Editor s'inclou amb {0}"
+   },
+   "ebx_editorSettingsLabel": {
+      "message": "Més opcions de configuració de l'Editor"
+   },
+   "ebx_emptyComboboxSearchMessage": {
+      "message": "Cap llengua coincideix amb la cerca."
+   },
+   "ebx_enableEditorOnThisSite": {
+      "message": "Activa l'Editor a {0}"
+   },
+   "ebx_enhancedUpsellCategoriesAnd": {
+      "message": " i "
+   },
+   "ebx_enhancedUpsellCategoriesComma": {
+      "message": ", "
+   },
+   "ebx_enhancedUpsellLinePlural": {
+      "message": "L'editor ha $1 les idees d'escriptura avançades per a aquest missatge."
+   },
+   "ebx_enhancedUpsellLineSingular": {
+      "message": "L'editor ha $1 una idea d'escriptura avançada per a aquest missatge."
+   },
+   "ebx_excludedSites": {
+      "message": "Llocs exclosos"
+   },
+   "ebx_feedbackButtonArialLabel": {
+      "message": "Informa d'aquest suggeriment"
+   },
+   "ebx_feedbackCommentQuestion": {
+      "message": "Indiqueu-nos per què heu triat aquesta resposta."
+   },
+   "ebx_feedbackLink": {
+      "message": "comentaris"
+   },
+   "ebx_feedbackMessage": {
+      "message": "Ajudeu-nos a millorar l'Editor proporcionant"
+   },
+   "ebx_feedbackRating1": {
+      "message": "Molt negativa"
+   },
+   "ebx_feedbackRating1_fpsSurvey": {
+      "message": "Extremament negativa"
+   },
+   "ebx_feedbackRating2": {
+      "message": "Una mica negativa"
+   },
+   "ebx_feedbackRating2_fpsSurvey": {
+      "message": "Una mica negativa"
+   },
+   "ebx_feedbackRating3": {
+      "message": "Ni positiva ni negativa"
+   },
+   "ebx_feedbackRating3_fpsSurvey": {
+      "message": "Ni negativa ni positiva"
+   },
+   "ebx_feedbackRating4": {
+      "message": "Una mica positiva"
+   },
+   "ebx_feedbackRating4_fpsSurvey": {
+      "message": "Una mica positiva"
+   },
+   "ebx_feedbackRating5": {
+      "message": "Molt positiva"
+   },
+   "ebx_feedbackRating5_fpsSurvey": {
+      "message": "Extremament positiva"
+   },
+   "ebx_feedbackRatingQuestion": {
+      "message": "En general, com descriuríeu la vostra experiència amb l'Editor de Microsoft"
+   },
+   "ebx_feedbackRatingQuestion2": {
+      "message": "En general, com ha sigut la vostra experiència amb l'ús de l'Editor de Microsoft per obtenir suggeriments d'ortografia, gramàtica i prediccions entre d'altres, per refinar la vostra escriptura?"
+   },
+   "ebx_feedbackTitle": {
+      "message": "Feu arribar els vostres comentaris sobre l’Editor a Microsoft"
+   },
+   "ebx_giveFeedback": {
+      "message": "Envia comentaris"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Obteniu idees d'escriptura avançades de l'Editor, 1 TB d'emmagatzematge del OneDrive i les característiques prèmium de totes les aplicacions de Microsoft 365."
+   },
+   "ebx_goPremiumExplainedMicrosoft365": {
+      "message": "Obteniu idees d'escriptura avançades de l'Editor, 1 TB d'emmagatzematge del OneDrive i les característiques prèmium de totes les aplicacions de Microsoft 365."
+   },
+   "ebx_goPremiumLine": {
+      "message": "Proveu les idees d'escriptura avançada de l'Editor."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Canvia a la versió prèmium"
+   },
+   "ebx_goPremiumLinkTextLowerCase": {
+      "message": "canvieu a Premium"
+   },
+   "ebx_goToSettings": {
+      "message": "Vés a Configuració de l'Editor"
+   },
+   "ebx_goToSettingsToLearnMore": {
+      "message": "Aneu a la configuració de l'Editor per obtenir més informació"
+   },
+   "ebx_googleDocs": {
+      "message": "Google Docs"
+   },
+   "ebx_grammar": {
+      "message": "Gramàtica"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Amaga els sinònims"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ignora-ho tot"
+   },
+   "ebx_ignoreOnceButtonLabel": {
+      "message": "Ignora"
+   },
+   "ebx_indicatorTooltip": {
+      "message": "Obriu l'Editor o feu clic amb el botó dret per veure més opcions"
+   },
+   "ebx_indicatorTooltipActive": {
+      "message": "Visualitzeu tots els suggeriments a l'Editor o feu clic amb el botó dret per veure més opcions"
+   },
+   "ebx_issuesOnLinePlural": {
+      "message": "Hi ha problemes de correcció de \"$1\" trobats en aquesta línia"
+   },
+   "ebx_issuesOnLineSingular": {
+      "message": "Hi ha un problema de correcció de \"$1\" trobat en aquesta línia."
+   },
+   "ebx_languageAdded": {
+      "message": "\"{0}\" s'ha afegit correctament"
+   },
+   "ebx_languageMovedDown": {
+      "message": "\"{0}\" s'ha desplaçat correctament una posició cap avall a la llista"
+   },
+   "ebx_languageMovedToTop": {
+      "message": "\"{0}\" ha desplaçat correctament al principi de la llista"
+   },
+   "ebx_languageMovedUp": {
+      "message": "\"{0}\" ha desplaçat correctament una posició a la llista."
+   },
+   "ebx_languageRemoved": {
+      "message": "\"{0}\" s'ha suprimit correctament"
+   },
+   "ebx_learnMore": {
+      "message": "Més informació"
+   },
+   "ebx_manageLanguages": {
+      "message": "Administra els idiomes..."
+   },
+   "ebx_manageLanguagesButton": {
+      "message": "Administra els idiomes de correcció ortogràfica"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Més ordres per a {0}"
+   },
+   "ebx_moveDown": {
+      "message": "Desplaça cap avall"
+   },
+   "ebx_moveToTop": {
+      "message": "Desplaça a la part superior"
+   },
+   "ebx_moveUp": {
+      "message": "Desplaça cap amunt"
+   },
+   "ebx_nextIssueWithCount": {
+      "message": "Següent suggeriment, $1 restants"
+   },
+   "ebx_openEditorLabel": {
+      "message": "Obriu l'editor"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Configuració de l'Editor"
+   },
+   "ebx_personalizedUndoMessage": {
+      "message": "Des que vas fer aquest error tipogràfic un parell de vegades, hem afegit \"$1\" a la teva llista de correcció automàtica."
+   },
+   "ebx_premiumPreviewDaysPlural": {
+      "message": "$1 dies restants d'aquesta versió preliminar. Actualitzeu per obtenir suggeriments il·limitats:"
+   },
+   "ebx_premiumPreviewDaysSingular": {
+      "message": "$1 dia restant d'aquesta versió preliminar. Actualitzeu per obtenir suggeriments il·limitats:"
+   },
+   "ebx_premiumPreviewGeneralLine": {
+      "message": "Obteniu idees d'escriptura avançada de l'Editor."
+   },
+   "ebx_premiumPreviewSuggestionsPlural": {
+      "message": "$1 suggeriments restants d’aquesta versió preliminar. Actualitzeu per obtenir suggeriments il·limitats:"
+   },
+   "ebx_premiumPreviewSuggestionsSingular": {
+      "message": "$1 suggeriment restant d’aquesta versió preliminar. Actualitzeu per obtenir suggeriments il·limitats:"
+   },
+   "ebx_preview": {
+      "message": "(Versió preliminar)"
+   },
+   "ebx_previewLabel": {
+      "message": "VERSIÓ PRELIMINAR"
+   },
+   "ebx_previousIssueWithCount": {
+      "message": "Suggeriment anterior, $1 restants"
+   },
+   "ebx_privacyOptionSendData": {
+      "message": "Envieu automàticament dades de diagnòstic opcionals mentre feu servir aquest servei en línia per ajudar-nos a millorar els nostres productes."
+   },
+   "ebx_privacyOptionSendDataLink": {
+      "message": "Més informació sobre les dades de diagnòstic"
+   },
+   "ebx_privacyOptions": {
+      "message": "Opcions de privadesa"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Llengua de correcció"
+   },
+   "ebx_proofingLanguageEntryHint": {
+      "message": "Premeu la tecla de fletxa dreta per accedir al botó Més ordres."
+   },
+   "ebx_proofingLanguageLabel": {
+      "message": "Llengua de correcció"
+   },
+   "ebx_proofingLanguageLimitText": {
+      "message": "Només podeu activar la correcció de fins a tres idiomes alhora."
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Seleccioneu una llengua de correcció"
+   },
+   "ebx_proofingLanguages": {
+      "message": "Llengües de correcció"
+   },
+   "ebx_proofingLanguagesDescription": {
+      "message": "Seleccioneu fins a tres idiomes. El vostre idioma preferit apareixerà el primer."
+   },
+   "ebx_proofingLanguagesLabel": {
+      "message": "Llengües de correcció"
+   },
+   "ebx_rateExtensionPrompt": {
+      "message": "Us sembla útil l'Editor?"
+   },
+   "ebx_rateExtensionPrompt2": {
+      "message": "Només us volem fer un parell de preguntes"
+   },
+   "ebx_rateExtensionPromptGiveFeedback": {
+      "message": "Envia comentaris"
+   },
+   "ebx_rateExtensionPromptNegative": {
+      "message": "Ens sap greu sentir això. Deixeu-nos saber com podem millorar l'Editor."
+   },
+   "ebx_rateExtensionPromptNo": {
+      "message": "No"
+   },
+   "ebx_rateExtensionPromptNoThanks": {
+      "message": "No, gràcies"
+   },
+   "ebx_rateExtensionPromptPositive": {
+      "message": "Fantàstic! Voleu valorar-lo?"
+   },
+   "ebx_rateExtensionPromptPositiveAlt": {
+      "message": "Si encara gaudiu d'utilitzar l'Editor, voleu valorar-lo?"
+   },
+   "ebx_rateExtensionPromptSure": {
+      "message": "D'acord"
+   },
+   "ebx_rateExtensionPromptYes": {
+      "message": "Sí"
+   },
+   "ebx_rateExtensionTitle": {
+      "message": "Comentaris sobre l'Editor de Microsoft"
+   },
+   "ebx_rateExtensionTitle2": {
+      "message": "Ens encantaria rebre els vostres comentaris"
+   },
+   "ebx_refinements": {
+      "message": "Millores"
+   },
+   "ebx_refinementsTooltip": {
+      "message": "Els refinaments són suggeriments d'escriptura avançada per ajudar a fer que la teva redacció sigui més clara, menys prolixa o més formal."
+   },
+   "ebx_repeatedWordsExplanationTitle": {
+      "message": "Paraula repetida"
+   },
+   "ebx_settings": {
+      "message": "Configuració"
+   },
+   "ebx_settingsButtonTooltip": {
+      "message": "Obre la configuració de l'Editor de Microsoft"
+   },
+   "ebx_settingsForProofingLanguages": {
+      "message": "Obriu la configuració de l'editor per seleccionar les llengües de correcció."
+   },
+   "ebx_settingsLabel": {
+      "message": "Configuració del compte"
+   },
+   "ebx_settingsPageAriaLabel": {
+      "message": "Configuració de l'Editor de Microsoft"
+   },
+   "ebx_settingsPerLanguage": {
+      "message": "Configuració per llengua"
+   },
+   "ebx_showBeta": {
+      "message": "Beta en $1"
+   },
+   "ebx_showSynonyms": {
+      "message": "Mostra els sinònims"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Mostra sinònims per als suggeriments ortogràfics"
+   },
+   "ebx_signInDescription": {
+      "message": "Per obtenir suggeriments de gramàtica i de refinament a la majoria de llocs web, així com un diccionari ortogràfic personalitzat, inicieu la sessió."
+   },
+   "ebx_signInHelpLabel": {
+      "message": "Et cal ajuda per iniciar la sessió?"
+   },
+   "ebx_signInLabel": {
+      "message": "Inicia la sessió o registra't"
+   },
+   "ebx_signInToAccess": {
+      "message": "Inicieu la sessió per accedir-hi"
+   },
+   "ebx_signIntoEditor": {
+      "message": "iniciar sessió a l'Editor"
+   },
+   "ebx_signIntoEditorBody": {
+      "message": "Per obtenir suggeriments de gramàtica i refinament a la majoria de llocs web, inicieu la sessió."
+   },
+   "ebx_signIntoEditorBodyForContextualCard": {
+      "message": "Per a l'ortografia personalitzada"
+   },
+   "ebx_signIntoEditorBodyForSpellingOnlyUsers": {
+      "message": "Per veure un diccionari ortogràfic personalitzat, inicieu la sessió."
+   },
+   "ebx_signIntoEditorBodyUnsignedInEditorEnabled": {
+      "message": "Per obtenir suggeriments de gramàtica i refinament a la majoria de llocs web, inicieu la sessió."
+   },
+   "ebx_signIntoEditorBodyWithUserDictionary": {
+      "message": "Per obtenir suggeriments de gramàtica i de refinament a la majoria de llocs web, així com un diccionari ortogràfic personalitzat, inicieu la sessió."
+   },
+   "ebx_signIntoEditorTile": {
+      "message": "Iniciar sessió a l'Editor"
+   },
+   "ebx_signOutLabel": {
+      "message": "Tanca la sessió"
+   },
+   "ebx_signOutTooltip": {
+      "message": "Si tanqueu la sessió, es restablirà tota la configuració per defecte i es perdrà la llista de llocs exclosos."
+   },
+   "ebx_spelling": {
+      "message": "Ortografia"
+   },
+   "ebx_spellingExplanationTitle": {
+      "message": "Comproveu si això és correcte"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Més accions"
+   },
+   "ebx_synonyms": {
+      "message": "Sinònims"
+   },
+   "ebx_synonymsNotAvailable": {
+      "message": "[Synonyms not available]"
+   },
+   "ebx_synonymsTooltip": {
+      "message": "Obtén sinònims quan escriguis: fes doble clic en una paraula o selecciona i prem (Alt+Fletxa avall)."
+   },
+   "ebx_synonymsTooltipMac": {
+      "message": "Obtén sinònims quan escriguis: fes doble clic en una paraula o selecciona i prem (⌃ + ⌥ + ↓)."
+   },
+   "ebx_toggleOff": {
+      "message": "Desactivat"
+   },
+   "ebx_toggleOn": {
+      "message": "Activat"
+   },
+   "ebx_tonalFreAcceptButton": {
+      "message": "Sí, si us plau"
+   },
+   "ebx_tonalFreDescription": {
+      "message": "Ara oferim suggeriments per ajudar-vos amb el to de la vostra escriptura. Voleu comprova-ho?"
+   },
+   "ebx_tonalFreDismissButtonAccessibilityLabel": {
+      "message": "Ignora"
+   },
+   "ebx_tonalFreIgnoreButton": {
+      "message": "Ara mateix no"
+   },
+   "ebx_tonalFreOpenEditorSettings": {
+      "message": "Feu canvis en la configuració de l'editor"
+   },
+   "ebx_tonalFreRejectButton": {
+      "message": "No mostris mai els suggeriments per al to"
+   },
+   "ebx_tonalFreRejectMessage": {
+      "message": "La detecció del to està desactivada."
+   },
+   "ebx_tonalFreTitle": {
+      "message": "Detecció del to"
+   },
+   "ebx_toneLabel": {
+      "message": "To"
+   },
+   "ebx_topicSuggestionExplanationTitle": {
+      "message": "Etiqueteu aquest tema per ajudar els altres usuaris a accedir a la descripció, les persones i els recursos que hi estan connectats."
+   },
+   "ebx_topicSuggestionLabel": {
+      "message": "Suggeriment del Viva Topics"
+   },
+   "ebx_tryEditorLabel": {
+      "message": "Proveu les idees d'escriptura avançada de l'Editor."
+   },
+   "ebx_tryPremiumPreviewLink": {
+      "message": "Prova-ho ara"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Desactiva l'Editor"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "L'Editor es connecta a un servei en línia de Microsoft que ofereix suggeriments d'ortografia, gramàtica i estil per a la vostra escriptura en la majoria de llocs web."
+   },
+   "ebx_turnOnEditor": {
+      "message": "Activa l'Editor"
+   },
+   "ebx_undoButtonAriaLabel": {
+      "message": "Desfer"
+   },
+   "ebx_undoButtonText": {
+      "message": "Desfer"
+   },
+   "ebx_undoCalloutAriaLabel": {
+      "message": "Opcions de correcció automàtica"
+   },
+   "ebx_userBlockedSites": {
+      "message": "Llocs bloquejats"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Adreça URL no vàlida. Proporcioneu l'adreça URL en el format següent: https://example.com"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "La URL \"{0}\" de la línia {1} no és vàlida."
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Heu desactivat l'editor als llocs indicats a sota. L'editor es pot desactivar automàticament en llocs addicionals amb contingut confidencial o velocitats de càrrega lenta."
+   },
+   "ebx_viewAccount": {
+      "message": "Visualitza el compte"
+   },
+   "editor": {
+      "message": "Editor"
+   },
+   "editorButtonText": {
+      "message": "Editor"
+   },
+   "emailWarningMessage": {
+      "message": "Per utilitzar el Copilot, aneu al final del correu electrònic."
+   },
+   "emptyStateMessage": {
+      "message": "Seleccioneu text per tornar-lo a escriure"
+   },
+   "errorLabel": {
+      "message": "Error"
+   },
+   "esdk_AddToDictionaryPopUpMessageLink": {
+      "message": "el vostre diccionari"
+   },
+   "esdk_CIQMenuToggleDescription": {
+      "message": "Enllaça amb el contingut escrivint el caràcter especial, la barra inclinada (/)."
+   },
+   "esdk_CIQMenuToggleLabel": {
+      "message": "S'està etiquetant el contingut"
+   },
+   "esdk_autocorrect": {
+      "message": "Corregeix automàticament"
+   },
+   "esdk_cancelButton": {
+      "message": "Cancel·la"
+   },
+   "esdk_cardAriaLabel": {
+      "message": "Configuració"
+   },
+   "esdk_categoryAriaLabelOff": {
+      "message": "{0}, canvia, Desactivada."
+   },
+   "esdk_categoryAriaLabelOn": {
+      "message": "{0}, canvia, Activada."
+   },
+   "esdk_categoryChevronAriaLabel": {
+      "message": "{0}. Toqueu la pestanya per sentir l'estat de la categoria"
+   },
+   "esdk_categoryChevronCollapsedAriaHint": {
+      "message": "Fletxa dreta per desplegar la categoria."
+   },
+   "esdk_categoryChevronDisabledAriaHint": {
+      "message": "La configuració detallada està inhabilitada."
+   },
+   "esdk_categoryChevronExpandedAriaHint": {
+      "message": "Fletxa dreta per accedir a la configuració detallada."
+   },
+   "esdk_categoryDisabledAriaLabel": {
+      "message": "S'ha inhabilitat {0}"
+   },
+   "esdk_categoryListAllOff": {
+      "message": "Tota la configuració detallada d'aquesta categoria ja no està seleccionada."
+   },
+   "esdk_categoryListAllOn": {
+      "message": "Tota la configuració detallada d'aquesta categoria ara està activada."
+   },
+   "esdk_categoryListAriaLabel": {
+      "message": "Configuració detallada de {0}"
+   },
+   "esdk_categoryToggleAriaHint": {
+      "message": "Espai o Retorn per commutar l'estat de la categoria."
+   },
+   "esdk_checkboxIntermediateCallout": {
+      "message": "L'Editor no marcarà aquest problema si no obriu la subfinestra Editor"
+   },
+   "esdk_closeButton": {
+      "message": "Tanca"
+   },
+   "esdk_copilotInsert": {
+      "message": "Insereix"
+   },
+   "esdk_copilotOnlySupportEnglish": {
+      "message": "Actualment, el Copilot només admet l'anglès"
+   },
+   "esdk_copilotRewrite": {
+      "message": "Reescriviu"
+   },
+   "esdk_copilotSectionHeader": {
+      "message": "Copilot"
+   },
+   "esdk_correctionsSectionHeader": {
+      "message": "Correccions"
+   },
+   "esdk_critiqueItemDropdownAriaHint": {
+      "message": "Fletxa esquerra per tornar a la configuració"
+   },
+   "esdk_critiqueItemWithDropdownAriaHint": {
+      "message": "Fletxa dreta per a la configuració detallada"
+   },
+   "esdk_disabledCritiqueItemCheckboxText": {
+      "message": "La categoria ha d'estar habilitada per canviar el valor de la casella de selecció"
+   },
+   "esdk_editorOptionsSubTitle": {
+      "message": "Canvieu com l'Editor corregeix i suggereix refinaments per al text d'aquesta aplicació"
+   },
+   "esdk_editorOptionsTitle": {
+      "message": "Configuració de l'Editor de Microsoft"
+   },
+   "esdk_enableSpellingForAutoCorrect": {
+      "message": "Activa l'ortografia per fer servir la correcció automàtica"
+   },
+   "esdk_enhancementsSectionHeader": {
+      "message": "Millores"
+   },
+   "esdk_failedToLoadSettingsError": {
+      "message": "No s'ha pogut carregar la configuració de l'editor de text"
+   },
+   "esdk_goPremiumButton": {
+      "message": "Canvia a prèmium"
+   },
+   "esdk_goPremiumCallout": {
+      "message": "Obteniu idees d'escriptura avançada i 1 TB d'emmagatzematge en canviar a prèmium."
+   },
+   "esdk_groupChevronAriaLabel": {
+      "message": "{0}. Premeu la pestanya per sentir l'estat"
+   },
+   "esdk_inlineEditingSectionHeader": {
+      "message": "Edició en línia"
+   },
+   "esdk_languageDropdownLabelProofing": {
+      "message": "Llengua de correcció"
+   },
+   "esdk_languageDropdownLabelSettings": {
+      "message": "Configuració de"
+   },
+   "esdk_linkSuggestionsDescription": {
+      "message": "L'Editor detecta quan el text fa referència a un fitxer o dades i ofereix la creació d'un enllaç."
+   },
+   "esdk_linkSuggestionsLabel": {
+      "message": "Suggeriments d'enllaços"
+   },
+   "esdk_okButton": {
+      "message": "D'acord"
+   },
+   "esdk_proofingPreferencesCollapse": {
+      "message": "Reduïu les preferències de correcció."
+   },
+   "esdk_proofingPreferencesDescription": {
+      "message": "Trieu què comprova l'Editor."
+   },
+   "esdk_proofingPreferencesDescriptionFluidView": {
+      "message": "Seleccioneu fins a tres idiomes. El vostre idioma preferit apareixerà el primer."
+   },
+   "esdk_proofingPreferencesEditLanguagesButton": {
+      "message": "Edita les llengües"
+   },
+   "esdk_proofingPreferencesExpand": {
+      "message": "Expandiu les preferències de correcció."
+   },
+   "esdk_proofingPreferencesLabel": {
+      "message": "Preferències de correcció"
+   },
+   "esdk_proofingPreferencesLabelFluidView": {
+      "message": "Configuració de la llengua de correcció"
+   },
+   "esdk_proofingPreferencesOpenSettingsButton": {
+      "message": "Configuració de la correcció"
+   },
+   "esdk_proofingSectionActionEditLanguagesButton": {
+      "message": "Edita les llengües"
+   },
+   "esdk_proofingSectionDescription": {
+      "message": "Seleccioneu fins a tres idiomes. El vostre idioma preferit apareixerà el primer."
+   },
+   "esdk_proofingSectionProofingSettingsButton": {
+      "message": "Configuració de la correcció"
+   },
+   "esdk_proofingSectionTitle": {
+      "message": "Configuració de la llengua de correcció"
+   },
+   "esdk_refinementsSectionHeader": {
+      "message": "Millores"
+   },
+   "esdk_resetToDefault": {
+      "message": "Reinicialitza-ho al valor per defecte"
+   },
+   "esdk_settingsDialogUpsellString": {
+      "message": "Proveu els suggeriments d'escriptura avançada de l'Editor."
+   },
+   "esdk_settingsDownloadDetailsLink": {
+      "message": "Descarregar els detalls"
+   },
+   "esdk_settingsDownloadDetailsLinkInfoText": {
+      "message": "No totes les llengües tenen el mateix Consell d'escriptura. Baixeu aquest document per visualitzar els detalls sobre la configuració de gramàtica i refinament disponible per a la llengua seleccionada."
+   },
+   "esdk_settingsLearnMoreLink": {
+      "message": "Més informació"
+   },
+   "esdk_settingsLearnMoreLinkInfoText": {
+      "message": "No totes les llengües tenen el mateix Consell d'escriptura. Seguiu aquest enllaç per obtenir més informació sobre la configuració de gramàtica i refinament disponible per a totes les llengües de l'editor."
+   },
+   "esdk_settingsLearnMoreLinkParagraph": {
+      "message": "No totes les llengües tenen els mateixos consells d'escriptura.{Learn more} sobre la configuració de gramàtica i refinament per a totes les llengües de l'Editor."
+   },
+   "esdk_spellingCrossLanguageCallout": {
+      "message": "Els canvis a les opcions d'ortografia s'apliquen a totes les llengües habilitades"
+   },
+   "esdk_synonyms": {
+      "message": "Sinònims (visualització prèvia)"
+   },
+   "esdk_textPredictionsDescription": {
+      "message": "L'Editor anticipa les paraules següents, així com fitxers o altres objectes, per inserir-los mentre escriviu."
+   },
+   "esdk_textPredictionsLabel": {
+      "message": "Prediccions de text"
+   },
+   "esdk_textPredictionsLabelToolBar": {
+      "message": "Per ajudar-vos a escriure més ràpid, l\\'Editor anticipa les vostres paraules següents i suggereix paraules o frases mentre escriviu."
+   },
+   "explanationFlyoutAccessibilityLabel": {
+      "message": "Suggeriment d'aprenentatge"
+   },
+   "explanationTableAccessibilityLabel": {
+      "message": "Exemples"
+   },
+   "explanationTableAfter": {
+      "message": "Considereu:"
+   },
+   "explanationTableBefore": {
+      "message": "En lloc de:"
+   },
+   "explanationTableSeparator": {
+      "message": "o"
+   },
+   "facebookInputPlaceholder": {
+      "message": "Escriu una publicació sobre el meu viatge per visitar la torre Eiffel"
+   },
+   "facebookOrLinkedInWarningMessagePost": {
+      "message": "Per utilitzar el Copilot, vés al final de la publicació."
+   },
+   "footerFRE_nextPageTooltip": {
+      "message": "Pàgina següent"
+   },
+   "footerFRE_paginationTipsText": {
+      "message": "CONSELLS $1/$2"
+   },
+   "footerFRE_previousPageTooltip": {
+      "message": "Pàgina anterior"
+   },
+   "generalErrorMessage": {
+      "message": "L’Editor de Microsoft ha tingut un problema i no pot generar el contingut."
+   },
+   "generateButtonLabel": {
+      "message": "Genera"
+   },
+   "giveFeedbackButtonText": {
+      "message": "Envia comentaris"
+   },
+   "gmailInputPlaceholder": {
+      "message": "Escriviu un correu electrònic de sol·licitud de reunió"
+   },
+   "inputName": {
+      "message": "Descriviu què voleu que escrigui l'Editor..."
+   },
+   "inputPlaceholder": {
+      "message": "Descriviu què voleu escriure"
+   },
+   "languageErrorMessage": {
+      "message": "Les reescriptura encara no estan disponibles per a la llengua que heu seleccionat."
+   },
+   "limitErrorMessage": {
+      "message": "Per reescriure-la, seleccioneu menys de 100 paraules."
+   },
+   "linkedinInputPlaceholder": {
+      "message": "Suggeriments de creació de contingut"
+   },
+   "loadingLabel": {
+      "message": "Un moment, s'està cuinant alguna cosa per a vós..."
+   },
+   "loadingText": {
+      "message": "S'està carregant: "
+   },
+   "modalDescribeBy": {
+      "message": "Genera altres maneres d'escriure el text seleccionat"
+   },
+   "moreButtonLabel": {
+      "message": "Més opcions"
+   },
+   "moreButtonText": {
+      "message": "Més"
+   },
+   "moreOptionsLabel": {
+      "message": "Més opcions"
+   },
+   "multilingualFRE_DescriptionButtonLink": {
+      "message": "afegeix un altre idioma de correcció ortogràfica"
+   },
+   "multilingualFRE_DescriptionButtonLinkAriaLabel": {
+      "message": "Afegeix un idioma de correcció ortogràfica."
+   },
+   "multilingualFRE_DescriptionText": {
+      "message": "Per obtenir suggeriments d'escriptura rellevants,"
+   },
+   "multilingualFRE_HeadingText": {
+      "message": "Addició d’un altre idioma a l'Editor"
+   },
+   "nextSuggestion": {
+      "message": "Suggeriment següent"
+   },
+   "nudgeTextForEmails": {
+      "message": "Escriviu $1 per cercar correus electrònics"
+   },
+   "nudgeTextForFile": {
+      "message": "Escriviu $1 per cercar fitxers i més coses"
+   },
+   "nudgeTextForMeetings": {
+      "message": "Escriviu $1 per cercar reunions"
+   },
+   "nudgeTextForPeople": {
+      "message": "Escriviu $1 per cercar persones"
+   },
+   "prevSuggestion": {
+      "message": "Suggeriment anterior"
+   },
+   "preview": {
+      "message": "VERSIÓ PRELIMINAR"
+   },
+   "previewText": {
+      "message": "VERSIÓ PRELIMINAR"
+   },
+   "promptSuggestButtonDescription": {
+      "message": "Premeu CONTROL + ALT + I per utilitzar aquesta característica quan estigueu en una línia nova."
+   },
+   "promptSuggestButtonText": {
+      "message": "Continua escrivint"
+   },
+   "promptSuggestShortcut": {
+      "message": "Alt+Fletxa dreta"
+   },
+   "readAloudOriginalSentenceAccessibilityLabel": {
+      "message": "Llegeix en veu alta la frase original"
+   },
+   "regenerateLabel": {
+      "message": "Torna a generar"
+   },
+   "replaceLabel": {
+      "message": "Substitueix"
+   },
+   "reportGeneratedContentButtonText": {
+      "message": "Informa sobre el contingut generat"
+   },
+   "reportOutput": {
+      "message": "Sortida de l'informe"
+   },
+   "responsibleAiDisclaimer": {
+      "message": "El contingut que genera l'IA i pot contenir imprecisions o material confidencial. Assegureu-vos de verificar la informació."
+   },
+   "retry": {
+      "message": "Torna-ho a provar"
+   },
+   "rewriteBrand": {
+      "message": "Reescriu"
+   },
+   "rewriteWithCopilot": {
+      "message": "Reescriu"
+   },
+   "sbx_signInDescription": {
+      "message": "Per obtenir suggeriments de gramàtica i de refinament a la majoria de llocs web, així com un diccionari ortogràfic personalitzat, inicieu la sessió."
+   },
+   "shareFeedback": {
+      "message": "Comparteix els comentaris"
+   },
+   "showHeaderMessage": {
+      "message": "Aquí teniu altres maneres d'escriure-ho"
+   },
+   "submitButtonTooltip": {
+      "message": "Genera (Retorn)"
+   },
+   "substackWarningMessage": {
+      "message": "Per utilitzar el Copilot, aneu al final del paràgraf."
+   },
+   "suggestionCountSeparator": {
+      "message": "de"
+   },
+   "suggestionHint": {
+      "message": "Premeu Retorn per acceptar"
+   },
+   "tryAgainButtonLabel": {
+      "message": "Torna-ho a provar"
+   },
+   "tryAgainButtonTooltip": {
+      "message": "Torna a generar"
+   },
+   "twitterInputPlaceholder": {
+      "message": "Escriu un tuit motivacional"
+   },
+   "twitterWarningMessagePost": {
+      "message": "Per utilitzar el Copilot, aneu al final del tuit."
+   }
+}
